@@ -1,0 +1,146 @@
+{
+	"banner_image": {
+		"share": "Share",
+		"copy_link": "Copy Link",
+		"play": "PLAY"
+	},
+	"top_info": {
+		"three_dots": {
+			"burn_nft": "Burn NFT",
+			"transfer_nft": "Transfer NFT",
+			"offer_nft": "Offer via NFT",
+			"see_token_series": "See Token Series",
+			"report_card": "Report Card"
+		},
+		"sale_type": {
+			"on_auction": "On Auction",
+			"start_from": "Start From",
+			"on_sale": "On Sale"
+		},
+		"bidding_price_type": {
+			"high_bid": "Highest Bid",
+			"start_bid": "Starting Bid"
+		},
+		"bidding_list": {
+			"auction_ends_in_token": "Auction end in {{days}} days, {{hours}} {{mins}} {{secs}}s",
+			"auction_ends_in_token_series": "Some of edition is being auctioned",
+			"summary_bid": "Summary bid",
+			"since": "since start",
+			"place_recent_bid": "Place recent bid ",
+			"bid": "Bid",
+			"start_bid": "Start a bid",
+			"place_bid": "place a bid",
+			"no_bid": "No bidder at the moment"
+		},
+		"offer_list": {
+			"active_offering": "Active Offering",
+			"regular": "Regular",
+			"trade_with_card": "Trade with card",
+			"active_offers": "active offer",
+			"no_offer": "No offer at the moment",
+			"highest_offer": "Highest Offer",
+			"offer_higher": "Offer Higher",
+			"lowest_offer": "Lowest Offer",
+			"all_offers": "All active offers",
+			"send_offer": "send offer",
+			"accept": "Accept",
+			"delete": "Delete",
+			"no_trade": "No trade at the moment",
+			"highest": "Highest",
+			"volume": "Volume",
+			"by": "by",
+			"lowest": "Lowest"
+		},
+		"mint_nft": "Mint NFT",
+		"creator": "Creator",
+		"verified_creator": "Verified creator",
+		"collection": "Collection",
+		"top_collection": "Top Collection",
+		"make_own_offer": "Make your own offer"
+	},
+	"dashed_info": {
+		"own_by": "Own by",
+		"owners": "Owner",
+		"nft_edition_copies": "NFT Edition / Copies",
+		"tooltip_nft_edition_copies": "The number of copies of this card",
+		"rarity_score": "Rarity Score",
+		"rank": "Rank",
+		"rarity_score_rank": "Rank / Rarity Score",
+		"creator_royalty": "Creator Royalty",
+		"tootlip_creator_royalty": "Percentage from each sale allocated to support creators."
+	},
+	"other_card": {
+		"same_collection": "Same Collection",
+		"see_collection": "See Collection",
+		"other_creator": "Other from creator",
+		"creators_profile": "Creator's profile"
+	},
+	"attributes": {
+		"attributes": "Attributes",
+		"rarity_score": "Rarity Score",
+		"rank": "Rank",
+		"rank_rarity_score": "Rank {{rank}}, Rarity Score {{rarityScore}}",
+		"no_attributes": "No Attributes",
+		"rarity": "Rarity"
+	},
+	"owners": {
+		"sort_by": "Sort by",
+		"sort_lowest_price": "Lowest Price",
+		"sort_highest_price": "Highest Price",
+		"sort_lowest_edition": "Lowest Edition",
+		"sort_highest_edition": "Highest Edition",
+		"sort_az": "Username A-Z",
+		"sort_za": "Username Z-A",
+		"owners": "Owner",
+		"no_owners": "No owners, become the first one",
+		"on_auction": "On Auction",
+		"on_sale": "On Sale",
+		"staked": "Staked",
+		"not_for_sale": "Not for sale",
+		"update": "Update",
+		"buy": "Buy"
+	},
+	"histories": {
+		"history": "Histories",
+		"no_history": "No History at the moment",
+		"put_on_auction": "put on auction for",
+		"add_bid_for": "add bid for",
+		"cancel_bid_from_auction": "cancel bid from auction",
+		"put_on_sale": "put on sale for",
+		"added_offer_nft_trade": "added offer NFT trade",
+		"deleted_offer_nft_trade": "deleted offer NFT trade",
+		"accept_nft_trade": "accepted NFT trade",
+		"remove_from_sale": "remove from sale",
+		"staked_to": "staked to",
+		"bought_from": "bought from",
+		"for": "for",
+		"minted": "minted",
+		"minted_by": "Minted by",
+		"burned": "burned",
+		"accept_offer": "accepted offer from",
+		"with_auction_for": "with auction for",
+		"transferred_to": "transferred to",
+		"series_created_by": "Series created by",
+		"creator_put_series_not_sale": "Creator put the series to not for sale",
+		"creator_put_series_sale_for": "Creator put the series on sale for",
+		"creator_put_series_nonmintable": "Creator put the series to non-mintable",
+		"creator_decrease_series": "Creator decrease the series copies to",
+		"add_offer_for": "added offer for",
+		"removed_for": "removed offer"
+	},
+	"description": {
+		"description": "Description",
+		"no_description": "No Description"
+	},
+	"token_info": {
+		"token_info": "Token Info",
+		"smart_contract": "Samrt Contract",
+		"image_link": "Image Link",
+		"locked_fee": "Locked Fee",
+		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee."
+	},
+	"publications": {
+		"publications": "Publications",
+		"no_publication": "No Publication at the moment"
+	}
+}

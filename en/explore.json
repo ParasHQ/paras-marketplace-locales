@@ -1,0 +1,17 @@
+{
+	"fresh_on_market": "Fresh on Market",
+	"search": "Search: '{{query}}'",
+	"explore_top_collections": "Top Collections",
+	"explore_featured_collections": "Featured Collections",
+	"explore_cards": "Explore Cards",
+	"explore_collections": "Explore Collections",
+	"explore_profiles": "Explore Profiles",
+	"explore_publication": "Explore Publication",
+	"last_week": "Last 7 days",
+	"tab": {
+		"collections": "Collections",
+		"cards": "Cards",
+		"publications": "Publications",
+		"profiles": "Profiles"
+	}
+}

@@ -3,11 +3,11 @@
 This repository contains the locales for the [Paras Marketplace](https://new.paras.id).
 
 Currently the following languages are supported:
-1. English (default locales)
+- English (default locales)
 
 
 
 Some of the locales that are being worked on are:
-1. Indonesia
+- Indonesia
 
 Contributors for new languages are welcome. Please refer to English as your reference since its the most updated one

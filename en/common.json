@@ -1,0 +1,346 @@
+{
+	"navigation": {
+		"explore": "Explore",
+		"explore_modal": {
+			"top_collection": "Top Collections",
+			"featured_collection": "Featured Collections",
+			"fresh_on_market": "Fresh on Market",
+			"fresh_on_market_modal": {
+				"collections": "Collections",
+				"cards": "Cards",
+				"publication": "Publications"
+			},
+			"live_auction": "Live Auction"
+		},
+		"activity": "Activity",
+		"token": "Token",
+		"loyalty": "Loyalty",
+		"dyor": "DYOR",
+		"search_placeholder": "Search collection, NFTs and more..."
+	},
+	"menu": {
+		"language": "Language",
+		"product": "Product",
+		"product_list": {
+			"explore": "Explore",
+			"explore_modal": {
+				"top_collection": "Top Collections",
+				"featured": "Featured Collections",
+				"fresh_on_market": "Fresh on Market",
+				"live_auction": "Live Auction"
+			},
+			"activity": "Activity",
+			"token": "Token",
+			"loyalty": "Loyalty",
+			"dyor": "DYOR",
+			"staking": "Staking"
+		},
+		"community": "Community",
+		"commounity_list": {
+			"partnership": "Partnership",
+			"contribute": "Contribute",
+			"guide": "Guide",
+			"feature_request": "Feature Request",
+			"ask_on_discort": "Ask on Discord",
+			"tia": "Paras on TiA",
+			"listing": "Apply for Listing"
+		},
+		"about": "About",
+		"about_list": {
+			"vision_team": "Vision & Team",
+			"careers": "Careers",
+			"whitepaper": "Whitepaper",
+			"license": "License",
+			"stats": "Stats",
+			"privacy": "Privacy Policy",
+			"terms": "Terms of Service"
+		},
+		"developers": "Developers",
+		"developers_list": {
+			"gitbook": "Gitbook",
+			"github": "Github",
+			"documentation": "Documentation"
+		}
+	},
+	"profile_modal": {
+		"open": "Open Profile",
+		"paras_citizen": "Paras Citizen",
+		"near_balance": "Near Balance",
+		"paras_balance": "Paras Balance",
+		"create_collection": "Create Collection",
+		"create_publication": "Create Publication",
+		"apply_launchpad": "Apply Launchpad",
+		"my_offer": "My Offer",
+		"setting": "Setting",
+		"my_ramper_wallet": "My Ramper Wallet",
+		"switch_wallet": "Switch Wallet",
+		"logout": "Logout",
+		"top_up_near": "+ Top up Near with Fiat",
+		"get_verified": "Get Verified"
+	},
+	"notification": {
+		"title-popup": "Notifications",
+		"title-page": "All Notification",
+		"show_all": "Show all",
+		"see_more": "see more",
+		"action": "Action",
+		"link": "Link",
+		"notification_level_up": "<semibold>Congratulations,</semibold> You're now a {{currLevel}} Member!",
+		"notification_raffle_program_launch": "<semibold>Join Paras Loyalty Now!</semibold> <xs>Get into our exclusive raffle & grab the rewards! More details here 👉</xs> <Link>loyalty</Link>",
+		"notification_raffle_new_cycle": "<semibold>Exclusive Rewards Are Waiting For You!</semibold> <xs>Find out this month's Paras Loyalty rewards <Link>here</Link>.</xs>",
+		"notification_level_down": "<semibold>Sorry, your member has dropped to {{currLevel}}.</semibold> Start <Link>lock staking</Link> again to keep them at {{prevLevel}}",
+		"notification_level_going_expire": "<semibold>Your membership is about to expire!</semibold> Start <Link>lock staking</Link> again to keep them at {{currLevel}}",
+		"notification_raffle_type_drop_bronze_and_active": "<semibold>Your level has dropped to Bronze!</semibold> Start <Link>lock staking</Link> again to stay enrolled in raffle!",
+		"notification_raffle_type_drop_not_bronze_and_active": "<semibold>Your Membership Level Has Dropped!</semibold> You will be automatically signed up for {{currRaffleType}} raffle",
+		"notification_raffle_type_drop_bronze_and_deactive": "<semibold>Your level has dropped to Bronze!</semibold> You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
+		"notification_raffle_type_drop_not_bronze_and_deactive": "<semibold>Your level has dropped to Bronze!</semibold> You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
+		"notification_raffle_registered": "<semibold>Confirmation of Raffle Entry</semibold> <xs>You’ve been registered for the raffle. Thank you & good luck! ✨</xs>",
+		"notification_content": "{{content}}",
+		"notification_raffle_over": "<semibold>Paras Loyalty Raffle Winner List</semibold> The raffle is over! Check the {{raffleTitle}}'s winners <Link>here</Link> 🏆",
+		"notification_raffle_won_wl_spot": "<semibold>Congratulations <linkTo>{{to}}</linkTo>,</semibold> You have won 1 {{collName}} WL Spot from Paras Loyalty! Read more about the rewards <Link>here</Link>",
+		"notification_raffle_won_nft": "<semibold>Congratulations <linkTo>{{to}}</linkTo>,</semibold> You have won a {{cardName}} from Paras Loyalty! We will send it to your account in 1x24 hours. Read more about the rewards <Link>here</Link>",
+		"nft_transfer_from": "Creator minted <semibold><linkToken>{{title}}</linkToken></semibold> to <semibold><linkTo>{{to}}</linkTo></semibold>",
+		"nft_transfer_to_null": "burned <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"nft_transfer_price_from": "sold <semibold><linkToken>{{title}}</linkToken></semibold> to <semibold><linkTo>{{to}}</linkTo></semibold> for {{price}} Ⓝ",
+		"nft_transfer_price": "bought <semibold><linkToken>{{title}}</linkToken></semibold> from <semibold><linkFrom>{{from}}</linkFrom></semibold> for {{price}} Ⓝ",
+		"nft_transfer_to": "received <semibold><linkToken>{{title}}</linkToken></semibold> from <semibold><linkFrom>{{from}}</linkFrom></semibold>",
+		"resolve_purchase_to": "bought <semibold><linkToken>{{title}}</linkToken></semibold> from <semibold><linkFrom>{{from}}</linkFrom></semibold> for {{price}} Ⓝ",
+		"resolve_purchase": "sold <semibold><linkToken>{{title}}</linkToken></semibold> to <semibold><linkTo>{{to}}</linkTo></semibold> for {{price}} Ⓝ",
+		"notification_royalty": "received {{royalty}} Ⓝ royalty from <semibold><linkToken>{{title}}</linkToken></semibold> secondary sale",
+		"notification_add_offer": "<semibold><linkFrom>{{from}}</linkFrom></semibold> offer <semibold><linkToken>{{title}}</linkToken></semibold> for {{price}} Ⓝ",
+		"notification_add_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> bid <semibold><linkToken>{{title}}</linkToken></semibold> for {{amount}} Ⓝ",
+		"cancel_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> bid <semibold><linkToken>{{title}}</linkToken></semibold> for {{amount}} Ⓝ",
+		"notification_category_accepted": "Token <semibold><linkToken>{{title}}</linkToken></semibold> submission has been accepted to <semibold><linkCategory>{{categoryName}}</linkCategory></semibold> category",
+		"notification_category_rejected": "Token <semibold><linkToken>{{title}}</linkToken></semibold> submission has been rejected from <semibold><linkCategory>{{categoryName}}</linkCategory></semibold> category.",
+		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> offered trade <semibold>{{tradeTitle}}</semibold> with your <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> accepted trade <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> outbid <semibold><linkToken>{{title}}</linkToken></semibold> for {{_amount}} Ⓝ",
+		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> that you offered was sold to <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
+		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> has been delisted"
+	},
+	"footer": {
+		"tagline": "Create, Trade, and Collect Digital Collectibles. All-in-one \n social NFT marketplace for creators and collectors.",
+		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
+	},
+	"error": {
+		"400": "Bad Request",
+		"404": "Page not found",
+		"405": "Method Not Allowed",
+		"500": "Internal Server Error",
+		"404_button": "Back to Explore",
+		"button": "Go back"
+	},
+	"share": {
+		"share_text": "Share",
+		"facebook": "Facebook",
+		"twitter": "Twitter",
+		"telegram": "Telegram",
+		"copy_link": "Copy Link",
+		"share_nft_text": "Checkout {{title}} from collection {{collection}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Checkout {{collection}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Checkout {{publication}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
+	},
+	"collection": {
+		"total_number_nft": "{{total}} NFTs",
+		"total_volume": "Total Volume",
+		"last_week_volume": "Last Week Volume",
+		"floor": "Floor",
+		"owners": "Owners",
+		"collection": "Collection",
+		"listed_collection": "Listed Collection",
+		"creator": "Creator",
+		"verified_creator": "Verified Creator",
+		"collection_volume_change": "Total volume of collection <change>{{change}}</change> from <Volume>{{volume}}</Volume> <NearIcon></NearIcon> in last 7 days.",
+		"button_share": "Share",
+		"button_report": "Report",
+		"button_add_card": "Add Card",
+		"button_edit_collection": "Edit Collection"
+	},
+	"card": {
+		"open_offer": "Open Offer",
+		"open_edition": "Open Edition",
+		"collection_volume_change": "Total volume of collection <change>{{change}}</change> from <Volume>{{volume}}</Volume> <NearIcon></NearIcon> in last 7 days.",
+		"creator": "Creator",
+		"collection": "Collection",
+		"verified_creator": "Verified Creator",
+		"listed_collection": "Listed Collection",
+		"card_text": {
+			"price": "Price",
+			"place_an_offer": "Place an Offer",
+			"edit_listing": "Edit Listing",
+			"lowest_price": "Lowest Price",
+			"min_bid": "Min Bid",
+			"start_from": "Start From"
+		},
+		"rarity": " Rarity {{rarity}}",
+		"floor": "Floor {{floor}} ",
+		"time_left_auction": "This card is for auction that end in {{days}} days {{hours}}:{{mins}}:{{secs}}",
+		"time_left_auction_short": "Auction end in \n{{days}}D {{hours}}:{{mins}}:{{secs}}",
+		"some_card_auction": "Some of edition is being auctioned",
+		"staked_by_owner": "This NFT is currently staked by {{owner}}",
+		"staked_by_owner_short": "Staked by \n {{owner}}",
+		"button_share": "Share",
+		"button_report": "Report",
+		"button_buy": "Buy Now",
+		"button_place_an_offer": "Place an Offer",
+		"button_edit_listing": "Edit Listing",
+		"button_bid": "Place a Bid",
+		"button_mint": "Mint",
+		"button_buy_short": "Buy",
+		"button_place_an_offer_short": "Offer",
+		"button_bid_short": "Bid",
+		"button_see_owners": "See Owners"
+	},
+	"profile": {
+		"total_purchase": "Total Purchase",
+		"card_bought": "Cards Bought",
+		"edit_profile": "Edit Profile",
+		"follow_activity": "Follow Activity"
+	},
+	"activity": {
+		"last_7_days": "Last 7 days",
+		"rarity": "Rarity {{rarity}}",
+		"rank": "Rank {{rank}}",
+		"transaction-type": {
+			"accept": "Accept",
+			"minted": "Minted",
+			"burned": "Burned",
+			"transfer": "Transfer",
+			"set_price": "Set Price",
+			"offer": "Offer",
+			"delete_offer": "Delete Offer",
+			"submission": "Submission",
+			"creation": "Creation",
+			"listing": "Listing",
+			"remove_sale": "Remove Sale",
+			"add_trade": "Add Trade",
+			"delete_trade": "Delete Trade",
+			"accept_trade": "Accept Trade",
+			"decrease_copy": "decrease Copy",
+			"auction": "Auction",
+			"bid": "Bid",
+			"cancel_bid": "Cancel Bid"
+		},
+		"floor": "Floor {{floor}} "
+	},
+	"apex_collector": {
+		"title": "Apex Collectors"
+	},
+	"top_seller": {
+		"title": "Top Sellers",
+		"total_sales": "Total Sales",
+		"card_sold": "Card Sold"
+	},
+	"cropper": {
+		"title": "Crop Image",
+		"button_save": "Save",
+		"button_cancel": "Cancel"
+	},
+	"setting": {
+		"title": "Settings",
+		"cancel": "Cancel",
+		"email_notification": "Email Notification",
+		"email_notification_option": {
+			"newsletter": "Paras Newsletter",
+			"drops": "New NFT Drops",
+			"activity": "Transaction Activity"
+		},
+		"input_email_label": "Email Address",
+		"input_email_placeholder": "Enter your email address",
+		"input_email_error": "Please enter valid email",
+		"minimum_offer_price_label": "Minimum Offer Price",
+		"minimum_offer_price_description": "Set the minimum offer you want for your collectibles",
+		"rpc_label": "RPC Url",
+		"rpc_option": {
+			"official": "official rpc",
+			"blockpi": "blockpi rpc"
+		},
+		"button_update": "Update",
+		"email_verification": {
+			"success": "Your Email is verified",
+			"error": "Error",
+			"button": "Back to Explore"
+		},
+		"toast_success_general": "Update setting success",
+		"toast_success_email": "Add email success, please check your email address to verify"
+	},
+	"report": {
+		"report_category_label": "Why do you want to report this item?",
+		"report_category_placeholder": "Choose your reason",
+		"report_category_option": {
+			"art_theft": "Art theft",
+			"double_minting": "Double minting",
+			"inappropriate_content": "Inappropriate content",
+			"harmful_content": "Harmful content",
+			"rights_violation": "Rights violation",
+			"others": "Others"
+		},
+		"report_description_label": "Additional details",
+		"report_description_placeholder": "Please provide more details",
+		"report_button_submit": "Report",
+		"report_button_cancel": "Cancel",
+		"report_toast_success": "This item has been reported.",
+		"report_toast_error": "Something went wrong"
+	},
+	"tooltip": {
+		"verified": "This artist has been verified.",
+		"one_of_one": "One of one card.",
+		"top_collection": "This artist has their collection reach the Top Collections.",
+		"top_30": "Top 30 collectors over the last 7 days."
+	},
+	"cart": {
+		"cart": "Cart ({{total}})",
+		"delete_all": "Delete All",
+		"delete": "Delete",
+		"subtotal": "Subtotal ({{total}} items)",
+		"fee": "Storage Fee",
+		"total_purchase": "Total Purchase",
+		"your_balance": "Your Balance",
+		"not_enough_balance": "Not enough balance",
+		"top_up_balance": "Top Up Balance",
+		"top_up": "Top Up",
+		"you_will_redirect": "You will be redirected to your wallet to confirm your transaction.",
+		"your_card_empty": "Your cart is empty",
+		"buy_faster_by_adding": "Buy faster by adding up to 10 items to your cart.",
+		"go_to_market": "Go to market",
+		"tooltip_you_can_add": "You cannot add more than 10 items to your cart due to gas fee limitations.",
+		"want_to_delete": "Want to delete {{total}} items?",
+		"want_to_delete_non_eligible": "Want to delete items that can’t be purchased?",
+		"all_item_cart_deleted": "All items in the cart will be deleted.",
+		"all_item_collection_deleted": "All items in this collection will be deleted.",
+		"all_item_section_deleted": "All items in this section will be deleted.",
+		"cannot_be_processed": "Cannot be processed ({{total}})",
+		"tooltip_you_cannot_add": "You can't buy card from below card",
+		"item_changed": "Item status changed.",
+		"refresh": "Refresh",
+		"price_changes": "Price changes",
+		"unavailabe": "Unavailable",
+		"item_removed": "{{total}} item removed",
+		"success_add": "1 item was successfully added to cart.",
+		"success_delete": "{{total}} item was successfully deleted.",
+		"error_add_more_10": "Cannot add to cart more than 10 items.",
+		"you_need_login": "You need to login",
+		"you_only_add_10": "Cannot add to cart more than 10 items.",
+		"connect_to_wallet": "Connect your wallet to add items to your cart.",
+		"connect_wallet": "Connect Wallet",
+		"cancel": "Cancel",
+		"yes": "Yes",
+		"confirm_buy": "Confirm Buy"
+	},
+	"edition_text_internal_token": "NFT | {{edition}} of {{copies}}",
+	"edition_text_external_token": "NFT | {{edition}}",
+	"edition_text_multiple_token_series": "SERIES | Edition of {{edition}}",
+	"edition_text_1of1_token_series": "Open Edition",
+	"likes": {
+		"success_like": "Like card {{title}} was successfully",
+		"success_unlike": "Unlike card {{title}} was successfully"
+	},
+	"badge_profile": {
+		"star_creator": "One of this artist's collections has made it to the Top Collections.",
+		"apex_collector": "Top 30 collectors over the last 7 days.",
+		"verified": "This artist has been verified."
+	},
+	"badge_collection": {
+		"top_collection": "Top 30 collections over the last 7 days."
+	}
+}

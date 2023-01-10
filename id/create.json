@@ -1,0 +1,112 @@
+{
+	"create_collection": "Buat Koleksi",
+	"create_cards": "Buat Kartu",
+	"back": "Kembali",
+	"cancel": "Membatalkan",
+	"form_collection": {
+		"upload_logo": "Unggah Logo",
+		"upload_logo_info": "150px x 150px\n File yang didukung: PNG, GIF, JPG, JPEG",
+		"upload_logo_error": "Logo diperlukan",
+		"name": "Nama Koleksi",
+		"name_placeholder": "Buatlah singkat dan menarik...",
+		"name_error": "Nama koleksi wajib diisi",
+		"description": "Keterangan",
+		"description_placeholder": "Buatlah singkat tapi cukup untuk menutupi cerita",
+		"description_error": "Deskripsi koleksi wajib diisi",
+		"twitter": "Akun Twitter",
+		"twitter_placeholder": "https://twitter.com/username",
+		"discord": "Saluran Perselisihan",
+		"discord_placeholder": "https://discord.gg/invite",
+		"website": "Situs web",
+		"website_placeholder": "Alamat URL...",
+		"button": "Melanjutkan",
+		"link_error": "Harap masukkan tautan yang valid"
+	},
+	"guide": {
+		"1": {
+			"title": "Pilih nama terbaik, itu permanen",
+			"description": "Nama koleksi bersifat permanen setelah diterbitkan. Anda juga tidak dapat menghapus koleksi. Tetapi Anda masih dapat mengedit informasi lainnya. <DescLink>Panduan artis</DescLink>"
+		},
+		"2": {
+			"title": "Atur file Anda dengan benar",
+			"description": "Kami menetapkan nama Anda sebagai judul default. Anda masih dapat mengeditnya sebelum dipublikasikan. Setelah itu, judul dan file kartu menjadi permanen."
+		},
+		"3": {
+			"title": "Siapkan atribut yang ditugaskan",
+			"description": "Atribut adalah karakteristik yang dimiliki kartu. Ini akan dihitung untuk menghasilkan skor kelangkaan dan peringkat. Atribut akan permanen ke kartu."
+		},
+		"4": {
+			"title": "Berhati-hatilah dengan detail kartu Anda",
+			"description": "Setelah kartu Anda terdaftar 'untuk dijual', orang dapat langsung membeli dan memilikinya. Jadi pastikan dengan detail kartu Anda sebelum Anda mempublikasikannya"
+		}
+	},
+	"set_cover": "Setel Penutup",
+	"add_card": "Tambahkan Kartu ({{total}})",
+	"form_attribute": {
+		"attributes": "Atribut",
+		"close": "Menutup",
+		"new_attribute": "Atribut Baru",
+		"edit": "Sunting",
+		"button_save": "Menyimpan",
+		"button_value": "Nilai",
+		"value": "Nilai",
+		"value_placeholder": "Nilai baru...",
+		"value_error": "Nilai Dibutuhkan",
+		"label": "Label",
+		"label_placeholder": "mis: Warna Latar Belakang",
+		"label_error": "Label diperlukan",
+		"informative_create_attribute": "Atribut yang Anda simpan akan tersedia untuk digunakan pada kartu berikutnya dalam koleksi yang sama. Atribut yang ditetapkan tidak dapat diedit atau dihapus setelah kartu diterbitkan"
+	},
+	"form_card_details": {
+		"card_details": "Detail kartu",
+		"cancel": "Membatalkan",
+		"title": "Judul",
+		"title_placeholder": "Judul kartu",
+		"royalty": "Royalti",
+		"royalty_add_account": "Menambahkan akun",
+		"royalty_account_label": "ID Akun di NEAR",
+		"royalty_account_placeholder": "ID Akun",
+		"royalty_amount_label": "Jumlah royalti",
+		"royalty_amount_placeholder": "10% 20% 30$",
+		"royalty_total": "Jumlah: {{total}}%",
+		"listed": "Terdaftar",
+		"price": "Harga",
+		"price_placeholder": "10",
+		"price_dollar": "Sama dengan ${{harga}}",
+		"copies": "Jumlah salinan",
+		"put_on_market": "Pasang di Marketplace?",
+		"put_on_market_option": {
+			"no": "Tidak",
+			"for_sale": "Dijual"
+		},
+		"attributes": "Tetapkan Atribut",
+		"new_attribute": "Atribut Baru",
+		"attributes_unset": "Tidak disetel",
+		"description": "Keterangan",
+		"description_placeholder": "Tetap pendek dan menarik tapi cukup panjang untuk menutupi cerita...",
+		"button": "Simpan Detail",
+		"error_accountid_not_found": "ID akun tidak ada",
+		"error_max_royalty": "Total royalti tidak boleh lebih dari 90%"
+	},
+	"form_thumbnail": {
+		"title": "Gambar mini untuk membuat kartu",
+		"description": "Anda harus mengunggah gambar mini untuk kartu NFT Anda jika kartu Anda memiliki jenis jenis: Audio, Model 3D, atau Iframe yang Dapat Diputar",
+		"thumbnail": "Gambar kecil untuk kartu:",
+		"button_submit": "Kirim",
+		"button_cancel": "Membatalkan"
+	},
+	"fill": "Mengisi",
+	"edit": "Sunting",
+	"sale": "Dijual {{harga}}",
+	"not_filled": "Detail perlu diisi",
+	"attributes_count": "Atribut ({{count}})",
+	"upload_cover": "Unggah Sampul",
+	"upload_cover_info": "Ukuran 1152px × 288px.\n File yang didukung: PNG, JPG. Ukuran file maks: 30mb",
+	"upload_cards": "Unggah Kartu",
+	"upload_cards_info": "File yang didukung: PNG, JPG, GIF, MPX, MP4, GLB.\n Maks. 10 file per upload, masing-masing 30mb.",
+	"need_bulk_upload": "Perlu unggahan massal?",
+	"publish": "Menerbitkan",
+	"informative_create_card": "Untuk menghemat waktu Anda, kami menggunakan nama file Anda sebagai judul default. Anda masih dapat mengedit judul nanti.",
+	"got_it": "Mengerti!",
+	"see_detail": "Lihat detail"
+}

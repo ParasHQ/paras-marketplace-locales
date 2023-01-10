@@ -1,0 +1,101 @@
+{
+	"navigation": {
+		"explore": "Penelusuran",
+		"explore_modal": {
+			"top_collection": "Koleksi Teratas",
+			"featured_collection": "Koleksi Unggulan",
+			"fresh_on_market": "Segar di Pasar",
+			"fresh_on_market_modal": {
+				"collections": "Koleksi",
+				"cards": "Kartu-kartu",
+				"publication": "Publikasi"
+			},
+			"live_auction": "Lelang Langsung"
+		},
+		"activity": "Aktivitas",
+		"token": "Token",
+		"loyalty": "Loyalitas",
+		"dyor": "DYOR",
+		"search_placeholder": "Cari koleksi, NFT, dan lainnya..."
+	},
+	"menu": {
+		"language": "Bahasa",
+		"product": "Produk",
+		"product_list": {
+			"explore": "Penelusuran",
+			"explore_modal": {
+				"top_collection": "Koleksi Teratas",
+				"featured": "Unggulan",
+				"fresh_on_market": "Segar di Pasar",
+				"live_auction": "Lelang Langsung"
+			},
+			"activity": "Aktivitas",
+			"token": "Token",
+			"loyalty": "Loyalitas",
+			"dyor": "DYOR",
+			"staking": "Mempertaruhkan"
+		},
+		"community": "Komuitas",
+		"commounity_list": {
+			"partnership": "Kemitraan",
+			"contribute": "Kontribusi",
+			"guide": "Bantuan",
+			"feature_request": "Permintaan fitur",
+			"ask_on_discort": "Tanya di Discord",
+			"tia": "Tech in Asia"
+		},
+		"about": "Tentang",
+		"about_list": {
+			"vision_team": "Visi & Tim",
+			"careers": "Karir",
+			"whitepaper": "Whitepaper",
+			"license": "Lisensi",
+			"stats": "Statistik",
+			"privacy": "Kebijakan pribadi",
+			"terms": "Persyaratan Layanan"
+		},
+		"developers": "Pengembang",
+		"developers_list": {
+			"gitbook": "Gitbook",
+			"github": "Github",
+			"documentation": "Dokumentasi"
+		}
+	},
+	"profile_modal": {
+		"open": "Buka Profil",
+		"paras_citizen": "Warga Paras",
+		"near_balance": "Saldo Near",
+		"paras_balance": "Saldo Paras",
+		"create_collection": "Buat Koleksi",
+		"create_publication": "Buat Publikasi",
+		"apply_launchpad": "Daftar Launchpad",
+		"my_offer": "Tawaran saya",
+		"setting": "Pengaturan",
+		"switch_wallet": "Ganti Dompet",
+		"logout": "Keluar",
+		"top_up_near": "+ Isi Ulang Near dengan Fiat",
+		"get_verified": "Daftar Verifikasi"
+	},
+	"footer": {
+		"tagline": "Buat, Perdagangkan, dan Kumpulkan Koleksi Digital. Semua dalam satu\n pasar NFT sosial untuk pencipta dan kolektor.",
+		"legal": "© 2022 Paras Digital.\nDidukung oleh near.org + ipfs"
+	},
+	"error": {
+		"400": "Bad Request",
+		"404": "Halaman tidak ditemukan",
+		"405": "Metode tidak diizinkan",
+		"500": "Kesalahan Server",
+		"404_button": "Kembali ke Penelusuran",
+		"button": "Kembali"
+	},
+	"share": {
+		"share_text": "Bagikan",
+		"facebook": "Facebook",
+		"twitter": "Twitter",
+		"telegram": "Telegram",
+		"copy_link": "Salin tautan",
+		"share_nft_text": "Lihat {{title}} dari koleksi {{collection}} di @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Lihat {{collection}} oleh {{creator}} di @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Lihat {{publication}} oleh {{creator}} di @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
+	}
+}

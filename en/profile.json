@@ -1,0 +1,38 @@
+{
+	"header": {
+		"edit_profile": "Edit Profile",
+		"follow_activity": "Follow Activity"
+	},
+	"tabs": {
+		"cards": "Cards",
+		"collections": "Collections",
+		"bio": "Bio",
+		"followers": "Followers",
+		"following": "Following",
+		"liked": "Liked",
+		"publication": "Publication"
+	},
+	"bio": {
+		"joined": "Joined",
+		"account_id": "Account ID",
+		"about_me": "About Me",
+		"more": "More",
+		"less": "Less",
+		"links": "Links",
+		"edit_bio": "Edit Bio",
+		"cancel": "Cancel",
+		"placeholder": "Tell a story about your profile",
+		"edit": "Edit"
+	},
+	"action_logo_cover": {
+		"profile_cover": "Profile Cover",
+		"zoom": "Zoom",
+		"straighten": "Straighten",
+		"upload": "Upload",
+		"edit": "Edit",
+		"save_cover": "Save cover",
+		"not_allowed_edit": "You dont have permissions to edit if you don't have cover beforely"
+	},
+	"followers": "{{count}} Followers",
+	"following": "{{count}} Following"
+}

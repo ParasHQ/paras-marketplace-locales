@@ -1,0 +1,117 @@
+{
+	"create_collection": "Create Collection",
+	"create_cards": "Create Cards",
+	"back": "Back",
+	"cancel": "Cancel",
+	"form_collection": {
+		"upload_logo": "Upload Logo",
+		"upload_logo_info": "150px x 150px \n Supported files: PNG, GIF, JPG, JPEG",
+		"upload_logo_error": "Logo is required",
+		"name": "Collection Name",
+		"name_placeholder": "Make it short and interesting...",
+		"name_error": "Collection name can't be blank",
+		"description": "Description",
+		"description_placeholder": "Make it brief but enough to cover the story",
+		"description_error": "Collection description can't be blank",
+		"twitter": "Twitter Account",
+		"twitter_placeholder": "https://twitter.com/username",
+		"discord": "Discord Channel",
+		"discord_placeholder": "https://discord.gg/invite",
+		"website": "Website",
+		"website_placeholder": "Site URL...",
+		"button": "Continue",
+		"button_edit": "Save",
+		"link_error": "Please enter valid link"
+	},
+	"guide": {
+		"1": {
+			"title": "Choose best name, it's permanent",
+			"description": "Collection name is permanent after its published. Also you can’t delete the collection. But you still can edit other information. <DescLink>Artist guide</DescLink>"
+		},
+		"2": {
+			"title": "Set your file correctly",
+			"description": "We set your name as default title. You still can edit it before publish. After that, title and file of cards is permanent."
+		},
+		"3": {
+			"title": "Prepare assigned attributes",
+			"description": "Attributes is a characteristic that cards have. It will be calculated to generate rarity score and ranking. Attributes will be permanent to card."
+		},
+		"4": {
+			"title": "Be meticulous with your card details",
+			"description": "Once your card is listed 'for sale', people can directly buy and own it. So be sure with your card detail before you publish it"
+		}
+	},
+	"set_cover": "Set Cover",
+	"add_card": "Add Card ({{total}})",
+	"form_attribute": {
+		"attributes": "Attributes",
+		"close": "Close",
+		"new_attribute": "New Attribute",
+		"edit": "Edit",
+		"button_save": "Save",
+		"button_value": "Value",
+		"value": "Value",
+		"value_placeholder": "New value...",
+		"value_error": "Value is required",
+		"label": "Label",
+		"label_placeholder": "ex: Background Color",
+		"label_error": "Label is required",
+		"informative_create_attribute": "Attributes you save will be available to use for next cards in same collection. Assigned attribute can’t be edited or deleted after the card is published"
+	},
+	"form_card_details": {
+		"card_details": "Card Details",
+		"cancel": "Cancel",
+		"title": "Title",
+		"title_placeholder": "Card title",
+		"royalty": "Royalty",
+		"royalty_add_account": "Add Account",
+		"royalty_account_label": "Account ID on NEAR",
+		"royalty_account_placeholder": "Account ID",
+		"royalty_amount_label": "Amount of royalty",
+		"royalty_amount_placeholder": "10% 20% 30$",
+		"royalty_total": "Total: {{total}}%",
+		"listed": "Listed",
+		"price": "Price",
+		"price_placeholder": "10",
+		"price_dollar": "Equal to ${{price}}",
+		"copies": "Number of Copies",
+		"put_on_market": "Put on Marketplace?",
+		"put_on_market_option": {
+			"no": "No",
+			"for_sale": "For Sale"
+		},
+		"attributes": "Assign Attributes",
+		"new_attribute": "New Attribute",
+		"attributes_unset": "Unset",
+		"description": "Description",
+		"description_placeholder": "Keep it short and interesting but long enough to cover the story...",
+		"button": "Save Details",
+		"error_accountid_not_found": "Account ID does not exist",
+		"error_max_royalty": "Total royalty can not be more than 90%",
+		"error_input": {
+			"price_required": "Price amount is required",
+			"minimum_0": "Minimum 0 {{iconnear}}"
+		}
+	},
+	"form_thumbnail": {
+		"title": "Thumbnail for create card",
+		"description": "You must upload thumbnail image for your NFT card if your card have kinds of type: Audio, 3D Model, or Playable Iframe",
+		"thumbnail": "Thumbnail for card:",
+		"button_submit": "Submit",
+		"button_cancel": "Cancel"
+	},
+	"fill": "Fill",
+	"edit": "Edit",
+	"sale": "For sale {{price}}",
+	"not_filled": "Details need to be filled",
+	"attributes_count": "Attributes ({{count}})",
+	"upload_cover": "Upload Cover",
+	"upload_cover_info": "Size 1152px × 288px.\n Supported files: PNG, JPG. Max file size: 30mb",
+	"upload_cards": "Upload Cards",
+	"upload_cards_info": "Supported files: PNG, JPG, GIF, MPX, MP4, GLB.\n Max. 10 files per upload, 30mb each.",
+	"need_bulk_upload": "Need bulk upload?",
+	"publish": "Publish",
+	"informative_create_card": "To save your time, we use your file name as default title. You still can edit the title later.",
+	"got_it": "Got it!",
+	"see_detail": "See detail"
+}

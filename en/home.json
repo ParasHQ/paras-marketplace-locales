@@ -1,0 +1,52 @@
+{
+	"hero": {
+		"title": "The Best Marketplace for",
+		"subtitle": "Digital Collectible NFTs",
+		"description": "<text>Welcome to the all-in-one social platform to buy,\n sell and create NFTs on </text><NearLink>Near Protocol</NearLink>",
+		"primary_button": "Explore",
+		"secondary_button": "Learn More"
+	},
+	"featured_collection": "Featured Collections",
+	"activity_you_follow": "Activity You Follow",
+	"top_collection": {
+		"title": "Top Collections",
+		"last_7_d": "Last 7 Days",
+		"more": "View more"
+	},
+	"mint_calendar": "Mint Calendar",
+	"whats_new": "What's New",
+	"highest_sale": {
+		"title": "Highest Sales",
+		"last_24_h": "Last 24 Hours"
+	},
+	"apex_collectior": {
+		"title": "Apex Collectors",
+		"more": "View more"
+	},
+	"guide": {
+		"1": {
+			"title": "New in Paras?",
+			"description": "Paras is all-in-one social NFT marketplace for creators & collectors that use <DescLink>Near Wallet</DescLink>",
+			"button": "About us"
+		},
+		"2": {
+			"title": "Have Artwork?",
+			"description": "Share your artworks or project as NFTs then get profit from sales and future royalty fee",
+			"button": "Start now"
+		},
+		"3": {
+			"title": "Want to get profit?",
+			"description": "Hunt the rarest and most wanted collection of NFTs and become the <DescLink>Apex Collector</DescLink>",
+			"button": "Connect Near Wallet"
+		},
+		"4": {
+			"title": "Like what you see?",
+			"description": "Support the artist you like by share their page in Paras. The more view will make the artist gain reputation",
+			"button": "Explore Paras"
+		}
+	},
+	"live_auction": {
+		"title": "Live Auctions",
+		"more": "View more"
+	}
+}

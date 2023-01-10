@@ -1,0 +1,59 @@
+{
+	"sort_filter": {
+		"sort_and_filter": "Sort & Filter",
+		"sort_and_filter_result": "{{count}} Result",
+		"primary_button": "Show",
+		"secondary_button": "Cancel",
+		"sort_by": "Sort by",
+		"sort_by_option": {
+			"market_update": "Market update",
+			"card_created": "Recently listed",
+			"lowest_price": "Lowest price",
+			"highest_price": "Highest price",
+			"auction_ends_soon": "Auction ends soon",
+			"rare_to_common": "Rare to common",
+			"recently_published": "Recently published",
+			"most_viewed": "Most viewed",
+			"most_liked": "Most liked",
+			"collection_created": "Recently created",
+			"highest_volume": "Highest Volume",
+			"most_owner": "Most Owner",
+			"highest_fp": "Highest Floor Price",
+			"lowest_fp": "Lowest Floor Price"
+		},
+		"price": "Price",
+		"price_placeholder": {
+			"lowest": "Lowest...",
+			"highest": "Highest...",
+			"valid": "Highest price cannot lower than lowest price",
+			"info": "Press enter to update price"
+		},
+		"type": "Type:",
+		"type_option": {
+			"all": "Show All",
+			"for_sale": "For Sale",
+			"sales": "Sales",
+			"listed": "Listed",
+			"transfer": "Transfer",
+			"auction": "Auction",
+			"offer": "Offer",
+			"created": "Created",
+			"minted": "Minted",
+			"burned": "Burned",
+			"available_offer": "Available for offer",
+			"on_auction": "On Auction",
+			"fresh": "Fresh from creator",
+			"community": "Community",
+			"editorial": "Editorial",
+			"owned": "Card Owned"
+		},
+		"edition": "Edition",
+		"edition_option": {
+			"all": "Show All",
+			"one": "Edition of 1",
+			"multiple": "Multiple of copies"
+		},
+		"status": "Status",
+		"verified": "Verified only"
+	}
+}

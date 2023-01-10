@@ -1,0 +1,64 @@
+{
+	"publications": "Publications",
+	"breadcrumbs": {
+		"first": "Publication",
+		"second": "{{breadcrumb}}",
+		"third": "{{pubTitle}}"
+	},
+	"title": "{{pubTitle}}",
+	"description": "{{pubDesc}}",
+	"authorId": "{{authorId}}",
+	"verified": "Verified",
+	"view_profile": "View Profile",
+	"image": "Image",
+	"video": "Video",
+	"card": "Card",
+	"collection": "Collection",
+	"pub_type": {
+		"community": "Community",
+		"editorial": "Editorial"
+	},
+	"comic_type": "Comic",
+	"title_page": {
+		"create": "Create Publication",
+		"edit": "Edit Publication"
+	},
+	"cancel": "Cancel",
+	"embedded_collectibles": "Digital Collectibles",
+	"form": {
+		"cover": {
+			"title": "Upload Cover",
+			"description": "Supported files: PNG, JPG. Max file size: 30mb"
+		},
+		"teaser": {
+			"title": "Teaser",
+			"placeholder": "Keep it short and interesting to attract readers..."
+		},
+		"publish": "Publish"
+	},
+	"modal": {
+		"add_video": {
+			"label": "Embed video",
+			"placeholder": "Video url",
+			"description": "Please enter link of youtube video",
+			"button": "Add Video"
+		},
+		"add_card": {
+			"label": "Add card to your publication",
+			"placeholder": "Url of the Token",
+			"description": "Please input the link of your token\nhttps://paras.id/token/x.paras.near::1",
+			"button": "Add Card"
+		},
+		"add_collection": {
+			"label": "Add collection to your publication",
+			"placeholder": "Url of the Collection",
+			"description": "Please input the link of your collection\nhttps://paras.id/collection/paradigm",
+			"button": "Add Collection"
+		}
+	},
+	"delete": "Delete",
+	"text_editor": {
+		"title": "Title",
+		"placeholder": "Tell a story..."
+	}
+}

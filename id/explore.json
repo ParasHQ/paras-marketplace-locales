@@ -1,0 +1,63 @@
+{
+	"fresh_on_market": "Baru di Paras",
+	"search": "Pencarian: '{{query}}'",
+	"explore_top_collections": "Koleksi Teratas",
+	"explore_featured_collections": "Koleksi Unggulan",
+	"explore_cards": "Jelajahi Kartu",
+	"explore_collections": "Jelajahi Koleksi",
+	"explore_profiles": "Jelajahi Profil",
+	"explore_publication": "Jelajahi Publikasi",
+	"last_week": "7 hari terakhir",
+	"tab": {
+		"collections": "Koleksi",
+		"cards": "Kartu",
+		"publications": "Publikasi",
+		"profiles": "Profil"
+	},
+	"sort_filter": {
+		"sort_and_filter": "Sortir & Filter",
+		"sort_and_filter_result": "{{hitung}} Hasil",
+		"primary_button": "Tampilkan",
+		"secondary_button": "Batal",
+		"sort_by": "Sortir dengan",
+		"sort_by_option": {
+			"market_upadte": "Baru diubah",
+			"card_created": "Kartu dibuat",
+			"lowest_price": "Harga terendah",
+			"highest_price": "Harga tertinggi",
+			"auction_ends_soon": "Lelang segera berakhir",
+			"rare_to_common": "Kelangkaan",
+			"recently_published": "Baru diterbitkan",
+			"most_viewed": "Paling banyak dilihat",
+			"most_liked": "Paling disukai",
+			"collection_created": "Koleksi Dibuat",
+			"highest_volume": "Volume Tertinggi",
+			"most_owner": "Pemilik terbanyak",
+			"highest_fp": "Harga Floor Tertinggi",
+			"lowest_fp": "Harga Floor Terendah"
+		},
+		"price": "Harga",
+		"price_placeholder": {
+			"lowest": "Paling rendah...",
+			"highest": "Paling tinggi...",
+			"info": "Tekan enter untuk memperbarui harga"
+		},
+		"type": "Jenis:",
+		"type_option": {
+			"all": "Semua",
+			"sale": "Dijual",
+			"offer": "Tersedia untuk penawaran",
+			"auction": "Lelang",
+			"fresh": "Baru dibuat",
+			"community": "Komunitas",
+			"editorial": "Editor"
+		},
+		"edition": "Edisi",
+		"edition_option": {
+			"all": "Semua",
+			"one": "Satu Edisi",
+			"multiple": "Banyak Edisi"
+		},
+		"verified": "Terverifikasi"
+	}
+}

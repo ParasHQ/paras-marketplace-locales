@@ -1,0 +1,52 @@
+{
+	"hero": {
+		"title": "Marketplace Terbaik Untuk",
+		"subtitle": "Koleksi Digital NFTs",
+		"description": "<text>Selamat datang di platform sosial untuk membeli,\n jual dan membuat NFT di </text><NearLink>Near Protocol</NearLink>",
+		"primary_button": "Jelajah",
+		"secondary_button": "Lebih Lanjut"
+	},
+	"featured_collection": "Koleksi Unggulan",
+	"activity_you_follow": "Aktivitas yang Anda Ikuti",
+	"top_collection": {
+		"title": "Koleksi Teratas",
+		"last_7_d": "7 Hari Terakhir",
+		"more": "Lihat lebih banyak"
+	},
+	"mint_calendar": "Kalender Mint",
+	"whats_new": "Baru di Paras",
+	"highest_sale": {
+		"title": "Penjualan Tertinggi",
+		"last_24_h": "24 Jam Terakhir"
+	},
+	"apex_collectior": {
+		"title": "Kolektor Tertinggi",
+		"more": "Lihat lebih banyak"
+	},
+	"guide": {
+		"1": {
+			"title": "Baru di Paras?",
+			"description": "Paras adalah Marketplace NFT untuk pecinta seni & kolektor yang menggunakan <DescLink>Near Wallet</DescLink>",
+			"button": "Tentang kami"
+		},
+		"2": {
+			"title": "Punya Karya Seni?",
+			"description": "Bagikan karya seni atau proyek kamu sebagai NFT, dapatkan keuntungan dari penjualan dan biaya royalti di setiap penjualan",
+			"button": "Mulai sekarang"
+		},
+		"3": {
+			"title": "Ingin mendapat untung?",
+			"description": "Berburu koleksi NFT paling langka dan paling dicari dan jadilah <DescLink>Apex Collector</DescLink>",
+			"button": "Hubungkan Dekat Dompet"
+		},
+		"4": {
+			"title": "Seperti yang kau lihat?",
+			"description": "Dukung artis yang Anda sukai dengan membagikan halaman mereka di Paras. Semakin banyak tampilan akan membuat artis mendapatkan reputasi",
+			"button": "Jelajah"
+		}
+	},
+	"live_auction": {
+		"title": "Lelang Langsung",
+		"more": "Lihat lebih banyak"
+	}
+}

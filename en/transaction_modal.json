@@ -1,0 +1,174 @@
+{
+	"edition_of": "Edition of {{copies}}, Rank {{rarityScore}}",
+	"you_will_redirected": "You will be redirected to your wallet to confirm your transaction.",
+	"cancel": "Cancel",
+	"trade": "Trade",
+	"edition_text_internal_token": "NFT | {{edition}} of {{copies}}",
+	"edition_text_external_token": "NFT | {{edition}}",
+	"edition_text_multiple_token_series": "SERIES | Edition of {{edition}}",
+	"edition_text_1of1_token_series": "Open Edition",
+	"transfer": {
+		"no_token_owned": "No token owned",
+		"select": "Select",
+		"input_label_transfer": "Transfer to Account ID",
+		"input_error": "Please enter valid near account id",
+		"input_placeholder_transfer": "Account ID",
+		"transfer": "Transfer"
+	},
+	"burn": {
+		"youre_about_burn": "You are about to burn {{title}}",
+		"burn": "Burn"
+	},
+	"buy": {
+		"rarity": "Rarity {{score}}",
+		"price": "Price",
+		"your_balance": "Your Balance",
+		"buy": "Buy"
+	},
+	"place_bid": {
+		"min_bid_error": "Minimum is min.Bid",
+		"max_bid_error": "Maximum is your balance",
+		"min_bid": "Min. Bid",
+		"your_balance": "Your Balance",
+		"auction_token": "Auction end in <time>{{days}} days, {{hours}}:{{mins}}:{{secs}}</time>",
+		"auction_token_series": "Some of edition is being auctioned",
+		"place_bid": "Place a Bid"
+	},
+	"place_offer": {
+		"rarity": "Rarity {{score}}",
+		"min_offer_error": "Minimum 0.01 ",
+		"max_offer_error": "Maximum is your balance",
+		"current_price": "Current Price",
+		"your_offer": "Your Offer",
+		"your_balance": "Your Balance",
+		"currently_staked": "This NFT is currently staked by owner",
+		"place_offer": "Place an Offer"
+	},
+	"trading": {
+		"rarity": "Rarity {{score}}",
+		"submit": "Submit",
+		"add_card": "{{type}} card"
+	},
+	"mint": {
+		"rarity": "Rarity {{score}}",
+		"mint_to_self": "Mint to myself",
+		"input_label_mint": "Account ID",
+		"storage_fee": "Storage Fee",
+		"mint": "Mint"
+	},
+	"accept_offer": {
+		"offer_from": "<semibold>Offer</semibold> from <semibold>{{buyerId}}</semibold>",
+		"for_card": "For card <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> in <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+		"received_offer": "Received Offer",
+		"royalty_artist": "Royalty for Artist ",
+		"fee": "Fee",
+		"storage_fee": "Storage Fee",
+		"total_received": "Total Received",
+		"accept_offer": "Accept Offer"
+	},
+	"accept_trade": {
+		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
+		"in": "in",
+		"this_card_flagged": "This card has flagged as {{flag}}",
+		"with_your_card": "With your card",
+		"volume_gap": "Volume Gap",
+		"your_card_volume": "Your card volume",
+		"received_card_volume": "Received card volume",
+		"accept_trade": "Accept Trade"
+	},
+	"accept_bid": {
+		"bid_from": "<semibold>Bid<semibold/> from <semibold>{{currentBidder}}</semibold>",
+		"for_card": "For card <linkToken><spanSemibold>{{title}}</spanSemibold></linkToken> in <linkToken><spanSemibold>{{collection}}</spanSemibold></linkToken>",
+		"received_bid": "Received Bid",
+		"royalty_artist": "Royalty for Artist",
+		"fee": "Fee",
+		"storage_fee": "Storage Fee",
+		"total_received": "Total Received",
+		"accept_bid": "Accept Bid"
+	},
+	"cancel_offer": {
+		"are_you_sure": "Are you sure you want to cancel your offer?",
+		"cancel_offer": "Cancel Offer"
+	},
+	"cancel_bid": {
+		"are_you_sure": "Are you sure you want to cancel your bid?",
+		"cancel_bid": "Cancel Bid"
+	},
+	"edit_listing": {
+		"min_duration_auction": "Auction must be less than 5 days",
+		"must_future_auction": "Auction must be in the future",
+		"edit_listing": "Edit Listing",
+		"listed": "Listed",
+		"reduce_copies": {
+			"max_reduce_error": "Reduce number must be less than or equal to total mint",
+			"min_reduce_error": "Reduce number must be greater than or equal to 0",
+			"reduce_copies": "Reduce Copies",
+			"remaining_copies": "Remaining copies: {{remainingCopies}}"
+		},
+		"put_marketplace": {
+			"put_marketplace": "Put on Marketplace?",
+			"no": "No",
+			"for_sale": "For Sale",
+			"for_auction": "For Auction",
+			"update_price": "Update Price",
+			"starting_bid": "Starting Bid",
+			"auction_ends": "Auction ends in",
+			"equal_to": "Equal to ",
+			"receive": "Receive",
+			"royalty": "Royalty",
+			"fee": "Fee"
+		},
+		"update": "Update"
+	},
+	"success_tx_modal": {
+		"button_close": "Close",
+		"button_see_other_cards": "See other cards",
+		"button_see_profile": "Go to My Profile",
+		"transaction_hash": "Transaction Hash",
+		"share_to": "Share to",
+		"share": "Share",
+		"transaction_text": {
+			"buy": "Payment success",
+			"offer": "Offer submitted",
+			"bid": "Bid submitted",
+			"edit_listing_auction": "Card auction started",
+			"edit_listing_sale": "Card price updated",
+			"mint": "Card successfully minted",
+			"trade": "NFT offer submitted",
+			"transfer": "Card sent to {{accountId}}",
+			"remove_auction": "Auction removed",
+			"remove_listing": "Listing removed",
+			"accept_trade": "NFT Trade accepted",
+			"add_trade": "Add Trade success",
+			"accept_offer": "Offer accepted",
+			"accept_bid": "Bid accepted",
+			"remove_bid": "Bid removed",
+			"create_card": "Card successfully created",
+			"default": "Transaction success"
+		},
+		"transaction_sub_text": {
+			"mint": "You have successfully minted card",
+			"edit_listing_sale": "You have successfully updated the price to {{price}}",
+			"edit_listing_auction": "You have successfully created an auction starting at {{price}}",
+			"bid": "You have successfully bid the price at {{price}}",
+			"offer": "You have successfully offered the price at {{price}}",
+			"buy": "You have successfully purchased at {{price}}",
+			"buy_bulk": "You have successfully purchased new cards"
+		},
+		"h2_text": {
+			"create_card": "{{total}} new cards added",
+			"buy_bulk": "{{total}} cards purchased"
+		},
+		"cart": {
+			"you_successfully": "You have successfully purchased new cards",
+			"you_failed": "The card you selected is no longer available, so you won't be charged."
+		},
+		"nft_still_catching_up": "NFT is still catching up, you can either wait for a while or close this modal",
+		"share_text": {
+			"one_card": "Check out {{title}} from {{collection1}} collection by {{creator}} on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_one_collection": "Check out all NFTs from {{collection1}} collection by {{creator}} on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_2_collections": "Check out all NFTs from {{collection1}} & {{collection2}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_3_collections": "Check out all NFTs from {{collection1}}, {{collection2}}, and {{collection3}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n"
+		}
+	}
+}
