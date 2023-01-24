@@ -9,10 +9,10 @@
 		"upload_logo_info": "150px x 150px \n Formats pris en charge: PNG, GIF, JPG, JPEG",
 		"upload_logo_error": "Le logo est requis",
 		"name": "Nom de la collection",
-		"name_placeholder": "Faites-le court et intéressant...",
+		"name_placeholder": "Soyez brefs et intéressant...",
 		"name_error": "Le nom de la collection ne peut pas être vide",
 		"description": "Description",
-		"description_placeholder": "Faites-le bref mais suffisant pour couvrir l'histoire",
+		"description_placeholder": "Soyez bref mais suffisant pour couvrir l'histoire",
 		"description_error": "La description de la collection ne peut pas être vide",
 		"twitter": "Compte Twitter",
 		"twitter_placeholder": "https://twitter.com/username",
@@ -35,7 +35,7 @@
 		},
 		"3": {
 			"title": "Préparez les attributs assignés",
-			"description": "Les attributs sont une caractéristique que les cartes possèdent. Il sera calculé pour générer un score de rareté et un classement. Les attributs seront permanents pour la carte."
+			"description": "Les attributs sont une caractéristique que les cartes possèdent. Les attributs permettront de calculer un score de rareté et un classement. Les attributs seront permanents pour la carte."
 		},
 		"4": {
 			"title": "Soyez minutieux avec les détails de votre carte",
@@ -57,7 +57,7 @@
 		"label": "Etiquette",
 		"label_placeholder": "ex: Couleur de fond",
 		"label_error": "L'étiquette est requise",
-		"informative_create_attribute": "Les attributs que vous enregistrez seront disponibles pour utiliser pour les prochaines cartes dans la même collection. Les attributs assignés ne peuvent pas être modifiés ou supprimés après la publication de la carte."
+		"informative_create_attribute": "Les attributs que vous enregistrez seront disponibles pour les utiliser pour les prochaines cartes dans la même collection. Les attributs assignés ne peuvent pas être modifiés ou supprimés après la publication de la carte."
 	},
 	"form_card_details": {
 		"card_details": "Détails de la carte",
