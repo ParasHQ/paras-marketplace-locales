@@ -6,17 +6,17 @@
 	"tabs": {
 		"cards": "Cartes",
 		"collections": "Collections",
-		"bio": "Bio",
+		"bio": "Biographie",
 		"followers": "Abonnés",
 		"following": "Abonnements",
 		"liked": "Favoris",
-		"publication": "Publication"
+		"publication": "Publications"
 	},
 	"bio": {
 		"joined": "Inscrit depuis",
 		"account_id": "ID compte",
 		"about_me": "A propos de moi",
-		"more": "plus",
+		"more": "Plus",
 		"less": "Moins",
 		"links": "Liens",
 		"edit_bio": "Editer Bio",
