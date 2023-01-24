@@ -56,17 +56,17 @@
 	"same_creator": "Du même créateur",
 	"more": "Plus",
 	"sweep": {
-		"sweep_floor": "Balayer le plancher",
+		"sweep_floor": "Ajouter au panier",
 		"sweep_floor_tooltip": "Vous pouvez acheter jusqu'à 10 cartes\n à bas prix plus rapidement",
 		"close": "Fermer",
 		"total_items": "Nombre total d'articles",
 		"items": "Articles",
 		"your_balance": "Votre solde",
-		"auto_swap": "Balayer automatiquement les articles",
-		"auto_swap_tooltip": "Balayer automatiquement les articles qui sont vendus ou enlevés de la liste pendant le balayage",
+		"auto_swap": "Ajouter automatiquement les articles",
+		"auto_swap_tooltip": "Ajouter automatiquement les articles qui sont vendus ou enlevés de la liste pendant l'ajout",
 		"on": "Activé",
 		"off": "Désactivé",
-		"cart": "Panier articles balayés",
+		"cart": "Panier articles ajoutés",
 		"see_details": "Voir les détails",
 		"hide_details": "Masquer les détails",
 		"total_purchase": "Achat total",
@@ -91,6 +91,6 @@
 			"error_maximum": "Impossible d'ajouter plus de {{items}} articles"
 		},
 		"item_removed": "Article enlevé",
-		"item_added": "1 article ajouté au panier de balayage"
+		"item_added": "1 article ajouté au panier"
 	}
 }
