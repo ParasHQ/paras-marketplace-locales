@@ -1,0 +1,41 @@
+{
+	"button": {
+		"join_event": "Join the Event",
+		"submit_category": "Submit to the Category",
+		"learn more": "Learn More"
+	},
+	"tooltip": {
+		"submit_new_card": "Submit with the new card",
+		"submit_existing_card": "Submit with the existing card"
+	},
+	"stats": {
+		"event_period": "Event Period",
+		"curated_by": "Curated by"
+	},
+	"existingCard": {
+		"titleModal": "{{title}}",
+		"descModal": "{{desc}}",
+		"c4c_desc": "Curators will review your card submission. Only cards that meet the Card4Card requirements are displayed below."
+	},
+	"common": {
+		"no_eligible_cards": "No eligible cards in this collection",
+		"card_must_meet": "Your card must meet <Span>Card4Card requirements.</Span>",
+		"no_cards_basic": "No cards in this collection",
+		"want_create": "<Span>Want to create a card?</Span>",
+		"aggree_card_sumbission": "I Agree with <Span>Card4Card Mechanism</Span>",
+		"submit": "Submit",
+		"cancel": "Cancel",
+		"all_categories": "All Categories",
+		"select_cards": "Your selected cards"
+	},
+	"messages": {
+		"success": "Thank you for your submission. Submit card succeed.",
+		"error": "Something went wrong, try again later.",
+		"maxSubmit": "Cannot submit more than 30 items.",
+		"limitQuota": "Sorry, you’ve reached the submit limit of 100 items per day for {{type}} category."
+	},
+	"login_category": {
+		"need_login": "You need to login",
+		"connect_wallet": "Connect your wallet to join or submit the category"
+	}
+}
