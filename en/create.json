@@ -1,6 +1,7 @@
 {
 	"create_collection": "Create Collection",
 	"create_cards": "Create Cards",
+	"create_card": "Create Card",
 	"back": "Back",
 	"cancel": "Cancel",
 	"form_collection": {
@@ -91,7 +92,10 @@
 		"error_input": {
 			"price_required": "Price amount is required",
 			"minimum_0": "Minimum 0 {{iconnear}}"
-		}
+		},
+		"category": "Category",
+		"category_tooltip": "Adding category will help your card more discoverable on the market. Once you've applied a category, you can't change it later.",
+		"unset": "Unset"
 	},
 	"form_thumbnail": {
 		"title": "Thumbnail for create card",
@@ -113,5 +117,31 @@
 	"publish": "Publish",
 	"informative_create_card": "To save your time, we use your file name as default title. You still can edit the title later.",
 	"got_it": "Got it!",
-	"see_detail": "See detail"
+	"see_detail": "See detail",
+	"create_new_card": {
+		"step_1": {
+			"where_do_you_want": "Where do you want to add new cards?",
+			"create": "Create",
+			"new_collection": "New Collection",
+			"exist_collection": "Existing Collection",
+			"you_will_create_new_collection": "You will create a new collection before adding new cards to it.",
+			"you_wil_select_one_of_collection": "You will select one of your existing collection before adding new cards to it."
+		},
+		"step_2": {
+			"choose_your_existing_collection": "Choose your existing collection",
+			"your_card_will_be_added": "Your card will be added to the collection you selected",
+			"search_collection_name": "Search collection name",
+			"sort_by": "Sort by",
+			"sort_recently_created": "Recently Created",
+			"sort_alphabetic_az": "Alphabetic (A-Z)",
+			"sort_alphabetic_za": "Alphabetic (Z-A)",
+			"sort_highest_volume": "Highest Volume",
+			"sort_most_owner": "Most Owner",
+			"sort_highest_floor_price": "Highest Floor Price",
+			"sort_lowest_floor_price": "Lowest Floor Price",
+			"collection_name": "Collection name",
+			"continue": "Continue",
+			"select_collection_first": "Please select the collection first"
+		}
+	}
 }

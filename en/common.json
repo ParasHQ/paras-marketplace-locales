@@ -76,7 +76,8 @@
 		"switch_wallet": "Switch Wallet",
 		"logout": "Logout",
 		"top_up_near": "+ Top up Near with Fiat",
-		"get_verified": "Get Verified"
+		"get_verified": "Get Verified",
+		"create_card": "Create Card"
 	},
 	"notification": {
 		"title-popup": "Notifications",
