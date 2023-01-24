@@ -1,0 +1,74 @@
+{
+	"sort_filter": {
+		"sort_and_filter": "Trier et filtrer",
+		"sort_and_filter_result": "{{count}} résultat(s)",
+		"primary_button": "Montrer",
+		"secondary_button": "Annuler",
+		"sort_by": "Trier par",
+		"sort_by_option": {
+			"market_update": "Mise à jour du marché",
+			"card_created": "Récemment listées",
+			"lowest_price": "Prix le plus bas",
+			"highest_price": "Prix le plus haut",
+			"auction_ends_soon": "Enchère se terminant bientôt",
+			"rare_to_common": "Rare à commune",
+			"recently_published": "Récemment publiées",
+			"most_viewed": "Les plus vues",
+			"most_liked": "Les plus aimées",
+			"collection_created": "Récemment créées",
+			"highest_volume": "Volume le plus élevé",
+			"most_owner": "Le plus de propriétaires",
+			"highest_fp": "Prix le plus élevé",
+			"lowest_fp": "Prix le moins élevé",
+			"most_recent": "Récentes à anciennes",
+			"least_recent": "Anciennes à récentes",
+			"alphabetic": "Alphabétique  (A-Z)",
+			"reverse_alphabetic": "Alphabétique  (Z-A)",
+			"price_low_to_high": "Prix bas à élevé",
+			"price_high_to_low": "Prix élevé à bas",
+			"edition_high_to_low": "Quantité d'édition élevée à basse",
+			"edition_low_to_high": "Quantité d'édition basse à élevée"
+		},
+		"price": "Price",
+		"price_placeholder": {
+			"lowest": "Lowest...",
+			"highest": "Highest...",
+			"valid": "Highest price cannot lower than lowest price",
+			"info": "Press enter to update price"
+		},
+		"type": "Type:",
+		"type_option": {
+			"all": "Show All",
+			"for_sale": "For Sale",
+			"sales": "Sales",
+			"listed": "Listed",
+			"transfer": "Transfer",
+			"auction": "Auction",
+			"offer": "Offer",
+			"created": "Created",
+			"minted": "Minted",
+			"burned": "Burned",
+			"available_offer": "Available for offer",
+			"on_auction": "On Auction",
+			"fresh": "Fresh from creator",
+			"community": "Community",
+			"editorial": "Editorial",
+			"owned": "Card Owned"
+		},
+		"edition": "Edition",
+		"edition_option": {
+			"all": "Show All",
+			"one": "Edition of 1",
+			"multiple": "Multiple of copies"
+		},
+		"status": "Status",
+		"verified": "Verified only",
+		"selection": "Selection",
+		"selection_option": {
+			"all": "Select All"
+		},
+		"selected": "{{count}} item selected",
+		"button_accept_all": "Accept All Selected",
+		"button_reject_all": "Reject All Selected"
+	}
+}
