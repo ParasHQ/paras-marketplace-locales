@@ -40,20 +40,20 @@
 		"type_option": {
 			"all": "Montrer tout",
 			"for_sale": "A vendre",
-			"sales": "Vente",
-			"listed": "Listée",
-			"transfer": "Transfert",
-			"auction": "Enchère",
-			"offer": "Offre",
-			"created": "Créé",
-			"minted": "Emission",
-			"burned": "Brûlée",
-			"available_offer": "Dispo pour offre",
-			"on_auction": "En enchère",
-			"fresh": "Nouveau",
-			"community": "Communauté",
+			"sales": "Ventes",
+			"listed": "Listées",
+			"transfer": "Transferts",
+			"auction": "Enchères",
+			"offer": "Offres",
+			"created": "Créés",
+			"minted": "Emissions",
+			"burned": "Brûlées",
+			"available_offer": "Dispo. pour offre",
+			"on_auction": "Enchères en cours",
+			"fresh": "Nouveautés",
+			"community": "Communautés",
 			"editorial": "Editorial",
-			"owned": "Carte détenue"
+			"owned": "Carte(s) détenue(s)"
 		},
 		"edition": "Edition",
 		"edition_option": {
@@ -67,7 +67,7 @@
 		"selection_option": {
 			"all": "Sélectionner tout"
 		},
-		"selected": "{{count}} item selected",
+		"selected": "{{count}} articles sélectionnés",
 		"button_accept_all": "Accepter la sélection",
 		"button_reject_all": "Rejeter la sélection"
 	}
