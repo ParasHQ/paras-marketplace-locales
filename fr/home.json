@@ -20,7 +20,7 @@
 		"last_24_h": "Les 24 dernières heures"
 	},
 	"apex_collectior": {
-		"title": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxApex Collectors",
+		"title": "Grands collectionneurs",
 		"more": "Voir plus"
 	},
 	"guide": {
@@ -36,7 +36,7 @@
 		},
 		"3": {
 			"title": "Voulez-vous gagner de l'argent ?",
-			"description": "Chassez les collections NFT les plus rares et les plus prisées et devenez <DescLink>Collectionneur xxxxxxxxxxxd'apogée</DescLink>",
+			"description": "Chassez les collections NFT les plus rares et les plus prisées et devenez <DescLink>un Grand Collectionneur</DescLink>",
 			"button": "Connecter Near Wallet"
 		},
 		"4": {
