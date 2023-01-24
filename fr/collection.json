@@ -57,7 +57,7 @@
 	"more": "Plus",
 	"sweep": {
 		"sweep_floor": "Balayer le plancher",
-		"sweep_floor_tooltip": "xxxxxxxxxxxxxxxx",
+		"sweep_floor_tooltip": "Vous pouvez acheter jusqu'à 10 cartes à bas prix plus rapidement",
 		"close": "Fermer",
 		"total_items": "Nombre total d'articles",
 		"items": "Articles",
@@ -66,31 +66,31 @@
 		"auto_swap_tooltip": "Balayer automatiquement les articles qui sont vendus ou enlevés de la liste pendant le balayage",
 		"on": "Activé",
 		"off": "Désactivé",
-		"cart": "Sweep Floor Cart",
-		"see_details": "See details",
-		"hide_details": "Hide details",
-		"total_purchase": "Total Purchase",
-		"top_up": "Top Up?",
-		"top_up_long_text": "Top Up Balance",
-		"empty_title": "Your cart is empty",
-		"empty_description": "You can add up to 10 lowest-price\n cards in a second.",
+		"cart": "Panier articles balayés",
+		"see_details": "Voir les détails",
+		"hide_details": "Masquer les détails",
+		"total_purchase": "Achat total",
+		"top_up": "xxxxxxxxxxxxxxx Top Up?",
+		"top_up_long_text": "xxxxxxxxxxxx Top Up Balance",
+		"empty_title": "Votre panier est vide",
+		"empty_description": "Vous pouvez ajouter jusqu'à 10 cartes à bas prix en une seconde",
 		"details": {
-			"subtotal_one": "Subtotal ({{count}} item)",
-			"subtotal_other": "Subtotal ({{count}} items)",
-			"fee": "Storage Fee",
-			"total_purchase": "Total Purchase",
-			"your_balance": "Your Balance",
-			"confirm_redirect": "You will be redirected to your wallet to confirm your transaction."
+			"subtotal_one": "Sous-total ({{count}} article)",
+			"subtotal_other": "Sous-total ({{count}} articles)",
+			"fee": "Frais de stockage",
+			"total_purchase": "Achat total",
+			"your_balance": "Votre solde",
+			"confirm_redirect": "Vous serez redirigé vers votre portefeuille pour confirmer votre transaction"
 		},
-		"button_buy": "Confirm Buy",
-		"button_refresh": "Refresh",
+		"button_buy": "Confirmer l'achat",
+		"button_refresh": "Rafraichir",
 		"error": {
-			"error_not_enough_balance": "Not enough balance",
-			"error_price_changed": "Price changed",
-			"error_unavailable": "Unavailable",
-			"error_maximum": "Cannot add to cart more than {{items}} items."
+			"error_not_enough_balance": "Solde insuffisant",
+			"error_price_changed": "Prix modifié",
+			"error_unavailable": "Indisponible",
+			"error_maximum": "Impossible d'ajouter plus de {{items}} articles"
 		},
-		"item_removed": "Item removed",
-		"item_added": "1 item added to sweep floor cart."
+		"item_removed": "Article enlevé",
+		"item_added": "1 article ajouté au panier de balayage"
 	}
 }
