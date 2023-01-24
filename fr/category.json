@@ -1,41 +1,41 @@
 {
 	"button": {
-		"join_event": "Join the Event",
-		"submit_category": "Submit to the Category",
-		"learn more": "Learn More"
+		"join_event": "Rejoindre l'événement",
+		"submit_category": "Soumettre à la catégorie",
+		"learn more": "En savoir plus"
 	},
 	"tooltip": {
-		"submit_new_card": "Submit with the new card",
-		"submit_existing_card": "Submit with the existing card"
+		"submit_new_card": "Soumettre avec la nouvelle carte",
+		"submit_existing_card": "Soumettre avec la carte existante"
 	},
 	"stats": {
-		"event_period": "Event Period",
-		"curated_by": "Curated by"
+		"event_period": "Période de l'événement",
+		"curated_by": "Sélectionné par"
 	},
 	"existingCard": {
 		"titleModal": "{{title}}",
 		"descModal": "{{desc}}",
-		"c4c_desc": "Curators will review your card submission. Only cards that meet the Card4Card requirements are displayed below."
+		"c4c_desc": "Les commissaires-priseurs examineront votre soumission de carte. Seules les cartes qui répondent aux exigences de Card4Card sont affichées ci-dessous"
 	},
 	"common": {
-		"no_eligible_cards": "No eligible cards in this collection",
-		"card_must_meet": "Your card must meet <Span>Card4Card requirements.</Span>",
-		"no_cards_basic": "No cards in this collection",
-		"want_create": "<Span>Want to create a card?</Span>",
-		"aggree_card_sumbission": "I Agree with <Span>Card4Card Mechanism</Span>",
-		"submit": "Submit",
-		"cancel": "Cancel",
-		"all_categories": "All Categories",
-		"select_cards": "Your selected cards"
+		"no_eligible_cards": "Aucune carte éligible dans cette collection",
+		"card_must_meet": "Votre carte doit répondre aux exigences de <Span>Card4Card</Span>",
+		"no_cards_basic": "Aucune carte dans cette collection",
+		"want_create": "<Span>Voulez-vous créer une carte?</Span>",
+		"aggree_card_sumbission": "Je suis d'accord avec le <Span>processus Card4Card</Span>",
+		"submit": "Soumettre",
+		"cancel": "Annuler",
+		"all_categories": "Toutes les catégories",
+		"select_cards": "Vos cartes sélectionnées"
 	},
 	"messages": {
-		"success": "Thank you for your submission. Submit card succeed.",
-		"error": "Something went wrong, try again later.",
-		"maxSubmit": "Cannot submit more than 30 items.",
-		"limitQuota": "Sorry, you’ve reached the submit limit of 100 items per day for {{type}} category."
+		"success": "Merci pour votre soumission. La soumission de la carte a réussi",
+		"error": "Quelque chose s'est mal passé, veuillez réessayer plus tard",
+		"maxSubmit": "Impossible de soumettre plus de 30 articles",
+		"limitQuota": "Désolé, vous avez atteint la limite de soumission de 100 articles par jour pour la catégorie {{type}}"
 	},
 	"login_category": {
-		"need_login": "You need to login",
-		"connect_wallet": "Connect your wallet to join or submit the category"
+		"need_login": "Vous devez vous connecter",
+		"connect_wallet": "Connectez votre portefeuille pour participer ou soumettre à la catégorie"
 	}
 }
