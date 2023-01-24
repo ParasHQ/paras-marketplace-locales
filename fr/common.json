@@ -1,61 +1,61 @@
 {
 	"navigation": {
-		"explore": "Explore",
+		"explore": "Explorer",
 		"explore_modal": {
-			"top_collection": "Top Collections",
-			"featured_collection": "Featured Collections",
-			"fresh_on_market": "Fresh on Market",
+			"top_collection": "Collections populaires",
+			"featured_collection": "Collections vedettes",
+			"fresh_on_market": "Nouveautés sur le marché",
 			"fresh_on_market_modal": {
 				"collections": "Collections",
-				"cards": "Cards",
+				"cards": "Cartes",
 				"publication": "Publications"
 			},
-			"live_auction": "Live Auction"
+			"live_auction": "Enchères en cours"
 		},
-		"activity": "Activity",
+		"activity": "Activité",
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
-		"search_placeholder": "Search collection, NFTs and more..."
+		"search_placeholder": "Recherche de collection, NFTs et plus encore..."
 	},
 	"menu": {
-		"language": "Language",
-		"product": "Product",
+		"language": "Langue",
+		"product": "Product",xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 		"product_list": {
-			"explore": "Explore",
+			"explore": "Explorer",
 			"explore_modal": {
-				"top_collection": "Top Collections",
-				"featured": "Featured Collections",
-				"fresh_on_market": "Fresh on Market",
-				"live_auction": "Live Auction"
+				"top_collection": "Collections populaires",
+				"featured": "Collections vedettes",
+				"fresh_on_market": "Nouveautés sur le marché",
+				"live_auction": "Enchères en cours"
 			},
-			"activity": "Activity",
+			"activity": "Activité",
 			"token": "Token",
 			"loyalty": "Loyalty",
 			"dyor": "DYOR",
 			"staking": "Staking"
 		},
-		"community": "Community",
+		"community": "Communauté",
 		"commounity_list": {
-			"partnership": "Partnership",
-			"contribute": "Contribute",
+			"partnership": "Partnenariat",
+			"contribute": "Contribution",
 			"guide": "Guide",
-			"feature_request": "Feature Request",
-			"ask_on_discort": "Ask on Discord",
-			"tia": "Paras on TiA",
-			"listing": "Apply for Listing"
+			"feature_request": "Demande d'amélioration",
+			"ask_on_discort": "Demandez sur Discord",
+			"tia": "Paras sur TiA",
+			"listing": "Formulaire de vérification"
 		},
-		"about": "About",
+		"about": "A propos",
 		"about_list": {
-			"vision_team": "Vision & Team",
-			"careers": "Careers",
+			"vision_team": "Vision et équipe",
+			"careers": "Carrières",
 			"whitepaper": "Whitepaper",
-			"license": "License",
-			"stats": "Stats",
-			"privacy": "Privacy Policy",
-			"terms": "Terms of Service"
+			"license": "Licence",
+			"stats": "Statistiques",
+			"privacy": "Politique de confidentialité",
+			"terms": "Conditions d'utilisation"
 		},
-		"developers": "Developers",
+		"developers": "Développeurs",
 		"developers_list": {
 			"gitbook": "Gitbook",
 			"github": "Github",
@@ -63,29 +63,29 @@
 		}
 	},
 	"profile_modal": {
-		"open": "Open Profile",
-		"paras_citizen": "Paras Citizen",
-		"near_balance": "Near Balance",
-		"paras_balance": "Paras Balance",
-		"create_collection": "Create Collection",
-		"create_publication": "Create Publication",
-		"apply_launchpad": "Apply Launchpad",
-		"my_offer": "My Offer",
-		"setting": "Setting",
-		"my_ramper_wallet": "My Ramper Wallet",
-		"switch_wallet": "Switch Wallet",
-		"logout": "Logout",
-		"top_up_near": "+ Top up Near with Fiat",
-		"get_verified": "Get Verified",
-		"create_card": "Create Card"
+		"open": "Ouvrir Profil",
+		"paras_citizen": "Citoyen de Paras",
+		"near_balance": "Solde Near",
+		"paras_balance": "Solde Paras",
+		"create_collection": "Créer une collection",
+		"create_publication": "Créer une Publication",
+		"apply_launchpad": "Lancement de NFT",
+		"my_offer": "Mes offres",
+		"setting": "Paramétrage",
+		"my_ramper_wallet": "My Ramper Wallet",***********************************************************************************
+		"switch_wallet": "Changer de portefeuille",
+		"logout": "Se déconnecter",
+		"top_up_near": "+ Top up Near with Fiat",**********************************************************************************
+		"get_verified": "Obtenir une vérification",
+		"create_card": "Créer une carte"
 	},
 	"notification": {
 		"title-popup": "Notifications",
-		"title-page": "All Notification",
-		"show_all": "Show all",
-		"see_more": "see more",
-		"action": "Action",
-		"link": "Link",
+		"title-page": "Toutes les notifications",
+		"show_all": "Montrer tout",
+		"see_more": "Voir plus",
+		"action": "Action",********************************************************************
+		"link": "Lien",
 		"notification_level_up": "<semibold>Congratulations, You're now a {{currLevel}} Member!</semibold>",
 		"notification_level_up_detail": "You can register for a raffle on {{timePeriod}}. Read more here 👉 <linkLoyalty>Loyalty</linkLoyalty>",
 		"notification_raffle_program_launch": "<semibold>Join Paras Loyalty Now!</semibold>",
