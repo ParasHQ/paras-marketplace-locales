@@ -1,52 +1,52 @@
 {
 	"hero": {
-		"title": "The Best Marketplace for",
-		"subtitle": "Digital Collectible NFTs",
-		"description": "<text>Welcome to the all-in-one social platform to buy,\n sell and create NFTs on </text><NearLink>Near Protocol</NearLink>",
-		"primary_button": "Explore",
-		"secondary_button": "Learn More"
+		"title": "La meilleure place de marché pour",
+		"subtitle": "les NFTs numériques à collectionner",
+		"description": "<text>Bienvenue sur la plateforme sociale tout-en-un pour acheter,\n vendre et créer des NFT sur </text><NearLink>Near Protocol</NearLink>",
+		"primary_button": "Explorer",
+		"secondary_button": "En savoir plus"
 	},
-	"featured_collection": "Featured Collections",
-	"activity_you_follow": "Activity You Follow",
+	"featured_collection": "Collections vedettes",
+	"activity_you_follow": "Activité que vous suivez",
 	"top_collection": {
-		"title": "Top Collections",
-		"last_7_d": "Last 7 Days",
-		"more": "View more"
+		"title": "Meilleures collections",
+		"last_7_d": "Les 7 derniers jours",
+		"more": "Voir plus"
 	},
-	"mint_calendar": "Mint Calendar",
-	"whats_new": "What's New",
+	"mint_calendar": "Calendrier des émissions de NFTs (Mint)",
+	"whats_new": "Quoi de neuf",
 	"highest_sale": {
-		"title": "Highest Sales",
-		"last_24_h": "Last 24 Hours"
+		"title": "Ventes les plus élevées",
+		"last_24_h": "Les 24 dernières heures"
 	},
 	"apex_collectior": {
-		"title": "Apex Collectors",
-		"more": "View more"
+		"title": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxApex Collectors",
+		"more": "Voir plus"
 	},
 	"guide": {
 		"1": {
-			"title": "New in Paras?",
-			"description": "Paras is all-in-one social NFT marketplace for creators & collectors that use <DescLink>Near Wallet</DescLink>",
-			"button": "About us"
+			"title": "Nouveau sur Paras ?",
+			"description": "Paras est une plateforme sociale tout-en-un pour les créateurs et les collectionneurs qui utilisent <DescLink>Near Wallet</DescLink>",
+			"button": "À propos de nous"
 		},
 		"2": {
-			"title": "Have Artwork?",
-			"description": "Share your artworks or project as NFTs then get profit from sales and future royalty fee",
-			"button": "Start now"
+			"title": "Avez-vous des œuvres d'art ?",
+			"description": "Partagez vos œuvres d'art ou projets sous forme de NFT et bénéficiez des ventes et des redevances futures",
+			"button": "Commencer maintenant"
 		},
 		"3": {
-			"title": "Want to get profit?",
-			"description": "Hunt the rarest and most wanted collection of NFTs and become the <DescLink>Apex Collector</DescLink>",
-			"button": "Connect Near Wallet"
+			"title": "Voulez-vous gagner de l'argent ?",
+			"description": "Chassez les collections NFT les plus rares et les plus prisées et devenez <DescLink>Collectionneur xxxxxxxxxxxd'apogée</DescLink>",
+			"button": "Connecter Near Wallet"
 		},
 		"4": {
-			"title": "Like what you see?",
-			"description": "Support the artist you like by share their page in Paras. The more view will make the artist gain reputation",
-			"button": "Explore Paras"
+			"title": "Vous aimez ce que vous voyez ?",
+			"description": "Soutenez l'artiste que vous aimez en partageant leur page sur Paras. Plus de vues feront gagner de la réputation à l'artiste",
+			"button": "Explorer Paras"
 		}
 	},
 	"live_auction": {
-		"title": "Live Auctions",
-		"more": "View more"
+		"title": "Enchères en direct",
+		"more": "Voir plus"
 	}
 }
