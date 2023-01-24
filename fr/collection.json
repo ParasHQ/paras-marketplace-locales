@@ -70,8 +70,8 @@
 		"see_details": "Voir les détails",
 		"hide_details": "Masquer les détails",
 		"total_purchase": "Achat total",
-		"top_up": "xxxxxxxxxxxxxxx Top Up?",
-		"top_up_long_text": "xxxxxxxxxxxx Top Up Balance",
+		"top_up": "Recharger ?",
+		"top_up_long_text": "Recharger le solde",
 		"empty_title": "Votre panier est vide",
 		"empty_description": "Vous pouvez ajouter jusqu'à 10 cartes à bas prix en une seconde",
 		"details": {
