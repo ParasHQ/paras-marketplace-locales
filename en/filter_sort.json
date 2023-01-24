@@ -19,7 +19,15 @@
 			"highest_volume": "Highest Volume",
 			"most_owner": "Most Owner",
 			"highest_fp": "Highest Floor Price",
-			"lowest_fp": "Lowest Floor Price"
+			"lowest_fp": "Lowest Floor Price",
+			"most_recent": "Newest to oldest",
+			"least_recent": "Oldest to newest",
+			"alphabetic": "Alphabetic (A-Z)",
+			"reverse_alphabetic": "Alphabetic (Z-A)",
+			"price_low_to_high": "Low to high price",
+			"price_high_to_low": "High to low price",
+			"edition_high_to_low": "High to low edition amount",
+			"edition_low_to_high": "Low to high edition amount"
 		},
 		"price": "Price",
 		"price_placeholder": {
@@ -54,6 +62,13 @@
 			"multiple": "Multiple of copies"
 		},
 		"status": "Status",
-		"verified": "Verified only"
+		"verified": "Verified only",
+		"selection": "Selection",
+		"selection_option": {
+			"all": "Select All"
+		},
+		"selected": "{{count}} item selected",
+		"button_accept_all": "Accept All Selected",
+		"button_reject_all": "Reject All Selected"
 	}
 }
