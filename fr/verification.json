@@ -8,53 +8,53 @@
 	"success_message": "Soumission réussie",
 	"error_message": "Une erreur s'est produite, veuillez réessayer plus tard",
 	"requirement": {
-		"introduction": "As a Paras artist, you need to be verified to access full features of Paras. Verification gives extra visibility on the marketplace. Currently, non-verified artist's NFTs will not appear on the \"market\" feed. Whole process take 3-4 days.",
-		"steps": "To get verified, you only need to do these steps :",
-		"step_1": "Use a profile picture",
-		"step_2": "Fill in your Bio",
-		"step_3": "Link to your social media on your Paras profile (Twitter and Instagram)",
-		"step_4": "Link to your website (not required but will increase your chances of getting verified)",
-		"step_5": "Have authentic art, you did not steal or have been list your own work on other platform.",
-		"step_6": "You need to create at least 3 NFTs on Paras.",
-		"introduction_2": "It’s also extremely important to remember that becoming verified artist does not grant you instant success.",
-		"introduction_3": "It’s a method to introduce yourself to a bigger community of Paras."
+		"introduction": "En tant qu'artiste de Paras, vous devez être vérifié pour accéder à toutes les fonctionnalités de Paras. La vérification donne une visibilité supplémentaire sur le marché. Actuellement, les NFT des artistes non vérifiés n'apparaissent pas sur le flux \"marché\". L'ensemble du processus prend 3 à 4 jours.",
+		"steps": "Pour être vérifié, il vous suffit de suivre les étapes suivantes :",
+		"step_1": "Utilisez une photo de profil",
+		"step_2": "Remplissez votre Biographie",
+		"step_3": "Lien vers vos médias sociaux sur votre profil Paras (Twitter et Instagram)",
+		"step_4": "Lien vers votre site web (non obligatoire mais augmentera vos chances d'être vérifié)",
+		"step_5": "Ayez un art authentique, vous n'avez pas volé ou listé votre propre travail sur d'autres plateformes",
+		"step_6": "Vous devez créer au moins 3 NFT sur Paras",
+		"introduction_2": "Il est également extrêmement important de se rappeler que le fait de devenir un artiste reconnu ne vous garantit pas un succès instantané!",
+		"introduction_3": "C'est une méthode pour se présenter à une plus grande communauté de Paras"
 	},
 	"form": {
-		"paras_profile_url": "Paras Profile URL",
-		"your_name": "Your Name",
-		"your_name_placehoder": "Type your real name...",
-		"your_name_error": "Please enter your name",
+		"paras_profile_url": "URL du profil de Paras",
+		"your_name": "Votre nom",
+		"your_name_placehoder": "Tapez votre vrai nom...",
+		"your_name_error": "Veuillez entrer votre nom",
 		"email": "Email",
-		"email_placeholder": "Enter valid address...",
-		"email_error": "Please enter your email",
-		"twitter_account": "Twitter Account",
+		"email_placeholder": "Entrez une adresse valide...",
+		"email_error": "Veuillez entrer votre adresse e-mail",
+		"twitter_account": "Compte Twitter",
 		"twitter_account_placeholder": "https://twitter.com/username",
-		"telegram_discord": "Telegram / Discord Account",
-		"telegram_discord_placeholder": "Telegram / Discord account",
+		"telegram_discord": "Compte Telegram / Discord",
+		"telegram_discord_placeholder": "Compte Telegram / Discord",
 		"instagram": "Instagram",
 		"instagram_placeholder": "https://instagram.com/username",
-		"link_error": "Please enter valid link",
-		"recaptcha_error": "Captcha is required",
+		"link_error": "Veuillez entrer un lien valide",
+		"recaptcha_error": "Captcha est requis",
 		"quota": "Quota"
 	},
 	"status": {
-		"description_status": "Whole verification process may take 3-4 days, announced every Wednesday & Saturday. If you are not successfully verified, you can re-submit verification status in the next batch.",
-		"description_status_2": "For further question, you can ask our team on Discord.",
+		"description_status": "L'ensemble du processus de vérification peut prendre 3 à 4 jours, annoncé chaque mercredi et samedi. Si vous n'êtes pas vérifié avec succès, vous pouvez soumettre à nouveau votre statut de vérification dans le prochain lot",
+		"description_status_2": "Pour toute autre question, vous pouvez demander à notre équipe sur Discord",
 		"step_1": {
-			"submitted": "Submitted",
-			"desc": "You have submitted verification request"
+			"submitted": "Soumis",
+			"desc": "Vous avez soumis une demande de vérification"
 		},
 		"step_2": {
-			"in_review": "In Review",
-			"desc": "Your profile is under review by our team"
+			"in_review": "En cours d'examen",
+			"desc": "Votre profil est en cours d'examen par notre équipe"
 		},
 		"step_3": {
-			"result": "Result",
-			"desc": "The result of your verification request. Check your email for details."
+			"result": "Résultat",
+			"desc": "Le résultat de votre demande de vérification. Vérifiez votre e-mail pour plus de détails"
 		}
 	},
 	"verified": {
-		"title": "You are verified!",
-		"share_now": "Share Now"
+		"title": "Vous êtes vérifié !",
+		"share_now": "Partagez maintenant"
 	}
 }
