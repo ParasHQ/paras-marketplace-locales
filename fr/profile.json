@@ -13,7 +13,7 @@
 		"publication": "Publication"
 	},
 	"bio": {
-		"joined": "Inscrit",
+		"joined": "Inscrit depuis",
 		"account_id": "ID compte",
 		"about_me": "A propos de moi",
 		"more": "plus",
@@ -30,7 +30,7 @@
 		"straighten": "Ajuster",
 		"upload": "Télécharger",
 		"edit": "Editer",
-		"save_cover": "Sauvegarder bannière",
+		"save_cover": "Sauvegarder la bannière",
 		"not_allowed_edit": "You dont have permissions to edit if you don't have cover beforely"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	},
 	"followers": "{{count}} Followers",
