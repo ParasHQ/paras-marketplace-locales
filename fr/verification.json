@@ -1,0 +1,60 @@
+{
+	"get_verified": "Get Verified",
+	"verification_form": "Verification Form",
+	"verification_status": "Verification Status",
+	"cancel": "Cancel",
+	"continue": "Continue",
+	"profile": "Profile",
+	"success_message": "success submit submission",
+	"error_message": "Something went wrong, try again later",
+	"requirement": {
+		"introduction": "As a Paras artist, you need to be verified to access full features of Paras. Verification gives extra visibility on the marketplace. Currently, non-verified artist's NFTs will not appear on the \"market\" feed. Whole process take 3-4 days.",
+		"steps": "To get verified, you only need to do these steps :",
+		"step_1": "Use a profile picture",
+		"step_2": "Fill in your Bio",
+		"step_3": "Link to your social media on your Paras profile (Twitter and Instagram)",
+		"step_4": "Link to your website (not required but will increase your chances of getting verified)",
+		"step_5": "Have authentic art, you did not steal or have been list your own work on other platform.",
+		"step_6": "You need to create at least 3 NFTs on Paras.",
+		"introduction_2": "It’s also extremely important to remember that becoming verified artist does not grant you instant success.",
+		"introduction_3": "It’s a method to introduce yourself to a bigger community of Paras."
+	},
+	"form": {
+		"paras_profile_url": "Paras Profile URL",
+		"your_name": "Your Name",
+		"your_name_placehoder": "Type your real name...",
+		"your_name_error": "Please enter your name",
+		"email": "Email",
+		"email_placeholder": "Enter valid address...",
+		"email_error": "Please enter your email",
+		"twitter_account": "Twitter Account",
+		"twitter_account_placeholder": "https://twitter.com/username",
+		"telegram_discord": "Telegram / Discord Account",
+		"telegram_discord_placeholder": "Telegram / Discord account",
+		"instagram": "Instagram",
+		"instagram_placeholder": "https://instagram.com/username",
+		"link_error": "Please enter valid link",
+		"recaptcha_error": "Captcha is required",
+		"quota": "Quota"
+	},
+	"status": {
+		"description_status": "Whole verification process may take 3-4 days, announced every Wednesday & Saturday. If you are not successfully verified, you can re-submit verification status in the next batch.",
+		"description_status_2": "For further question, you can ask our team on Discord.",
+		"step_1": {
+			"submitted": "Submitted",
+			"desc": "You have submitted verification request"
+		},
+		"step_2": {
+			"in_review": "In Review",
+			"desc": "Your profile is under review by our team"
+		},
+		"step_3": {
+			"result": "Result",
+			"desc": "The result of your verification request. Check your email for details."
+		}
+	},
+	"verified": {
+		"title": "You are verified!",
+		"share_now": "Share Now"
+	}
+}
