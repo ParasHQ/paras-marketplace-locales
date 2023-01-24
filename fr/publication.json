@@ -1,0 +1,64 @@
+{
+	"publications": "Publications",
+	"breadcrumbs": {
+		"first": "Publication",
+		"second": "{{breadcrumb}}",
+		"third": "{{pubTitle}}"
+	},
+	"title": "{{pubTitle}}",
+	"description": "{{pubDesc}}",
+	"authorId": "{{authorId}}",
+	"verified": "Verifié",
+	"view_profile": "Voir le Profil",
+	"image": "Image",
+	"video": "Video",
+	"card": "Carte",
+	"collection": "Collection",
+	"pub_type": {
+		"community": "Communauté",
+		"editorial": "Editorial"
+	},
+	"comic_type": "Bande dessinée",
+	"title_page": {
+		"create": "Créer une publication",
+		"edit": "Modifier la publication"
+	},
+	"cancel": "Annuler",
+	"embedded_collectibles": "Objets numériques de collection",
+	"form": {
+		"cover": {
+			"title": "Télécharger la banière",
+			"description": "Fichiers pris en charge: PNG, JPG. Taille maximale de fichier: 30mb"
+		},
+		"teaser": {
+			"title": "Aperçu",
+			"placeholder": "Soyez brefs et intéressants pour attirer les lecteurs..."
+		},
+		"publish": "Publier"
+	},
+	"modal": {
+		"add_video": {
+			"label": "Intégrer une vidéo",
+			"placeholder": "URL de la vidéo",
+			"description": "Veuillez entrer le lien de la vidéo youtube",
+			"button": "Ajouter une vidéo"
+		},
+		"add_card": {
+			"label": "Ajouter une carte à votre publication",
+			"placeholder": "URL du jeton non fongible",
+			"description": "Veuillez entrer le lien de votre jeton non fongible\nhttps://paras.id/token/x.paras.near::1",
+			"button": "Ajouter une carte"
+		},
+		"add_collection": {
+			"label": "Ajouter une collection à votre publication",
+			"placeholder": "URL de la collection",
+			"description": "Veuillez entrer le lien de votre collection\nhttps://paras.id/collection/paradigm",
+			"button": "Ajouter une collection"
+		}
+	},
+	"delete": "Supprimer",
+	"text_editor": {
+		"title": "Titre",
+		"placeholder": "Racontez une histoire..."
+	}
+}
