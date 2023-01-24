@@ -1,0 +1,96 @@
+{
+	"three_dots": {
+		"go_to_creator": "Go to Creator's profile",
+		"contract_nearblocks": "Contract on nearblocks.io",
+		"report_collection": "Report Collection",
+		"edit_logo": "Edit & Upload logo",
+		"edit_cover": "Edit & Upload cover"
+	},
+	"action_logo_cover": {
+		"collection_logo": "Collection Logo",
+		"collection_cover": "Collection Cover",
+		"zoom": "Zoom",
+		"straighten": "Straighten",
+		"upload": "Upload",
+		"edit": "Edit",
+		"save_logo": "Save logo",
+		"save_cover": "Save cover",
+		"not_allowed_edit": "You dont have permissions to edit if you don't have cover beforely"
+	},
+	"creator": "Creator",
+	"verified_creator": "Verified Creator",
+	"share": "Share",
+	"collection_stats": {
+		"total_volume": "Total Volume",
+		"floor_price": "Floor Price",
+		"average_price": "Average Price",
+		"listed_items": "Listed Items",
+		"total_items": "Total Items",
+		"total_owners": "Total Owners"
+	},
+	"bio": {
+		"created": "Created",
+		"contract": "Contract",
+		"view_on": "View on {{nearblock}}",
+		"description": "Description",
+		"more": "More",
+		"less": "Less",
+		"read_about": "Read about",
+		"this_collection": "this collection",
+		"links": "Links",
+		"edit_bio": "Edit Bio",
+		"cancel": "Cancel",
+		"placeholder": "Tell a story about your collection",
+		"edit": "Edit"
+	},
+	"cards": "Cards",
+	"about": "About",
+	"activity": "Activity",
+	"tracker": "Tracker",
+	"search": "Search",
+	"filter_attributes": {
+		"filter_by_attributes": "Filter by attributes",
+		"reset": "Reset",
+		"apply": "Apply"
+	},
+	"same_creator": "From same creator",
+	"more": "More",
+	"sweep": {
+		"sweep_floor": "Sweep Floor",
+		"sweep_floor_tooltip": "You can buy faster up to 10 lowest-price cards.",
+		"close": "Close",
+		"total_items": "Total Items",
+		"items": "Items",
+		"your_balance": "Your Balance",
+		"auto_swap": "Auto swap items",
+		"auto_swap_tooltip": "Automatically swap items that are sold or delisted while sweeping.",
+		"on": "On",
+		"off": "Off",
+		"cart": "Sweep Floor Cart",
+		"see_details": "See details",
+		"hide_details": "Hide details",
+		"total_purchase": "Total Purchase",
+		"top_up": "Top Up?",
+		"top_up_long_text": "Top Up Balance",
+		"empty_title": "Your cart is empty",
+		"empty_description": "You can add up to 10 lowest-price\n cards in a second.",
+		"details": {
+			"subtotal_one": "Subtotal ({{count}} item)",
+			"subtotal_other": "Subtotal ({{count}} items)",
+			"fee": "Storage Fee",
+			"total_purchase": "Total Purchase",
+			"your_balance": "Your Balance",
+			"confirm_redirect": "You will be redirected to your wallet to confirm your transaction."
+		},
+		"button_buy": "Confirm Buy",
+		"button_refresh": "Refresh",
+		"error": {
+			"error_not_enough_balance": "Not enough balance",
+			"error_price_changed": "Price changed",
+			"error_unavailable": "Unavailable",
+			"error_maximum": "Cannot add to cart more than {{items}} items."
+		},
+		"item_removed": "Item removed",
+		"item_added": "1 item added to sweep floor cart."
+	}
+}
