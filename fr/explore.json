@@ -1,0 +1,48 @@
+{
+	"fresh_on_market": "Nouveautés sur le marché",
+	"search": "Recherche: '{{query}}'",
+	"explore_top_collections": "Collections populaires",
+	"explore_featured_collections": "Collections vedettes",
+	"explore_cards": "Explorer les cartes",
+	"explore_collections": "Explorer les collections",
+	"explore_profiles": "Explorer les profils",
+	"explore_publication": "Explorer les publications",
+	"last_week": "Les 7 derniers jours",
+	"tab": {
+		"collections": "Collections",
+		"cards": "Cartes",
+		"publications": "Publications",
+		"profiles": "Profils"
+	},
+	"submission": {
+		"nft_title": "Titre NFT",
+		"collection": "Collection",
+		"creator": "Créateur",
+		"floor": "Prix minimum",
+		"price": "Prix",
+		"no_price": "Pas de prix",
+		"edition_of": "Edition de",
+		"button_accept": "Accepter",
+		"button_reject": "Rejeter",
+		"search_placeholder": "Rechercher NFT...",
+		"total": "Total: {{total}} NFTs",
+		"learn_more": "En savoir plus",
+		"verified": "Créateur vérifié",
+		"modal_accept": {
+			"title_one": "Voulez-vous accepter {{count}} article ?",
+			"title_other": "Voulez-vous accepter {{count}} articles ?",
+			"description_single": "Vous allez accepter la carte {{card_name}} dans la catégorie {{category_name}}",
+			"description_multiple": "Vous allez accepter {{count}} cartes dans la catégorie {{category_name}}",
+			"button_accept": "Oui",
+			"button_reject": "Annuler"
+		},
+		"modal_reject": {
+			"title_one": "Voulez-vous rejeter {{count}} article ?",
+			"title_other": "Voulez-vous rejeter {{count}} articles ?",
+			"description_single": "Vous allez rejeter la carte {{card_name}} dans la catégorie {{category_name}}",
+			"description_multiple": "Vous allez rejeter les cartes {{count}} dans la catégorie {{category_name}}",
+			"button_accept": "Oui",
+			"button_reject": "Annuler"
+		}
+	}
+}
