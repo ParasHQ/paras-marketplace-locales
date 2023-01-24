@@ -26,49 +26,49 @@
 			"reverse_alphabetic": "Alphabétique  (Z-A)",
 			"price_low_to_high": "Prix bas à élevé",
 			"price_high_to_low": "Prix élevé à bas",
-			"edition_high_to_low": "Quantité d'édition élevée à basse",
-			"edition_low_to_high": "Quantité d'édition basse à élevée"
+			"edition_high_to_low": "Q. d'édition élevée à basse",
+			"edition_low_to_high": "Q. d'édition basse à élevée"
 		},
-		"price": "Price",
+		"price": "Prix",
 		"price_placeholder": {
-			"lowest": "Lowest...",
-			"highest": "Highest...",
-			"valid": "Highest price cannot lower than lowest price",
-			"info": "Press enter to update price"
+			"lowest": "Le plus bas...",
+			"highest": "Le plus élevé...",
+			"valid": "Le prix le plus élevé ne peut pas être inférieur au prix le plus bas",
+			"info": "Appuyez sur Entrée pour mettre à jour le prix"
 		},
 		"type": "Type:",
 		"type_option": {
-			"all": "Show All",
-			"for_sale": "For Sale",
-			"sales": "Sales",
-			"listed": "Listed",
-			"transfer": "Transfer",
-			"auction": "Auction",
-			"offer": "Offer",
-			"created": "Created",
-			"minted": "Minted",
-			"burned": "Burned",
-			"available_offer": "Available for offer",
-			"on_auction": "On Auction",
-			"fresh": "Fresh from creator",
-			"community": "Community",
+			"all": "Montrer tout",
+			"for_sale": "A vendre",
+			"sales": "Ventes",
+			"listed": "Listé",
+			"transfer": "Transfert",
+			"auction": "Enchère",
+			"offer": "Offre",
+			"created": "Créé",
+			"minted": "Emission",
+			"burned": "Brûlé",
+			"available_offer": "Dispo pour offre",
+			"on_auction": "En enchère",
+			"fresh": "Nouveau",
+			"community": "Communauté",
 			"editorial": "Editorial",
-			"owned": "Card Owned"
+			"owned": "Carte détenue"
 		},
 		"edition": "Edition",
 		"edition_option": {
-			"all": "Show All",
-			"one": "Edition of 1",
-			"multiple": "Multiple of copies"
+			"all": "Montrer tout",
+			"one": "Edition de 1",
+			"multiple": "Copies multiples"
 		},
-		"status": "Status",
-		"verified": "Verified only",
-		"selection": "Selection",
+		"status": "Statut",
+		"verified": "Vérifié uniquement",
+		"selection": "Sélection",
 		"selection_option": {
-			"all": "Select All"
+			"all": "Sélectionner tout"
 		},
 		"selected": "{{count}} item selected",
-		"button_accept_all": "Accept All Selected",
-		"button_reject_all": "Reject All Selected"
+		"button_accept_all": "Accepter la sélection",
+		"button_reject_all": "Rejeter la sélection"
 	}
 }
