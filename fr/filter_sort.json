@@ -6,28 +6,28 @@
 		"secondary_button": "Annuler",
 		"sort_by": "Trier par",
 		"sort_by_option": {
-			"market_update": "Mise à jour du marché",
-			"card_created": "Récemment listées",
+			"market_update": "Mise à jour du Marché",
+			"card_created": "Récemment Listées",
 			"lowest_price": "Prix le plus bas",
 			"highest_price": "Prix le plus haut",
 			"auction_ends_soon": "Enchère se terminant bientôt",
-			"rare_to_common": "Rare à commune",
-			"recently_published": "Récemment publiées",
-			"most_viewed": "Les plus vues",
-			"most_liked": "Les plus aimées",
-			"collection_created": "Récemment créées",
+			"rare_to_common": "Rare à Commune",
+			"recently_published": "Récemment Publiées",
+			"most_viewed": "Les plus Vues",
+			"most_liked": "Les plus Likées",
+			"collection_created": "Récemment Créées",
 			"highest_volume": "Volume le plus élevé",
-			"most_owner": "Le plus de propriétaires",
+			"most_owner": "Le plus de Propriétaires",
 			"highest_fp": "Prix le plus élevé",
 			"lowest_fp": "Prix le moins élevé",
-			"most_recent": "Récentes à anciennes",
-			"least_recent": "Anciennes à récentes",
+			"most_recent": "Récentes à Anciennes",
+			"least_recent": "Anciennes à Récentes",
 			"alphabetic": "Alphabétique  (A-Z)",
 			"reverse_alphabetic": "Alphabétique  (Z-A)",
 			"price_low_to_high": "Prix bas à élevé",
 			"price_high_to_low": "Prix élevé à bas",
-			"edition_high_to_low": "Q. d'édition élevée à basse",
-			"edition_low_to_high": "Q. d'édition basse à élevée"
+			"edition_high_to_low": "Q. édition élevée à basse",
+			"edition_low_to_high": "Q. édition basse à élevée"
 		},
 		"price": "Prix",
 		"price_placeholder": {
@@ -38,17 +38,17 @@
 		},
 		"type": "Type:",
 		"type_option": {
-			"all": "Montrer tout",
-			"for_sale": "A vendre",
+			"all": "Montrer Tout",
+			"for_sale": "A vendre",**************************************************************************
 			"sales": "Ventes",
 			"listed": "Listées",
 			"transfer": "Transferts",
 			"auction": "Enchères",
 			"offer": "Offres",
 			"created": "Créés",
-			"minted": "Emissions",
+			"minted": "Emissions",*****************************************************************
 			"burned": "Brûlées",
-			"available_offer": "Dispo. pour offre",
+			"available_offer": "Dispo. pour Offre",
 			"on_auction": "Enchères en cours",
 			"fresh": "Nouveautés",
 			"community": "Communautés",
@@ -57,15 +57,15 @@
 		},
 		"edition": "Edition",
 		"edition_option": {
-			"all": "Montrer tout",
+			"all": "Montrer Tout",
 			"one": "Edition de 1",
-			"multiple": "Copies multiples"
+			"multiple": "Copies Multiples"
 		},
 		"status": "Statut",
-		"verified": "Vérifié uniquement",
+		"verified": "Vérifié Uniquement",
 		"selection": "Sélection",
 		"selection_option": {
-			"all": "Sélectionner tout"
+			"all": "Sélectionner Tout"
 		},
 		"selected": "{{count}} articles sélectionnés",
 		"button_accept_all": "Accepter la sélection",
