@@ -14,16 +14,16 @@
 		"step_2": "Remplissez votre Biographie",
 		"step_3": "Lien vers vos médias sociaux sur votre profil Paras (Twitter et Instagram)",
 		"step_4": "Lien vers votre site web (non obligatoire mais augmentera vos chances d'être vérifié)",
-		"step_5": "Ayez un art authentique, vous n'avez pas volé ou listé votre propre travail sur d'autres plateformes",
-		"step_6": "Vous devez créer au moins 3 NFT sur Paras",
+		"step_5": "Ayez un art authentique et vous n'avez pas volé ou listé votre propre travail sur d'autres plateformes",
+		"step_6": "Vous devez créer au moins 3 NFTs sur Paras",
 		"introduction_2": "Il est également extrêmement important de se rappeler que le fait de devenir un artiste reconnu ne vous garantit pas un succès instantané!",
 		"introduction_3": "C'est une méthode pour se présenter à une plus grande communauté de Paras"
 	},
 	"form": {
 		"paras_profile_url": "URL du profil de Paras",
-		"your_name": "Votre nom",
-		"your_name_placehoder": "Tapez votre vrai nom...",
-		"your_name_error": "Veuillez entrer votre nom",
+		"your_name": "Votre Nom",
+		"your_name_placehoder": "Tapez votre vrai Nom...",
+		"your_name_error": "Veuillez entrer votre Nom",
 		"email": "Email",
 		"email_placeholder": "Entrez une adresse valide...",
 		"email_error": "Veuillez entrer votre adresse e-mail",
@@ -54,7 +54,7 @@
 		}
 	},
 	"verified": {
-		"title": "Vous êtes vérifié !",
+		"title": "Vous êtes Vérifié !",
 		"share_now": "Partagez maintenant"
 	}
 }
