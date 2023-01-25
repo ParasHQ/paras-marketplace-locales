@@ -137,7 +137,9 @@
 		"smart_contract": "Samrt Contract",
 		"image_link": "Image Link",
 		"locked_fee": "Locked Fee",
-		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee."
+		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee.",
+		"token_id": "Token ID",
+		"token_series_id": "Token Series ID"
 	},
 	"publications": {
 		"publications": "Publications",
