@@ -39,10 +39,10 @@
 			"active_offers": "Offre(s) active(s)",
 			"no_offer": "Aucune Offre pour le moment",
 			"highest_offer": "Offre la plus élevée",
-			"offer_higher": "Faire une offre plus élevée",
+			"offer_higher": "Faire une Offre plus élevée",
 			"lowest_offer": "Offre la plus basse",
 			"all_offers": "Toutes les Offres actives",
-			"send_offer": "Envoyer une Pffre",
+			"send_offer": "Envoyer une Offre",
 			"accept": "Accepter",
 			"delete": "Supprimer",
 			"no_trade": "Aucun échange pour le moment",
@@ -60,14 +60,14 @@
 	},
 	"dashed_info": {
 		"own_by": "Possédé par",
-		"owners": "Propriétaire",
+		"owners": "Propriétaires",
 		"nft_edition_copies": "NFT Edition / Copies",
 		"tooltip_nft_edition_copies": "Nombre de copies de cette Carte",
 		"rarity_score": "Rarity Score",
 		"rank": "Rang",
 		"rarity_score_rank": "Rang / Score de rareté",
 		"creator_royalty": "Droits d'auteurs",
-		"tootlip_creator_royalty": "Pourcentage de chaque vente alloué pour soutenir les créateurs"
+		"tootlip_creator_royalty": "Pourcentage de chaque vente alloué pour soutenir les Créateurs"
 	},
 	"other_card": {
 		"same_collection": "Même Collection",
@@ -88,7 +88,7 @@
 		"sort_lowest_price": "Prix le plus bas",
 		"sort_highest_price": "Prix le plus élevé",
 		"sort_lowest_edition": "Édition la plus basse",
-		"sort_highest_edition": "Édition la plus haute",
+		"sort_highest_edition": "Édition la plus élevé",
 		"sort_az": "Nom d'utilisateur A-Z",
 		"sort_za": "Nom d'utilisateur Z-A",
 		"owners": "Propriétaires",
@@ -103,44 +103,44 @@
 	"histories": {
 		"history": "Historique",
 		"no_history": "Aucun historique pour le moment",
-		"put_on_auction": "a mis en vente aux enchères pour",
-		"add_bid_for": "a fait une offre pour",
-		"cancel_bid_from_auction": "a annulé une offre aux enchères",
-		"put_on_sale": "a mis en vente pour",
-		"added_offer_nft_trade": "a ajouté une offre d'échange NFT",
-		"deleted_offer_nft_trade": "a supprimé une offre d'échange NFT",
+		"put_on_auction": "a mis en Vente aux Enchères pour",
+		"add_bid_for": "a fait une Offre pour",
+		"cancel_bid_from_auction": "a annulé une Offre aux Enchères",
+		"put_on_sale": "a mis en Vente pour",
+		"added_offer_nft_trade": "a ajouté une Offre d'échange NFT",
+		"deleted_offer_nft_trade": "a supprimé une Offre d'échange NFT",
 		"accept_nft_trade": "a accepté un échange NFT",
-		"remove_from_sale": "a retiré de la vente",
-		"staked_to": "staked to",
+		"remove_from_sale": "a retiré de la Vente",
+		"staked_to": "staked to",**********************************************************
 		"bought_from": "a acheté à",
 		"for": "pour",
 		"minted": "mint",
 		"minted_by": "Mint by",
 		"burned": "a brûlé",
-		"accept_offer": "a accepté une offre de",
-		"with_auction_for": "avec une vente aux enchères pour",
+		"accept_offer": "a accepté une Offre de",
+		"with_auction_for": "avec une Vente aux Enchères pour",
 		"transferred_to": "a transféré à",
 		"series_created_by": "Série créée par",
 		"creator_put_series_not_sale": "Le créateur a mis la série en non-disponible",
-		"creator_put_series_sale_for": "Le créateur a mis la série en vente pour",
+		"creator_put_series_sale_for": "Le créateur a mis la série en Vente pour",
 		"creator_put_series_nonmintable": "Le créateur a mis la série en non mintable",
 		"creator_decrease_series": "Le créateur a diminué les exemplaires de la série à",
-		"add_offer_for": "a ajouté une offre pour",
-		"removed_for": "a supprimé une offre"
+		"add_offer_for": "a ajouté une Offre pour",
+		"removed_for": "a supprimé une Offre"
 	},
 	"description": {
-		"description": "Description",*****************************************************************************************
-		"no_description": "No Description"
+		"description": "Description",
+		"no_description": "Pas de description"
 	},
 	"token_info": {
 		"token_info": "Token Info",
-		"smart_contract": "Samrt Contract",
-		"image_link": "Image Link",
-		"locked_fee": "Locked Fee",
-		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee."
+		"smart_contract": "Smart Contract",
+		"image_link": "Lien de l'image",
+		"locked_fee": "Frais bloqués",
+		"tooltip_locked_fee": "Il s'agit des frais de transaction bloqués actuels. Chaque mise à jour du prix NFT mettra également à jour la valeur en fonction des frais de transaction globaux"
 	},
 	"publications": {
 		"publications": "Publications",
-		"no_publication": "No Publication at the moment"
+		"no_publication": "Pas de Publication pour le moment"
 	}
 }
