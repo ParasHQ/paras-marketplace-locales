@@ -21,10 +21,10 @@
 	"verified_creator": "Créateur vérifié",
 	"share": "Partager",
 	"collection_stats": {
-		"total_volume": "Volume total",
-		"floor_price": "Prix plancher",
-		"average_price": "Prix moyen",
-		"listed_items": "Articles listés",
+		"total_volume": "Volume Total",
+		"floor_price": "Prix Plancher",
+		"average_price": "Prix Moyen",
+		"listed_items": "Articles Listés",
 		"total_items": "Nombre total d'articles",
 		"total_owners": "Nombre total de propriétaires"
 	},
