@@ -190,7 +190,7 @@
 			"place_an_offer": "Faire une Offre",
 			"edit_listing": "Editer Listing",
 			"lowest_price": "Prix le plus bas",
-			"min_bid": "Offre Minimale",
+			"min_bid": "Enchère Minimale",
 			"start_from": "Commence à partir de"
 		},
 		"rarity": " Rareté {{rarity}}",
@@ -205,11 +205,11 @@
 		"button_buy": "Acheter Maintenant",
 		"button_place_an_offer": "Faire Offre",
 		"button_edit_listing": "Editer Listing",
-		"button_bid": "Faire Offre",
+		"button_bid": "Placer une Enchère",**************************************
 		"button_mint": "Mint",
 		"button_buy_short": "Acheter",
 		"button_place_an_offer_short": "Offre",'*****************************************'
-		"button_bid_short": "Offre",'*******************************************************'
+		"button_bid_short": "Enchère",'*******************************************************'
 		"button_see_owners": "Voir Propriétaires"
 	},
 	"profile": {
@@ -239,8 +239,8 @@
 			"accept_trade": "Accepter l'échange",
 			"decrease_copy": "Réduire les copies",
 			"auction": "Enchère",
-			"bid": "Faire une Offre",
-			"cancel_bid": "Annuler l'Offre"
+			"bid": "Placer une Enchère",*******************************************
+			"cancel_bid": "Annuler l'Enchère"*********************************************
 		},
 		"floor": "Prix Plancher {{floor}} "
 	},
