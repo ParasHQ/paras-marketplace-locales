@@ -72,7 +72,7 @@
 		"apply_launchpad": "Lancement de NFT",
 		"my_offer": "Mes Offres",
 		"setting": "Paramétrage",
-		"my_ramper_wallet": "My Ramper Wallet",***********************************************************************************
+		"my_ramper_wallet": "Mon portefeuille Ramper",
 		"switch_wallet": "Changer de portefeuille",
 		"logout": "Se déconnecter",
 		"top_up_near": "Acheter Near avec Fiat",
@@ -84,7 +84,7 @@
 		"title-page": "Toutes les Notifications",
 		"show_all": "Montrer Tout",
 		"see_more": "Voir Plus",
-		"action": "Action",********************************************************************
+		"action": "Action",
 		"link": "Lien",
 		"notification_level_up": "<semibold>Congratulations, You're now a {{currLevel}} Member!</semibold>",
 		"notification_level_up_detail": "You can register for a raffle on {{timePeriod}}. Read more here 👉 <linkLoyalty>Loyalty</linkLoyalty>",
@@ -250,7 +250,7 @@
 	"top_seller": {
 		"title": "Meilleures Vendeurs",
 		"total_sales": "Ventes Totales",
-		"card_sold": "Carte(s) vendue(s)"
+		"card_sold": "Carte(s) Vendue(s)"
 	},
 	"cropper": {
 		"title": "Recadrer l'image",
@@ -348,37 +348,37 @@
 		"yes": "Yes",
 		"confirm_buy": "Confirm Buy"
 	},
-	"edition_text_internal_token": "NFT | {{edition}} of {{copies}}",
+	"edition_text_internal_token": "NFT | {{edition}} de {{copies}}",
 	"edition_text_external_token": "NFT | {{edition}}",
-	"edition_text_multiple_token_series": "SERIES | Edition of {{edition}}",
+	"edition_text_multiple_token_series": "SERIES | Edition de {{edition}}",
 	"edition_text_1of1_token_series": "Open Edition",
 	"likes": {
-		"success_like": "Like card {{title}} was successfully",
-		"success_unlike": "Unlike card {{title}} was successfully"
+		"success_like": "Carte {{title}} ajoutée aux favoris",
+		"success_unlike": "Carte {{title}} supprimée des favoris"
 	},
 	"popup": {
 		"loyalty": {
-			"signup_for_raffle": "Sign Up For {{currLevel}} Raffle Now!",
-			"signup_for_raffle_detail": "Click 'Sign Up' & get a chance to win exclusive rewards for {{currLevel}} member.",
-			"registered_signup_for_raffle": "Confirmation of Raffle Entry",
-			"registered_signup_for_raffle_detail": "You’ve been registered for the raffle. Thank you & good luck! ✨",
-			"won_raffle": "Congratulations, {{account}}!",
-			"won_token_raffle_detail": "You have won {{amountToken}} $PARAS from Paras Loyalty raffle!<br/>Read more about the rewards <linkLoyalty>here</linkLoyalty>.",
-			"won_nft_raffle_detail": "You have won a {{cardName}} from Paras Loyalty!<br/>We will send it to your account in 1x24 hours.",
-			"read_more_rewards": "Read more about the rewards <linkLoyalty>here</linkLoyalty>.",
-			"dont_show_again": "Don’t show this message again",
-			"next_time": "Next Time",
-			"sign_up": "Sign Up",
-			"close": "Close",
-			"share": "Share"
+			"signup_for_raffle": "Inscrivez-vous pour le tirage au sort {{currLevel}} maintenant!",
+			"signup_for_raffle_detail": "Cliquez sur 'S'inscrire' et tentez de remporter des récompenses exclusives pour les membres {{currLevel}}",
+			"registered_signup_for_raffle": "Confirmation de l'inscription au tirage au sort",
+			"registered_signup_for_raffle_detail": "Vous avez été enregistré pour le tirage au sort. Merci et bonne chance! ✨",
+			"won_raffle": "Félicitations, {{account}}!",
+			"won_token_raffle_detail": "Vous avez gagné {{amountToken}} $PARAS du tirage au sort fidélité Paras!<br/>En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+			"won_nft_raffle_detail": "Vous avez gagné un {{cardName}} de Paras Loyalty !<br/>Nous vous l'enverrons sur votre compte dans les 24 heures",
+			"read_more_rewards": "En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+			"dont_show_again": "Ne plus afficher ce message",
+			"next_time": "La prochaine fois",
+			"sign_up": "S'inscrire",
+			"close": "Fermer",
+			"share": "Partager"
 		}
 	},
 	"badge_profile": {
-		"star_creator": "One of this artist's collections has made it to the Top Collections.",
-		"apex_collector": "Top 30 collectors over the last 7 days.",
-		"verified": "This artist has been verified."
+		"star_creator": "Une des Collections de cet Artiste a été classée parmi les Meilleures Collections",
+		"apex_collector": "Les 30 Meilleurs Collectionneurs des 7 derniers jours",
+		"verified": "Cet Artiste a été Vérifié"
 	},
 	"badge_collection": {
-		"top_collection": "Top 30 collections over the last 7 days."
+		"top_collection": "Les 30 Meilleures Collections des 7 derniers jours"
 	}
 }
