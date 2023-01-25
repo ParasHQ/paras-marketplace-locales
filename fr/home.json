@@ -1,42 +1,42 @@
 {
 	"hero": {
-		"title": "La meilleure plateforme pour",
-		"subtitle": "les NFTs numériques à collectionner",
-		"description": "<text>Bienvenue sur la plateforme sociale tout-en-un pour acheter,\n vendre et créer des NFT sur </text><NearLink>Near Protocol</NearLink>",
+		"title": "La meilleure Plateforme pour",
+		"subtitle": "les NFTs Numériques à Collectionner",
+		"description": "<text>Bienvenue sur la Plateforme Sociale tout-en-un pour Acheter,\n Vendre et Créer des NFT sur </text><NearLink>Near Protocol</NearLink>",
 		"primary_button": "Explorer",
 		"secondary_button": "En savoir plus"
 	},
-	"featured_collection": "Collections vedettes",
+	"featured_collection": "Collections Vedettes",
 	"activity_you_follow": "Activité que vous suivez",
 	"top_collection": {
-		"title": "Meilleures collections",
+		"title": "Meilleures Collections",
 		"last_7_d": "Les 7 derniers jours",
 		"more": "Voir plus"
 	},
-	"mint_calendar": "Calendrier des émissions de NFTs (Mint)",
+	"mint_calendar": "Calendrier des Emissions de NFTs",******************************************************************
 	"whats_new": "Quoi de neuf",
 	"highest_sale": {
 		"title": "Ventes les plus élevées",
 		"last_24_h": "Les 24 dernières heures"
 	},
 	"apex_collectior": {
-		"title": "Grands collectionneurs",
+		"title": "Grands Collectionneurs",
 		"more": "Voir plus"
 	},
 	"guide": {
 		"1": {
 			"title": "Nouveau sur Paras ?",
-			"description": "Paras est une plateforme sociale tout-en-un pour les créateurs et les collectionneurs qui utilisent <DescLink>Near Wallet</DescLink>",
+			"description": "Paras est une Plateforme Sociale tout-en-un pour les Créateurs et les Collectionneurs qui utilisent <DescLink>Near Wallet</DescLink>",
 			"button": "À propos de nous"
 		},
 		"2": {
 			"title": "Avez-vous des œuvres d'art ?",
-			"description": "Partagez vos œuvres d'art ou projets sous forme de NFT et bénéficiez des ventes et des redevances futures",
+			"description": "Partagez vos œuvres d'art ou projets sous forme de NFT et bénéficiez des ventes et des droits d'auteur futurs",
 			"button": "Commencer maintenant"
 		},
 		"3": {
 			"title": "Voulez-vous gagner de l'argent ?",
-			"description": "Chassez les collections NFT les plus rares et les plus prisées et devenez <DescLink>un Grand Collectionneur</DescLink>",
+			"description": "Chassez les Collections NFT les plus rares et les plus prisées et devenez <DescLink>un Grand Collectionneur</DescLink>",
 			"button": "Connecter Near Wallet"
 		},
 		"4": {
@@ -46,7 +46,7 @@
 		}
 	},
 	"live_auction": {
-		"title": "Enchères en direct",
+		"title": "Enchères en cours",
 		"more": "Voir plus"
 	}
 }
