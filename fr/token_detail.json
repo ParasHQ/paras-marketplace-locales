@@ -24,13 +24,13 @@
 		"bidding_list": {
 			"auction_ends_in_token": "La Vente aux Enchères se termine dans {{days}} jours, {{hours}} {{mins}} {{secs}}s",
 			"auction_ends_in_token_series": "Certaines éditions sont en vente aux Enchères",
-			"summary_bid": "Résumé des Offres",
+			"summary_bid": "Résumé des Enchères",
 			"since": "depuis le début",
-			"place_recent_bid": "Faire une Offre récente ",
-			"bid": "Offre",
-			"start_bid": "Faire une Offre de départ",
-			"place_bid": "Faire une Offre",
-			"no_bid": "Aucun enchérisseur pour le moment"
+			"place_recent_bid": "Placer une Enchère récente ",
+			"bid": "Enchère",
+			"start_bid": "Placer une Enchère de départ",
+			"place_bid": "Placer une Enchère",
+			"no_bid": "Aucune Enchère pour le moment"
 		},
 		"offer_list": {
 			"active_offering": "Offres actives",
@@ -115,7 +115,7 @@
 		"bought_from": "a acheté à",
 		"for": "pour",
 		"minted": "mint",
-		"minted_by": "Mint by",
+		"minted_by": "Mint par",
 		"burned": "a brûlé",
 		"accept_offer": "a accepté une Offre de",
 		"with_auction_for": "avec une Vente aux Enchères pour",
