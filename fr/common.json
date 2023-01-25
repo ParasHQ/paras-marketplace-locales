@@ -195,9 +195,9 @@
 		},
 		"rarity": " Rareté {{rarity}}",
 		"floor": "Prix Plancher {{floor}} ",
-		"time_left_auction": "Cette Carte est en vente aux enchères qui se termine dans {{days}} jours et {{hours}}:{{mins}}:{{secs}}",
-		"time_left_auction_short": "Fin de l'enchère dans \n{{days}}J {{hours}}:{{mins}}:{{secs}}",
-		"some_card_auction": "Certaines Cartes de cette édition sont en vente aux enchères",
+		"time_left_auction": "Cette Carte est en Vente aux Enchères qui se termine dans {{days}} jours et {{hours}}:{{mins}}:{{secs}}",
+		"time_left_auction_short": "Fin de l'Enchère dans \n{{days}}J {{hours}}:{{mins}}:{{secs}}",
+		"some_card_auction": "Certaines Cartes de cette édition sont en Vente aux Enchères",
 		"staked_by_owner": "Cet NFT est actuellement détenu par {{owner}}",
 		"staked_by_owner_short": "Détenu par \n {{owner}}",
 		"button_share": "Partager",
@@ -238,7 +238,7 @@
 			"delete_trade": "Supprimer l'échange",
 			"accept_trade": "Accepter l'échange",
 			"decrease_copy": "Réduire les copies",
-			"auction": "Enchère",
+			"auction": "Vente aux Enchère",
 			"bid": "Placer une Enchère",*******************************************
 			"cancel_bid": "Annuler l'Enchère"*********************************************
 		},
