@@ -5,8 +5,8 @@
 		"learn more": "En savoir plus"
 	},
 	"tooltip": {
-		"submit_new_card": "Soumettre avec la nouvelle carte",
-		"submit_existing_card": "Soumettre avec la carte existante"
+		"submit_new_card": "Soumettre avec la nouvelle Carte",
+		"submit_existing_card": "Soumettre avec la Carte existante"
 	},
 	"stats": {
 		"event_period": "Période de l'événement",
@@ -15,21 +15,21 @@
 	"existingCard": {
 		"titleModal": "{{title}}",
 		"descModal": "{{desc}}",
-		"c4c_desc": "Les commissaires-priseurs examineront votre soumission de carte. Seules les cartes qui répondent aux exigences de Card4Card sont affichées ci-dessous"
+		"c4c_desc": "Les commissaires-priseurs examineront votre soumission de Carte. Seules les Cartes qui répondent aux exigences de Card4Card sont affichées ci-dessous"
 	},
 	"common": {
-		"no_eligible_cards": "Aucune carte éligible dans cette collection",
-		"card_must_meet": "Votre carte doit répondre aux exigences de <Span>Card4Card</Span>",
-		"no_cards_basic": "Aucune carte dans cette collection",
-		"want_create": "<Span>Voulez-vous créer une carte?</Span>",
+		"no_eligible_cards": "Aucune Carte éligible dans cette Collection",
+		"card_must_meet": "Votre Carte doit répondre aux exigences de <Span>Card4Card</Span>",
+		"no_cards_basic": "Aucune Carte dans cette Collection",
+		"want_create": "<Span>Voulez-vous créer une Carte?</Span>",
 		"aggree_card_sumbission": "Je suis d'accord avec le <Span>processus Card4Card</Span>",
 		"submit": "Soumettre",
 		"cancel": "Annuler",
 		"all_categories": "Toutes les catégories",
-		"select_cards": "Vos cartes sélectionnées"
+		"select_cards": "Vos Cartes sélectionnées"
 	},
 	"messages": {
-		"success": "Merci pour votre soumission. La soumission de la carte a réussi",
+		"success": "Merci pour votre soumission. La soumission de la Carte a réussi",
 		"error": "Quelque chose s'est mal passé, veuillez réessayer plus tard",
 		"maxSubmit": "Impossible de soumettre plus de 30 articles",
 		"limitQuota": "Désolé, vous avez atteint la limite de soumission de 100 articles par jour pour la catégorie {{type}}"
