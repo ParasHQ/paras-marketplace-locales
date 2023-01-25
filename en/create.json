@@ -95,7 +95,8 @@
 		},
 		"category": "Category",
 		"category_tooltip": "Adding category will help your card more discoverable on the market. Once you've applied a category, you can't change it later.",
-		"unset": "Unset"
+		"unset": "Unset",
+		"you_cant_change_category": "You can’t change the category."
 	},
 	"form_thumbnail": {
 		"title": "Thumbnail for create card",
