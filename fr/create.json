@@ -57,7 +57,7 @@
 		"label": "Etiquette",
 		"label_placeholder": "ex: Couleur de fond",
 		"label_error": "L'étiquette est requise",
-		"informative_create_attribute": "Les attributs que vous enregistrez seront disponibles pour les utiliser pour les prochaines Cartes dans la même collection. Les attributs assignés ne peuvent pas être modifiés ou supprimés après la publication de la Carte."
+		"informative_create_attribute": "Les attributs que vous enregistrez seront disponibles pour les utiliser pour les prochaines Cartes dans la même Collection. Les attributs assignés ne peuvent pas être modifiés ou supprimés après la publication de la Carte."
 	},
 	"form_card_details": {
 		"card_details": "Détails de la Carte",
