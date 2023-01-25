@@ -1,0 +1,146 @@
+{
+	"banner_image": {
+		"share": "Partager",
+		"copy_link": "Copier le lien",
+		"play": "PLAY"
+	},
+	"top_info": {
+		"three_dots": {
+			"burn_nft": "Brûler le NFT",
+			"transfer_nft": "Transférer le NFT",
+			"offer_nft": "Offrir via NFT",
+			"see_token_series": "Voir la Série",
+			"report_card": "Signaler la Carte"
+		},
+		"sale_type": {
+			"on_auction": "En vente aux Enchères",
+			"start_from": "Commence à",
+			"on_sale": "En vente"
+		},
+		"bidding_price_type": {
+			"high_bid": "Offre la plus élevée",
+			"start_bid": "Offre de départ"
+		},
+		"bidding_list": {
+			"auction_ends_in_token": "La Vente aux Enchères se termine dans {{days}} jours, {{hours}} {{mins}} {{secs}}s",
+			"auction_ends_in_token_series": "Certaines éditions sont en vente aux Enchères",
+			"summary_bid": "Résumé des Offres",
+			"since": "depuis le début",
+			"place_recent_bid": "Faire une Offre récente ",
+			"bid": "Offre",
+			"start_bid": "Faire une Offre de départ",
+			"place_bid": "Faire une Offre",
+			"no_bid": "Aucun enchérisseur pour le moment"
+		},
+		"offer_list": {
+			"active_offering": "Offres actives",
+			"regular": "Regular",*******************************************************************************
+			"trade_with_card": "Echange avec Carte",
+			"active_offers": "Offre(s) active(s)",
+			"no_offer": "Aucune Offre pour le moment",
+			"highest_offer": "Offre la plus élevée",
+			"offer_higher": "Faire une offre plus élevée",
+			"lowest_offer": "Offre la plus basse",
+			"all_offers": "Toutes les Offres actives",
+			"send_offer": "Envoyer une Pffre",
+			"accept": "Accepter",
+			"delete": "Supprimer",
+			"no_trade": "Aucun échange pour le moment",
+			"highest": "Le plus élevé",
+			"volume": "Volume",
+			"by": "par",
+			"lowest": "Le plus bas"
+		},
+		"mint_nft": "Mint NFT",
+		"creator": "Créateur",
+		"verified_creator": "Créateur Vérifié",
+		"collection": "Collection",
+		"top_collection": "Meilleurs Collection",
+		"make_own_offer": "Faire votre propre Offre"
+	},
+	"dashed_info": {
+		"own_by": "Possédé par",
+		"owners": "Propriétaire",
+		"nft_edition_copies": "NFT Edition / Copies",
+		"tooltip_nft_edition_copies": "Nombre de copies de cette Carte",
+		"rarity_score": "Rarity Score",
+		"rank": "Rang",
+		"rarity_score_rank": "Rang / Score de rareté",
+		"creator_royalty": "Droits d'auteurs",
+		"tootlip_creator_royalty": "Pourcentage de chaque vente alloué pour soutenir les créateurs"
+	},
+	"other_card": {
+		"same_collection": "Même Collection",
+		"see_collection": "Voir Collection",
+		"other_creator": "Autres du créateur",
+		"creators_profile": "Profil du créateur"
+	},
+	"attributes": {
+		"attributes": "Attributs",
+		"rarity_score": "Score de rareté",
+		"rank": "Rang",
+		"rank_rarity_score": "Rang {{rank}}, Score de rareté {{rarityScore}}",
+		"no_attributes": "Sans attributs",
+		"rarity": "Rareté"
+	},
+	"owners": {
+		"sort_by": "Trier par",
+		"sort_lowest_price": "Prix le plus bas",
+		"sort_highest_price": "Prix le plus élevé",
+		"sort_lowest_edition": "Édition la plus basse",
+		"sort_highest_edition": "Édition la plus haute",
+		"sort_az": "Nom d'utilisateur A-Z",
+		"sort_za": "Nom d'utilisateur Z-A",
+		"owners": "Propriétaires",
+		"no_owners": "Aucun propriétaire, devenez le premier",
+		"on_auction": "En vente aux enchères",
+		"on_sale": "En vente",
+		"staked": "Staked",******************************************************************************
+		"not_for_sale": "Pas à vendre",
+		"update": "Mettre à jour",
+		"buy": "Acheter"
+	},
+	"histories": {
+		"history": "Historique",
+		"no_history": "Aucun historique pour le moment",
+		"put_on_auction": "a mis en vente aux enchères pour",
+		"add_bid_for": "a fait une offre pour",
+		"cancel_bid_from_auction": "a annulé une offre aux enchères",
+		"put_on_sale": "a mis en vente pour",
+		"added_offer_nft_trade": "a ajouté une offre d'échange NFT",
+		"deleted_offer_nft_trade": "a supprimé une offre d'échange NFT",
+		"accept_nft_trade": "a accepté un échange NFT",
+		"remove_from_sale": "a retiré de la vente",
+		"staked_to": "staked to",
+		"bought_from": "a acheté à",
+		"for": "pour",
+		"minted": "mint",
+		"minted_by": "Mint by",
+		"burned": "a brûlé",
+		"accept_offer": "a accepté une offre de",
+		"with_auction_for": "avec une vente aux enchères pour",
+		"transferred_to": "a transféré à",
+		"series_created_by": "Série créée par",
+		"creator_put_series_not_sale": "Le créateur a mis la série en non-disponible",
+		"creator_put_series_sale_for": "Le créateur a mis la série en vente pour",
+		"creator_put_series_nonmintable": "Le créateur a mis la série en non mintable",
+		"creator_decrease_series": "Le créateur a diminué les exemplaires de la série à",
+		"add_offer_for": "a ajouté une offre pour",
+		"removed_for": "a supprimé une offre"
+	},
+	"description": {
+		"description": "Description",*****************************************************************************************
+		"no_description": "No Description"
+	},
+	"token_info": {
+		"token_info": "Token Info",
+		"smart_contract": "Samrt Contract",
+		"image_link": "Image Link",
+		"locked_fee": "Locked Fee",
+		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee."
+	},
+	"publications": {
+		"publications": "Publications",
+		"no_publication": "No Publication at the moment"
+	}
+}
