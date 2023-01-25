@@ -20,11 +20,11 @@
 	},
 	"comic_type": "Bande dessinée",
 	"title_page": {
-		"create": "Créer une publication",
-		"edit": "Modifier la publication"
+		"create": "Créer une Publication",
+		"edit": "Modifier la Publication"
 	},
 	"cancel": "Annuler",
-	"embedded_collectibles": "Objets numériques de collection",
+	"embedded_collectibles": "Objets numériques de Collection",
 	"form": {
 		"cover": {
 			"title": "Télécharger la banière",
@@ -44,16 +44,16 @@
 			"button": "Ajouter une vidéo"
 		},
 		"add_card": {
-			"label": "Ajouter une carte à votre publication",
-			"placeholder": "URL du jeton non fongible",
-			"description": "Veuillez entrer le lien de votre jeton non fongible\nhttps://paras.id/token/x.paras.near::1",
-			"button": "Ajouter une carte"
+			"label": "Ajouter une Carte à votre Publication",
+			"placeholder": "URL du token",
+			"description": "Veuillez entrer le lien de votre token\nhttps://paras.id/token/x.paras.near::1",
+			"button": "Ajouter une Carte"
 		},
 		"add_collection": {
-			"label": "Ajouter une collection à votre publication",
-			"placeholder": "URL de la collection",
-			"description": "Veuillez entrer le lien de votre collection\nhttps://paras.id/collection/paradigm",
-			"button": "Ajouter une collection"
+			"label": "Ajouter une Collection à votre Publication",
+			"placeholder": "URL de la Collection",
+			"description": "Veuillez entrer le lien de votre Collection\nhttps://paras.id/collection/paradigm",
+			"button": "Ajouter une Collection"
 		}
 	},
 	"delete": "Supprimer",
