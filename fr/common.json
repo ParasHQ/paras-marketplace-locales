@@ -2,15 +2,15 @@
 	"navigation": {
 		"explore": "Explorer",
 		"explore_modal": {
-			"top_collection": "Collections populaires",
-			"featured_collection": "Collections vedettes",
-			"fresh_on_market": "Nouveautés sur le marché",
+			"top_collection": "Collections Populaires",
+			"featured_collection": "Collections Vedettes",
+			"fresh_on_market": "Nouveautés sur le Marché",
 			"fresh_on_market_modal": {
 				"collections": "Collections",
 				"cards": "Cartes",
 				"publication": "Publications"
 			},
-			"live_auction": "Enchères en cours"
+			"live_auction": "Enchères en Cours"
 		},
 		"activity": "Activité",
 		"token": "Token",
@@ -24,10 +24,10 @@
 		"product_list": {
 			"explore": "Explorer",
 			"explore_modal": {
-				"top_collection": "Collections populaires",
-				"featured": "Collections vedettes",
-				"fresh_on_market": "Nouveautés sur le marché",
-				"live_auction": "Enchères en cours"
+				"top_collection": "Collections Populaires",
+				"featured": "Collections Vedettes",
+				"fresh_on_market": "Nouveautés sur le Marché",
+				"live_auction": "Enchères en Cours"
 			},
 			"activity": "Activité",
 			"token": "Token",
@@ -67,23 +67,23 @@
 		"paras_citizen": "Citoyen de Paras",
 		"near_balance": "Solde Near",
 		"paras_balance": "Solde Paras",
-		"create_collection": "Créer une collection",
+		"create_collection": "Créer une Collection",
 		"create_publication": "Créer une Publication",
 		"apply_launchpad": "Lancement de NFT",
-		"my_offer": "Mes offres",
+		"my_offer": "Mes Offres",
 		"setting": "Paramétrage",
 		"my_ramper_wallet": "My Ramper Wallet",***********************************************************************************
 		"switch_wallet": "Changer de portefeuille",
 		"logout": "Se déconnecter",
 		"top_up_near": "+ Top up Near with Fiat",**********************************************************************************
-		"get_verified": "Obtenir une vérification",
-		"create_card": "Créer une carte"
+		"get_verified": "Obtenir une Vérification",
+		"create_card": "Créer une Carte"
 	},
 	"notification": {
 		"title-popup": "Notifications",
-		"title-page": "Toutes les notifications",
-		"show_all": "Montrer tout",
-		"see_more": "Voir plus",
+		"title-page": "Toutes les Notifications",
+		"show_all": "Montrer Tout",
+		"see_more": "Voir Plus",
 		"action": "Action",********************************************************************
 		"link": "Lien",
 		"notification_level_up": "<semibold>Congratulations, You're now a {{currLevel}} Member!</semibold>",
@@ -144,79 +144,79 @@
 		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
 	},
 	"error": {
-		"400": "Bad Request",
-		"404": "Page not found",
-		"405": "Method Not Allowed",
-		"500": "Internal Server Error",
-		"404_button": "Back to Explore",
-		"button": "Go back"
+		"400": "Requête incorrecte",
+		"404": "Page introuvable",
+		"405": "Méthode non autorisée",
+		"500": "Erreur interne du serveur",
+		"404_button": "Retour vers l'explorateur",
+		"button": "Retour"
 	},
 	"share": {
-		"share_text": "Share",
+		"share_text": "Partager",
 		"facebook": "Facebook",
 		"twitter": "Twitter",
 		"telegram": "Telegram",
-		"copy_link": "Copy Link",
-		"share_nft_text": "Checkout {{title}} from collection {{collection}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
-		"share_collection_text": "Checkout {{collection}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
-		"share_publication_text": "Checkout {{publication}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
+		"copy_link": "Copier le lien",
+		"share_nft_text": "Découvrez {{title}} de la Collection {{collection}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Découvrez {{collection}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Découvrez {{publication}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
 	},
 	"collection": {
 		"total_number_nft": "{{total}} NFTs",
-		"total_volume": "Total Volume",
-		"last_week_volume": "Last Week Volume",
-		"floor": "Floor",
-		"owners": "Owners",
+		"total_volume": "Volume Total",
+		"last_week_volume": "Volume semaine dernière",
+		"floor": "Prix Plancher",
+		"owners": "Propriétaires",
 		"collection": "Collection",
-		"listed_collection": "Listed Collection",
-		"creator": "Creator",
-		"verified_creator": "Verified Creator",
-		"collection_volume_change": "Total volume of collection <change>{{change}}</change> from <Volume>{{volume}}</Volume> <NearIcon></NearIcon> in last 7 days.",
-		"button_share": "Share",
-		"button_report": "Report",
-		"button_add_card": "Add Card",
-		"button_edit_collection": "Edit Collection"
+		"listed_collection": "Collection Listée",
+		"creator": "Créateur",
+		"verified_creator": "Créateur Vérifié",
+		"collection_volume_change": "Volume Total de la Collection <change>{{change}}</change> de <Volume>{{volume}}</Volume> <NearIcon></NearIcon> lors des 7 derniers jours",
+		"button_share": "Partager",
+		"button_report": "Signaler",
+		"button_add_card": "Ajouter une Carte",
+		"button_edit_collection": "Modifier la Collection"
 	},
 	"card": {
-		"open_offer": "Open Offer",
-		"open_edition": "Open Edition",
-		"collection_volume_change": "Total volume of collection <change>{{change}}</change> from <Volume>{{volume}}</Volume> <NearIcon></NearIcon> in last 7 days.",
-		"creator": "Creator",
+		"open_offer": "Offre Ouverte",
+		"open_edition": "Edition Ouverte",
+		"collection_volume_change": "Volume Total de la Collection <change>{{change}}</change> de <Volume>{{volume}}</Volume> <NearIcon></NearIcon> lors des 7 derniers jours",
+		"creator": "Créateur",
 		"collection": "Collection",
-		"verified_creator": "Verified Creator",
-		"listed_collection": "Listed Collection",
+		"verified_creator": "Créateur Vérifié",
+		"listed_collection": "Collection Listée",
 		"card_text": {
-			"price": "Price",
-			"place_an_offer": "Place an Offer",
-			"edit_listing": "Edit Listing",
-			"lowest_price": "Lowest Price",
-			"min_bid": "Min Bid",
-			"start_from": "Start From"
+			"price": "Prix",
+			"place_an_offer": "Faire une Offre",
+			"edit_listing": "Editer Listing",
+			"lowest_price": "Prix le plus bas",
+			"min_bid": "Offre Minimale",
+			"start_from": "Commence à partir de"
 		},
-		"rarity": " Rarity {{rarity}}",
-		"floor": "Floor {{floor}} ",
-		"time_left_auction": "This card is for auction that end in {{days}} days {{hours}}:{{mins}}:{{secs}}",
-		"time_left_auction_short": "Auction end in \n{{days}}D {{hours}}:{{mins}}:{{secs}}",
-		"some_card_auction": "Some of edition is being auctioned",
-		"staked_by_owner": "This NFT is currently staked by {{owner}}",
-		"staked_by_owner_short": "Staked by \n {{owner}}",
-		"button_share": "Share",
-		"button_report": "Report",
-		"button_buy": "Buy Now",
-		"button_place_an_offer": "Place an Offer",
-		"button_edit_listing": "Edit Listing",
-		"button_bid": "Place a Bid",
-		"button_mint": "Mint",
-		"button_buy_short": "Buy",
-		"button_place_an_offer_short": "Offer",
-		"button_bid_short": "Bid",
-		"button_see_owners": "See Owners"
+		"rarity": " Rareté {{rarity}}",
+		"floor": "Prix Plancher {{floor}} ",
+		"time_left_auction": "Cette Carte est en vente aux enchères qui se termine dans {{days}} jours et {{hours}}:{{mins}}:{{secs}}",
+		"time_left_auction_short": "Fin de l'enchère dans \n{{days}}J {{hours}}:{{mins}}:{{secs}}",
+		"some_card_auction": "Certaines Cartes de cette édition sont en vente aux enchères",
+		"staked_by_owner": "Cet NFT est actuellement détenu par {{owner}}",
+		"staked_by_owner_short": "Détenu par \n {{owner}}",
+		"button_share": "Partager",
+		"button_report": "Reporter",
+		"button_buy": "Acheter Maintenant",
+		"button_place_an_offer": "Faire Offre",
+		"button_edit_listing": "Editer Listing",
+		"button_bid": "Faire Offre",
+		"button_mint": "Mint",***************************************************************
+		"button_buy_short": "Acheter",
+		"button_place_an_offer_short": "Offre",*****************************************
+		"button_bid_short": "Offre",************************************
+		"button_see_owners": "Voir Propriétaires"
 	},
 	"profile": {
-		"total_purchase": "Total Purchase",
-		"card_bought": "Cards Bought",
-		"edit_profile": "Edit Profile",
-		"follow_activity": "Follow Activity"
+		"total_purchase": "Achat Total",
+		"card_bought": "Cartes Achetées",
+		"edit_profile": "Modifier le Profil",
+		"follow_activity": "Suivre l'activité"
 	},
 	"activity": {
 		"last_7_days": "Last 7 days",
@@ -224,7 +224,7 @@
 		"rank": "Rank {{rank}}",
 		"transaction-type": {
 			"accept": "Accept",
-			"minted": "Minted",
+			"minted": "Minted",*****************************************************
 			"burned": "Burned",
 			"transfer": "Transfer",
 			"set_price": "Set Price",
