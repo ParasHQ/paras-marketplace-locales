@@ -59,7 +59,7 @@
 		"make_own_offer": "Faire votre propre Offre"
 	},
 	"dashed_info": {
-		"own_by": "Possédé par",
+		"own_by": "Détenu par",
 		"owners": "Propriétaires",
 		"nft_edition_copies": "NFT Edition / Copies",
 		"tooltip_nft_edition_copies": "Nombre de copies de cette Carte",
