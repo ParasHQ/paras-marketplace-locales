@@ -206,10 +206,10 @@
 		"button_place_an_offer": "Faire Offre",
 		"button_edit_listing": "Editer Listing",
 		"button_bid": "Faire Offre",
-		"button_mint": "Mint",***************************************************************
+		"button_mint": "Mint",
 		"button_buy_short": "Acheter",
-		"button_place_an_offer_short": "Offre",*****************************************
-		"button_bid_short": "Offre",************************************
+		"button_place_an_offer_short": "Offre",'*****************************************'
+		"button_bid_short": "Offre",'*******************************************************'
 		"button_see_owners": "Voir Propriétaires"
 	},
 	"profile": {
@@ -224,7 +224,7 @@
 		"rank": "Rank {{rank}}",
 		"transaction-type": {
 			"accept": "Accepter",
-			"minted": "Minted",*****************************************************
+			"minted": "Minted",'*****************************************************'
 			"burned": "Brûlées",
 			"transfer": "Transferts",
 			"set_price": "Définir Prix",
