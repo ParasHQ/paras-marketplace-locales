@@ -75,7 +75,7 @@
 		"my_ramper_wallet": "My Ramper Wallet",***********************************************************************************
 		"switch_wallet": "Changer de portefeuille",
 		"logout": "Se déconnecter",
-		"top_up_near": "+ Top up Near with Fiat",**********************************************************************************
+		"top_up_near": "Acheter Near avec Fiat",
 		"get_verified": "Obtenir une Vérification",
 		"create_card": "Créer une Carte"
 	},
@@ -140,7 +140,7 @@
 		"signup": "Sign Up"
 	},
 	"footer": {
-		"tagline": "Create, Trade, and Collect Digital Collectibles. All-in-one \n social NFT marketplace for creators and collectors.",
+		"tagline": "Créez, Echangez et Collectionnez des Oeuvres Numériques de Collection. Tout en un \n Marché Social NFT pour les Créateurs et les Collectionneurs",
 		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
 	},
 	"error": {
@@ -223,91 +223,91 @@
 		"rarity": "Rarity {{rarity}}",
 		"rank": "Rank {{rank}}",
 		"transaction-type": {
-			"accept": "Accept",
+			"accept": "Accepter",
 			"minted": "Minted",*****************************************************
-			"burned": "Burned",
-			"transfer": "Transfer",
-			"set_price": "Set Price",
-			"offer": "Offer",
-			"delete_offer": "Delete Offer",
-			"submission": "Submission",
-			"creation": "Creation",
+			"burned": "Brûlées",
+			"transfer": "Transferts",
+			"set_price": "Définir Prix",
+			"offer": "Faire une Offre",
+			"delete_offer": "Supprimer l'offre",
+			"submission": "Soumettre",
+			"creation": "Création",
 			"listing": "Listing",
-			"remove_sale": "Remove Sale",
-			"add_trade": "Add Trade",
-			"delete_trade": "Delete Trade",
-			"accept_trade": "Accept Trade",
-			"decrease_copy": "decrease Copy",
-			"auction": "Auction",
-			"bid": "Bid",
-			"cancel_bid": "Cancel Bid"
+			"remove_sale": "Retirer de la vente",
+			"add_trade": "Ajouter un échange",
+			"delete_trade": "Supprimer l'échange",
+			"accept_trade": "Accepter l'échange",
+			"decrease_copy": "Réduire les copies",
+			"auction": "Enchère",
+			"bid": "Faire une Offre",
+			"cancel_bid": "Annuler l'Offre"
 		},
-		"floor": "Floor {{floor}} "
+		"floor": "Prix Plancher {{floor}} "
 	},
 	"apex_collector": {
-		"title": "Apex Collectors"
+		"title": "Grands Collectionneurs"
 	},
 	"top_seller": {
-		"title": "Top Sellers",
-		"total_sales": "Total Sales",
-		"card_sold": "Card Sold"
+		"title": "Meilleures Vendeurs",
+		"total_sales": "Ventes Totales",
+		"card_sold": "Carte(s) vendue(s)"
 	},
 	"cropper": {
-		"title": "Crop Image",
-		"button_save": "Save",
-		"button_cancel": "Cancel"
+		"title": "Recadrer l'image",
+		"button_save": "Enregistrer",
+		"button_cancel": "Annuler"
 	},
 	"setting": {
-		"title": "Settings",
-		"cancel": "Cancel",
-		"email_notification": "Email Notification",
+		"title": "Paramètres",
+		"cancel": "Annuler",
+		"email_notification": "Notification par e-mail",
 		"email_notification_option": {
 			"newsletter": "Paras Newsletter",
-			"drops": "New NFT Drops",
-			"activity": "Transaction Activity"
+			"drops": "Nouveaux lancements de NFTs",
+			"activity": "Activité des transactions"
 		},
-		"input_email_label": "Email Address",
-		"input_email_placeholder": "Enter your email address",
-		"input_email_error": "Please enter valid email",
-		"minimum_offer_price_label": "Minimum Offer Price",
-		"minimum_offer_price_description": "Set the minimum offer you want for your collectibles",
+		"input_email_label": "Adresse e-mail",
+		"input_email_placeholder": "Entrez votre adresse e-mail",
+		"input_email_error": "Veuillez entrer une adresse e-mail valide",
+		"minimum_offer_price_label": "Prix minimum de l'Offre",
+		"minimum_offer_price_description": "Définir le prix minimum que vous souhaitez pour vos Oeuvres de Collection",
 		"rpc_label": "RPC Url",
 		"rpc_option": {
 			"official": "official rpc",
 			"blockpi": "blockpi rpc"
 		},
-		"button_update": "Update",
+		"button_update": "Mettre à jour",
 		"email_verification": {
-			"success": "Your Email is verified",
-			"error": "Error",
-			"button": "Back to Explore"
+			"success": "Votre e-mail est vérifié",
+			"error": "Erreur",
+			"button": "Retour vers l'explorateur"
 		},
-		"toast_success_general": "Update setting success",
-		"toast_success_email": "Add email success, please check your email address to verify"
+		"toast_success_general": "Mise à jour des paramètres réussie",
+		"toast_success_email": "Ajout de l'e-mail réussi, veuillez vérifier votre adresse e-mail pour la vérification"
 	},
 	"report": {
-		"report_category_label": "Why do you want to report this item?",
-		"report_category_placeholder": "Choose your reason",
+		"report_category_label": "Pourquoi voulez-vous signaler cet article ?",
+		"report_category_placeholder": "Choisissez votre raison",
 		"report_category_option": {
-			"art_theft": "Art theft",
-			"double_minting": "Double minting",
-			"inappropriate_content": "Inappropriate content",
-			"harmful_content": "Harmful content",
-			"rights_violation": "Rights violation",
-			"others": "Others"
+			"art_theft": "Vol d'art",
+			"double_minting": "Doublon",
+			"inappropriate_content": "Contenu inapproprié",
+			"harmful_content": "Contenu nuisible",
+			"rights_violation": "Violation des droits",
+			"others": "Autres"
 		},
-		"report_description_label": "Additional details",
-		"report_description_placeholder": "Please provide more details",
-		"report_button_submit": "Report",
-		"report_button_cancel": "Cancel",
-		"report_toast_success": "This item has been reported.",
-		"report_toast_error": "Something went wrong"
+		"report_description_label": "Détails supplémentaires",
+		"report_description_placeholder": "Veuillez fournir plus de détails",
+		"report_button_submit": "Reporter",
+		"report_button_cancel": "Annuler",
+		"report_toast_success": "Cet article a été signalé",
+		"report_toast_error": "Quelque chose s'est mal passé"
 	},
 	"tooltip": {
-		"verified": "This artist has been verified.",
-		"one_of_one": "One of one card.",
-		"top_collection": "This artist has their collection reach the Top Collections.",
-		"top_30": "Top 30 collectors over the last 7 days."
+		"verified": "Cet Artiste a été Vérifié",
+		"one_of_one": "Une carte unique",
+		"top_collection": "Cet Artiste a vu sa Collection atteindre les Meilleures Collections",
+		"top_30": "Les 30 Meilleurs Collectionneurs des 7 derniers jours"
 	},
 	"cart": {
 		"cart": "Cart ({{total}})",
