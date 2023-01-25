@@ -30,9 +30,9 @@
 		"max_bid_error": "Le maximum est votre Solde",
 		"min_bid": "Enchère min.",
 		"your_balance": "Votre Solde",
-		"auction_token": "L'Enchère se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}</time>",
-		"auction_token_series": "Some of edition is being auctioned",******************************************************************************
-		"place_bid": "Faire une Enchère"
+		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}</time>",
+		"auction_token_series": "Une partie de l'édition est mise aux Enchères",
+		"place_bid": "Placer une Enchère"
 	},
 	"place_offer": {
 		"rarity": "Rareté {{score}}",
@@ -42,23 +42,23 @@
 		"your_offer": "Votre Offre",
 		"your_balance": "Votre Solde",
 		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",******************************************************
-		"place_offer": "Faire une Offre"**********************************************************************
+		"place_offer": "Faire une Offre"
 	},
 	"trading": {
 		"rarity": "Rareté {{score}}",
 		"submit": "Soumettre",
-		"add_card": "{{type}} Carte"**********************************************
+		"add_card": "Carte {{type}}"
 	},
 	"mint": {
 		"rarity": "Rareté {{score}}",
 		"mint_to_self": "Mint à moi-même",
-		"input_label_mint": "ID Acompte",
+		"input_label_mint": "ID Compte",
 		"storage_fee": "Frais de stockage",
 		"mint": "Mint"
 	},
 	"accept_offer": {
 		"offer_from": "<semibold>Offer</semibold> de <semibold>{{buyerId}}</semibold>",
-		"for_card": "Pour la carte <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> dans <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+		"for_card": "Pour la Carte <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> dans <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
 		"received_offer": "Offre reçue",
 		"royalty_artist": "Droits d'auteur pour l'artiste ",
 		"fee": "Frais",
@@ -95,80 +95,80 @@
 		"cancel_bid": "Annuler l'Enchère"
 	},
 	"edit_listing": {
-		"min_duration_auction": "Auction must be less than 5 days",
-		"must_future_auction": "Auction must be in the future",
-		"edit_listing": "Edit Listing",
-		"listed": "Listed",
+		"min_duration_auction": "La Vente aux Enchères doit être inférieure à 5 jours",
+		"must_future_auction": "La Vente aux Enchères doit être dans le futur",
+		"edit_listing": "Editer le Listing",****************************************************************
+		"listed": "Listée",
 		"reduce_copies": {
-			"max_reduce_error": "Reduce number must be less than or equal to total mint",
-			"min_reduce_error": "Reduce number must be greater than or equal to 0",
-			"reduce_copies": "Reduce Copies",
-			"remaining_copies": "Remaining copies: {{remainingCopies}}"
+			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
+			"min_reduce_error": "Le nombre de copies doit être supérieur ou égal a 0",
+			"reduce_copies": "Réduire les copies",
+			"remaining_copies": "Copies restantes: {{remainingCopies}}"
 		},
 		"put_marketplace": {
-			"put_marketplace": "Put on Marketplace?",
-			"no": "No",
-			"for_sale": "For Sale",
-			"for_auction": "For Auction",
-			"update_price": "Update Price",
-			"starting_bid": "Starting Bid",
-			"auction_ends": "Auction ends in",
-			"equal_to": "Equal to ",
-			"receive": "Receive",
-			"royalty": "Royalty",
-			"fee": "Fee"
+			"put_marketplace": "Lister sur le Marché ?",
+			"no": "Non",
+			"for_sale": "A Vendre",
+			"for_auction": "Pour une Vente aux Enchères",
+			"update_price": "Mettre à jour le Prix",
+			"starting_bid": "Enchère de départ",
+			"auction_ends": "La Vente aux Enchères se termine dans",
+			"equal_to": "Egal à ",
+			"receive": "Recevoir",
+			"royalty": "Droits d'auteurs",
+			"fee": "Frais"
 		},
-		"update": "Update"
+		"update": "Mettre à jour"
 	},
 	"success_tx_modal": {
-		"button_close": "Close",
-		"button_see_other_cards": "See other cards",
-		"button_see_profile": "Go to My Profile",
-		"transaction_hash": "Transaction Hash",
-		"share_to": "Share to",
-		"share": "Share",
+		"button_close": "Fermer",
+		"button_see_other_cards": "Voir les autres Cartes",
+		"button_see_profile": "Aller sur mon Profil",
+		"transaction_hash": "Hash de transaction",
+		"share_to": "Partager sur",
+		"share": "Partager",
 		"transaction_text": {
-			"buy": "Payment success",
-			"offer": "Offer submitted",
-			"bid": "Bid submitted",
-			"edit_listing_auction": "Card auction started",
-			"edit_listing_sale": "Card price updated",
-			"mint": "Card successfully minted",
-			"trade": "NFT offer submitted",
-			"transfer": "Card sent to {{accountId}}",
-			"remove_auction": "Auction removed",
-			"remove_listing": "Listing removed",
-			"accept_trade": "NFT Trade accepted",
-			"add_trade": "Add Trade success",
-			"accept_offer": "Offer accepted",
-			"accept_bid": "Bid accepted",
-			"remove_bid": "Bid removed",
-			"create_card": "Card successfully created",
-			"default": "Transaction success"
+			"buy": "Paiement réussi",
+			"offer": "Offre soumise",
+			"bid": "Enchère soumise",
+			"edit_listing_auction": "l'Enchère de la Carte a démarée",
+			"edit_listing_sale": "Prix de la Carte mis à jour",
+			"mint": "Succès du Mint de la Carte",
+			"trade": "Offre NFT soumise",
+			"transfer": "Carte envoyée à {{accountId}}",
+			"remove_auction": "Vente aux Enchères supprimée",
+			"remove_listing": "Listing suprimé",
+			"accept_trade": "Echange NFT accepté",
+			"add_trade": "Ajout Echange accepté",
+			"accept_offer": "Offre acceptée",
+			"accept_bid": "Enchère acceptée",
+			"remove_bid": "Enchère supprimée",
+			"create_card": "Carte créée avec succès",
+			"default": "Transaction réussie"
 		},
 		"transaction_sub_text": {
-			"mint": "You have successfully minted card",
-			"edit_listing_sale": "You have successfully updated the price to {{price}}",
-			"edit_listing_auction": "You have successfully created an auction starting at {{price}}",
-			"bid": "You have successfully bid the price at {{price}}",
-			"offer": "You have successfully offered the price at {{price}}",
-			"buy": "You have successfully purchased at {{price}}",
-			"buy_bulk": "You have successfully purchased new cards"
+			"mint": "Succès du Mint de la Carte",
+			"edit_listing_sale": "Vous avez réussi à mettre à jour le Prix à {{price}}",
+			"edit_listing_auction": "Vous avez créé avec succès une Enchère commençant à {{price}}",
+			"bid": "Vous avez réussi à enchérir le prix à {{price}}",
+			"offer": "Vous avez offert avec succès le prix à {{price}}",
+			"buy": "Vous avez acheté avec succès à {{price}}",
+			"buy_bulk": "Vous avez acheté de nouvelles Cartes avec succès"
 		},
 		"h2_text": {
-			"create_card": "{{total}} new cards added",
-			"buy_bulk": "{{total}} cards purchased"
+			"create_card": "{{total}} nouvelles Cartes ajoutées",
+			"buy_bulk": "{{total}} Cartes achetées"
 		},
 		"cart": {
-			"you_successfully": "You have successfully purchased new cards",
-			"you_failed": "The card you selected is no longer available, so you won't be charged."
+			"you_successfully": "Vous avez acheté de nouvelles Cartes avec succès",
+			"you_failed": "La carte que vous avez sélectionnée n'est plus disponible, vous ne serez donc pas débité"
 		},
-		"nft_still_catching_up": "NFT is still catching up, you can either wait for a while or close this modal",
+		"nft_still_catching_up": "NFT is still catching up, you can either wait for a while or close this modal",******************************************
 		"share_text": {
-			"one_card": "Check out {{title}} from {{collection1}} collection by {{creator}} on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
-			"multiple_card_one_collection": "Check out all NFTs from {{collection1}} collection by {{creator}} on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
-			"multiple_card_2_collections": "Check out all NFTs from {{collection1}} & {{collection2}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
-			"multiple_card_3_collections": "Check out all NFTs from {{collection1}}, {{collection2}}, and {{collection3}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n"
+			"one_card": "Découvrez {{title}} de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_one_collection": "Découvrez tous les NFTs de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_2_collections": "Découvrez tous les NFTs de {{collection1}} & {{collection2}} collections sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_3_collections": "Découvrez tous les NFTs de {{collection1}}, {{collection2}}, et {{collection3}} collections sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n"
 		}
 	}
 }
