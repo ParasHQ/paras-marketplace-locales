@@ -69,7 +69,7 @@
 		"royalty_account_label": "ID de compte sur NEAR",
 		"royalty_account_placeholder": "ID de compte",
 		"royalty_amount_label": "Montant des droits d'auteur",
-		"royalty_amount_placeholder": "10% 20% 30$",
+		"royalty_amount_placeholder": "10% 20% 30%",
 		"royalty_total": "Total: {{total}}%",
 		"listed": "Listée",
 		"price": "Prix",
