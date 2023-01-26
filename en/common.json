@@ -380,5 +380,8 @@
 	},
 	"badge_collection": {
 		"top_collection": "Top 30 collections over the last 7 days."
+	},
+	"event_category": {
+		"has_already_c4c": "You already have another edition of this card for C4C"
 	}
 }
