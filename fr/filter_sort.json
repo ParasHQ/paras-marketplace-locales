@@ -6,7 +6,7 @@
 		"secondary_button": "Annuler",
 		"sort_by": "Trier par",
 		"sort_by_option": {
-			"market_update": "Mise à jour du Marché",
+			"market_update": "Mises à jour Marché",
 			"card_created": "Récemment Listées",
 			"lowest_price": "Prix le plus bas",
 			"highest_price": "Prix le plus élevé",
@@ -39,7 +39,7 @@
 		"type": "Type:",
 		"type_option": {
 			"all": "Montrer Tout",
-			"for_sale": "A vendre",
+			"for_sale": "À Vendre",
 			"sales": "Ventes",
 			"listed": "Listées",
 			"transfer": "Transferts",
