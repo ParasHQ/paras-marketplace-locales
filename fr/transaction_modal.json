@@ -41,7 +41,7 @@
 		"current_price": "Prix actuel",
 		"your_offer": "Votre Offre",
 		"your_balance": "Votre Solde",
-		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",******************************************************
+		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
 		"place_offer": "Faire une Offre"
 	},
 	"trading": {
@@ -71,9 +71,9 @@
 		"in": "dans",
 		"this_card_flagged": "Cette Carte a été marquée comme {{flag}}",
 		"with_your_card": "Avec votre Carte",
-		"volume_gap": "Écart de volume",****************************************************************************
-		"your_card_volume": "Volume de votre carte",
-		"received_card_volume": "Volume de carte reçue",
+		"volume_gap": "Écart de volume",
+		"your_card_volume": "Volume des Cartes",
+		"received_card_volume": "Volume des Carte reçues",
 		"accept_trade": "Accepter l'échange"
 	},
 	"accept_bid": {
@@ -97,7 +97,7 @@
 	"edit_listing": {
 		"min_duration_auction": "La Vente aux Enchères doit être inférieure à 5 jours",
 		"must_future_auction": "La Vente aux Enchères doit être dans le futur",
-		"edit_listing": "Editer le Listing",****************************************************************
+		"edit_listing": "Editer le Listing",
 		"listed": "Listée",
 		"reduce_copies": {
 			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
