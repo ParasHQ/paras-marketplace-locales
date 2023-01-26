@@ -39,7 +39,7 @@
 		},
 		"4": {
 			"title": "Soyez minutieux avec les détails de votre Carte",
-			"description": "Une fois votre Carte listée 'à vendre', les gens peuvent directement l'acheter et la posséder. Assurez-vous donc des détails de votre Carte avant de la publier."
+			"description": "Une fois votre Carte listée 'À Vendre', les gens peuvent directement l'acheter et la posséder. Assurez-vous donc des détails de votre Carte avant de la publier."
 		}
 	},
 	"set_cover": "Définir la banière",
@@ -79,7 +79,7 @@
 		"put_on_market": "Lister sur le marché ?",
 		"put_on_market_option": {
 			"no": "Non",
-			"for_sale": "À vendre"
+			"for_sale": "À Vendre"
 		},
 		"attributes": "Définir des attributs",
 		"new_attribute": "Nouvel attribut",
