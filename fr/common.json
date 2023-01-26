@@ -224,7 +224,7 @@
 		"rank": "Rank {{rank}}",
 		"transaction-type": {
 			"accept": "Accepter",
-			"minted": "Minted",'*****************************************************'
+			"minted": "Minté",
 			"burned": "Brûlées",
 			"transfer": "Transferts",
 			"set_price": "Définir Prix",
@@ -232,15 +232,15 @@
 			"delete_offer": "Supprimer l'offre",
 			"submission": "Soumettre",
 			"creation": "Création",
-			"listing": "Listing",
+			"listing": "Lister",
 			"remove_sale": "Retirer de la vente",
 			"add_trade": "Ajouter un échange",
 			"delete_trade": "Supprimer l'échange",
 			"accept_trade": "Accepter l'échange",
 			"decrease_copy": "Réduire les copies",
-			"auction": "Vente aux Enchère",
-			"bid": "Placer une Enchère",*******************************************
-			"cancel_bid": "Annuler l'Enchère"*********************************************
+			"auction": "Vente aux Enchères",
+			"bid": "Placer une Enchère",
+			"cancel_bid": "Annuler l'Enchère"
 		},
 		"floor": "Prix Plancher {{floor}} "
 	},
