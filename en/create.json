@@ -142,7 +142,9 @@
 			"sort_lowest_floor_price": "Lowest Floor Price",
 			"collection_name": "Collection name",
 			"continue": "Continue",
-			"select_collection_first": "Please select the collection first"
+			"select_collection_first": "Please select the collection first",
+			"you_dont_have_collection": "You don't have a collection yet",
+			"want_to_create_collection": "Want to create a collection?"
 		}
 	}
 }
