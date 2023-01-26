@@ -1,24 +1,24 @@
 {
 	"three_dots": {
-		"go_to_creator": "Accéder au profil du créateur",
+		"go_to_creator": "Accéder au Profil du Créateur",
 		"contract_nearblocks": "Contrat sur nearblocks.io",
-		"report_collection": "Signaler la collection",
+		"report_collection": "Signaler la Collection",
 		"edit_logo": "Modifier et télécharger le logo",
 		"edit_cover": "Modifier et télécharger la bannière"
 	},
 	"action_logo_cover": {
-		"collection_logo": "Logo de la collection",
-		"collection_cover": "Bannière de la collection",
+		"collection_logo": "Logo de la Collection",
+		"collection_cover": "Bannière de la Collection",
 		"zoom": "Zoom",
 		"straighten": "Ajuster",
 		"upload": "Télécharger",
-		"edit": "Editer",
+		"edit": "Modifier",
 		"save_logo": "Enregistrer le logo",
 		"save_cover": "Enregistrer la bannière",
 		"not_allowed_edit": "Vous n'avez pas la permission de modifier si vous n'aviez pas de bannière précédemment"
 	},
 	"creator": "Créateur",
-	"verified_creator": "Créateur vérifié",
+	"verified_creator": "Créateur Vérifié",
 	"share": "Partager",
 	"collection_stats": {
 		"total_volume": "Volume Total",
@@ -36,12 +36,12 @@
 		"more": "Plus",
 		"less": "Moins",
 		"read_about": "En savoir plus",
-		"this_collection": "Cette collection",
+		"this_collection": "Cette Collection",
 		"links": "Liens",
 		"edit_bio": "Editer la Bio",
 		"cancel": "Annuler",
 		"placeholder": "Racontez l'histoire de votre collection",
-		"edit": "Editer"
+		"edit": "Modifier"
 	},
 	"cards": "Cartes",
 	"about": "A propos",
@@ -53,7 +53,7 @@
 		"reset": "Réinitialiser",
 		"apply": "Appliquer"
 	},
-	"same_creator": "Du même créateur",
+	"same_creator": "Du même Créateur",
 	"more": "Plus",
 	"sweep": {
 		"sweep_floor": "Ajouter au panier",
@@ -69,9 +69,9 @@
 		"cart": "Panier articles ajoutés",
 		"see_details": "Voir les détails",
 		"hide_details": "Masquer les détails",
-		"total_purchase": "Achat total",
+		"total_purchase": "Achat Total",
 		"top_up": "Recharger ?",
-		"top_up_long_text": "Recharger le solde",
+		"top_up_long_text": "Recharger le Solde",
 		"empty_title": "Votre panier est vide",
 		"empty_description": "Vous pouvez ajouter jusqu'à 10 cartes à bas prix en une seconde",
 		"details": {
@@ -79,7 +79,7 @@
 			"subtotal_other": "Sous-total ({{count}} articles)",
 			"fee": "Frais de stockage",
 			"total_purchase": "Achat total",
-			"your_balance": "Votre solde",
+			"your_balance": "Votre Solde",
 			"confirm_redirect": "Vous serez redirigé vers votre portefeuille pour confirmer votre transaction"
 		},
 		"button_buy": "Confirmer l'achat",
