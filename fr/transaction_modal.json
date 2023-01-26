@@ -26,11 +26,11 @@
 		"buy": "Acheter"
 	},
 	"place_bid": {
-		"min_bid_error": "Le minimum est l'Enchère min.",
+		"min_bid_error": "Le minimum est l'Enchère mini",
 		"max_bid_error": "Le maximum est votre Solde",
-		"min_bid": "Enchère min.",
+		"min_bid": "Enchère mini",
 		"your_balance": "Votre Solde",
-		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}</time>",
+		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}s</time>",
 		"auction_token_series": "Une partie de l'édition est mise aux Enchères",
 		"place_bid": "Placer une Enchère"
 	},
@@ -41,7 +41,7 @@
 		"current_price": "Prix actuel",
 		"your_offer": "Votre Offre",
 		"your_balance": "Votre Solde",
-		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
+		"currently_staked": "Ce NFT est actuellement 'staké' par le propriétaire",
 		"place_offer": "Faire une Offre"
 	},
 	"trading": {
@@ -51,10 +51,10 @@
 	},
 	"mint": {
 		"rarity": "Rareté {{score}}",
-		"mint_to_self": "Mint à moi-même",
+		"mint_to_self": "'Mint' à moi-même",
 		"input_label_mint": "ID Compte",
 		"storage_fee": "Frais de stockage",
-		"mint": "Mint"
+		"mint": "'Mint'"
 	},
 	"accept_offer": {
 		"offer_from": "<semibold>Offer</semibold> de <semibold>{{buyerId}}</semibold>",
@@ -88,7 +88,7 @@
 	},
 	"cancel_offer": {
 		"are_you_sure": "Vous êtes sûr de vouloir annuler votre Offre ?",
-		"cancel_offer": "Annuler l'offre"
+		"cancel_offer": "Annuler l'Offre"
 	},
 	"cancel_bid": {
 		"are_you_sure": "Vous êtes sûr de vouloir annuler votre Enchère ?",
@@ -97,7 +97,7 @@
 	"edit_listing": {
 		"min_duration_auction": "La Vente aux Enchères doit être inférieure à 5 jours",
 		"must_future_auction": "La Vente aux Enchères doit être dans le futur",
-		"edit_listing": "Editer le Listing",
+		"edit_listing": "Modifier le Listing",
 		"listed": "Listée",
 		"reduce_copies": {
 			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
@@ -108,7 +108,7 @@
 		"put_marketplace": {
 			"put_marketplace": "Lister sur le Marché ?",
 			"no": "Non",
-			"for_sale": "A Vendre",
+			"for_sale": "À Vendre",
 			"for_auction": "Pour une Vente aux Enchères",
 			"update_price": "Mettre à jour le Prix",
 			"starting_bid": "Enchère de départ",
@@ -133,7 +133,7 @@
 			"bid": "Enchère soumise",
 			"edit_listing_auction": "l'Enchère de la Carte a démarée",
 			"edit_listing_sale": "Prix de la Carte mis à jour",
-			"mint": "Succès du Mint de la Carte",
+			"mint": "Succès du 'Mint' de la Carte",
 			"trade": "Offre NFT soumise",
 			"transfer": "Carte envoyée à {{accountId}}",
 			"remove_auction": "Vente aux Enchères supprimée",
@@ -147,11 +147,11 @@
 			"default": "Transaction réussie"
 		},
 		"transaction_sub_text": {
-			"mint": "Succès du Mint de la Carte",
+			"mint": "Succès du 'Mint' de la Carte",
 			"edit_listing_sale": "Vous avez réussi à mettre à jour le Prix à {{price}}",
 			"edit_listing_auction": "Vous avez créé avec succès une Enchère commençant à {{price}}",
 			"bid": "Vous avez réussi à enchérir le prix à {{price}}",
-			"offer": "Vous avez offert avec succès le prix à {{price}}",
+			"offer": "Vous avez offert avec succès le prix de {{price}}",
 			"buy": "Vous avez acheté avec succès à {{price}}",
 			"buy_bulk": "Vous avez acheté de nouvelles Cartes avec succès"
 		},
@@ -163,7 +163,7 @@
 			"you_successfully": "Vous avez acheté de nouvelles Cartes avec succès",
 			"you_failed": "La carte que vous avez sélectionnée n'est plus disponible, vous ne serez donc pas débité"
 		},
-		"nft_still_catching_up": "NFT is still catching up, you can either wait for a while or close this modal",******************************************
+		"nft_still_catching_up": "Le site est toujours en train de rattraper son retard, vous pouvez soit attendre un peu, soit fermer cette fenêtre",
 		"share_text": {
 			"one_card": "Découvrez {{title}} de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
 			"multiple_card_one_collection": "Découvrez tous les NFTs de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
