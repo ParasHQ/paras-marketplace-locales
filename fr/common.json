@@ -75,7 +75,7 @@
 		"my_ramper_wallet": "Mon portefeuille Ramper",
 		"switch_wallet": "Changer de portefeuille",
 		"logout": "Se déconnecter",
-		"top_up_near": "Acheter Near avec Fiat",
+		"top_up_near": "+ Recharger Near avec Fiat",
 		"get_verified": "Obtenir une Vérification",
 		"create_card": "Créer une Carte"
 	},
@@ -93,11 +93,11 @@
 		"notification_raffle_new_cycle": "<semibold>Des récompenses exclusives vous attendent !</semibold>",
 		"notification_raffle_new_cycle_detail": "Découvrez les récompenses du mois du programme de fidélité Paras <linkLoyalty>ici</linkLoyalty>.",
 		"notification_level_down": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
-		"notification_level_down_detail": "Recommencez à <linkLoyalty>bloquer les $PARAS</linkLoyalty> pour rester inscrit dans le tirage au sort !",
+		"notification_level_down_detail": "Recommencez à <linkLoyalty>bloquer vos $PARAS</linkLoyalty> pour rester inscrit dans le tirage au sort !",
 		"notification_level_going_expire": "<semibold>Votre adhésion va expirer !</semibold>",
 		"notification_level_going_expire_detail": "Recommencez à <linkStaking>bloquer vos $PARAS</linkStaking> pour les conserver à {{currLevel}}",
 		"notification_raffle_type_drop_bronze_and_active": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
-		"notification_raffle_type_drop_bronze_and_active_detail": "Recommencez à <linkStaking>bloquer des $PARAS</linkStaking> pour rester inscrit dans le tirage au sort !",
+		"notification_raffle_type_drop_bronze_and_active_detail": "Recommencez à <linkStaking>bloquer vos $PARAS</linkStaking> pour rester inscrit dans le tirage au sort !",
 		"notification_raffle_type_drop_not_bronze_and_active": "<semibold>Votre niveau d'adhésion a diminué !</semibold>",
 		"notification_raffle_type_drop_not_bronze_and_active_detail": "Vous serez automatiquement inscrit au tirage au sort {{currRaffleType}}",
 		"notification_raffle_type_drop_bronze_and_deactive": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
@@ -130,8 +130,8 @@
 		"notification_add_offer": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a offert <semibold><linkToken>{{title}}</linkToken></semibold> pour {{price}} Ⓝ",
 		"notification_add_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a enchéri <semibold><linkToken>{{title}}</linkToken></semibold> pour {{amount}} Ⓝ",
 		"cancel_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a annulé son enchère <semibold><linkToken>{{title}}</linkToken></semibold> pour {{amount}} Ⓝ",
-		"notification_category_accepted": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été rejetée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
-		"notification_category_rejected": "Token <semibold><linkToken>{{title}}</linkToken></semibold> submission has been rejected from <semibold><linkCategory>{{categoryName}}</linkCategory></semibold> category.",
+		"notification_category_accepted": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été acceptée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
+		"notification_category_rejected": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été rejetée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
 		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a proposé un échange <semibold>{{tradeTitle}}</semibold> avec votre <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> a accepté l'échange <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a fait une offre supérieure pour <semibold><linkToken>{{title}}</linkToken></semibold> pour {{_amount}} Ⓝ",
@@ -204,12 +204,12 @@
 		"button_report": "Reporter",
 		"button_buy": "Acheter Maintenant",
 		"button_place_an_offer": "Faire Offre",
-		"button_edit_listing": "Editer Listing",
-		"button_bid": "Placer une Enchère",**************************************
+		"button_edit_listing": "Modifier Listing",
+		"button_bid": "Placer une Enchère",
 		"button_mint": "Mint",
 		"button_buy_short": "Acheter",
-		"button_place_an_offer_short": "Offre",'*****************************************'
-		"button_bid_short": "Enchère",'*******************************************************'
+		"button_place_an_offer_short": "Offre",
+		"button_bid_short": "Enchère",
 		"button_see_owners": "Voir Propriétaires"
 	},
 	"profile": {
@@ -219,9 +219,9 @@
 		"follow_activity": "Suivre l'activité"
 	},
 	"activity": {
-		"last_7_days": "Last 7 days",
-		"rarity": "Rarity {{rarity}}",
-		"rank": "Rank {{rank}}",
+		"last_7_days": "Derniers 7 jours",
+		"rarity": "Rareté {{rarity}}",
+		"rank": "Rang {{rank}}",
 		"transaction-type": {
 			"accept": "Accepter",
 			"minted": "Minté",
@@ -229,7 +229,7 @@
 			"transfer": "Transferts",
 			"set_price": "Définir Prix",
 			"offer": "Faire une Offre",
-			"delete_offer": "Supprimer l'offre",
+			"delete_offer": "Supprimer l'Offre",
 			"submission": "Soumettre",
 			"creation": "Création",
 			"listing": "Lister",
@@ -270,7 +270,7 @@
 		"input_email_placeholder": "Entrez votre adresse e-mail",
 		"input_email_error": "Veuillez entrer une adresse e-mail valide",
 		"minimum_offer_price_label": "Prix minimum de l'Offre",
-		"minimum_offer_price_description": "Définir le prix minimum que vous souhaitez pour vos Oeuvres de Collection",
+		"minimum_offer_price_description": "Définir le prix minimum que vous souhaitez pour vos Oeuvres numériques de Collection",
 		"rpc_label": "RPC Url",
 		"rpc_option": {
 			"official": "official rpc",
