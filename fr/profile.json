@@ -19,17 +19,17 @@
 		"more": "Plus",
 		"less": "Moins",
 		"links": "Liens",
-		"edit_bio": "Editer Bio",
+		"edit_bio": "Modifier Bio",
 		"cancel": "Annuler",
 		"placeholder": "Racontez l'histoire de votre profil",
-		"edit": "Editer"
+		"edit": "Modifier"
 	},
 	"action_logo_cover": {
 		"profile_cover": "Bannière du profil",
 		"zoom": "Zoom",
 		"straighten": "Ajuster",
 		"upload": "Télécharger",
-		"edit": "Editer",
+		"edit": "Modifier",
 		"save_cover": "Sauvegarder la bannière",
 		"not_allowed_edit": "Vous n'avez pas la permission de modifier si vous n'aviez pas de bannière précédemment"
 	},
