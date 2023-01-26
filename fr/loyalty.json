@@ -1,67 +1,67 @@
 {
 	"tabs": {
-		"overview": "Overview",
-		"rewards": "Rewards",
-		"leaderboard": "Leaderboard",
-		"mechanism": "Mechanism",
+		"overview": "Aperçu",
+		"rewards": "Récompenses",
+		"leaderboard": "Tableau de bord",
+		"mechanism": "Processus",
 		"faq": "FAQs",
-		"terms": "Terms & Conditions"
+		"terms": "Conditions générales"
 	},
 	"overview": {
-		"title": "Join Paras Loyalty &\n Get Excellent Reward!",
-		"desc": "Paras loyalty is a special program created to\nappreciate $PARAS stakers by giving exclusive\naccess to limited raffles.",
-		"button_start_locked_staking": "Start Locked Staking",
-		"button_learn_more": "Learn More",
-		"paras_loyalty_terms": "Paras Loyalty <Link>Terms & Conditions</Link>"
+		"title": "Rejoignez la fidélité Paras et\n obtenez d'excellentes récompenses!",
+		"desc": "La fidélité Paras est un programme spécial créé pour\napprécier les 'stakers' $PARAS en donnant un accès exclusif\nà des tirages au sort limités.",
+		"button_start_locked_staking": "Commencer le 'staking' bloqué",
+		"button_learn_more": "En savoir plus",
+		"paras_loyalty_terms": "Conditions générales de la fidélité Paras <Link>Termes & Conditions</Link>"
 	},
 	"rewards": {
-		"from_paras_top_coll": "NFTs from Paras Top Collections",
-		"platinum_raffle": "Platinum Raffle",
-		"gold_raffle": "Gold Raffle",
-		"from_paras_new_coll": "NFTs from Paras New Collections"
+		"from_paras_top_coll": "NFTs des Meilleures Collections de Paras",
+		"platinum_raffle": "Tirage au sort Platine",
+		"gold_raffle": "Tirage au sort Or",
+		"from_paras_new_coll": "NFTs des Nouvelles Collections de Paras"
 	},
 	"leaderboard": {
-		"coming_soon_desc": "The locked staking leaderboard will be displayed when the loyalty period begins.",
-		"desc": "This locked staking leaderboard is NOT a winner list. Winners will be chosen randomly through raffles. <Span>The higher your raffle point, the bigger your chance to win.</Span>",
-		"auto_refresh": "Auto-refresh",
+		"coming_soon_desc": "Le classement des 'staking' bloqués sera affiché lorsque la période de fidélité commencera.",
+		"desc": "Ce classement des 'stakings' bloqués n'est PAS une liste de gagnants. Les gagnants seront choisis au hasard par tirage au sort. <Span> Plus votre point de tirage au sort est élevé, plus vos chances de gagner sont grandes.</Span>",
+		"auto_refresh": "Actualisation automatique",
 		"table": {
 			"top_10": "Top 10",
-			"username": "Username",
-			"locked_staking": "Locked Staking (LS)",
-			"duration": "Duration",
-			"duration_point": "Duration Point",
-			"total_raffle_point": "Total Raffle Point"
+			"username": "Nom d'utilisateur",
+			"locked_staking": "'Staking' bloqué (LS)",
+			"duration": "Durée",
+			"duration_point": "Point de durée",
+			"total_raffle_point": "Point de tirage au sort total"
 		},
-		"my_ranking": "My Ranking",
-		"only_user": "Only users who have registered for the raffle are displayed on this leaderboard.",
-		"click_here": "Click <Link>here</Link> for the raffle registration tutorial."
+		"my_ranking": "Mon classement",
+		"only_user": "Seuls les utilisateurs enregistrés pour le tirage au sort sont affichés sur ce classement.",
+		"click_here": "Cliquez <Link>ici</Link> pour le tutoriel d'inscription au tirage au sort."
 	},
 	"mechanism": {
-		"title": "Loyalty Program Mechanism",
-		"bronze_member": "Bronze Members",
-		"silver_member": "Silver Members",
-		"gold_member": "Gold Members",
-		"platinum_member": "Platinum Members",
-		"days": "days",
+		"title": "Processus du programme de fidélité",
+		"bronze_member": "Membres Bronze",
+		"silver_member": "Membres Argent",
+		"gold_member": "Membres Or",
+		"platinum_member": "Membres Platine",
+		"days": "jours",
 		"loyalty_cycle": {
 			"cycle_1": {
-				"title": "Loyalty level will be determined based on the amount of $PARAS locked & the locked staking duration.",
-				"desc": "Users who stake $PARAS without locking it will be considered Bronze level. Learn more on how to do locked staking <Link>here</Link>.",
-				"paras_locked": "Minimum amount of $PARAS locked",
-				"locked_staking": "Minimum locked staking duration",
+				"title": "Le niveau de fidélité sera déterminé en fonction de la quantité de $PARAS bloquée et de la durée du 'staking' bloqué.",
+				"desc": "Les utilisateurs qui 'stake' des $PARAS sans les bloquer seront considérés comme étant au niveau Bronze. En savoir plus sur comment effectuer 'staking' bloqué.<Link>ici</Link>",
+				"paras_locked": "Montant minimum de $PARAS bloqué.",
+				"locked_staking": "Durée minimale de 'staking' bloqué.",
 				"info": {
-					"title": "If users at Silver, Gold, or Platinum level lock for <b>90 days</b>, they will get additional point:",
-					"desc": "<Span>25%</Span> from user’s locked staking amount"
+					"title": "Si les utilisateurs au niveau Argent, Or ou Platine bloquent pendant <b>90 jours</b>, ils obtiendront un point supplémentaire:",
+					"desc": "<Span>25%</Span> du montant de 'staking' bloqué de l'utilisateur."
 				}
 			},
 			"cycle_2": {
-				"title": "Silver, Gold, and Platinum members will have a chance to sign up and enter an exclusive raffle during the loyalty program period.",
-				"desc_1": "Silver, Gold, and Platinum members can log in to <Link>Paras Marketplace</Link>, and sign up to the exclusive raffle through a whitelisted pop-up banner that will appear on the home screen.",
-				"desc_2": "If you’re missing the pop-up banner, check your notification box and look for the raffle announcement. Click ‘Sign Up’ to join the exclusive raffle."
+				"title": "Les membres Argent, Or et Platine auront la possibilité de s'inscrire et de participer à un tirage au sort exclusif pendant la période du programme de fidélité.",
+				"desc_1": "Les membres Argent, Or et Platine peuvent se connecter à <Link>Paras Marketplace</Link>, et s'inscrire au tirage au sort exclusif en cliquant sur une bannière contextuelle qui apparaîtra sur l'écran d'accueil.",
+				"desc_2": "Si vous ne voyez pas la bannière contextuelle, vérifiez votre boîte de notification et recherchez l'annonce de tirage au sort. Cliquez sur 'S'inscrire' pour participer au tirage au sort exclusif."
 			},
 			"cycle_3": {
-				"title": "All Silver, Gold, and Platinum members who has signed up for the raffle will be put into separate raffle pools.",
-				"desc": "The more $PARAS you lock & the longer your locked staking period, the higher your probability to win the raffle."
+				"title": "Tous les membres Argent, Or et Platine qui ont signé pour le tirage au sort seront mis dans des groupes de tirage au sort séparés.",
+				"desc": "Plus vous bloquez de $PARAS et plus la durée de votre 'staking' bloqué est longue, plus vos chances de gagner le tirage au sort sont élevées."
 			},
 			"cycle_4": {
 				"title": "Each raffle pool will have different rewards.",
