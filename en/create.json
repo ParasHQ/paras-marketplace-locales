@@ -91,7 +91,8 @@
 		"error_max_royalty": "Total royalty can not be more than 90%",
 		"error_input": {
 			"price_required": "Price amount is required",
-			"minimum_0": "Minimum 0 {{iconnear}}"
+			"minimum_0": "Minimum 0 <iconnear/>",
+			"maximum_card4card_01": "Your maximum price must be 0.1 <iconnear/>"
 		},
 		"category": "Category",
 		"category_tooltip": "Adding category will help your card more discoverable on the market. Once you've applied a category, you can't change it later.",
