@@ -41,7 +41,7 @@
 		"current_price": "Prix actuel",
 		"your_offer": "Votre Offre",
 		"your_balance": "Votre Solde",
-		"currently_staked": "Ce NFT est actuellement 'staké' par le propriétaire",
+		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
 		"place_offer": "Faire une Offre"
 	},
 	"trading": {
@@ -51,10 +51,10 @@
 	},
 	"mint": {
 		"rarity": "Rareté {{score}}",
-		"mint_to_self": "'Mint' à moi-même",
+		"mint_to_self": "Mint à moi-même",
 		"input_label_mint": "ID Compte",
 		"storage_fee": "Frais de stockage",
-		"mint": "'Mint'"
+		"mint": "Mint"
 	},
 	"accept_offer": {
 		"offer_from": "<semibold>Offer</semibold> de <semibold>{{buyerId}}</semibold>",
