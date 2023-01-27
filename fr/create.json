@@ -105,7 +105,7 @@
 		"button_cancel": "Annuler"
 	},
 	"fill": "Remplir",
-	"edit": "Editer",
+	"edit": "Modifier",
 	"sale": "À vendre {{price}}",
 	"not_filled": "Les détails doivent être remplis",
 	"attributes_count": "Attributs ({{count}})",
