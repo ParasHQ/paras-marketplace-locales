@@ -224,9 +224,9 @@
 		"rank": "Rang {{rank}}",
 		"transaction-type": {
 			"accept": "Accepter",
-			"minted": "Mintées",
-			"burned": "Brûlées",
-			"transfer": "Transferts",
+			"minted": "Mintée",
+			"burned": "Brûlée",
+			"transfer": "Transfert",
 			"set_price": "Définir Prix",
 			"offer": "Faire une Offre",
 			"delete_offer": "Supprimer l'Offre",
