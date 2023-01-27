@@ -27,7 +27,7 @@
 	"embedded_collectibles": "Objets numériques de Collection",
 	"form": {
 		"cover": {
-			"title": "Télécharger la banière",
+			"title": "Télécharger la bannière",
 			"description": "Fichiers pris en charge: PNG, JPG. Taille maximale de fichier: 30mb"
 		},
 		"teaser": {
