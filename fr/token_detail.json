@@ -18,12 +18,12 @@
 			"on_sale": "En vente"
 		},
 		"bidding_price_type": {
-			"high_bid": "Offre la plus élevée",
-			"start_bid": "Offre de départ"
+			"high_bid": "Enchère la plus élevée",
+			"start_bid": "Enchère de départ"
 		},
 		"bidding_list": {
 			"auction_ends_in_token": "La Vente aux Enchères se termine dans {{days}} jours, {{hours}} {{mins}} {{secs}}s",
-			"auction_ends_in_token_series": "Certaines éditions sont en vente aux Enchères",
+			"auction_ends_in_token_series": "Certaines éditions sont en Vente aux Enchères",
 			"summary_bid": "Résumé des Enchères",
 			"since": "depuis le début",
 			"place_recent_bid": "Placer une Enchère récente ",
@@ -36,13 +36,13 @@
 			"active_offering": "Offres actives",
 			"regular": "Crypto",
 			"trade_with_card": "Echange avec Carte",
-			"active_offers": "Offre(s) active(s)",
+			"active_offers": "Offres actives",
 			"no_offer": "Aucune Offre pour le moment",
 			"highest_offer": "Offre la plus élevée",
 			"offer_higher": "Faire une Offre plus élevée",
 			"lowest_offer": "Offre la plus basse",
 			"all_offers": "Toutes les Offres actives",
-			"send_offer": "Envoyer une Offre",
+			"send_offer": "Faire une Offre",
 			"accept": "Accepter",
 			"delete": "Supprimer",
 			"no_trade": "Aucun échange pour le moment",
@@ -51,7 +51,7 @@
 			"by": "par",
 			"lowest": "Le plus bas"
 		},
-		"mint_nft": "'Mint' NFT",
+		"mint_nft": "Mint NFT",
 		"creator": "Créateur",
 		"verified_creator": "Créateur Vérifié",
 		"collection": "Collection",
@@ -95,7 +95,7 @@
 		"no_owners": "Aucun propriétaire, devenez le premier",
 		"on_auction": "En vente aux enchères",
 		"on_sale": "En vente",
-		"staked": "'Staké'",
+		"staked": "Staké",
 		"not_for_sale": "Pas À Vendre",
 		"update": "Mettre à jour",
 		"buy": "Acheter"
@@ -111,11 +111,11 @@
 		"deleted_offer_nft_trade": "a supprimé une Offre d'échange NFT",
 		"accept_nft_trade": "a accepté un échange NFT",
 		"remove_from_sale": "a retiré de la Vente",
-		"staked_to": "'staké' pour",
+		"staked_to": "staké pour",
 		"bought_from": "a acheté à",
 		"for": "pour",
-		"minted": "'mint'",
-		"minted_by": "'Mint' par",
+		"minted": "mint",
+		"minted_by": "Mint par",
 		"burned": "a brûlé",
 		"accept_offer": "a accepté une Offre de",
 		"with_auction_for": "avec une Vente aux Enchères pour",
@@ -123,7 +123,7 @@
 		"series_created_by": "Série créée par",
 		"creator_put_series_not_sale": "Le créateur a mis la série en non-disponible",
 		"creator_put_series_sale_for": "Le créateur a mis la série en Vente pour",
-		"creator_put_series_nonmintable": "Le créateur a mis la série en non 'mintable'",
+		"creator_put_series_nonmintable": "Le créateur a mis la série en non mintable",
 		"creator_decrease_series": "Le créateur a diminué les exemplaires de la série à",
 		"add_offer_for": "a ajouté une Offre pour",
 		"removed_for": "a supprimé une Offre"
