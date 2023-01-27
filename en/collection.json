@@ -91,6 +91,7 @@
 			"error_maximum": "Cannot add to cart more than {{items}} items."
 		},
 		"item_removed": "Item removed",
-		"item_added": "1 item added to sweep floor cart."
+		"item_added": "1 item added to sweep floor cart.",
+		"last_7_days_volume": "Last 7 Days Volume"
 	}
 }
