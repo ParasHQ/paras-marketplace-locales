@@ -21,7 +21,7 @@
 		"from_paras_new_coll": "NFTs des Nouvelles Collections de Paras"
 	},
 	"leaderboard": {
-		"coming_soon_desc": "Le classement des 'staking' bloqués sera affiché lorsque la période de fidélité commencera.",
+		"coming_soon_desc": "Le classement des 'stakings' bloqués sera affiché lorsque la période de fidélité commencera.",
 		"desc": "Ce classement des 'stakings' bloqués n'est PAS une liste de gagnants. Les gagnants seront choisis au hasard par tirage au sort. <Span> Plus votre point de tirage au sort est élevé, plus vos chances de gagner sont grandes.</Span>",
 		"auto_refresh": "Actualisation automatique",
 		"table": {
@@ -78,7 +78,7 @@
 		"title": "FAQs",
 		"list": {
 			"1": {
-				"title": "\"Plus vous verrouillez de $PARAS, plus votre probabilité de gagner le tirage au sort est élevée\". Comment cela fonctionne-t-il? Si je m'engage avec 6 000 $PARAS, aurai-je une meilleure chance qu'une personne qui s'engage avec 3 000 $PARAS? Ou tous les utilisateurs dans la catégorie Platine sont-ils égaux, indépendamment de la somme qu'ils s'engagent après 3 000 Paras?",
+				"title": "\"Plus vous bloquez de $PARAS, plus votre probabilité de gagner le tirage au sort est élevée\". Comment cela fonctionne-t-il? Si je m'engage avec 6 000 $PARAS, aurai-je une meilleure chance qu'une personne qui s'engage avec 3 000 $PARAS? Ou tous les utilisateurs dans la catégorie Platine sont-ils égaux, indépendamment de la somme qu'ils s'engagent après 3 000 Paras?",
 				"desc_1": "La proportion de gain dépend de la quantité de $PARAS que vous mettez en jeu. Donc, oui, plus vous mettez en jeu, plus vous avez de chances de gagner.",
 				"desc_2": "Nous voulons minimiser la possibilité de fraude, comme les utilisateurs créant plusieurs comptes pour gagner le tirage au sort. En faisant cela, nous espérons que vous pourrez vous détendre et vous concentrer sur la gestion d'un seul portefeuille pour le programme de fidélité de Paras."
 			},
@@ -101,7 +101,7 @@
 				"desc": "Non, vous pouvez directement mettre les $PARAS existants dans votre portefeuille dans le 'staking' bloqué sans vous inscrire au 'staking' flexible."
 			},
 			"6": {
-				"title": "Comment réclamer les récompenses de staking bloqué ?",
+				"title": "Comment réclamer les récompenses de 'staking' bloqué ?",
 				"desc": "Le montant des 'Récompenses réclamables' sur la page de 'staking' est une accumulation de vos récompenses de 'staking' flexible et de 'staking' verrouillé. Vous pouvez réclamer les récompenses sans débloquer vos $PARAS."
 			}
 		},
@@ -140,41 +140,41 @@
 			"title": "Les utilisateurs dont le niveau d'adhésion à la fidélité baisse après s'être inscrits pour un tirage au sort seront automatiquement inscrits pour leur niveau actuel. Cependant, si le niveau d'adhésion des utilisateurs tombe à Bronze, ils ne seront inclus dans aucun tirage au sort."
 		},
 		"8": {
-			"title": "Silver and Gold members who top up their locked staking and level up during the raffle registration period are eligible to re-register for the higher level raffle. If they do not sign up for the new level, they will be automatically enrolled in the previous level (Silver or Gold)."
+			"title": "Les membres Argent et Or qui augmentent leur 'staking' bloqué et augmentent de niveau pendant la période d'inscription au tirage au sort peuvent se réinscrire pour le tirage au sort de niveau supérieur. S'ils ne s'inscrivent pas pour le nouveau niveau, ils seront automatiquement inscrits au niveau précédent (Argent ou Or)."
 		},
 		"9": {
-			"title": "1 (one) user can only win 1 (one) raffle prize per month."
+			"title": "1 (un) utilisateur ne peut gagner qu'1 (un) prix de raffle par mois."
 		},
 		"10": {
-			"title": "More details about locked staking:",
+			"title": "Plus de détails sur le 'staking' bloqué:",
 			"sub": {
-				"1": "Locked staking does not allow users to unlock before the end date of the locked staking period.",
-				"2": "When users top up the locked staking amount, the period will be reset.",
-				"3": "When users do not unstake their $PARAS after the locked staking period ends, the $PARAS will automatically move into flexible staking within 1x24 hours after the locked staking period ends.",
-				"4": "Users can do locked staking without reducing their $PARAS on the flexible staking by using the remaining $PARAS in their wallet.",
-				"5": "Users can directly put the existing $PARAS in their wallet into locked staking without joining the flexible staking.",
-				"6": "The amount of 'Claimable Rewards' on the staking page is an accumulation of flexible staking and locked staking rewards. Users can claim the rewards without unlocking $PARAS."
+				"1": "Le 'staking' bloqué n'autorise pas les utilisateurs à débloquer avant la date de fin de la période de 'staking' bloquée.",
+				"2": "Lorsque les utilisateurs ajoutent de l'argent à leur montant 'staké' bloqué, la période sera réinitialisée.",
+				"3": "Lorsque les utilisateurs ne débloquent pas leurs $PARAS après la fin de la période de blocage, les $PARAS se déplaceront automatiquement vers un 'staking' bloqué flexible dans les 24 heures suivant la fin de la période de blocage.",
+				"4": "Les utilisateurs peuvent faire du 'staking' bloqué sans réduire leur $PARAS sur le 'staking' flexible en utilisant les $PARAS restants dans leur portefeuille.",
+				"5": "Les utilisateurs peuvent mettre directement les $PARAS existants dans leur portefeuille en 'staking' bloqué sans rejoindre le 'staking' flexible.",
+				"6": "Les 'récompenses réclamables' sur la page de 'staking' sont une accumulation des récompenses de 'staking' flexible et bloquée. Les utilisateurs peuvent réclamer les récompenses sans débloquer les $PARAS."
 			}
 		},
 		"11": {
-			"title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
+			"title": "En participant à ce programme, vous acceptez les <Link>Conditions générales</Link> de la fidélité de Paras."
 		}
 	},
 	"upcoming_loyalty": {
-		"title": "Brace Yourself for the Upcoming Loyalty Period in",
-		"desc": "February 2023"
+		"title": "Préparez-vous pour la prochaine période de fidélité à venir.",
+		"desc": "Février 2023"
 	},
 	"loyalty_phase": {
 		"1": {
-			"title": "Sign Up Loyalty Period",
+			"title": "Période d'inscription de fidélité",
 			"desc": "15-17 December 2022"
 		},
 		"2": {
-			"title": "Raffle Date",
+			"title": "Date du tirage au sort",
 			"desc": "15-17 December 2022"
 		},
 		"3": {
-			"title": "Winner Announcement",
+			"title": "Annonce des gagnants",
 			"desc": "1 January 2023"
 		}
 	}
