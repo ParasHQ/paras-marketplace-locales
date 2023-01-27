@@ -10,7 +10,12 @@
 	},
 	"stats": {
 		"event_period": "Event Period",
-		"curated_by": "Curated by"
+		"curated_by": "Curated by",
+		"status": {
+			"upcoming": "Upcoming in {{date}}",
+			"open": "Open until {{date}}",
+			"closed": "Closed"
+		}
 	},
 	"existingCard": {
 		"titleModal": "{{title}}",
