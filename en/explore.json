@@ -43,6 +43,8 @@
 			"description_multiple": "You are going to reject {{count}} cards to {{category_name}} category.",
 			"button_accept": "Yes",
 			"button_reject": "Cancel"
-		}
+		},
+		"button_manage_curation": "Manage Curation",
+		"button_exit_manage_curation": "Exit Manage Curation"
 	}
 }
