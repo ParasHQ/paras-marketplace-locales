@@ -140,7 +140,7 @@
 		"signup": "S'inscrire"
 	},
 	"footer": {
-		"tagline": "Créez, Echangez et Collectionnez des Oeuvres Numériques de Collection. Tout en un \n Marché Social NFT pour les Créateurs et les Collectionneurs",
+		"tagline": "Créez, Echangez et Collectionnez des Oeuvres Numériques de Collection. \n Marché Social NFT Tout en un pour les Créateurs et les Collectionneurs.",
 		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
 	},
 	"error": {
@@ -223,24 +223,24 @@
 		"rarity": "Rareté {{rarity}}",
 		"rank": "Rang {{rank}}",
 		"transaction-type": {
-			"accept": "Accepter",
+			"accept": "Acceptée",
 			"minted": "Mintée",
 			"burned": "Brûlée",
 			"transfer": "Transfert",
-			"set_price": "Définir Prix",
-			"offer": "Faire une Offre",
-			"delete_offer": "Supprimer l'Offre",
-			"submission": "Soumettre",
+			"set_price": "Prix Défini",
+			"offer": "Offre Faite",
+			"delete_offer": "Offre Supprimée",
+			"submission": "Soumise",
 			"creation": "Création",
-			"listing": "Lister",
-			"remove_sale": "Retirer de la vente",
-			"add_trade": "Ajouter un échange",
-			"delete_trade": "Supprimer l'échange",
-			"accept_trade": "Accepter l'échange",
-			"decrease_copy": "Réduire les copies",
+			"listing": "Listée",
+			"remove_sale": "Retirée de la Vente",
+			"add_trade": "Echange Ajouté",
+			"delete_trade": "Echange Supprimé",
+			"accept_trade": "Echange Accepté",
+			"decrease_copy": "Réduction des copies",
 			"auction": "Vente aux Enchères",
-			"bid": "Placer une Enchère",
-			"cancel_bid": "Annuler l'Enchère"
+			"bid": "Enchère Placée",
+			"cancel_bid": "Enchère Annulée"
 		},
 		"floor": "Prix Plancher {{floor}} "
 	},
