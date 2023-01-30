@@ -42,7 +42,8 @@
 		"your_offer": "Your Offer",
 		"your_balance": "Your Balance",
 		"currently_staked": "This NFT is currently staked by owner",
-		"place_offer": "Place an Offer"
+		"place_offer": "Place an Offer",
+		"update_offer": "Update Offer"
 	},
 	"trading": {
 		"rarity": "Rarity {{score}}",
@@ -66,6 +67,18 @@
 		"total_received": "Total Received",
 		"accept_offer": "Accept Offer"
 	},
+	"reject_offer": {
+		"reject_offer": "Reject Offer",
+		"reject_confirm": {
+			"want_to_reject": "Want to reject offer from {{accountId}}?",
+			"you_are_going_to_reject": "You are going to reject the offer for <semibold>{{cardName}}</semibold> at the price of <semibold>{{amount}} <iconnear/></semibold>",
+			"offerer_receive_notif": "<semibold>{{accountId}}</semibold> as the offerer will receive a notification that their offer was rejected and are free to cancel it.",
+			"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
+			"cancel": "Cancel",
+			"confirm": "Confirm Reject"
+		},
+		"warning_rejected_sent": "Your offer was rejected by the card owner. Cancel your offer to get your balance back or update it to make another offer."
+	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
 		"in": "in",
@@ -75,6 +88,17 @@
 		"your_card_volume": "Your card volume",
 		"received_card_volume": "Received card volume",
 		"accept_trade": "Accept Trade"
+	},
+	"reject_trade": {
+		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
+		"in": "in",
+		"this_card_flagged": "This card has flagged as {{flag}}",
+		"with_your_card": "With your card",
+		"volume_gap": "Volume Gap",
+		"your_card_volume": "Your card volume",
+		"received_card_volume": "Received card volume",
+		"reject_trade": "Reject Trade",
+		"i_understand": "I understand the risk and wish to accept"
 	},
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> from <semibold>{{currentBidder}}</semibold>",
@@ -88,6 +112,7 @@
 	},
 	"cancel_offer": {
 		"are_you_sure": "Are you sure you want to cancel your offer?",
+		"your_balance_will_be_returned": "Your balance will be returned as soon as you cancel this offer.",
 		"cancel_offer": "Cancel Offer"
 	},
 	"cancel_bid": {
