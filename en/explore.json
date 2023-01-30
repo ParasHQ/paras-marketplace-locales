@@ -13,5 +13,38 @@
 		"cards": "Cards",
 		"publications": "Publications",
 		"profiles": "Profiles"
+	},
+	"submission": {
+		"nft_title": "NFT Title",
+		"collection": "Collection",
+		"creator": "Creator",
+		"floor": "Floor",
+		"price": "Price",
+		"no_price": "No price",
+		"edition_of": "Edition of",
+		"button_accept": "Accept",
+		"button_reject": "Reject",
+		"search_placeholder": "Search NFT...",
+		"total": "Total: {{total}} NFTs",
+		"learn_more": "Learn more",
+		"verified": "Verified Creator",
+		"modal_accept": {
+			"title_one": "Want to accept {{count}} item?",
+			"title_other": "Want to accept {{count}} items?",
+			"description_single": "You are going to accept {{card_name}} card to {{category_name}} category.",
+			"description_multiple": "You are going to accept {{count}} cards to {{category_name}} category.",
+			"button_accept": "Yes",
+			"button_reject": "Cancel"
+		},
+		"modal_reject": {
+			"title_one": "Want to reject {{count}} item?",
+			"title_other": "Want to reject {{count}} items?",
+			"description_single": "You are going to reject {{card_name}} card to {{category_name}} category.",
+			"description_multiple": "You are going to reject {{count}} cards to {{category_name}} category.",
+			"button_accept": "Yes",
+			"button_reject": "Cancel"
+		},
+		"button_manage_curation": "Manage Curation",
+		"button_exit_manage_curation": "Exit Manage Curation"
 	}
 }
