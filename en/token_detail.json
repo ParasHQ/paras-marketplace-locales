@@ -49,7 +49,8 @@
 			"highest": "Highest",
 			"volume": "Volume",
 			"by": "by",
-			"lowest": "Lowest"
+			"lowest": "Lowest",
+			"cancel": "Cancel"
 		},
 		"mint_nft": "Mint NFT",
 		"creator": "Creator",

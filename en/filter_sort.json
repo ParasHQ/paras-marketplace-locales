@@ -19,7 +19,9 @@
 			"highest_volume": "Highest Volume",
 			"most_owner": "Most Owner",
 			"highest_fp": "Highest Floor Price",
-			"lowest_fp": "Lowest Floor Price"
+			"lowest_fp": "Lowest Floor Price",
+			"recently_sent": "Recently Sent",
+			"recently_received": "Recently Received"
 		},
 		"price": "Price",
 		"price_placeholder": {
