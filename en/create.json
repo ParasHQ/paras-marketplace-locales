@@ -76,6 +76,7 @@
 		"price_placeholder": "10",
 		"price_dollar": "Equal to ${{price}}",
 		"copies": "Number of Copies",
+		"error_copies_card4card": "Your edition must be at least 100 copies.",
 		"put_on_market": "Put on Marketplace?",
 		"put_on_market_option": {
 			"no": "No",
