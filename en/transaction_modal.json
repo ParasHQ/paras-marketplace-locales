@@ -46,8 +46,15 @@
 		"update_offer": "Update Offer"
 	},
 	"trading": {
+		"title": "Trade Card",
+		"desc": "Only cards from verified creator are displayed below",
 		"rarity": "Rarity {{score}}",
+		"no_card": "There are no cards from verified creators in this collection",
+		"selected_card": "Your selected card",
+		"desc_empty": "You haven't selected a card.",
+		"all_collections": "All Collections",
 		"submit": "Submit",
+		"cancel": "Cancel",
 		"add_card": "{{type}} card"
 	},
 	"mint": {
