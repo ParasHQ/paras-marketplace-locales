@@ -126,7 +126,7 @@
 			"new_collection": "Nouvelle Collection",
 			"exist_collection": "Collection existante",
 			"you_will_create_new_collection": "Vous allez créer une nouvelle Collection avant d'ajouter de nouvelles Cartes",
-			"you_wil_select_one_of_collection": "Vous allez sélectionner une de vos Collections existantes avant d'ajouter de nouvelles Cartes"
+			"you_will_select_one_of_collection": "Vous allez sélectionner une de vos Collections existantes avant d'ajouter de nouvelles Cartes"
 		},
 		"step_2": {
 			"choose_your_existing_collection": "Choisissez votre Collection existante",
