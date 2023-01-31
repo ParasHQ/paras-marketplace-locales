@@ -48,6 +48,7 @@
 	"activity": "Activité",
 	"tracker": "Suivi",
 	"search": "Recherche",
+	"search_placeholder": "Recherche NFT...",
 	"filter_attributes": {
 		"filter_by_attributes": "Filtrer par attributs",
 		"reset": "Réinitialiser",
