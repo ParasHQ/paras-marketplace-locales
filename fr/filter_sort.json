@@ -70,5 +70,9 @@
 		"selected": "{{count}} articles sélectionnés",
 		"button_accept_all": "Accepter la sélection",
 		"button_reject_all": "Rejeter la sélection"
-	}
+		},
+		"sent": "Envoyé",
+		"sent_offer": "Offre envoyée",
+		"received": "Reçu",
+		"received_offer": "Offre reçue"
 }
