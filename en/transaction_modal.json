@@ -7,6 +7,8 @@
 	"edition_text_external_token": "NFT | {{edition}}",
 	"edition_text_multiple_token_series": "SERIES | Edition of {{edition}}",
 	"edition_text_1of1_token_series": "Open Edition",
+	"no_price": "No Price",
+	"free": "Free",
 	"transfer": {
 		"no_token_owned": "No token owned",
 		"select": "Select",

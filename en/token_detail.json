@@ -1,4 +1,13 @@
 {
+	"tabs": {
+		"overview": "Overview",
+		"attributes": "Attributes",
+		"owners": "Owners",
+		"history": "History",
+		"description": "Description",
+		"token_info": "Token Info",
+		"publications": "Publications"
+	},
 	"banner_image": {
 		"share": "Share",
 		"copy_link": "Copy Link",
@@ -22,6 +31,7 @@
 			"start_bid": "Starting Bid"
 		},
 		"bidding_list": {
+			"auction_history": " Auction History",
 			"auction_ends_in_token": "Auction end in {{days}} days, {{hours}} {{mins}} {{secs}}s",
 			"auction_ends_in_token_series": "Some of edition is being auctioned",
 			"summary_bid": "Summary bid",
@@ -57,7 +67,24 @@
 		"verified_creator": "Verified creator",
 		"collection": "Collection",
 		"top_collection": "Top Collection",
-		"make_own_offer": "Make your own offer"
+		"make_own_offer": "Make your own offer",
+		"no_price": "No Price",
+		"free": "Free"
+	},
+	"price_history": {
+		"avg_price": "Average Price",
+		"no_price": "No price at this time",
+		"all_time": "All Time",
+		"1day": "1 Day",
+		"7days": "7 Days",
+		"1month": "1 Month",
+		"3months": "3 Months",
+		"6months": "6 Months",
+		"1year": "1 Year",
+		"price": "Price",
+		"lowest_price": "Lowest Price",
+		"avg._price": "Avg. Price",
+		"highest_price": "Highest Price"
 	},
 	"dashed_info": {
 		"own_by": "Own by",

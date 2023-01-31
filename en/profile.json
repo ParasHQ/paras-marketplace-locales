@@ -12,6 +12,13 @@
 		"liked": "Liked",
 		"publication": "Publication"
 	},
+	"cards": {
+		"search_placeholder": "Search NFTs...",
+		"filter_reset": "Rest",
+		"filter_apply": "Apply",
+		"filter_no_collection": "No Collections",
+		"filter_by_collection": "Filter by collection"
+	},
 	"bio": {
 		"joined": "Joined",
 		"account_id": "Account ID",

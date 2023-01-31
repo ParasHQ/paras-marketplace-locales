@@ -210,7 +210,9 @@
 		"button_buy_short": "Buy",
 		"button_place_an_offer_short": "Offer",
 		"button_bid_short": "Bid",
-		"button_see_owners": "See Owners"
+		"button_see_owners": "See Owners",
+		"no_price": "No Price",
+		"free": "Free"
 	},
 	"profile": {
 		"total_purchase": "Total Purchase",
@@ -240,9 +242,12 @@
 			"decrease_copy": "decrease Copy",
 			"auction": "Auction",
 			"bid": "Bid",
-			"cancel_bid": "Cancel Bid"
+			"cancel_bid": "Cancel Bid",
+			"sold": "Sold"
 		},
-		"floor": "Floor {{floor}} "
+		"floor": "Floor {{floor}} ",
+		"by": "by",
+		"to": "to"
 	},
 	"apex_collector": {
 		"title": "Apex Collectors"
@@ -383,5 +388,12 @@
 	},
 	"event_category": {
 		"has_already_c4c": "You already have another edition of this card for C4C"
+	},
+	"login_modal": {
+		"connect_wallet_login": "Connect Wallet to Login",
+		"you_need_connect": "In order to login, you need connect one of these wallet",
+		"login_with_wallet": "Login with Wallet",
+		"login_email": "Login with Email",
+		"need_guide": "Need guide?"
 	}
 }
