@@ -96,6 +96,7 @@
 		"category": "Catégorie",
 		"category_tooltip": "Ajouter une catégorie aidera votre Carte à être plus facilement découverte sur le marché. Une fois qu'une catégorie a été appliquée, vous ne pourrez pas la changer plus tard",
 		"unset": "Non défini"
+		"you_cant_change_category": "Vous ne pouvez pas changer la catégorie."
 	},
 	"form_thumbnail": {
 		"title": "Miniature pour créer une Carte",
