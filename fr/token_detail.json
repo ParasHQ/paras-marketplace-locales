@@ -1,4 +1,13 @@
 {
+	"tabs": {
+		"overview": "Aperçu",
+		"attributes": "Attributs",
+		"owners": "Propriétaires",
+		"history": "Historique",
+		"description": "Description",
+		"token_info": "Info du token",
+		"publications": "Publications"
+	},
 	"banner_image": {
 		"share": "Partager",
 		"copy_link": "Copier le lien",
@@ -22,6 +31,7 @@
 			"start_bid": "Enchère de départ"
 		},
 		"bidding_list": {
+			"auction_history": "Historique des Ventes aux Enchères",
 			"auction_ends_in_token": "La Vente aux Enchères se termine dans {{days}} jours, {{hours}} {{mins}} {{secs}}s",
 			"auction_ends_in_token_series": "Certaines éditions sont en Vente aux Enchères",
 			"summary_bid": "Résumé des Enchères",
@@ -56,8 +66,25 @@
 		"creator": "Créateur",
 		"verified_creator": "Créateur Vérifié",
 		"collection": "Collection",
-		"top_collection": "Meilleurs Collection",
+		"top_collection": "Meilleurs Collections",
 		"make_own_offer": "Faire votre propre Offre"
+		"no_price": "Pas de Prix",
+		"free": "Gratuit"
+	},
+	"price_history": {
+		"avg_price": "Prix Moyen",
+		"no_price": "Pas de prix pour l'instant",
+		"all_time": "Tout temps",
+		"1day": "1 Jour",
+		"7days": "7 Jours",
+		"1month": "1 Mois",
+		"3months": "3 Mois",
+		"6months": "6 Mois",
+		"1year": "1 Year",
+		"price": "Prix",
+		"lowest_price": "Prix le plus bas",
+		"avg._price": "Prix Moyen",
+		"highest_price": "Prix le plus élevé"
 	},
 	"dashed_info": {
 		"own_by": "Détenu par",
