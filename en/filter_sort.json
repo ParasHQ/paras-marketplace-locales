@@ -73,5 +73,9 @@
 		"selected": "{{count}} item selected",
 		"button_accept_all": "Accept All Selected",
 		"button_reject_all": "Reject All Selected"
-	}
+	},
+	"sent": "Sent",
+	"sent_offer": "Sent Offer",
+	"received": "Received",
+	"received_offer": "Received Offer"
 }

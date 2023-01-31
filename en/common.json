@@ -245,6 +245,10 @@
 			"cancel_bid": "Cancel Bid",
 			"sold": "Sold"
 		},
+		"all_users_activity": "All Users Activity",
+		"apex_collectors_activity": "Apex Collector Activity",
+		"top_sellers_activity": "Top Sellers Activity",
+		"following_activity": "Following Activity",
 		"floor": "Floor {{floor}} ",
 		"by": "by",
 		"to": "to"
@@ -395,5 +399,16 @@
 		"login_with_wallet": "Login with Wallet",
 		"login_email": "Login with Email",
 		"need_guide": "Need guide?"
+	},
+	"flag_modal": {
+		"this_creator_flagged": "Creator has been flagged as {{flag}}"
+	},
+	"sign_modal": {
+		"sign_button": "Sign",
+		"sign_description": "You need to verify your account by signing in. Click \"Sign\" below and click \"Send\" in the pop-up. Please allow pop-ups for this website if you don't see one."
+	},
+	"meta_default": {
+		"title": "Paras - NFT Marketplace for Digital Collectibles on NEAR",
+		"description": "Create, Trade, and Collect Digital Collectibles. All-in-one social NFT marketplace for creators and collectors. Discover the best and latest NFT collectibles on NEAR."
 	}
 }

@@ -48,6 +48,7 @@
 	"activity": "Activity",
 	"tracker": "Tracker",
 	"search": "Search",
+	"search_placeholder": "Search NFT...",
 	"filter_attributes": {
 		"filter_by_attributes": "Filter by attributes",
 		"reset": "Reset",
@@ -93,5 +94,6 @@
 		"item_removed": "Item removed",
 		"item_added": "1 item added to sweep floor cart.",
 		"last_7_days_volume": "Last 7 Days Volume"
-	}
+	},
+	"edit_collection_bio": "Edit collection bid"
 }

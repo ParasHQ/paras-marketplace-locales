@@ -162,7 +162,7 @@
 	},
 	"token_info": {
 		"token_info": "Token Info",
-		"smart_contract": "Samrt Contract",
+		"smart_contract": "Smart Contract",
 		"image_link": "Image Link",
 		"locked_fee": "Locked Fee",
 		"tooltip_locked_fee": "This is the current locked transaction fee. Every update to the NFT price will also update the value according to the global transaction fee.",
