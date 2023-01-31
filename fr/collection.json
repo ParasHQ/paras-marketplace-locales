@@ -93,5 +93,6 @@
 		},
 		"item_removed": "Article enlevé",
 		"item_added": "1 article ajouté au panier"
-	}
+		},
+		"edit_collection_bio": "Modifier l'Enchère de la collection"
 }
