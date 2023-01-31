@@ -47,8 +47,15 @@
 		
 	},
 	"trading": {
+		"title": "Echanger Carte",
+		"desc": "Seules les Cartes de Créateurs Vérifiés sont affichées ci-dessous",
 		"rarity": "Rareté {{score}}",
+		"no_card": "Il n'y a pas de Cartes de Créateurs Vérifiés dans cette Collection.",
+		"selected_card": "Votre Carte choisie",
+		"desc_empty": "Vous n'avez pas choisi de Carte.",
+		"all_collections": "Toutes les Collections",
 		"submit": "Soumettre",
+		"cancel": "Annuler",
 		"add_card": "Carte {{type}}"
 	},
 	"mint": {
