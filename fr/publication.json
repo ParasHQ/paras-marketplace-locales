@@ -54,7 +54,27 @@
 			"placeholder": "URL de la Collection",
 			"description": "Veuillez entrer le lien de votre Collection\nhttps://paras.id/collection/paradigm",
 			"button": "Ajouter une Collection"
+		},
+		"leaving_confirmation": {
+			"label": "Êtes-vous sûr de vouloir quitter cette page ? Vous perdrez toute modification non publiée",
+			"button_ok": "Confirmer",
+			"button_cancel": "Annuler"
+		},
+		"delete_publication": {
+			"label": "Confirmer suppression",
+			"description": "Êtes-vous sûr de vouloir publier votre publication {{publication}} ?",
+			"button": "Supprimer"
 		}
+	},
+	"error": {
+		"maximum_cards": "{{num}} Cartes maximum",
+		"maximum_collections": "{{num}} Collections maximum",
+		"wrong_url": "Veuillez entrer l'url correct",
+		"already_added_collection": "Cette Collection a déjà été ajoutée",
+		"maximum_file_size": "La taille maximale du fichier est de {{num}}MB",
+		"title_required": "Un titre est requis",
+		"cover_required": "Une bannière est requise",
+		"teaser_required": "Un teaser est nécessaire"
 	},
 	"delete": "Supprimer",
 	"text_editor": {
