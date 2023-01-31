@@ -241,7 +241,12 @@
 			"auction": "Vente aux Enchères",
 			"bid": "Enchère Placée",
 			"cancel_bid": "Enchère Annulée"
+			"sold": "Vendu"
 		},
+		"all_users_activity": "Activité Utilisateurs",
+		"apex_collectors_activity": "Activité Grands Collectionneurs",
+		"top_sellers_activity": "Activité Meilleurs Vendeurs",
+		"following_activity": "Suivre l'activité",
 		"floor": "Prix Plancher {{floor}} "
 	},
 	"apex_collector": {
