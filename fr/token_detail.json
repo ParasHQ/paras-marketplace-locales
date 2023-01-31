@@ -133,11 +133,13 @@
 		"no_description": "Pas de description"
 	},
 	"token_info": {
-		"token_info": "Token Info",
-		"smart_contract": "Smart Contract",
+		"token_info": "Info du token",
+		"smart_contract": "Contrat Intelligent",
 		"image_link": "Lien de l'image",
 		"locked_fee": "Frais bloqués",
 		"tooltip_locked_fee": "Il s'agit des frais de transaction bloqués actuels. Chaque mise à jour du prix NFT mettra également à jour la valeur en fonction des frais de transaction globaux"
+		"token_id": "ID du token",
+		"token_series_id": "ID de la série de tokens"
 	},
 	"publications": {
 		"publications": "Publications",
