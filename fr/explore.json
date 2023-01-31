@@ -43,6 +43,8 @@
 			"description_multiple": "Vous allez rejeter les Cartes {{count}} dans la catégorie {{category_name}}",
 			"button_accept": "Oui",
 			"button_reject": "Annuler"
-		}
+		},
+		"button_manage_curation": "Gérer la sélection",
+		"button_exit_manage_curation": "Sortir de la sélection"
 	}
 }
