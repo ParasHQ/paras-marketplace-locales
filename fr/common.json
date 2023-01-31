@@ -211,6 +211,8 @@
 		"button_place_an_offer_short": "Offre",
 		"button_bid_short": "Enchère",
 		"button_see_owners": "Voir Propriétaires"
+		"no_price": "Pas de Prix",
+		"free": "Gratuit"
 	},
 	"profile": {
 		"total_purchase": "Achat Total",
@@ -248,6 +250,8 @@
 		"top_sellers_activity": "Activité Meilleurs Vendeurs",
 		"following_activity": "Suivre l'activité",
 		"floor": "Prix Plancher {{floor}} "
+		"by": "de",
+		"to": "a"
 	},
 	"apex_collector": {
 		"title": "Grands Collectionneurs"
@@ -385,5 +389,12 @@
 	},
 	"badge_collection": {
 		"top_collection": "Les 30 Meilleures Collections des 7 derniers jours"
+	},
+	"login_modal": {
+		"connect_wallet_login": "Relier votre portefeuille pour vous connecter",
+		"you_need_connect": "Afin de vous connecter, vous devez vous relier à l'un de ces portefeuilles.",
+		"login_with_wallet": "Connexion avec le portefeuille",
+		"login_email": "Connexion avec l'email",
+		"need_guide": "Besoin d'aide ?"	
 	}
 }
