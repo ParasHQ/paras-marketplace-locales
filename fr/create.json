@@ -92,6 +92,7 @@
 		"error_input": {
 			"price_required": "Le montant du prix est requis",
 			"minimum_0": "Minimum 0 {{iconnear}}"
+			"maximum_card4card_01": "Votre prix maximum doit être de 0.1 <iconnear/>"
 		},
 		"category": "Catégorie",
 		"category_tooltip": "Ajouter une catégorie aidera votre Carte à être plus facilement découverte sur le marché. Une fois qu'une catégorie a été appliquée, vous ne pourrez pas la changer plus tard",
