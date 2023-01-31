@@ -11,6 +11,11 @@
 	"stats": {
 		"event_period": "Période de l'événement",
 		"curated_by": "Sélectionné par"
+		"status": {
+			"upcoming": "A venir le {{date}}",
+			"open": "Ouvert jusqu'au {{date}}",
+			"closed": "Fermé"
+		}
 	},
 	"existingCard": {
 		"titleModal": "{{title}}",
