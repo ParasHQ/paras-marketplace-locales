@@ -47,6 +47,7 @@
 			"transfer": "Transfer",
 			"auction": "Auction",
 			"offer": "Offer",
+			"bid": "Bid",
 			"created": "Created",
 			"minted": "Minted",
 			"burned": "Burned",
