@@ -43,6 +43,8 @@
 		"your_balance": "Votre Solde",
 		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
 		"place_offer": "Faire une Offre"
+		"update_offer": "Offre actualisée"
+		
 	},
 	"trading": {
 		"rarity": "Rareté {{score}}",
