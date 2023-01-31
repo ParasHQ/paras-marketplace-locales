@@ -93,6 +93,7 @@
 		},
 		"item_removed": "Article enlevé",
 		"item_added": "1 article ajouté au panier"
+		"last_7_days_volume": "Volume des 7 derniers jours"
 		},
-		"edit_collection_bio": "Modifier l'Enchère de la collection"
+		"edit_collection_bio": "Modifier la bio de la collection"
 }
