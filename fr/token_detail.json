@@ -50,6 +50,7 @@
 			"volume": "Volume",
 			"by": "par",
 			"lowest": "Le plus bas"
+			"cancel": "Annuler"
 		},
 		"mint_nft": "Mint NFT",
 		"creator": "Créateur",
