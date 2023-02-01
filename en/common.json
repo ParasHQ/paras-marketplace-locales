@@ -247,9 +247,13 @@
 			"sold": "Sold"
 		},
 		"all_users_activity": "All Users Activity",
+		"all_users": "All Users",
 		"apex_collectors_activity": "Apex Collector Activity",
+		"apex_collectors": "Apex Collectors",
 		"top_sellers_activity": "Top Sellers Activity",
+		"top_sellers": "Top Sellers",
 		"following_activity": "Following Activity",
+		"following": "Following",
 		"floor": "Floor {{floor}} ",
 		"by": "by",
 		"to": "to"
