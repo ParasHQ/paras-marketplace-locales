@@ -14,7 +14,7 @@
 		"more": "Voir plus"
 	},
 	"mint_calendar": "Calendrier NFTs Mint",
-	"whats_new": "Quoi de neuf",
+	"whats_new": "Quoi de neuf ?",
 	"highest_sale": {
 		"title": "Ventes les plus élevées",
 		"last_24_h": "Les 24 dernières heures"
@@ -26,17 +26,17 @@
 	"guide": {
 		"1": {
 			"title": "Nouveau sur Paras ?",
-			"description": "Paras est une Plateforme Sociale tout-en-un pour les Créateurs et les Collectionneurs qui utilisent <DescLink>Near Wallet</DescLink>",
+			"description": "Paras est une Plateforme Sociale Tout-en-un pour les Créateurs et les Collectionneurs qui utilisent <DescLink>Near Wallet</DescLink>",
 			"button": "À propos de nous"
 		},
 		"2": {
 			"title": "Avez-vous des œuvres d'art ?",
-			"description": "Partagez vos œuvres d'art ou projets sous forme de NFT et bénéficiez des ventes et des droits d'auteur futurs",
+			"description": "Partagez vos œuvres d'art ou projets sous forme de NFTs et bénéficiez des ventes et des droits d'auteur futurs",
 			"button": "Commencer maintenant"
 		},
 		"3": {
 			"title": "Voulez-vous gagner de l'argent ?",
-			"description": "Chassez les Collections NFT les plus rares et les plus prisées et devenez <DescLink>un Grand Collectionneur</DescLink>",
+			"description": "Chassez les Collections NFTs les plus rares et les plus prisées et devenez un <DescLink>Grand Collectionneur</DescLink>",
 			"button": "Connecter Near Wallet"
 		},
 		"4": {
