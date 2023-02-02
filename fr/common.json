@@ -246,12 +246,16 @@
 			"sold": "Vendu"
 		},
 		"all_users_activity": "Activité Utilisateurs",
+		"all_users": "Tous les utilisateurs",
 		"apex_collectors_activity": "Activité Grands Collectionneurs",
+		"apex_collectors": "Grands Collectionneurs",
 		"top_sellers_activity": "Activité Meilleurs Vendeurs",
+		"top_sellers": "Meilleurs Vendeurs",
 		"following_activity": "Suivre l'activité",
+		"following": "Suivre",
 		"floor": "Prix Plancher {{floor}} "
 		"by": "de",
-		"to": "a"
+		"to": "pour"
 	},
 	"apex_collector": {
 		"title": "Grands Collectionneurs"
