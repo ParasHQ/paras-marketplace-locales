@@ -8,11 +8,11 @@
 		"terms": "Conditions générales"
 	},
 	"overview": {
-		"title": "Rejoignez la fidélité Paras et\n obtenez d'excellentes récompenses!",
-		"desc": "La fidélité Paras est un programme spécial créé pour\napprécier les 'stakers' $PARAS en donnant un accès exclusif\nà des tirages au sort limités.",
+		"title": "Rejoignez le programme de fidélité Paras et\n obtenez d'excellentes récompenses!",
+		"desc": "Le programme de fidélité Paras est un programme spécial créé pour\napprécier les 'stakers' de $PARAS en donnant un accès exclusif\nà des tirages au sort limités.",
 		"button_start_locked_staking": "Commencer le 'staking' bloqué",
 		"button_learn_more": "En savoir plus",
-		"paras_loyalty_terms": "Conditions générales de la fidélité Paras <Link>Termes & Conditions</Link>"
+		"paras_loyalty_terms": "Conditions générales du programme de fidélité Paras <Link>Termes & Conditions</Link>"
 	},
 	"rewards": {
 		"from_paras_top_coll": "NFTs des Meilleures Collections de Paras",
@@ -27,7 +27,7 @@
 		"table": {
 			"top_10": "Top 10",
 			"username": "Nom d'utilisateur",
-			"locked_staking": "'Staking' bloqué (LS)",
+			"locked_staking": "Staking bloqué (LS)",
 			"duration": "Durée",
 			"duration_point": "Point de durée",
 			"total_raffle_point": "Point de tirage au sort total"
@@ -45,9 +45,9 @@
 		"days": "jours",
 		"loyalty_cycle": {
 			"cycle_1": {
-				"title": "Le niveau de fidélité sera déterminé en fonction de la quantité de $PARAS bloquée et de la durée du 'staking' bloqué.",
+				"title": "Le niveau de fidélité sera déterminé en fonction de la quantité de $PARAS bloqués et de la durée du 'staking' bloqué.",
 				"desc": "Les utilisateurs qui 'stake' des $PARAS sans les bloquer seront considérés comme étant au niveau Bronze. En savoir plus sur comment effectuer 'staking' bloqué.<Link>ici</Link>",
-				"paras_locked": "Montant minimum de $PARAS bloqué.",
+				"paras_locked": "Montant minimum de $PARAS bloqués.",
 				"locked_staking": "Durée minimale de 'staking' bloqué.",
 				"info": {
 					"title": "Si les utilisateurs au niveau Argent, Or ou Platine bloquent pendant <b>90 jours</b>, ils obtiendront un point supplémentaire:",
@@ -64,11 +64,11 @@
 				"desc": "Plus vous bloquez de $PARAS et plus la durée de votre 'staking' bloqué est longue, plus vos chances de gagner le tirage au sort sont élevées."
 			},
 			"cycle_4": {
-				"title": "Each raffle pool will have different rewards.",
-				"desc": "Il y a 3 récompenses: tokens $PARAS, NFTs provenant des Meilleures Collections et NFT provenant de Nouvelles Collections.",
+				"title": "Chaque catégorie de tirage au sort aura des récompenses différentes.",
+				"desc": "Il y a 3 récompenses: tokens $PARAS, NFTs provenant des Meilleures Collections et NFTs provenant de Nouvelles Collections.",
 				"paras_token": "Token $PARAS",
 				"from_top_collection": "NFTs des Meilleures Collections",
-				"from_new_collection": "NFTs des Nouvelles Collections gratuites"
+				"from_new_collection": "NFTs des Nouvelles Collections"
 			}
 		},
 		"please_check": "Veuillez vérifier les <Link> conditions générales du programme de fidélité de Paras </Link>.",
