@@ -51,6 +51,7 @@
 	"search_placeholder": "Recherche NFT...",
 	"filter_attributes": {
 		"filter_by_attributes": "Filtrer par attributs",
+		"empty": "Aucun attribut dans cette Collection",
 		"reset": "Réinitialiser",
 		"apply": "Appliquer"
 	},
