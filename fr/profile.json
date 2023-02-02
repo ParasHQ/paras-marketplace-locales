@@ -40,6 +40,6 @@
 		"save_cover": "Sauvegarder la bannière",
 		"not_allowed_edit": "Vous n'avez pas la permission de modifier si vous n'aviez pas de bannière précédemment"
 	},
-	"followers": "{{count}} Followers",
-	"following": "{{count}} Following"
+	"followers": "{{count}} Abonné(s)",
+	"following": "{{count}} Abonnement(s)"
 }
