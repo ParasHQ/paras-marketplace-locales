@@ -69,7 +69,7 @@
 		"paras_balance": "Solde $PARAS",
 		"create_collection": "Créer une Collection",
 		"create_publication": "Créer une Publication",
-		"apply_launchpad": "Lancement de NFT",
+		"apply_launchpad": "Lancement de NFTs",
 		"my_offer": "Mes Offres",
 		"setting": "Paramétrage",
 		"my_ramper_wallet": "Mon portefeuille Ramper",
@@ -217,7 +217,7 @@
 	},
 	"profile": {
 		"total_purchase": "Achat Total",
-		"card_bought": "Cartes Achetées",
+		"card_bought": "Cartes Achetée(s)",
 		"edit_profile": "Modifier le Profil",
 		"follow_activity": "Suivre l'activité"
 	},
@@ -377,8 +377,8 @@
 			"registered_signup_for_raffle": "Confirmation de l'inscription au tirage au sort",
 			"registered_signup_for_raffle_detail": "Vous avez été enregistré pour le tirage au sort. Merci et bonne chance! ✨",
 			"won_raffle": "Félicitations, {{account}}!",
-			"won_token_raffle_detail": "Vous avez gagné {{amountToken}} $PARAS du tirage au sort fidélité Paras!<br/>En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
-			"won_nft_raffle_detail": "Vous avez gagné un {{cardName}} de Paras Loyalty !<br/>Nous vous l'enverrons sur votre compte dans les 24 heures",
+			"won_token_raffle_detail": "Vous avez gagné {{amountToken}} $PARAS au tirage au sort du programme de fidélité Paras !<br/>En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+			"won_nft_raffle_detail": "Vous avez gagné un {{cardName}} du programme de fidélité Paras !<br/>Nous vous l'enverrons sur votre compte dans les 24 heures",
 			"read_more_rewards": "En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
 			"dont_show_again": "Ne plus afficher ce message",
 			"next_time": "La prochaine fois",
