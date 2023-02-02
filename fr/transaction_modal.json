@@ -162,6 +162,7 @@
 		"transaction_hash": "Hash de transaction",
 		"share_to": "Partager sur",
 		"share": "Partager",
+		"thank_you_submission": "Merci pour votre soumission. Soumission de la carte réussie.",
 		"transaction_text": {
 			"buy": "Paiement réussi",
 			"offer": "Offre soumise",
