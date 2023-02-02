@@ -19,7 +19,7 @@
 		"search_placeholder": "Recherche de Collection, NFTs et plus encore..."
 	},
 	"menu": {
-		"language": "Langue",
+		"language": "Langues",
 		"product": "Catégories",
 		"product_list": {
 			"explore": "Explorer",
@@ -49,7 +49,7 @@
 		"about_list": {
 			"vision_team": "Vision et équipe",
 			"careers": "Carrières",
-			"whitepaper": "Whitepaper",
+			"whitepaper": "Livre blanc",
 			"license": "Licence",
 			"stats": "Statistiques",
 			"privacy": "Politique de confidentialité",
@@ -65,8 +65,8 @@
 	"profile_modal": {
 		"open": "Ouvrir Profil",
 		"paras_citizen": "Citoyen de Paras",
-		"near_balance": "Solde Near",
-		"paras_balance": "Solde Paras",
+		"near_balance": "Solde $NEAR",
+		"paras_balance": "Solde $PARAS",
 		"create_collection": "Créer une Collection",
 		"create_publication": "Créer une Publication",
 		"apply_launchpad": "Lancement de NFT",
@@ -75,9 +75,10 @@
 		"my_ramper_wallet": "Mon portefeuille Ramper",
 		"switch_wallet": "Changer de portefeuille",
 		"logout": "Se déconnecter",
-		"top_up_near": "+ Recharger Near avec Fiat",
+		"top_up_near": "+ Recharger $NEAR avec $FIAT",
 		"get_verified": "Obtenir une Vérification",
 		"create_card": "Créer une Carte"
+		"dark_mode": "Mode sombre"
 	},
 	"notification": {
 		"title-popup": "Notifications",
@@ -164,7 +165,7 @@
 	"collection": {
 		"total_number_nft": "{{total}} NFTs",
 		"total_volume": "Volume Total",
-		"last_week_volume": "Volume semaine dernière",
+		"last_week_volume": "Volume Semaine Dernière",
 		"floor": "Prix Plancher",
 		"owners": "Propriétaires",
 		"collection": "Collection",
@@ -225,17 +226,17 @@
 		"rarity": "Rareté {{rarity}}",
 		"rank": "Rang {{rank}}",
 		"transaction-type": {
-			"accept": "Acceptée",
+			"accept": "Accepté",
 			"minted": "Mint",
-			"burned": "Brûlée",
+			"burned": "Brûlé",
 			"transfer": "Transfert",
 			"set_price": "Prix Défini",
 			"offer": "Offre Faite",
 			"delete_offer": "Offre Supprimée",
 			"submission": "Soumise",
 			"creation": "Création",
-			"listing": "Listée",
-			"remove_sale": "Retirée de la Vente",
+			"listing": "Listé",
+			"remove_sale": "Retiré de la Vente",
 			"add_trade": "Echange Ajouté",
 			"delete_trade": "Echange Supprimé",
 			"accept_trade": "Echange Accepté",
@@ -246,7 +247,7 @@
 			"sold": "Vendu"
 		},
 		"all_users_activity": "Activité Utilisateurs",
-		"all_users": "Tous les utilisateurs",
+		"all_users": "Tous les Utilisateurs",
 		"apex_collectors_activity": "Activité Grands Collectionneurs",
 		"apex_collectors": "Grands Collectionneurs",
 		"top_sellers_activity": "Activité Meilleurs Vendeurs",
