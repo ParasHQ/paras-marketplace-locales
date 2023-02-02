@@ -2,7 +2,7 @@
 	"tabs": {
 		"overview": "Aperçu",
 		"attributes": "Attributs",
-		"owners": "Propriétaires",
+		"owners": "Propriétaire(s)",
 		"history": "Historique",
 		"description": "Description",
 		"token_info": "Info du token",
@@ -100,8 +100,8 @@
 	"other_card": {
 		"same_collection": "Même Collection",
 		"see_collection": "Voir Collection",
-		"other_creator": "Autres du créateur",
-		"creators_profile": "Profil du créateur"
+		"other_creator": "Autres du Créateur",
+		"creators_profile": "Profil du Créateur"
 	},
 	"attributes": {
 		"attributes": "Attributs",
@@ -119,7 +119,7 @@
 		"sort_highest_edition": "Édition la plus élevé",
 		"sort_az": "Nom d'utilisateur A-Z",
 		"sort_za": "Nom d'utilisateur Z-A",
-		"owners": "Propriétaires",
+		"owners": "Propriétaire(s)",
 		"no_owners": "Aucun propriétaire, devenez le premier",
 		"on_auction": "En vente aux enchères",
 		"on_sale": "En vente",
@@ -170,7 +170,7 @@
 		"token_series_id": "ID de la série de tokens"
 	},
 	"publications": {
-		"publications": "Publications",
+		"publications": "Publication(s)",
 		"no_publication": "Pas de Publication pour le moment"
 	}
 }
