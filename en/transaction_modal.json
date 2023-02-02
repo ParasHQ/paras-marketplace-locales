@@ -161,7 +161,7 @@
 		"transaction_hash": "Transaction Hash",
 		"share_to": "Share to",
 		"share": "Share",
-		"thank_you_submission": "Thank you for your submission! Card submission succeeded",
+		"thank_you_submission": "Thank you for your submission! Card submission succeeded.",
 		"transaction_text": {
 			"buy": "Payment success",
 			"offer": "Offer submitted",
