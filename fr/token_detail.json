@@ -161,7 +161,7 @@
 		"no_description": "Pas de description"
 	},
 	"token_info": {
-		"token_info": "Info du token",
+		"token_info": "Infos du token",
 		"smart_contract": "Contrat Intelligent",
 		"image_link": "Lien de l'image",
 		"locked_fee": "Frais bloqués",
