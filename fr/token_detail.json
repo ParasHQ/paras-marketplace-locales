@@ -88,7 +88,7 @@
 	},
 	"dashed_info": {
 		"own_by": "Détenu par",
-		"owners": "Propriétaires",
+		"owners": "Propriétaire(s)",
 		"nft_edition_copies": "NFT Edition / Copies",
 		"tooltip_nft_edition_copies": "Nombre de copies de cette Carte",
 		"rarity_score": "Score de rareté",
