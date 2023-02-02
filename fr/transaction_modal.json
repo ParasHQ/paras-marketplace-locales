@@ -96,7 +96,7 @@
 		"with_your_card": "Avec votre Carte",
 		"volume_gap": "Écart de volume",
 		"your_card_volume": "Volume des Cartes",
-		"received_card_volume": "Volume des Carte reçues",
+		"received_card_volume": "Volume des Cartes reçues",
 		"accept_trade": "Accepter l'échange"
 	},
 	"reject_trade": {
@@ -133,7 +133,7 @@
 		"min_duration_auction": "La Vente aux Enchères doit être inférieure à 5 jours",
 		"must_future_auction": "La Vente aux Enchères doit être dans le futur",
 		"edit_listing": "Modifier le Listing",
-		"listed": "Listée",
+		"listed": "Listé",
 		"reduce_copies": {
 			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
 			"min_reduce_error": "Le nombre de copies doit être supérieur ou égal a 0",
