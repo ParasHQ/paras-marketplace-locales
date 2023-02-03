@@ -2,6 +2,7 @@
 	"header": {
 		"edit_profile": "Modifier Profil",
 		"follow_activity": "Suivre l'activité"
+		"following": "Abonnements"
 	},
 	"tabs": {
 		"cards": "Cartes",
@@ -46,32 +47,32 @@
 		"edit_profile": "Modifier Profil",
 		"cancel_edit": "Annuler",
 		"form": {
-			"display_status_label": "Displayed Status",
-			"bio_label": "Bio",
-			"bio_placeholder": "Tell us about yourself...",
-			"twitter_label": "Twitter Profile",
+			"display_status_label": "Statut affiché",
+			"bio_label": "Biographie",
+			"bio_placeholder": "Parlez-nous de vous...",
+			"twitter_label": "Profil Twitter",
 			"twitter_placeholder": "https://twitter.com/username",
-			"twitter_error": "Please only enter your twitter username",
-			"instagram_label": "Instagram Profile",
+			"twitter_error": "Veuillez saisir uniquement votre nom d'utilisateur Twitter",
+			"instagram_label": "Profil Instagram",
 			"instagram_placeholder": "https://instagram.com/username",
-			"instagram_error": "Please only enter your instagram username",
+			"instagram_error": "Veuillez saisir uniquement votre nom d'utilisateur Instagram",
 			"weibo_label": "Weibo",
-			"weibo_placeholder": "Enter weibo URL...",
-			"weibo_error": "Please enter valid weibo url",
-			"website_label": "Your Website",
-			"website_placeholder": "Enter website URL",
-			"website_error": "Please enter valid website url"
+			"weibo_placeholder": "Entrez l'URL Weibo...",
+			"weibo_error": "Veuillez entrer une URL Weibo valide",
+			"website_label": "Votre site Web",
+			"website_placeholder": "Entrez l'URL du site Web",
+			"website_error": "Veuillez entrer l'URL du site Web valide"
 		},
 		"privacy": {
-			"label": "Privacy Setting",
+			"label": "Paramètres de confidentialité",
 			"option": {
-				"private_likes": "Make my likes private",
-				"private_following": "Make my following private",
-				"show_loyalty_frame": "Show my loyalty frame on my profile"
+				"private_likes": "Rendre mes like privés",
+				"private_following": "Rendre mes abonnements privés",
+				"show_loyalty_frame": "Afficher mon badge de fidélité sur mon profil"
 			}
 		},
-		"success_update_toast": "Updated successfully",
-		"error_update_toast": "Something went wrong, try again later",
-		"button_update": "Update"
+		"success_update_toast": "Mis à jour avec succès",
+		"error_update_toast": "Un problème est survenu, réessayez plus tard",
+		"button_update": "Mettre à jour"
 	}
 }
