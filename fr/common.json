@@ -172,16 +172,17 @@
 		"listed_collection": "Collection Listée",
 		"creator": "Créateur",
 		"verified_creator": "Créateur Vérifié",
-		"collection_volume_change": "Volume Total de la Collection <change>{{change}}</change> de <Volume>{{volume}}</Volume> <NearIcon></NearIcon> lors des 7 derniers jours",
+		"collection_volume_change": "Le volume hebdomadaire a changé de <change>{{change}}</change> (<Volume>{{volume}}</Volume> <NearIcon></NearIcon>).",
 		"button_share": "Partager",
 		"button_report": "Signaler",
 		"button_add_card": "Ajouter une Carte",
 		"button_edit_collection": "Modifier la Collection"
+		"last_7_days_volume": "Volume des 7 derniers jours"
 	},
 	"card": {
 		"open_offer": "Offre Ouverte",
 		"open_edition": "Edition Ouverte",
-		"collection_volume_change": "Volume Total de la Collection <change>{{change}}</change> de <Volume>{{volume}}</Volume> <NearIcon></NearIcon> lors des 7 derniers jours",
+		"collection_volume_change": "Le volume hebdomadaire a changé de <change>{{change}}</change> (<Volume>{{volume}}</Volume> <NearIcon></NearIcon>).",
 		"creator": "Créateur",
 		"collection": "Collection",
 		"verified_creator": "Créateur Vérifié",
