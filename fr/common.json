@@ -138,6 +138,7 @@
 		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a fait une offre supérieure pour <semibold><linkToken>{{title}}</linkToken></semibold> de {{_amount}} Ⓝ",
 		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> que vous avez proposé en offre a été vendu à <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
 		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> a été retiré de la vente",
+		"notification_card4card_user_disqualified": "<semibold>Désolé, vous avez été disqualifié du concours C4C.</semibold> Vous avez collecté le même NFT plusieurs fois.",
 		"signup": "S'inscrire"
 	},
 	"footer": {
