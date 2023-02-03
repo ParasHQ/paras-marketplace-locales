@@ -42,4 +42,36 @@
 	},
 	"followers": "{{count}} Abonné(s)",
 	"following": "{{count}} Abonnement(s)"
+	"edit": {
+		"edit_profile": "Modifier Profil",
+		"cancel_edit": "Annuler",
+		"form": {
+			"display_status_label": "Displayed Status",
+			"bio_label": "Bio",
+			"bio_placeholder": "Tell us about yourself...",
+			"twitter_label": "Twitter Profile",
+			"twitter_placeholder": "https://twitter.com/username",
+			"twitter_error": "Please only enter your twitter username",
+			"instagram_label": "Instagram Profile",
+			"instagram_placeholder": "https://instagram.com/username",
+			"instagram_error": "Please only enter your instagram username",
+			"weibo_label": "Weibo",
+			"weibo_placeholder": "Enter weibo URL...",
+			"weibo_error": "Please enter valid weibo url",
+			"website_label": "Your Website",
+			"website_placeholder": "Enter website URL",
+			"website_error": "Please enter valid website url"
+		},
+		"privacy": {
+			"label": "Privacy Setting",
+			"option": {
+				"private_likes": "Make my likes private",
+				"private_following": "Make my following private",
+				"show_loyalty_frame": "Show my loyalty frame on my profile"
+			}
+		},
+		"success_update_toast": "Updated successfully",
+		"error_update_toast": "Something went wrong, try again later",
+		"button_update": "Update"
+	}
 }
