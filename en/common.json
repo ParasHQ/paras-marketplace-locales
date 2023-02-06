@@ -259,7 +259,19 @@
 		"following": "Following",
 		"floor": "Floor {{floor}} ",
 		"by": "by",
-		"to": "to"
+		"to": "to",
+		"from": "From",
+		"type": "Type",
+		"title": "Title",
+		"price": "Price",
+		"time": "Time",
+		"empty_activity": "No activity at the moment",
+		"today": "Today",
+		"tooltip": {
+			"average_price": "Avg. Price",
+			"sales": "Sales",
+			"volume": "Volume"
+		}
 	},
 	"apex_collector": {
 		"title": "Apex Collectors"
