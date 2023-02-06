@@ -178,7 +178,8 @@
 		"button_report": "Report",
 		"button_add_card": "Add Card",
 		"button_edit_collection": "Edit Collection",
-		"last_7_days_volume": "Last 7 Days Volume"
+		"last_7_days_volume": "Last 7 Days Volume",
+		"created": "Created"
 	},
 	"card": {
 		"open_offer": "Open Offer",
