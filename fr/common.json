@@ -258,7 +258,19 @@
 		"following": "Suivre",
 		"floor": "Prix Plancher {{floor}} "
 		"by": "de",
-		"to": "pour"
+		"to": "Pour"
+		"from": "De",
+		"type": "Type",
+		"title": "Titre",
+		"price": "Prix",
+		"time": "Quand",
+		"empty_activity": "Pas d'activité pour le moment",
+		"today": "Aujourd'hui",
+		"tooltip": {
+			"average_price": "Prix Moyen",
+			"sales": "Ventes",
+			"volume": "Volume"
+		}
 	},
 	"apex_collector": {
 		"title": "Grands Collectionneurs"
