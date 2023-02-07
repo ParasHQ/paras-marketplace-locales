@@ -35,6 +35,7 @@
 		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}s</time>",
 		"auction_token_series": "Une partie de l'édition est mise aux Enchères",
 		"place_bid": "Placer une Enchère"
+		"input_label": "Votre Enchère"
 	},
 	"place_offer": {
 		"rarity": "Rareté {{score}}",
