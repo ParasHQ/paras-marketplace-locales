@@ -34,7 +34,8 @@
 		"your_balance": "Your Balance",
 		"auction_token": "Auction end in <time>{{days}} days, {{hours}}:{{mins}}:{{secs}}</time>",
 		"auction_token_series": "Some of edition is being auctioned",
-		"place_bid": "Place a Bid"
+		"place_bid": "Place a Bid",
+		"input_label": "Your Bid"
 	},
 	"place_offer": {
 		"rarity": "Rarity {{score}}",

@@ -15,6 +15,7 @@
 	},
 	"cards": {
 		"search_placeholder": "Search NFTs...",
+		"search_placeholder_collection": "Search in collections",
 		"filter_reset": "Rest",
 		"filter_apply": "Apply",
 		"filter_no_collection": "No Collections",

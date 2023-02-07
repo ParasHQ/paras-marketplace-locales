@@ -44,7 +44,9 @@
 		"edit": "Edit",
 		"twitter": "Twitter",
 		"discord": "Discord",
-		"website": "Website"
+		"website": "Website",
+		"success_update_toast": "Updated successfully",
+		"error_update_toast": "Something went wrong, try again later"
 	},
 	"cards": "Cards",
 	"about": "About",
@@ -56,7 +58,8 @@
 		"filter_by_attributes": "Filter by attributes",
 		"empty": "No attributes in this collection",
 		"reset": "Reset",
-		"apply": "Apply"
+		"apply": "Apply",
+		"items_count_percentage": "{{count}} items ({{percentage}}%)"
 	},
 	"same_creator": "From same creator",
 	"more": "More",
@@ -111,5 +114,12 @@
 		"get_listed": "Get Listed on NearTracker!",
 		"no_data": "Data not yet available from NearTracker",
 		"powered_by": "Powered by <TrackerLink>Bullish Bulls</TrackerLink>"
+	},
+	"collection_list": {
+		"total_volume": "Total Volume",
+		"floor_price": "Floor Price",
+		"owner": "Owner",
+		"total_items": "{{count}} items",
+		"creator": "Creator"
 	}
 }

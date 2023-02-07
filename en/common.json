@@ -163,6 +163,9 @@
 		"twitter": "Twitter",
 		"telegram": "Telegram",
 		"copy_link": "Copy Link",
+		"discord": "Discord",
+		"links": "Links",
+		"website": "website",
 		"share_nft_text": "Checkout {{title}} from collection {{collection}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_collection_text": "Checkout {{collection}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Checkout {{publication}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
@@ -434,5 +437,25 @@
 	"meta_default": {
 		"title": "Paras - NFT Marketplace for Digital Collectibles on NEAR",
 		"description": "Create, Trade, and Collect Digital Collectibles. All-in-one social NFT marketplace for creators and collectors. Discover the best and latest NFT collectibles on NEAR."
+	},
+	"mint_calendar": {
+		"dyor": "This project is not an endorsement from Paras or a guarantee of listing on Paras post-mint. Dates may be subject to change. Please ‘Do Your Own Research (DYOR)’. <DYORLink>How to DYOR<DYORLink>",
+		"button_remind_me": "Remind me on email",
+		"button_share": "Share",
+		"button_mint": "Mint Here",
+		"email_not_added": "You need to add your email in \"Settings\" \nbefore you can receive notification.",
+		"go_to_setting": "Go to settings",
+		"status": {
+			"soon": "Minting on {{date}} UTC",
+			"live": "Live Minting end in {{days}}d {{hours}}h {{mins}}m {{secs}}s",
+			"end": "Minting ends"
+		},
+		"total_supply": "{{count}} Items",
+		"starting_price": "Starting Price {{price}}",
+		"content": {
+			"story": "Story",
+			"roadmap": "Roadmap",
+			"team": "Team"
+		}
 	}
 }

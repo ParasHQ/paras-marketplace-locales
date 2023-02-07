@@ -31,7 +31,8 @@
 		"submit": "Submit",
 		"cancel": "Cancel",
 		"all_categories": "All Categories",
-		"select_cards": "Your selected cards"
+		"select_cards": "Your selected cards",
+		"select_all": "Select All"
 	},
 	"messages": {
 		"success": "Thank you for your submission. Submit card succeed.",
