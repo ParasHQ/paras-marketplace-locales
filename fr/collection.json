@@ -45,6 +45,8 @@
 		"twitter": "Twitter",
 		"discord": "Discord",
 		"website": "Site Internet"
+		"success_update_toast": "Mis à jour avec succès",
+		"error_update_toast": "Un problème est survenu, réessayez plus tard"
 	},
 	"cards": "Cartes",
 	"about": "A propos",
@@ -57,6 +59,7 @@
 		"empty": "Aucun attribut dans cette Collection",
 		"reset": "Réinitialiser",
 		"apply": "Appliquer"
+		"items_count_percentage": "{{count}} Articles ({{percentage}}%)"
 	},
 	"same_creator": "Du même Créateur",
 	"more": "Plus",
@@ -102,7 +105,7 @@
 		"edit_collection_bio": "Modifier la bio de la collection"
 	"tracker_tab": {
 		"floor_price": "Prix Plancher",
-		"owners": "Propriétaires",
+		"owners": "Propriétaire(s)",
 		"token_listed": "Tokens listés",
 		"top_owners": "Meilleurs Propriétaires",
 		"today": "Aujourd'hui",
@@ -111,5 +114,12 @@
 		"get_listed": "Inscrivez-vous sur NearTracker !",
 		"no_data": "Données pas encore disponibles sur NearTracker",
 		"powered_by": "Powered by <TrackerLink>Bullish Bulls</TrackerLink>"
+		},
+	"collection_list": {
+		"total_volume": "Volume Total",
+		"floor_price": "Prix Plancher",
+		"owner": "Propriétaire(s)",
+		"total_items": "{{count}} Article(s)",
+		"creator": "Créateur"
 	}
 }
