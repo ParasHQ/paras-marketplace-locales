@@ -163,6 +163,9 @@
 		"twitter": "Twitter",
 		"telegram": "Telegram",
 		"copy_link": "Copier le lien",
+		"discord": "Discord",
+		"links": "Liens",
+		"website": "Site Internet",
 		"share_nft_text": "Découvrez {{title}} de la Collection {{collection}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_collection_text": "Découvrez {{collection}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Découvrez {{publication}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
@@ -434,5 +437,25 @@
 	"meta_default": {
 		"title": "Paras - Place de Marché NFT pour les Oeuvres de Collections Numériques sur NEAR",
 		"description": "Créer, Echanger et Collectionner des Oeuvres de Collections Numériques. Plateforme Sociale tout-en-un pour Créateurs et Collectionneurs. Découvrez les Meilleures et les plus Récentes Oeuvres de Collections NFTs sur NEAR."
+	},
+	"mint_calendar": {
+		"dyor": "Ce projet ne constitue pas une approbation de la part de Paras ni une garantie d'être listé sur Paras après l'ouverture. Les dates sont susceptibles d'être modifiées.e. 'Veuillez faire votre propre recherche (DYOR)’. <DYORLink>Comment faire votre propre recherche<DYORLink>",
+		"button_remind_me": "Rappelez-moi par email",
+		"button_share": "Partager",
+		"button_mint": "Mint Ici",
+		"email_not_added": "Vous devez ajouter votre email dans \"Settings\" \navant de pouvoir recevoir une notification.",
+		"go_to_setting": "Aller aux paramètres",
+		"status": {
+			"soon": "Mint le {{date}} UTC",
+			"live": "Fin du Mint dans {{days}}J {{hours}}H {{mins}}M {{secs}}S",
+			"end": "Mint terminé"
+		},
+		"total_supply": "{{count}} Articles",
+		"starting_price": "Prix initial {{price}}",
+		"content": {
+			"story": "Histoire",
+			"roadmap": "Feuille de route",
+			"team": "Equipe"
+		}
 	}
 }
