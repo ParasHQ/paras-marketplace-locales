@@ -42,6 +42,9 @@
 		"cancel": "Annuler",
 		"placeholder": "Racontez l'histoire de votre collection",
 		"edit": "Modifier"
+		"twitter": "Twitter",
+		"discord": "Discord",
+		"website": "Site Internet"
 	},
 	"cards": "Cartes",
 	"about": "A propos",
@@ -97,4 +100,16 @@
 		"last_7_days_volume": "Volume des 7 derniers jours"
 		},
 		"edit_collection_bio": "Modifier la bio de la collection"
+	"tracker_tab": {
+		"floor_price": "Prix Plancher",
+		"owners": "Propriétaires",
+		"token_listed": "Tokens listés",
+		"top_owners": "Meilleurs Propriétaires",
+		"today": "Aujourd'hui",
+		"wallet_address": "Adresse du portefeuille",
+		"number_of_tokens": "# de tokens",
+		"get_listed": "Inscrivez-vous sur NearTracker !",
+		"no_data": "Données pas encore disponibles sur NearTracker",
+		"powered_by": "Powered by <TrackerLink>Bullish Bulls</TrackerLink>"
+	}
 }
