@@ -86,7 +86,8 @@
 			"cancel": "Cancel",
 			"confirm": "Confirm Reject"
 		},
-		"warning_rejected_sent": "Your offer was rejected by the card owner. Cancel your offer to get your balance back or update it to make another offer."
+		"warning_rejected_sent": "Your offer was rejected by the card owner. Cancel your offer to get your balance back or update it to make another offer.",
+		"success_toast": "Reject offer was successfully"
 	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
@@ -96,7 +97,8 @@
 		"volume_gap": "Volume Gap",
 		"your_card_volume": "Your card volume",
 		"received_card_volume": "Received card volume",
-		"accept_trade": "Accept Trade"
+		"accept_trade": "Accept Trade",
+		"reject_trade": "Reject Trade"
 	},
 	"reject_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
@@ -107,7 +109,8 @@
 		"your_card_volume": "Your card volume",
 		"received_card_volume": "Received card volume",
 		"reject_trade": "Reject Trade",
-		"i_understand": "I understand the risk and wish to accept"
+		"i_understand": "I understand the risk and wish to accept",
+		"success_toast": "Reject trade was successfully"
 	},
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> from <semibold>{{currentBidder}}</semibold>",
