@@ -32,6 +32,7 @@
 		"cancel": "Annuler",
 		"all_categories": "Toutes les catégories",
 		"select_cards": "Vos Cartes sélectionnées"
+		"select_all": "Sélectionner tout"
 	},
 	"messages": {
 		"success": "Merci pour votre soumission. La soumission de la Carte a réussi",
