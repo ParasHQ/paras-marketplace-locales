@@ -111,7 +111,8 @@
 		"received_card_volume": "Received card volume",
 		"reject_trade": "Reject Trade",
 		"i_understand": "I understand the risk and wish to accept",
-		"success_toast": "Reject trade was successfully"
+		"success_toast": "Reject trade was successfully",
+		"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone."
 	},
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> from <semibold>{{currentBidder}}</semibold>",
