@@ -59,7 +59,7 @@
 			"highest": "Le plus élevé",
 			"volume": "Volume",
 			"by": "par",
-			"lowest": "Le plus bas"
+			"lowest": "Le plus bas",
 			"cancel": "Annuler"
 		},
 		"mint_nft": "Mint NFT",
@@ -67,7 +67,7 @@
 		"verified_creator": "Créateur Vérifié",
 		"collection": "Collection",
 		"top_collection": "Meilleurs Collections",
-		"make_own_offer": "Faire votre propre Offre"
+		"make_own_offer": "Faire votre propre Offre",
 		"no_price": "Pas de Prix",
 		"free": "Gratuit"
 	},
@@ -165,7 +165,7 @@
 		"smart_contract": "Contrat Intelligent",
 		"image_link": "Lien de l'image",
 		"locked_fee": "Frais bloqués",
-		"tooltip_locked_fee": "Il s'agit des frais de transaction bloqués actuels. Chaque mise à jour du prix NFT mettra également à jour la valeur en fonction des frais de transaction globaux"
+		"tooltip_locked_fee": "Il s'agit des frais de transaction bloqués actuels. Chaque mise à jour du prix NFT mettra également à jour la valeur en fonction des frais de transaction globaux",
 		"token_id": "ID du token",
 		"token_series_id": "ID de la série de tokens"
 	},
