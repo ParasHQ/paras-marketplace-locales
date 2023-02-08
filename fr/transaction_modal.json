@@ -34,7 +34,7 @@
 		"your_balance": "Votre Solde",
 		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}s</time>",
 		"auction_token_series": "Une partie de l'édition est mise aux Enchères",
-		"place_bid": "Placer une Enchère"
+		"place_bid": "Placer une Enchère",
 		"input_label": "Votre Enchère"
 	},
 	"place_offer": {
@@ -45,7 +45,7 @@
 		"your_offer": "Votre Offre",
 		"your_balance": "Votre Solde",
 		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
-		"place_offer": "Faire une Offre"
+		"place_offer": "Faire une Offre",
 		"update_offer": "Offre actualisée"
 	},
 	"trading": {
@@ -87,7 +87,7 @@
 			"cancel": "Annuler",
 			"confirm": "Confirmer Rejet"
 		},
-		"warning_rejected_sent": "Votre offre a été rejetée par le propriétaire de la Carte. Annulez votre Offre pour récupérer votre Solde ou mettez-la à jour pour faire une autre Offre."
+		"warning_rejected_sent": "Votre offre a été rejetée par le propriétaire de la Carte. Annulez votre Offre pour récupérer votre Solde ou mettez-la à jour pour faire une autre Offre.",
 		"success_toast": "Le rejet de l'offre a été effectué avec succès"
 	},	
 	"accept_trade": {
@@ -98,7 +98,7 @@
 		"volume_gap": "Écart de volume",
 		"your_card_volume": "Volume des Cartes",
 		"received_card_volume": "Volume des Cartes reçues",
-		"accept_trade": "Accepter l'échange"
+		"accept_trade": "Accepter l'échange",
 		"reject_trade": "Rejeter l'échange"
 	},
 	"reject_trade": {
@@ -110,8 +110,8 @@
 		"your_card_volume": "Prix de votre Carte",
 		"received_card_volume": "Prix de la Carte reçue",
 		"reject_trade": "Rejeter l'échange",
-		"i_understand": "Je comprends le risque et je souhaite l'accepter"
-		"success_toast": "Le rejet de l'échange a été effectué avec succès"
+		"i_understand": "Je comprends le risque et je souhaite l'accepter",
+		"success_toast": "Le rejet de l'échange a été effectué avec succès",
 		"you_cant_request_reofferer": "Vous ne pouvez pas demander une nouvelle offre. Votre refus ne peut être annulé"
 	},
 	"accept_bid": {
