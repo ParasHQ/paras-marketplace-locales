@@ -457,5 +457,6 @@
 			"roadmap": "Roadmap",
 			"team": "Team"
 		}
-	}
+	},
+	"experimental_language": "This is experimental language. For feedback and bounty, please create a pull request <Link>here</Link> or reach us on discord."
 }
