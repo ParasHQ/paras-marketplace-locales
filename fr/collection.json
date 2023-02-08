@@ -41,10 +41,10 @@
 		"edit_bio": "Editer la Bio",
 		"cancel": "Annuler",
 		"placeholder": "Racontez l'histoire de votre collection",
-		"edit": "Modifier"
+		"edit": "Modifier",
 		"twitter": "Twitter",
 		"discord": "Discord",
-		"website": "Site Internet"
+		"website": "Site Internet",
 		"success_update_toast": "Mis à jour avec succès",
 		"error_update_toast": "Un problème est survenu, réessayez plus tard"
 	},
@@ -58,7 +58,7 @@
 		"filter_by_attributes": "Filtrer par attributs",
 		"empty": "Aucun attribut dans cette Collection",
 		"reset": "Réinitialiser",
-		"apply": "Appliquer"
+		"apply": "Appliquer",
 		"items_count_percentage": "{{count}} Articles ({{percentage}}%)"
 	},
 	"same_creator": "Du même Créateur",
@@ -99,10 +99,10 @@
 			"error_maximum": "Impossible d'ajouter plus de {{items}} articles"
 		},
 		"item_removed": "Article enlevé",
-		"item_added": "1 article ajouté au panier"
+		"item_added": "1 article ajouté au panier",
 		"last_7_days_volume": "Volume des 7 derniers jours"
-		},
-		"edit_collection_bio": "Modifier la bio de la collection"
+	},
+	"edit_collection_bio": "Modifier la bio de la collection",
 	"tracker_tab": {
 		"floor_price": "Prix Plancher",
 		"owners": "Propriétaire(s)",
