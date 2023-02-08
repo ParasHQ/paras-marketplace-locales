@@ -112,6 +112,7 @@
 		"reject_trade": "Rejeter l'échange",
 		"i_understand": "Je comprends le risque et je souhaite l'accepter"
 		"success_toast": "Le rejet de l'échange a été effectué avec succès"
+		"you_cant_request_reofferer": "Vous ne pouvez pas demander une nouvelle offre. Votre refus ne peut être annulé"
 	},
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> de <semibold>{{currentBidder}}</semibold>",
