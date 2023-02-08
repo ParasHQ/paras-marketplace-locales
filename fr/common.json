@@ -457,5 +457,6 @@
 			"roadmap": "Feuille de route",
 			"team": "Equipe"
 		}
-	}
+	},
+	"experimental_language": "Il s'agit d'un langage expérimental. Pour les commentaires et les primes, s'il vous plaît créer une demande de pull request <Link>ici</Link> ou rejoignez-nous sur discord."
 }
