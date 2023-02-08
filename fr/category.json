@@ -10,7 +10,7 @@
 	},
 	"stats": {
 		"event_period": "Période de l'événement",
-		"curated_by": "Sélectionné par"
+		"curated_by": "Sélectionné par",
 		"status": {
 			"upcoming": "A venir le {{date}}",
 			"open": "Ouvert jusqu'au {{date}}",
@@ -31,7 +31,7 @@
 		"submit": "Soumettre",
 		"cancel": "Annuler",
 		"all_categories": "Toutes les catégories",
-		"select_cards": "Vos Cartes sélectionnées"
+		"select_cards": "Vos Cartes sélectionnées",
 		"select_all": "Sélectionner tout"
 	},
 	"messages": {
