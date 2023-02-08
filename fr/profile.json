@@ -1,7 +1,7 @@
 {
 	"header": {
 		"edit_profile": "Modifier Profil",
-		"follow_activity": "Suivre l'activité"
+		"follow_activity": "Suivre l'activité",
 		"following": "Abonnements"
 	},
 	"tabs": {
@@ -43,7 +43,7 @@
 		"not_allowed_edit": "Vous n'avez pas la permission de modifier si vous n'aviez pas de bannière précédemment"
 	},
 	"followers": "{{count}} Abonné(s)",
-	"following": "{{count}} Abonnement(s)"
+	"following": "{{count}} Abonnement(s)",
 	"edit": {
 		"edit_profile": "Modifier Profil",
 		"cancel_edit": "Annuler",
