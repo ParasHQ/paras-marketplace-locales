@@ -1,0 +1,149 @@
+{
+  "create_collection": "สร้างคอลเลกชัน",
+  "create_cards": "สร้างการ์ด",
+  "create_card": "สร้างการ์ด",
+  "back": "กลับ",
+  "cancel": "ยกเลิก",
+  "form_collection": {
+    "upload_logo": "อัปโหลดโลโก้",
+    "upload_logo_info": "150px x 150px ไฟล์ที่รองรับ: PNG, GIF, JPG, JPEG",
+    "upload_logo_error": "ต้องมีโลโก้",
+    "name": "ชื่อคอลเลกชัน",
+    "name_placeholder": "ให้สั้นและน่าสนใจ...",
+    "name_error": "ชื่อคอลเลกชันต้องไม่เว้นว่าง",
+    "description": "คำอธิบาย",
+    "description_placeholder": "ให้สั้นแต่พอครอบคลุมเรื่องราว",
+    "description_error": "คำอธิบายคอลเลกชันต้องไม่เว้นว่าง",
+    "twitter": "บัญชีทวิตเตอร์",
+    "twitter_placeholder": "https://twitter.com/username",
+    "discord": "ช่องดิสคอร์ด",
+    "discord_placeholder": "https://discord.gg/invite",
+    "website": "เว็บไซต์",
+    "website_placeholder": "URL ของเว็บไซต์...",
+    "button": "ดำเนินการต่อ",
+    "button_edit": "บันทึก",
+    "link_error": "กรุณาใส่ลิงค์ที่ถูกต้อง"
+  },
+  "guide": {
+    "1": {
+      "title": "เลือกชื่อที่ดีที่สุด มันถาวร",
+      "description": "ชื่อคอลเล็กชันจะคงอยู่ถาวรหลังจากเผยแพร่แล้ว นอกจากนี้ คุณไม่สามารถลบคอลเลคชันได้ แต่คุณยังสามารถแก้ไขข้อมูลอื่นๆ<DescLink> คู่มือศิลปิน</DescLink>"
+    },
+    "2": {
+      "title": "ตั้งค่าไฟล์ของคุณให้ถูกต้อง",
+      "description": "เราตั้งชื่อของคุณเป็นชื่อเริ่มต้น คุณยังสามารถแก้ไขได้ก่อนเผยแพร่ หลังจากนั้นชื่อและไฟล์ของการ์ดจะคงอยู่ถาวร"
+    },
+    "3": {
+      "title": "เตรียมแอตทริบิวต์ที่กำหนด",
+      "description": "Attributes คือคุณสมบัติที่การ์ดมี มันจะถูกคำนวณเพื่อสร้างคะแนนความหายากและการจัดอันดับ แอตทริบิวต์จะคงอยู่ถาวรในการ์ด"
+    },
+    "4": {
+      "title": "พิถีพิถันกับรายละเอียดบัตรของคุณ",
+      "description": "เมื่อบัตรของคุณอยู่ในรายการ 'ขาย' ผู้คนสามารถซื้อและเป็นเจ้าของบัตรได้โดยตรง ดังนั้นโปรดตรวจสอบรายละเอียดการ์ดของคุณก่อนที่จะเผยแพร่"
+    }
+  },
+  "set_cover": "ตั้งปก",
+  "add_card": "เพิ่มการ์ด ({{total}})",
+  "form_attribute": {
+    "attributes": "คุณลักษณะ",
+    "close": "ปิด",
+    "new_attribute": "แอตทริบิวต์ใหม่",
+    "edit": "แก้ไข",
+    "button_save": "บันทึก",
+    "button_value": "ค่า",
+    "value": "ค่า",
+    "value_placeholder": "ใหม่ค่า...",
+    "value_error": "ต้องระบุค่า",
+    "label": "ฉลาก",
+    "label_placeholder": "เช่น สีพื้นหลัง",
+    "label_error": "ต้องระบุป้ายกำกับ",
+    "informative_create_attribute": "แอตทริบิวต์ที่คุณบันทึกไว้จะใช้กับการ์ดใบถัดไปในคอลเลกชันเดียวกันได้ ไม่สามารถแก้ไขหรือลบแอตทริบิวต์ที่กำหนดได้หลังจากเผยแพร่การ์ดแล้ว"
+  },
+  "form_card_details": {
+    "card_details": "รายละเอียดบัตร",
+    "cancel": "ยกเลิก",
+    "title": "ชื่อ",
+    "title_placeholder": "ชื่อการ์ด",
+    "royalty": "ค่าภาคหลวง",
+    "royalty_add_account": "เพิ่มบัญชี",
+    "royalty_account_label": "รหัสบัญชีใน NEAR",
+    "royalty_account_placeholder": "หมายเลขบัญชี",
+    "royalty_amount_label": "จำนวนค่าภาคหลวง",
+    "royalty_amount_placeholder": "10% 20% 30$",
+    "royalty_total": "ทั้งหมด: {{total}}%",
+    "listed": "รายการ",
+    "price": "ราคา",
+    "price_placeholder": "10",
+    "price_dollar": "เท่ากับ ${{price}}",
+    "copies": "จำนวนสำเนา",
+    "error_copies_card4card": "ฉบับของคุณต้องมีอย่างน้อย 100 ฉบับ",
+    "put_on_market": "ใส่ใน Marketplace?",
+    "put_on_market_option": { "no": "เลขที่", "for_sale": "สำหรับขาย" },
+    "attributes": "กำหนดแอตทริบิวต์",
+    "new_attribute": "แอตทริบิวต์ใหม่",
+    "attributes_unset": "ยกเลิกการตั้งค่า",
+    "description": "คำอธิบาย",
+    "description_placeholder": "ให้สั้นและน่าสนใจแต่ยาวพอที่จะครอบคลุมเรื่องราว...",
+    "button": "บันทึกรายละเอียด",
+    "error_accountid_not_found": "ไม่มี ID บัญชี",
+    "error_max_royalty": "ค่าลิขสิทธิ์รวมกันต้องไม่เกิน 90%",
+    "error_input": {
+      "price_required": "ต้องระบุจำนวนราคา",
+      "minimum_0": "ขั้นต่ำ 0<iconnear/>",
+      "maximum_card4card_01": "ราคาสูงสุดของคุณจะต้องเป็น 0.1<iconnear/>"
+    },
+    "category": "หมวดหมู่",
+    "category_tooltip": "การเพิ่มหมวดหมู่จะช่วยให้การ์ดของคุณถูกค้นพบมากขึ้นในตลาด เมื่อคุณใช้หมวดหมู่แล้ว คุณจะไม่สามารถเปลี่ยนได้ในภายหลัง",
+    "unset": "ยกเลิกการตั้งค่า",
+    "you_cant_change_category": "คุณไม่สามารถเปลี่ยนหมวดหมู่ได้"
+  },
+  "form_thumbnail": {
+    "title": "ภาพขนาดย่อสำหรับสร้างการ์ด",
+    "description": "คุณต้องอัปโหลดภาพขนาดย่อสำหรับการ์ด NFT ของคุณ หากการ์ดของคุณมีประเภท: เสียง โมเดล 3 มิติ หรือ Iframe ที่เล่นได้",
+    "thumbnail": "ภาพขนาดย่อสำหรับการ์ด:",
+    "button_submit": "ส่ง",
+    "button_cancel": "ยกเลิก"
+  },
+  "fill": "เติม",
+  "edit": "แก้ไข",
+  "sale": "ขาย {{price}}",
+  "not_filled": "ต้องกรอกรายละเอียด",
+  "attributes_count": "แอตทริบิวต์ ({{count}})",
+  "upload_cover": "อัปโหลดหน้าปก",
+  "upload_cover_info": "ขนาด 1152px × 288px. ไฟล์ที่รองรับ: PNG, JPG ขนาดไฟล์สูงสุด: 30mb",
+  "upload_cards": "อัปโหลดการ์ด",
+  "upload_cards_info": "ไฟล์ที่รองรับ: PNG, JPG, GIF, MPX, MP4, GLB สูงสุด อัพโหลดได้ 10 ไฟล์ ครั้งละ 30mb",
+  "need_bulk_upload": "ต้องการอัปโหลดจำนวนมาก?",
+  "publish": "เผยแพร่",
+  "informative_create_card": "เพื่อประหยัดเวลาของคุณ เราใช้ชื่อไฟล์ของคุณเป็นชื่อเริ่มต้น คุณยังสามารถแก้ไขชื่อได้ในภายหลัง",
+  "got_it": "เข้าใจแล้ว!",
+  "see_detail": "ดูรายละเอียด",
+  "create_new_card": {
+    "step_1": {
+      "where_do_you_want": "คุณต้องการเพิ่มการ์ดใหม่ที่ไหน",
+      "create": "สร้าง",
+      "new_collection": "คอลเลกชันใหม่",
+      "exist_collection": "คอลเลกชันที่มีอยู่",
+      "you_will_create_new_collection": "คุณจะสร้างคอลเลกชันใหม่ก่อนที่จะเพิ่มการ์ดใหม่เข้าไป",
+      "you_will_select_one_of_collection": "คุณจะเลือกหนึ่งในคอลเลกชันที่มีอยู่ก่อนที่จะเพิ่มการ์ดใหม่เข้าไป"
+    },
+    "step_2": {
+      "choose_your_existing_collection": "เลือกคอลเลกชันที่มีอยู่ของคุณ",
+      "your_card_will_be_added": "บัตรของคุณจะถูกเพิ่มไปยังคอลเลกชันที่คุณเลือก",
+      "search_collection_name": "ชื่อคอลเลกชันการค้นหา",
+      "sort_by": "เรียงตาม",
+      "sort_recently_created": "เพิ่งสร้าง",
+      "sort_alphabetic_az": "ตามตัวอักษร (AZ)",
+      "sort_alphabetic_za": "ตัวอักษร (ZA)",
+      "sort_highest_volume": "ปริมาณสูงสุด",
+      "sort_most_owner": "เจ้าของมากที่สุด",
+      "sort_highest_floor_price": "ราคาชั้นสูงสุด",
+      "sort_lowest_floor_price": "ราคาพื้นต่ำสุด",
+      "collection_name": "ชื่อคอลเลกชัน",
+      "continue": "ดำเนินการต่อ",
+      "select_collection_first": "กรุณาเลือกคอลเลกชันก่อน",
+      "you_dont_have_collection": "คุณยังไม่มีคอลเลกชัน",
+      "want_to_create_collection": "ต้องการสร้างคอลเลกชันหรือไม่?"
+    }
+  }
+}

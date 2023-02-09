@@ -1,0 +1,50 @@
+{
+  "fresh_on_market": "สดในตลาด",
+  "search": "การค้นหา}}'",
+  "explore_top_collections": "คอลเลกชันยอดนิยม",
+  "explore_featured_collections": "คอลเลกชันที่โดดเด่น",
+  "explore_cards": "สำรวจการ์ด",
+  "explore_collections": "สำรวจคอลเลกชัน",
+  "explore_profiles": "สำรวจโปรไฟล์",
+  "explore_publication": "สำรวจสิ่งพิมพ์",
+  "last_week": "7 วันที่ผ่านมา",
+  "tab": {
+    "collections": "คอลเลกชัน",
+    "cards": "การ์ด",
+    "publications": "สิ่งพิมพ์",
+    "profiles": "โปรไฟล์"
+  },
+  "submission": {
+    "nft_title": "ชื่อเรื่อง NFT",
+    "collection": "ของสะสม",
+    "creator": "ผู้สร้าง",
+    "floor": "พื้น",
+    "price": "ราคา",
+    "no_price": "ไม่มีราคา",
+    "edition_of": "ฉบับของ",
+    "button_accept": "ยอมรับ",
+    "button_reject": "ปฏิเสธ",
+    "search_placeholder": "ค้นหา NFT...",
+    "total": "ทั้งหมด: {{total}} NFT",
+    "learn_more": "เรียนรู้เพิ่มเติม",
+    "verified": "ผู้สร้างที่ได้รับการยืนยัน",
+    "modal_accept": {
+      "title_one": "ต้องการรับ {{count}} รายการหรือไม่",
+      "title_other": "ต้องการรับ {{count}} รายการหรือไม่",
+      "description_single": "คุณจะรับบัตร {{card_name}} ในหมวด {{category_name}}",
+      "description_multiple": "คุณจะรับบัตร {{count}} ใบสำหรับหมวดหมู่ {{category_name}}",
+      "button_accept": "ใช่",
+      "button_reject": "ยกเลิก"
+    },
+    "modal_reject": {
+      "title_one": "ต้องการปฏิเสธ {{count}} รายการหรือไม่",
+      "title_other": "ต้องการปฏิเสธ {{count}} รายการหรือไม่",
+      "description_single": "คุณกำลังจะปฏิเสธการ์ด {{card_name}} ในหมวดหมู่ {{category_name}}",
+      "description_multiple": "คุณกำลังจะปฏิเสธการ์ด {{count}} ใบในหมวดหมู่ {{category_name}}",
+      "button_accept": "ใช่",
+      "button_reject": "ยกเลิก"
+    },
+    "button_manage_curation": "จัดการดูแลจัดการ",
+    "button_exit_manage_curation": "ออกจากการจัดการการดูแลจัดการ"
+  }
+}
