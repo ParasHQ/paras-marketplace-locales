@@ -1,0 +1,50 @@
+{
+  "fresh_on_market": "Свежий на рынке",
+  "search": "Поисковый запрос}}'",
+  "explore_top_collections": "Лучшие коллекции",
+  "explore_featured_collections": "Избранные коллекции",
+  "explore_cards": "Исследуйте карты",
+  "explore_collections": "Исследуйте коллекции",
+  "explore_profiles": "Исследуйте профили",
+  "explore_publication": "Изучить публикацию",
+  "last_week": "Последние 7 дней",
+  "tab": {
+    "collections": "Коллекции",
+    "cards": "Карты",
+    "publications": "Публикации",
+    "profiles": "Профили"
+  },
+  "submission": {
+    "nft_title": "Название NFT",
+    "collection": "Коллекция",
+    "creator": "Создатель",
+    "floor": "Пол",
+    "price": "Цена",
+    "no_price": "Нет цены",
+    "edition_of": "Издание",
+    "button_accept": "Принимать",
+    "button_reject": "Отклонять",
+    "search_placeholder": "Поиск НФТ...",
+    "total": "Итого: {{total}} NFT",
+    "learn_more": "Узнать больше",
+    "verified": "Проверенный автор",
+    "modal_accept": {
+      "title_one": "Хотите принять {{count}} предмет?",
+      "title_other": "Хотите принять {{count}} товаров?",
+      "description_single": "Вы собираетесь принять карту {{card_name}} в категорию {{category_name}}.",
+      "description_multiple": "Вы собираетесь принимать карты {{count}} в категорию {{category_name}}.",
+      "button_accept": "Да",
+      "button_reject": "Отмена"
+    },
+    "modal_reject": {
+      "title_one": "Хотите отклонить {{count}} элемент?",
+      "title_other": "Хотите отклонить {{count}} элементов?",
+      "description_single": "Вы собираетесь отклонить карту {{card_name}} в категорию {{category_name}}.",
+      "description_multiple": "Вы собираетесь отклонить {{count}} карточки в категорию {{category_name}}.",
+      "button_accept": "Да",
+      "button_reject": "Отмена"
+    },
+    "button_manage_curation": "Управление курированием",
+    "button_exit_manage_curation": "Выйти из управления курированием"
+  }
+}

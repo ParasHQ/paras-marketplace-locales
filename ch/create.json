@@ -1,0 +1,149 @@
+{
+  "create_collection": "创建集合",
+  "create_cards": "创建卡片",
+  "create_card": "创建卡片",
+  "back": "后退",
+  "cancel": "取消",
+  "form_collection": {
+    "upload_logo": "上传徽标",
+    "upload_logo_info": "150 像素 x 150 像素支持的文件：PNG、GIF、JPG、JPEG",
+    "upload_logo_error": "需要徽标",
+    "name": "集合名称",
+    "name_placeholder": "让它简短有趣......",
+    "name_error": "收藏名称不能为空",
+    "description": "描述",
+    "description_placeholder": "使其简短但足以涵盖整个故事",
+    "description_error": "收藏说明不能为空",
+    "twitter": "推特账号",
+    "twitter_placeholder": "https://twitter.com/用户名",
+    "discord": "不和谐频道",
+    "discord_placeholder": "https://discord.gg/邀请",
+    "website": "网站",
+    "website_placeholder": "网站网址...",
+    "button": "继续",
+    "button_edit": "节省",
+    "link_error": "请输入有效链接"
+  },
+  "guide": {
+    "1": {
+      "title": "选择最好的名字，它是永久的",
+      "description": "作品集名称一经发布便永久有效。您也无法删除该集合。但您仍然可以编辑其他信息。<DescLink>艺术家指南</DescLink>"
+    },
+    "2": {
+      "title": "正确设置文件",
+      "description": "我们将您的名字设置为默认标题。您仍然可以在发布前对其进行编辑。之后，卡片的标题和文件是永久的。"
+    },
+    "3": {
+      "title": "准备分配的属性",
+      "description": "属性是卡片所具有的特征。它将被计算以生成稀有度分数和排名。属性将永久保存在卡片上。"
+    },
+    "4": {
+      "title": "对您的卡详细信息一丝不苟",
+      "description": "一旦您的卡被列为“待售”，人们就可以直接购买并拥有它。所以在发布之前请确保您的卡片详细信息"
+    }
+  },
+  "set_cover": "套装封面",
+  "add_card": "添加卡片（{{total}}）",
+  "form_attribute": {
+    "attributes": "属性",
+    "close": "关闭",
+    "new_attribute": "新属性",
+    "edit": "编辑",
+    "button_save": "节省",
+    "button_value": "价值",
+    "value": "价值",
+    "value_placeholder": "新价值...",
+    "value_error": "值是必需的",
+    "label": "标签",
+    "label_placeholder": "例如：背景颜色",
+    "label_error": "标签是必需的",
+    "informative_create_attribute": "您保存的属性将可用于同一集合中的下一张卡片。卡片发布后无法编辑或删除分配的属性"
+  },
+  "form_card_details": {
+    "card_details": "卡片详情",
+    "cancel": "取消",
+    "title": "标题",
+    "title_placeholder": "卡片名称",
+    "royalty": "版税",
+    "royalty_add_account": "新增帐户",
+    "royalty_account_label": "NEAR 上的账户 ID",
+    "royalty_account_placeholder": "帐户ID",
+    "royalty_amount_label": "特许权使用费数额",
+    "royalty_amount_placeholder": "10% 20% 30 美元",
+    "royalty_total": "总计：{{total}}%",
+    "listed": "上市",
+    "price": "价格",
+    "price_placeholder": "10",
+    "price_dollar": "等于 ${{price}}",
+    "copies": "复印数量",
+    "error_copies_card4card": "您的版本必须至少为 100 份。",
+    "put_on_market": "投放市场？",
+    "put_on_market_option": { "no": "不", "for_sale": "出售" },
+    "attributes": "分配属性",
+    "new_attribute": "新属性",
+    "attributes_unset": "取消设置",
+    "description": "描述",
+    "description_placeholder": "保持简短有趣，但要足够长以涵盖整个故事……",
+    "button": "保存细节",
+    "error_accountid_not_found": "账户 ID 不存在",
+    "error_max_royalty": "总版税不能超过 90%",
+    "error_input": {
+      "price_required": "价格金额为必填项",
+      "minimum_0": "最小值 0<iconnear/>",
+      "maximum_card4card_01": "您的最高价格必须是 0.1<iconnear/>"
+    },
+    "category": "类别",
+    "category_tooltip": "添加类别将有助于您的卡在市场上更容易被发现。应用类别后，您以后无法更改它。",
+    "unset": "取消设置",
+    "you_cant_change_category": "您无法更改类别。"
+  },
+  "form_thumbnail": {
+    "title": "创建卡片的缩略图",
+    "description": "如果您的卡有以下类型，您必须上传 NFT 卡的缩略图：音频、3D 模型或可播放的 Iframe",
+    "thumbnail": "卡片缩略图：",
+    "button_submit": "提交",
+    "button_cancel": "取消"
+  },
+  "fill": "充满",
+  "edit": "编辑",
+  "sale": "出售 {{price}}",
+  "not_filled": "需要填写详细信息",
+  "attributes_count": "属性（{{count}}）",
+  "upload_cover": "上传封面",
+  "upload_cover_info": "尺寸 1152px × 288px。支持的文件：PNG、JPG。最大文件大小：30mb",
+  "upload_cards": "上传卡片",
+  "upload_cards_info": "支持的文件：PNG、JPG、GIF、MPX、MP4、GLB。最大限度。每次上传 10 个文件，每个 30mb。",
+  "need_bulk_upload": "需要批量上传？",
+  "publish": "发布",
+  "informative_create_card": "为了节省您的时间，我们使用您的文件名作为默认标题。您仍然可以稍后编辑标题。",
+  "got_it": "知道了！",
+  "see_detail": "查看详情",
+  "create_new_card": {
+    "step_1": {
+      "where_do_you_want": "你想在哪里添加新卡片？",
+      "create": "创造",
+      "new_collection": "新系列",
+      "exist_collection": "现有收藏",
+      "you_will_create_new_collection": "在向其中添加新卡之前，您将创建一个新集合。",
+      "you_will_select_one_of_collection": "在向其中添加新卡之前，您将选择一个现有的收藏。"
+    },
+    "step_2": {
+      "choose_your_existing_collection": "选择您现有的收藏",
+      "your_card_will_be_added": "您的卡片将添加到您选择的收藏中",
+      "search_collection_name": "搜索集合名称",
+      "sort_by": "排序方式",
+      "sort_recently_created": "最近创建",
+      "sort_alphabetic_az": "按字母顺序 (AZ)",
+      "sort_alphabetic_za": "字母 (ZA)",
+      "sort_highest_volume": "最高音量",
+      "sort_most_owner": "大多数业主",
+      "sort_highest_floor_price": "最高底价",
+      "sort_lowest_floor_price": "最低底价",
+      "collection_name": "收藏名称",
+      "continue": "继续",
+      "select_collection_first": "请先选择收藏",
+      "you_dont_have_collection": "您还没有收藏",
+      "want_to_create_collection": "想要创建一个集合？"
+    }
+  }
+}

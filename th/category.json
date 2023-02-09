@@ -1,0 +1,47 @@
+{
+  "button": {
+    "join_event": "เข้าร่วมกิจกรรม",
+    "submit_category": "ส่งไปยังหมวดหมู่",
+    "learn more": "เรียนรู้เพิ่มเติม"
+  },
+  "tooltip": {
+    "submit_new_card": "ส่งพร้อมบัตรใหม่",
+    "submit_existing_card": "ส่งพร้อมบัตรที่มีอยู่"
+  },
+  "stats": {
+    "event_period": "ระยะเวลากิจกรรม",
+    "curated_by": "คัดสรรโดย",
+    "status": {
+      "upcoming": "กำลังจะมาถึงใน {{date}}",
+      "open": "เปิดถึงวันที่ {{date}}",
+      "closed": "ปิด"
+    }
+  },
+  "existingCard": {
+    "titleModal": "{{title}}",
+    "descModal": "{{desc}",
+    "c4c_desc": "ภัณฑารักษ์จะตรวจสอบการส่งบัตรของคุณ เฉพาะการ์ดที่ตรงตามข้อกำหนดของ Card4Card เท่านั้นที่แสดงด้านล่าง"
+  },
+  "common": {
+    "no_eligible_cards": "ไม่มีการ์ดที่เข้าเกณฑ์ในคอลเลกชันนี้",
+    "card_must_meet": "บัตรของคุณต้องเป็นไปตาม <Span>ข้อกำหนดของ Card4Card</span>",
+    "no_cards_basic": "ไม่มีการ์ดในคอลเลกชันนี้",
+    "want_create": "<Span>ต้องการสร้างการ์ดหรือไม่?</span>",
+    "aggree_card_sumbission": "ฉันเห็นด้วยกับ <Span>กลไก Card4Card</span>",
+    "submit": "ส่ง",
+    "cancel": "ยกเลิก",
+    "all_categories": "หมวดหมู่ทั้งหมด",
+    "select_cards": "บัตรที่คุณเลือก",
+    "select_all": "เลือกทั้งหมด"
+  },
+  "messages": {
+    "success": "ขอขอบคุณสำหรับการส่งของคุณ. ยื่นบัตรสำเร็จ",
+    "error": "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
+    "maxSubmit": "ไม่สามารถส่งมากกว่า 30 รายการ",
+    "limitQuota": "ขออภัย คุณส่งถึงขีดจำกัด 100 รายการต่อวันสำหรับหมวดหมู่ {{type}} แล้ว"
+  },
+  "login_category": {
+    "need_login": "คุณต้องเข้าสู่ระบบ",
+    "connect_wallet": "เชื่อมต่อกระเป๋าเงินของคุณเพื่อเข้าร่วมหรือส่งหมวดหมู่"
+  }
+}

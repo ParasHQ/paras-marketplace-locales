@@ -1,0 +1,462 @@
+{
+	"navigation": {
+		"explore": "Explorer",
+		"explore_modal": {
+			"top_collection": "Collections Populaires",
+			"featured_collection": "Collections Vedettes",
+			"fresh_on_market": "Nouveautés sur le Marché",
+			"fresh_on_market_modal": {
+				"collections": "Collections",
+				"cards": "Cartes",
+				"publication": "Publications"
+			},
+			"live_auction": "Enchères en Cours"
+		},
+		"activity": "Activité",
+		"token": "Token",
+		"loyalty": "Loyalty",
+		"dyor": "DYOR",
+		"search_placeholder": "Recherche de Collection, NFTs et plus encore..."
+	},
+	"menu": {
+		"language": "Langues",
+		"product": "Catégories",
+		"product_list": {
+			"explore": "Explorer",
+			"explore_modal": {
+				"top_collection": "Collections Populaires",
+				"featured": "Collections Vedettes",
+				"fresh_on_market": "Nouveautés sur le Marché",
+				"live_auction": "Enchères en Cours"
+			},
+			"activity": "Activité",
+			"token": "Token",
+			"loyalty": "Loyalty",
+			"dyor": "DYOR",
+			"staking": "Staking"
+		},
+		"community": "Communauté",
+		"commounity_list": {
+			"partnership": "Partnenariat",
+			"contribute": "Contribution",
+			"guide": "Guide",
+			"feature_request": "Demande d'amélioration",
+			"ask_on_discort": "Demandez sur Discord",
+			"tia": "Paras sur TiA",
+			"listing": "Formulaire de vérification"
+		},
+		"about": "A propos",
+		"about_list": {
+			"vision_team": "Vision et équipe",
+			"careers": "Carrières",
+			"whitepaper": "Livre blanc",
+			"license": "Licence",
+			"stats": "Statistiques",
+			"privacy": "Politique de confidentialité",
+			"terms": "Conditions d'utilisation"
+		},
+		"developers": "Développeurs",
+		"developers_list": {
+			"gitbook": "Gitbook",
+			"github": "Github",
+			"documentation": "Documentation"
+		}
+	},
+	"profile_modal": {
+		"open": "Ouvrir Profil",
+		"paras_citizen": "Citoyen de Paras",
+		"near_balance": "Solde $NEAR",
+		"paras_balance": "Solde $PARAS",
+		"create_collection": "Créer une Collection",
+		"create_publication": "Créer une Publication",
+		"apply_launchpad": "Lancement de NFTs",
+		"my_offer": "Mes Offres",
+		"setting": "Paramétrage",
+		"my_ramper_wallet": "Mon portefeuille Ramper",
+		"switch_wallet": "Changer de portefeuille",
+		"logout": "Se déconnecter",
+		"top_up_near": "+ Recharger $NEAR avec $FIAT",
+		"get_verified": "Obtenir une Vérification",
+		"create_card": "Créer une Carte",
+		"dark_mode": "Mode sombre"
+	},
+	"notification": {
+		"title-popup": "Notifications",
+		"title-page": "Toutes les Notifications",
+		"show_all": "Montrer Tout",
+		"see_more": "Voir Plus",
+		"action": "Action",
+		"link": "Lien",
+		"notification_level_up": "<semibold>Félicitations, vous êtes maintenant un membre {{currLevel}} !</semibold>",
+		"notification_level_up_detail": "Vous pouvez vous inscrire à un tirage au sort sur {{timePeriod}}. En savoir plus ici 👉 <linkLoyalty>Loyalty</linkLoyalty>",
+		"notification_raffle_program_launch": "<semibold>Rejoignez maintenant le programme de fidélité Paras !</semibold>",
+		"notification_raffle_program_launch_detail": "Participez à notre tirage au sort exclusif et remportez des récompenses ! Plus de détails ici 👉 <linkLoyalty>loyalty</linkLoyalty>",
+		"notification_raffle_new_cycle": "<semibold>Des récompenses exclusives vous attendent !</semibold>",
+		"notification_raffle_new_cycle_detail": "Découvrez les récompenses du mois du programme de fidélité Paras <linkLoyalty>ici</linkLoyalty>.",
+		"notification_level_down": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
+		"notification_level_down_detail": "Recommencez à <linkLoyalty>bloquer vos $PARAS</linkLoyalty> pour rester inscrit dans le tirage au sort !",
+		"notification_level_going_expire": "<semibold>Votre adhésion va expirer !</semibold>",
+		"notification_level_going_expire_detail": "Recommencez à <linkStaking>bloquer vos $PARAS</linkStaking> pour les conserver à {{currLevel}}",
+		"notification_raffle_type_drop_bronze_and_active": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
+		"notification_raffle_type_drop_bronze_and_active_detail": "Recommencez à <linkStaking>bloquer vos $PARAS</linkStaking> pour rester inscrit dans le tirage au sort !",
+		"notification_raffle_type_drop_not_bronze_and_active": "<semibold>Votre niveau d'adhésion a diminué !</semibold>",
+		"notification_raffle_type_drop_not_bronze_and_active_detail": "Vous serez automatiquement inscrit au tirage au sort {{currRaffleType}}",
+		"notification_raffle_type_drop_bronze_and_deactive": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
+		"notification_raffle_type_drop_bronze_and_deactive_detail": "Vous êtes actuellement membre {{currRaffleType}}. Recommencez à <Link>bloquer vos $PARAS</Link> pour les conserver à {{prevRaffleType}}",
+		"notification_raffle_type_drop_not_bronze_and_deactive": "<semibold>Votre niveau est tombé à Bronze !</semibold>",
+		"notification_raffle_type_drop_not_bronze_and_deactive_detail": "Vous êtes actuellement membre {{currRaffleType}}. Recommencez à <Link>bloquer vos $PARAS</Link> pour les conserver à {{prevRaffleType}}",
+		"notification_sign_up": "Inscrivez-vous au tirage au sort {{currLevel}} maintenant !",
+		"notification_sign_up_detail": "Cliquez sur 'Inscrivez-vous' pour avoir une chance de gagner des récompenses exclusives pour les membres {{currLevel}}",
+		"notification_endsoon_sign_up": "L'inscription au tirage au sort se terminera bientôt !",
+		"notification_endsoon_sign_up_detail": "Cliquez sur 'Inscrivez-vous' maintenant pour entrer dans le tirage au sort et avoir une chance de gagner de superbes récompenses",
+		"notification_raffle_registered": "Confirmation de l'inscription au tirage au sort",
+		"notification_raffle_registered_detail": "Vous avez été inscrit au tirage au sort. Merci et bonne chance ! ✨",
+		"notification_content": "{{content}}",
+		"notification_raffle_over": "<semibold>Liste des gagnants du tirage au sort Paras Loyalty</semibold>",
+		"notification_raffle_over_detail": "Le tirage au sort est terminé ! Consultez les gagnants de {{raffleTitle}} <linkLoyalty>ici</linkLoyalty> 🏆",
+		"notification_raffle_won_wl_spot": "<semibold>Félicitations <linkTo>{{to}}</linkTo>,</semibold>",
+		"notification_raffle_won_wl_spot_detail": "Vous avez gagné 1 place sur la liste d'attente {{collName}} de Paras Loyalty! En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+		"notification_raffle_won_paras_token": "<semibold>Félicitations <linkTo>{{to}}</linkTo>,</semibold>",
+		"notification_raffle_won_paras_token_detail": "Vous avez gagné {{amountToken}} $PARAS de Paras Loyalty! En savoir plus sur les récompenses <linkLoyalty>ici",
+		"notification_raffle_won_nft": "<semibold>Félicitations  <linkTo>{{to}}</linkTo>,</semibold>",
+		"notification_raffle_won_nft_detail": "Vous avez gagné un {{cardName}} de Paras Loyalty! Nous vous l'enverrons dans votre compte dans les prochaines 24 heures",
+		"nft_transfer_from": "Créateur a minté <semibold><linkToken>{{title}}</linkToken></semibold> pour <semibold><linkTo>{{to}}</linkTo></semibold>",
+		"nft_transfer_to_null": "a brûlé <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"nft_transfer_price_from": "a vendu <semibold><linkToken>{{title}}</linkToken></semibold> à <semibold><linkTo>{{to}}</linkTo></semibold> pour {{price}} Ⓝ",
+		"nft_transfer_price": "a acheté <semibold><linkToken>{{title}}</linkToken></semibold> de <semibold><linkFrom>{{from}}</linkFrom></semibold> pour {{price}} Ⓝ",
+		"nft_transfer_to": "a reçu <semibold><linkToken>{{title}}</linkToken></semibold> de <semibold><linkFrom>{{from}}</linkFrom></semibold>",
+		"resolve_purchase_to": "a acheté <semibold><linkToken>{{title}}</linkToken></semibold> de <semibold><linkFrom>{{from}}</linkFrom></semibold> pour {{price}} Ⓝ",
+		"resolve_purchase": "a vendu <semibold><linkToken>{{title}}</linkToken></semibold> à <semibold><linkTo>{{to}}</linkTo></semibold> pour {{price}} Ⓝ",
+		"notification_royalty": "à reçu {{royalty}} Ⓝ de droits d'auteur de la vente secondaire de <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"notification_add_offer": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a offert {{price}} Ⓝ pour <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"notification_add_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a enchéri <semibold><linkToken>{{title}}</linkToken></semibold> pour {{amount}} Ⓝ",
+		"cancel_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a annulé son enchère de {{amount}} Ⓝ pour <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"notification_category_accepted": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été acceptée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
+		"notification_category_rejected": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été rejetée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
+		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a proposé un échange de <semibold>{{tradeTitle}}</semibold> avec votre <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> a accepté l'échange de <semibold><linkToken>{{title}}</linkToken></semibold>",
+		"notification_offer_confirm_rejection": "Vous avez rejeté l'offre de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> de {{tradedPrice}} Ⓝ pour <semibold>{{sellerCard}}</semibold>",
+		"notification_trade_confirm_rejection": "<linkTo><semibold>{{seller}}</semibold></linkTo> a rejeté l'échange de <semibold>{{sellerCard}}</semibold>",
+		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> que vous avez offert a été rejeté par <linkTo><semibold>{{seller}}</semibold></linkTo>. Veuillez mettre à jour ou annuler votre offre.",
+		"notification_trade_rejected": "<linkTo><semibold>{{seller}}</semibold></linkTo> a rejeté l'échange de <semibold>{{sellerCard}}</semibold>",
+		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a fait une offre supérieure pour <semibold><linkToken>{{title}}</linkToken></semibold> de {{_amount}} Ⓝ",
+		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> que vous avez proposé en offre a été vendu à <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
+		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> a été retiré de la vente",
+		"notification_card4card_user_disqualified": "<semibold>Désolé, vous avez été disqualifié du concours C4C.</semibold> <br><sm>Vous avez collecté le même NFT plusieurs fois</sm>",
+		"signup": "S'inscrire"
+	},
+	"footer": {
+		"tagline": "Créez, Echangez et Collectionnez des Oeuvres Numériques de Collection. \n Marché Social NFT Tout en un pour les Créateurs et les Collectionneurs.",
+		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
+	},
+	"error": {
+		"400": "Requête incorrecte",
+		"404": "Page introuvable",
+		"405": "Méthode non autorisée",
+		"500": "Erreur interne du serveur",
+		"404_button": "Retour vers l'explorateur",
+		"button": "Retour"
+	},
+	"share": {
+		"share_text": "Partager",
+		"facebook": "Facebook",
+		"twitter": "Twitter",
+		"telegram": "Telegram",
+		"copy_link": "Copier le lien",
+		"discord": "Discord",
+		"links": "Liens",
+		"website": "Site Internet",
+		"share_nft_text": "Découvrez {{title}} de la Collection {{collection}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Découvrez {{collection}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Découvrez {{publication}} de {{creator}} sur @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
+	},
+	"collection": {
+		"total_number_nft": "{{total}} NFTs",
+		"total_volume": "Volume Total",
+		"last_week_volume": "Volume Semaine Dernière",
+		"floor": "Prix Plancher",
+		"owners": "Propriétaires",
+		"collection": "Collection",
+		"listed_collection": "Collection Listée",
+		"creator": "Créateur",
+		"verified_creator": "Créateur Vérifié",
+		"collection_volume_change": "Le volume hebdomadaire a changé de <change>{{change}}</change> (<Volume>{{volume}}</Volume> <NearIcon></NearIcon>).",
+		"button_share": "Partager",
+		"button_report": "Signaler",
+		"button_add_card": "Ajouter une Carte",
+		"button_edit_collection": "Modifier la Collection",
+		"last_7_days_volume": "Volume des 7 derniers jours",
+		"created": "Création"
+	},
+	"card": {
+		"open_offer": "Offre Ouverte",
+		"open_edition": "Edition Ouverte",
+		"collection_volume_change": "Le volume hebdomadaire a changé de <change>{{change}}</change> (<Volume>{{volume}}</Volume> <NearIcon></NearIcon>).",
+		"creator": "Créateur",
+		"collection": "Collection",
+		"verified_creator": "Créateur Vérifié",
+		"listed_collection": "Collection Listée",
+		"card_text": {
+			"price": "Prix",
+			"place_an_offer": "Faire une Offre",
+			"edit_listing": "Editer Listing",
+			"lowest_price": "Prix le plus bas",
+			"min_bid": "Enchère Minimale",
+			"start_from": "Commence à partir de"
+		},
+		"rarity": " Rareté {{rarity}}",
+		"floor": "Prix Plancher {{floor}} ",
+		"time_left_auction": "Cette Carte est en Vente aux Enchères qui se termine dans {{days}} jours et {{hours}}:{{mins}}:{{secs}}",
+		"time_left_auction_short": "Fin de l'Enchère dans \n{{days}}J {{hours}}:{{mins}}:{{secs}}",
+		"some_card_auction": "Certaines Cartes de cette édition sont en Vente aux Enchères",
+		"staked_by_owner": "Cet NFT est actuellement staké par {{owner}}",
+		"staked_by_owner_short": "Staké par \n {{owner}}",
+		"button_share": "Partager",
+		"button_report": "Reporter",
+		"button_buy": "Acheter Maintenant",
+		"button_place_an_offer": "Faire Offre",
+		"button_edit_listing": "Modifier Listing",
+		"button_bid": "Placer une Enchère",
+		"button_mint": "Mint",
+		"button_buy_short": "Acheter",
+		"button_place_an_offer_short": "Offre",
+		"button_bid_short": "Enchère",
+		"button_see_owners": "Voir Propriétaires",
+		"no_price": "Pas de Prix",
+		"free": "Gratuit"
+	},
+	"profile": {
+		"total_purchase": "Achat Total",
+		"card_bought": "Cartes Achetée(s)",
+		"edit_profile": "Modifier le Profil",
+		"follow_activity": "Suivre l'activité"
+	},
+	"activity": {
+		"last_7_days": "Derniers 7 jours",
+		"rarity": "Rareté {{rarity}}",
+		"rank": "Rang {{rank}}",
+		"transaction-type": {
+			"accept": "Accepté",
+			"minted": "Mint",
+			"burned": "Brûlé",
+			"transfer": "Transfert",
+			"set_price": "Prix Défini",
+			"offer": "Offre Faite",
+			"delete_offer": "Offre Supprimée",
+			"submission": "Soumise",
+			"creation": "Création",
+			"listing": "Listé",
+			"remove_sale": "Retiré de la Vente",
+			"add_trade": "Echange Ajouté",
+			"delete_trade": "Echange Supprimé",
+			"accept_trade": "Echange Accepté",
+			"decrease_copy": "Réduction des copies",
+			"auction": "Vente aux Enchères",
+			"bid": "Enchère Placée",
+			"cancel_bid": "Enchère Annulée",
+			"sold": "Vendu"
+		},
+		"all_users_activity": "Activité Utilisateurs",
+		"all_users": "Tous les Utilisateurs",
+		"apex_collectors_activity": "Activité Grands Collectionneurs",
+		"apex_collectors": "Grands Collectionneurs",
+		"top_sellers_activity": "Activité Meilleurs Vendeurs",
+		"top_sellers": "Meilleurs Vendeurs",
+		"following_activity": "Suivre l'activité",
+		"following": "Suivre",
+		"floor": "Prix Plancher {{floor}} ",
+		"by": "de",
+		"to": "Pour",
+		"from": "De",
+		"type": "Type",
+		"title": "Titre",
+		"price": "Prix",
+		"time": "Quand",
+		"empty_activity": "Pas d'activité pour le moment",
+		"today": "Aujourd'hui",
+		"tooltip": {
+			"average_price": "Prix Moyen",
+			"sales": "Ventes",
+			"volume": "Volume"
+		}
+	},
+	"apex_collector": {
+		"title": "Grands Collectionneurs"
+	},
+	"top_seller": {
+		"title": "Meilleures Vendeurs",
+		"total_sales": "Ventes Totales",
+		"card_sold": "Carte(s) Vendue(s)"
+	},
+	"cropper": {
+		"title": "Recadrer l'image",
+		"button_save": "Enregistrer",
+		"button_cancel": "Annuler"
+	},
+	"setting": {
+		"title": "Paramètres",
+		"cancel": "Annuler",
+		"email_notification": "Notification par e-mail",
+		"email_notification_option": {
+			"newsletter": "Newsletter Paras",
+			"drops": "Nouveaux lancements de NFTs",
+			"activity": "Activité des transactions"
+		},
+		"input_email_label": "Adresse e-mail",
+		"input_email_placeholder": "Entrez votre adresse e-mail",
+		"input_email_error": "Veuillez entrer une adresse e-mail valide",
+		"minimum_offer_price_label": "Prix minimum de l'Offre",
+		"minimum_offer_price_description": "Définir le prix minimum que vous souhaitez pour vos Oeuvres numériques de Collection",
+		"rpc_label": "RPC Url",
+		"rpc_option": {
+			"official": "official rpc",
+			"blockpi": "blockpi rpc"
+		},
+		"button_update": "Mettre à jour",
+		"email_verification": {
+			"success": "Votre e-mail est vérifié",
+			"error": "Erreur",
+			"button": "Retour vers l'explorateur"
+		},
+		"toast_success_general": "Mise à jour des paramètres réussie",
+		"toast_success_email": "Ajout de l'e-mail réussi, veuillez vérifier votre adresse e-mail pour la vérification"
+	},
+	"report": {
+		"report_category_label": "Pourquoi voulez-vous signaler cet article ?",
+		"report_category_placeholder": "Choisissez votre raison",
+		"report_category_option": {
+			"art_theft": "Vol d'art",
+			"double_minting": "Doublon",
+			"inappropriate_content": "Contenu inapproprié",
+			"harmful_content": "Contenu nuisible",
+			"rights_violation": "Violation des droits",
+			"others": "Autres"
+		},
+		"report_description_label": "Détails supplémentaires",
+		"report_description_placeholder": "Veuillez fournir plus de détails",
+		"report_button_submit": "Reporter",
+		"report_button_cancel": "Annuler",
+		"report_toast_success": "Cet article a été signalé",
+		"report_toast_error": "Quelque chose s'est mal passé"
+	},
+	"tooltip": {
+		"verified": "Cet Artiste a été Vérifié",
+		"one_of_one": "Une carte unique",
+		"top_collection": "Cet Artiste a vu sa Collection atteindre les Meilleures Collections",
+		"top_30": "Les 30 Meilleurs Collectionneurs des 7 derniers jours"
+	},
+	"cart": {
+		"cart": "Panier ({{total}})",
+		"delete_all": "Tout Supprimer",
+		"delete": "Supprimer",
+		"subtotal": "Sous-total ({{total}} article(s))",
+		"fee": "Frais de stockage",
+		"total_purchase": "Achat Total",
+		"your_balance": "Votre Solde",
+		"not_enough_balance": "Solde insuffisant",
+		"top_up_balance": "Recharger le Solde",
+		"top_up": "Recharger",
+		"you_will_redirect": "Vous serez redirigé vers votre Portefeuille pour confirmer votre transaction",
+		"your_card_empty": "Votre panier est vide",
+		"buy_faster_by_adding": "Achetez plus rapidement en ajoutant jusqu'à 10 articles à votre panier",
+		"go_to_market": "Aller sur le Marché",
+		"tooltip_you_can_add": "Vous ne pouvez pas ajouter plus de 10 articles à votre panier en raison des limites de frais de gaz",
+		"want_to_delete": "Voulez-vous supprimer {{total}} article(s) ?",
+		"want_to_delete_non_eligible": "Voulez-vous supprimer des articles qui ne peuvent pas être achetés ?",
+		"all_item_cart_deleted": "Tous les articles du panier seront supprimés",
+		"all_item_collection_deleted": "Tous les articles de cette Collection seront supprimés",
+		"all_item_section_deleted": "Tous les articles de cette Section seront supprimés",
+		"cannot_be_processed": "Ne peut pas être traité ({{total}})",
+		"tooltip_you_cannot_add": "Vous ne pouvez pas acheter de Carte à partir de la Carte ci-dessous",
+		"item_changed": "Statut de l'article modifié",
+		"refresh": "Actualiser",
+		"price_changes": "Changements de prix",
+		"unavailabe": "Indisponible",
+		"item_removed": "{{total}} article(s) retiré",
+		"success_add": "1 article a été ajouté avec succès au panier",
+		"success_delete": "{{total}} article(s) a été supprimé avec succès",
+		"error_add_more_10": "Impossible d'ajouter plus de 10 articles au panier",
+		"you_need_login": "Vous devez vous connecter",
+		"you_only_add_10": "Impossible d'ajouter plus de 10 articles au panier",
+		"connect_to_wallet": "Connectez votre portefeuille pour ajouter des articles à votre panier",
+		"connect_wallet": "Connecter le portefeuille",
+		"cancel": "Annuler",
+		"yes": "Oui",
+		"confirm_buy": "Confirmer l'achat"
+	},
+	"edition_text_internal_token": "NFT | {{edition}} de {{copies}}",
+	"edition_text_external_token": "NFT | {{edition}}",
+	"edition_text_multiple_token_series": "SERIES | Edition de {{edition}}",
+	"edition_text_1of1_token_series": "Edition ouverte",
+	"likes": {
+		"success_like": "Carte {{title}} ajoutée aux favoris",
+		"success_unlike": "Carte {{title}} supprimée des favoris"
+	},
+	"popup": {
+		"loyalty": {
+			"signup_for_raffle": "Inscrivez-vous pour le tirage au sort {{currLevel}} maintenant!",
+			"signup_for_raffle_detail": "Cliquez sur 'S'inscrire' et tentez de remporter des récompenses exclusives pour les membres {{currLevel}}",
+			"registered_signup_for_raffle": "Confirmation de l'inscription au tirage au sort",
+			"registered_signup_for_raffle_detail": "Vous avez été enregistré pour le tirage au sort. Merci et bonne chance! ✨",
+			"won_raffle": "Félicitations, {{account}}!",
+			"won_token_raffle_detail": "Vous avez gagné {{amountToken}} $PARAS au tirage au sort du programme de fidélité Paras !<br/>En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+			"won_nft_raffle_detail": "Vous avez gagné un {{cardName}} du programme de fidélité Paras !<br/>Nous vous l'enverrons sur votre compte dans les 24 heures",
+			"read_more_rewards": "En savoir plus sur les récompenses <linkLoyalty>ici</linkLoyalty>",
+			"dont_show_again": "Ne plus afficher ce message",
+			"next_time": "La prochaine fois",
+			"sign_up": "S'inscrire",
+			"close": "Fermer",
+			"share": "Partager"
+		}
+	},
+	"badge_profile": {
+		"star_creator": "Une des Collections de cet Artiste a été classée parmi les Meilleures Collections",
+		"apex_collector": "Les 30 Meilleurs Collectionneurs des 7 derniers jours",
+		"verified": "Cet Artiste a été Vérifié"
+	},
+	"badge_collection": {
+		"top_collection": "Les 30 Meilleures Collections des 7 derniers jours"
+	},
+	"event_category": {
+		"has_already_c4c": "Vous avez déjà une autre édition de cette Carte pour C4C"
+	},
+	"login_modal": {
+		"connect_wallet_login": "Relier votre portefeuille pour vous connecter",
+		"you_need_connect": "Afin de vous connecter, vous devez vous relier à l'un de ces portefeuilles.",
+		"login_with_wallet": "Connexion avec le portefeuille",
+		"login_email": "Connexion avec l'email",
+		"need_guide": "Besoin d'aide ?"	
+		},
+	"flag_modal": {
+		"this_creator_flagged": "Le créateur a été signalé comme {{flag}}"
+	},
+	"sign_modal": {
+		"sign_button": "Signer",
+		"sign_description": "Vous devez vérifier votre compte en vous connectant. Cliquer sur \"Sign\" ci-dessous et sur \"Send\" dans la fenêtre pop-up. Veuillez autoriser les fenêtres pop-up pour ce site Web si vous n'en voyez pas."
+	},
+	"meta_default": {
+		"title": "Paras - Place de Marché NFT pour les Oeuvres de Collections Numériques sur NEAR",
+		"description": "Créer, Echanger et Collectionner des Oeuvres de Collections Numériques. Plateforme Sociale tout-en-un pour Créateurs et Collectionneurs. Découvrez les Meilleures et les plus Récentes Oeuvres de Collections NFTs sur NEAR."
+	},
+	"mint_calendar": {
+		"dyor": "Ce projet ne constitue pas une approbation de la part de Paras ni une garantie d'être listé sur Paras après l'ouverture. Les dates sont susceptibles d'être modifiées.e. 'Veuillez faire votre propre recherche (DYOR)’. <DYORLink>Comment faire votre propre recherche<DYORLink>",
+		"button_remind_me": "Rappelez-moi par email",
+		"button_share": "Partager",
+		"button_mint": "Mint Ici",
+		"email_not_added": "Vous devez ajouter votre email dans \"Settings\" \navant de pouvoir recevoir une notification.",
+		"go_to_setting": "Aller aux paramètres",
+		"status": {
+			"soon": "Mint le {{date}} UTC",
+			"live": "Fin du Mint dans {{days}}J {{hours}}H {{mins}}M {{secs}}S",
+			"end": "Mint terminé"
+		},
+		"total_supply": "{{count}} Articles",
+		"starting_price": "Prix initial {{price}}",
+		"content": {
+			"story": "Histoire",
+			"roadmap": "Feuille de route",
+			"team": "Equipe"
+		}
+	},
+	"experimental_language": "Il s'agit d'un langage expérimental. Pour les commentaires et les primes, s'il vous plaît créer une demande de pull request <Link>ici</Link> ou rejoignez-nous sur discord."
+}

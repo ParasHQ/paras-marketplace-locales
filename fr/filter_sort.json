@@ -1,0 +1,81 @@
+{
+	"sort_filter": {
+		"sort_and_filter": "Trier et filtrer",
+		"sort_and_filter_result": "{{count}} résultat(s)",
+		"primary_button": "Montrer",
+		"secondary_button": "Annuler",
+		"sort_by": "Trier par",
+		"sort_by_option": {
+			"market_update": "Mise à jour du Marché",
+			"card_created": "Récemment Listé",
+			"lowest_price": "Prix le plus bas",
+			"highest_price": "Prix le plus élevé",
+			"auction_ends_soon": "Enchère se terminant bientôt",
+			"rare_to_common": "Rare à Commun",
+			"recently_published": "Publication récente",
+			"most_viewed": "Les plus Vues",
+			"most_liked": "Favoris",
+			"collection_created": "Création récente",
+			"highest_volume": "Volume le plus élevé",
+			"most_owner": "Le plus de Propriétaires",
+			"highest_fp": "Prix le plus élevé",
+			"lowest_fp": "Prix le plus bas",
+			"recently_sent": "Envoyé récemment",
+			"recently_received": "Reçu récemment",
+			"most_recent": "Récent à Ancien",
+			"least_recent": "Ancien à Récent",
+			"alphabetic": "Alphabétique A-Z",
+			"reverse_alphabetic": "Alphabétique Z-A",
+			"price_low_to_high": "Prix bas à élevé",
+			"price_high_to_low": "Prix élevé à bas",
+			"edition_high_to_low": "Q. édit. élevé à bas",
+			"edition_low_to_high": "Q. édit. bas à élevé"
+		},
+		"price": "Prix",
+		"price_placeholder": {
+			"lowest": "Le plus bas...",
+			"highest": "Le plus élevé...",
+			"valid": "Le prix le plus élevé ne peut pas être inférieur au prix le plus bas",
+			"info": "Appuyez sur Entrée pour mettre à jour le prix"
+		},
+		"type": "Type:",
+		"type_option": {
+			"all": "Montrer Tout",
+			"for_sale": "À Vendre",
+			"sales": "Vendu",
+			"listed": "Listé",
+			"transfer": "Transfert",
+			"auction": "Vente aux Enchères",
+			"offer": "Offre",
+			"bid": "Enchère",
+			"created": "Création",
+			"minted": "Mint",
+			"burned": "Brûlé",
+			"available_offer": "Disponible pour Offre",
+			"on_auction": "Enchère en cours",
+			"fresh": "Nouveauté",
+			"community": "Communauté",
+			"editorial": "Editorial",
+			"owned": "Carte(s) détenue(s)"
+		},
+		"edition": "Edition",
+		"edition_option": {
+			"all": "Montrer Tout",
+			"one": "Edition de 1",
+			"multiple": "Copies Multiples"
+		},
+		"status": "Statut",
+		"verified": "Vérifié Uniquement",
+		"selection": "Sélection",
+		"selection_option": {
+			"all": "Sélectionner Tout"
+		},
+		"selected": "{{count}} article(s) sélectionné(s)",
+		"button_accept_all": "Accepter la sélection",
+		"button_reject_all": "Rejeter la sélection"
+		},
+		"sent": "Envoyé",
+		"sent_offer": "Offre envoyée",
+		"received": "Reçu",
+		"received_offer": "Offre reçue"
+}
