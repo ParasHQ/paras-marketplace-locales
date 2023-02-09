@@ -144,9 +144,9 @@
 		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> has been delisted",
 		"notification_card4card_user_disqualified": "<semibold>Sorry, you have been disqualified from the C4C competition.</semibold> <br><sm>You collected the same NFT more than once</sm>",
 		"reminder": {
-			"notification_offer_reminder_seller_with_time_condition": "You haven't been responding to <semibold>{{buyer}}'s</semibold> offer of {{offerPrice}} Ⓝ for <semibold>{{timeCondition}}</semibold>.",
+			"notification_offer_reminder_seller_with_time_condition": "You haven't been responding to <semibold>{{buyer}}'s</semibold> offer of {{offeredPrice}} Ⓝ for <semibold>{{timeCondition}}</semibold>.",
 			"notification_trade_reminder_seller_with_time_condition": "You haven't been responding to <semibold>{{buyer}}'s</semibold> offer of for <semibold>{{timeCondition}}</semibold>.",
-			"notification_offer_reminder_buyer_with_time_condition": "Your offer on <semibold>{{sellerCard}}</semibold> for {{offerPrice}} has not been responded for <semibold>{{timeCondition}}</semibold>. Please update or cancel your offer.",
+			"notification_offer_reminder_buyer_with_time_condition": "Your offer on <semibold>{{sellerCard}}</semibold> for {{offeredPrice}} Ⓝ has not been responded for <semibold>{{timeCondition}}</semibold>. Please update or cancel your offer.",
 			"notification_trade_reminder_buyer_with_time_condition": "Your offer on <semibold>{{sellerCard}}</semibold> has not been responded for <semibold>{{timeCondition}}</semibold>. Please update or cancel your offer."
 		},
 		"a_week": "a week",
