@@ -136,13 +136,23 @@
 		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> offered trade <semibold>{{tradeTitle}}</semibold> with your <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> accepted trade <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"notification_offer_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> {{tradedPrice}} Ⓝ offer for <semibold>{{sellerCard}}</semibold>",
-		"notification_trade_confirm_rejection": "<linkTo><semibold>{{seller}}</semibold></linkTo> rejected trade <semibold>{{sellerCard}}</semibold>",
+		"notification_trade_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> trade for <semibold>{{sellerCard}}</semibold>",
 		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> that you offered has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>. Please update or cancel your offer",
-		"notification_trade_rejected": "<linkTo><semibold>{{seller}}</semibold></linkTo> rejected trade <semibold>{{sellerCard}}</semibold>",
+		"notification_trade_rejected": "<semibold>{{buyerCard}}</semibold> that you traded has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>",
 		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> outbid <semibold><linkToken>{{title}}</linkToken></semibold> for {{_amount}} Ⓝ",
 		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> that you offered was sold to <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
 		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> has been delisted",
 		"notification_card4card_user_disqualified": "<semibold>Sorry, you have been disqualified from the C4C competition.</semibold> <br><sm>You collected the same NFT more than once</sm>",
+		"reminder": {
+			"notification_offer_reminder_seller_with_time_condition": "You haven't been responding to <semibold>{{buyer}}'s</semibold> offer of {{offerPrice}} Ⓝ for <semibold>{{timeCondition}}</semibold>.",
+			"notification_trade_reminder_seller_with_time_condition": "You haven't been responding to <semibold>{{buyer}}'s</semibold> offer of for <semibold>{{timeCondition}}</semibold>.",
+			"notification_offer_reminder_buyer_with_time_condition": "Your offer on <semibold>{{sellerCard}}</semibold> for {{offerPrice}} has not been responded for <semibold>{{timeCondition}}</semibold>. Please update or cancel your offer.",
+			"notification_trade_reminder_buyer_with_time_condition": "Your offer on <semibold>{{sellerCard}}</semibold> has not been responded for <semibold>{{timeCondition}}</semibold>. Please update or cancel your offer."
+		},
+		"a_week": "a week",
+		"a_few_weeks": "a few weeks",
+		"a_month": "a month",
+		"a_few_months": "a few months",
 		"signup": "Sign Up"
 	},
 	"footer": {
