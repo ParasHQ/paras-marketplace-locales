@@ -1,0 +1,79 @@
+{
+  "header": {
+    "edit_profile": "编辑个人资料",
+    "follow_activity": "关注活动",
+    "following": "下列的"
+  },
+  "tabs": {
+    "cards": "牌",
+    "collections": "收藏品",
+    "bio": "他是",
+    "followers": "追随者",
+    "following": "下列的",
+    "liked": "喜欢",
+    "publication": "出版物"
+  },
+  "cards": {
+    "search_placeholder": "搜索 NFT...",
+    "search_placeholder_collection": "在集合中搜索",
+    "filter_reset": "休息",
+    "filter_apply": "申请",
+    "filter_no_collection": "没有收藏",
+    "filter_by_collection": "按收藏过滤"
+  },
+  "bio": {
+    "joined": "已加入",
+    "account_id": "帐户ID",
+    "about_me": "关于我",
+    "more": "更多的",
+    "less": "较少的",
+    "links": "链接",
+    "edit_bio": "编辑简历",
+    "cancel": "取消",
+    "placeholder": "讲一个关于您的个人资料的故事",
+    "edit": "编辑"
+  },
+  "action_logo_cover": {
+    "profile_cover": "个人资料封面",
+    "zoom": "飞涨",
+    "straighten": "拉直",
+    "upload": "上传",
+    "edit": "编辑",
+    "save_cover": "保存封面",
+    "not_allowed_edit": "如果您之前没有封面，则无权编辑"
+  },
+  "followers": "{{count}} 位关注者",
+  "following": "{{count}} 关注",
+  "edit": {
+    "edit_profile": "编辑个人资料",
+    "cancel_edit": "取消",
+    "form": {
+      "display_status_label": "显示状态",
+      "bio_label": "他是",
+      "bio_placeholder": "向我们介绍你自己...",
+      "twitter_label": "推特资料",
+      "twitter_placeholder": "https://twitter.com/用户名",
+      "twitter_error": "请仅输入您的推特用户名",
+      "instagram_label": "个人资料",
+      "instagram_placeholder": "https://instagram.com/用户名",
+      "instagram_error": "请仅输入您的 Instagram 用户名",
+      "weibo_label": "微博",
+      "weibo_placeholder": "输入微博地址...",
+      "weibo_error": "请输入有效的微博网址",
+      "website_label": "你的网页",
+      "website_placeholder": "输入网址",
+      "website_error": "请输入有效的网址"
+    },
+    "privacy": {
+      "label": "隐私设置",
+      "option": {
+        "private_likes": "将我的喜欢设为私密",
+        "private_following": "将我的关注设为私有",
+        "show_loyalty_frame": "在我的个人资料上显示我的忠诚度框架"
+      }
+    },
+    "success_update_toast": "更新成功",
+    "error_update_toast": "出了点问题，稍后再试",
+    "button_update": "更新"
+  }
+}

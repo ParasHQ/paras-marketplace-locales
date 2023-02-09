@@ -1,0 +1,211 @@
+{
+  "edition_of": "{{copies}} 的版本，排名 {{rarityScore}}",
+  "you_will_redirected": "您将被重定向到您的钱包以确认您的交易。",
+  "cancel": "取消",
+  "trade": "贸易",
+  "edition_text_internal_token": "非同质化 | {{edition}} of {{copies}}",
+  "edition_text_external_token": "非同质化 | {{edition}}",
+  "edition_text_multiple_token_series": "系列 | {{edition}}的版本",
+  "edition_text_1of1_token_series": "开放版",
+  "no_price": "没有价格",
+  "free": "自由的",
+  "transfer": {
+    "no_token_owned": "没有代币",
+    "select": "选择",
+    "input_label_transfer": "转移到账户 ID",
+    "input_error": "请输入有效的近账户 ID",
+    "input_placeholder_transfer": "帐户ID",
+    "transfer": "转移"
+  },
+  "burn": { "youre_about_burn": "你即将燃烧{{title}}", "burn": "烧伤" },
+  "buy": {
+    "rarity": "稀有度 {{score}}",
+    "price": "价格",
+    "your_balance": "您的余额",
+    "buy": "买"
+  },
+  "place_bid": {
+    "min_bid_error": "最小值是 min.Bid",
+    "max_bid_error": "最大是你的余额",
+    "min_bid": "分钟出价",
+    "your_balance": "您的余额",
+    "auction_token": "拍卖结束于<time>{{days}} 天，{{hours}}:{{mins}}:{{secs}}</time>",
+    "auction_token_series": "部分版本正在拍卖",
+    "place_bid": "出价",
+    "input_label": "你的出价"
+  },
+  "place_offer": {
+    "rarity": "稀有度 {{score}}",
+    "min_offer_error": "最小 0.01",
+    "max_offer_error": "最大是你的余额",
+    "current_price": "时价",
+    "your_offer": "您的报价",
+    "your_balance": "您的余额",
+    "currently_staked": "该 NFT 目前由所有者抵押",
+    "place_offer": "报价",
+    "update_offer": "更新报价"
+  },
+  "trading": {
+    "title": "交易卡",
+    "desc": "下面仅显示来自经过验证的创作者的卡片",
+    "rarity": "稀有度 {{score}}",
+    "no_card": "此合集中没有来自经过验证的创作者的卡片",
+    "selected_card": "您选择的卡片",
+    "desc_empty": "您还没有选择卡片。",
+    "all_collections": "所有系列",
+    "submit": "提交",
+    "cancel": "取消",
+    "add_card": "{{type}} 卡片"
+  },
+  "mint": {
+    "rarity": "稀有度 {{score}}",
+    "mint_to_self": "薄荷给我自己",
+    "input_label_mint": "帐户ID",
+    "storage_fee": "仓储费",
+    "mint": "作为"
+  },
+  "accept_offer": {
+    "offer_from": "<semibold>提供</semibold>从<semibold>{{buyerId}}</semibold>",
+    "for_card": "对于卡<spanSemibold><linkToken>{{title}}</linkToken></spanSemibold>在<spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+    "received_offer": "收到报价",
+    "royalty_artist": "艺术家版税",
+    "fee": "费用",
+    "storage_fee": "仓储费",
+    "total_received": "总收款",
+    "accept_offer": "接受报价"
+  },
+  "reject_offer": {
+    "reject_offer": "拒绝报价",
+    "reject_confirm": {
+      "want_to_reject": "想拒绝来自 {{accountId}} 的提议？",
+      "you_are_going_to_reject": "您将拒绝以下要约<semibold>{{cardName}}</semibold>以<semibold>{{amount}}<iconnear/></semibold>",
+      "offerer_receive_notif": "<semibold>{{accountId}}</semibold>因为要约人将收到通知，告知他们的要约已被拒绝，并且可以自由取消。",
+      "you_cant_request_reofferer": "您不能要求重新提供。您的拒绝无法撤消。",
+      "cancel": "取消",
+      "confirm": "确认拒绝"
+    },
+    "warning_rejected_sent": "您的报价已被持卡人拒绝。取消您的报价以取回您的余额或更新它以提供另一个报价。",
+    "success_toast": "拒绝报价成功"
+  },
+  "accept_trade": {
+    "card_trade_from": "<semibold>卡片交易<semibold/>从<semibold>{{buyerId}}</semibold>",
+    "in": "在",
+    "this_card_flagged": "此卡已标记为 {{flag}}",
+    "with_your_card": "用你的卡",
+    "volume_gap": "体积间隙",
+    "your_card_volume": "你的卡量",
+    "received_card_volume": "收卡量",
+    "accept_trade": "接受交易",
+    "reject_trade": "拒绝交易"
+  },
+  "reject_trade": {
+    "card_trade_from": "<semibold>卡片交易<semibold/>从<semibold>{{buyerId}}</semibold>",
+    "in": "在",
+    "this_card_flagged": "此卡已标记为 {{flag}}",
+    "with_your_card": "用你的卡",
+    "volume_gap": "体积间隙",
+    "your_card_volume": "你的卡量",
+    "received_card_volume": "收卡量",
+    "reject_trade": "拒绝交易",
+    "i_understand": "我了解风险并愿意接受",
+    "success_toast": "拒绝交易成功",
+    "you_cant_request_reofferer": "您不能要求重新提供。您的拒绝无法撤消。"
+  },
+  "accept_bid": {
+    "bid_from": "<semibold>出价<semibold/>从<semibold>{{currentBidder}}</semibold>",
+    "for_card": "对于卡<linkToken><spanSemibold>{{title}}</spanSemibold></linkToken>在<linkToken><spanSemibold>{{collection}}</spanSemibold></linkToken>",
+    "received_bid": "收到投标",
+    "royalty_artist": "艺术家版税",
+    "fee": "费用",
+    "storage_fee": "仓储费",
+    "total_received": "总收款",
+    "accept_bid": "接受投标"
+  },
+  "cancel_offer": {
+    "are_you_sure": "您确定要取消报价吗？",
+    "your_balance_will_be_returned": "取消此优惠后，您的余额将立即退还。",
+    "cancel_offer": "取消报价"
+  },
+  "cancel_bid": {
+    "are_you_sure": "您确定要取消您的出价吗？",
+    "cancel_bid": "取消出价"
+  },
+  "edit_listing": {
+    "min_duration_auction": "拍卖必须少于 5 天",
+    "must_future_auction": "拍卖必须在未来",
+    "edit_listing": "编辑列表",
+    "listed": "上市",
+    "reduce_copies": {
+      "max_reduce_error": "减少数量必须小于或等于总薄荷",
+      "min_reduce_error": "Reduce数必须大于等于0",
+      "reduce_copies": "减少份数",
+      "remaining_copies": "剩余份数：{{remainingCopies}}"
+    },
+    "put_marketplace": {
+      "put_marketplace": "投放市场？",
+      "no": "不",
+      "for_sale": "出售",
+      "for_auction": "拍卖",
+      "update_price": "更新价格",
+      "starting_bid": "起拍价",
+      "auction_ends": "拍卖结束于",
+      "equal_to": "等于",
+      "receive": "收到",
+      "royalty": "版税",
+      "fee": "费用"
+    },
+    "update": "更新"
+  },
+  "success_tx_modal": {
+    "button_close": "关闭",
+    "button_see_other_cards": "查看其他卡片",
+    "button_see_profile": "转到我的个人资料",
+    "transaction_hash": "交易哈希",
+    "share_to": "分享给",
+    "share": "分享",
+    "thank_you_submission": "感谢您提交！卡片提交成功。",
+    "transaction_text": {
+      "buy": "付款成功",
+      "offer": "报价已提交",
+      "bid": "投标已提交",
+      "edit_listing_auction": "卡片拍卖开始",
+      "edit_listing_sale": "卡片价格已更新",
+      "mint": "发卡成功",
+      "trade": "NFT 报价已提交",
+      "transfer": "卡片已发送至 {{accountId}}",
+      "remove_auction": "拍卖已移除",
+      "remove_listing": "清单已删除",
+      "accept_trade": "接受 NFT 交易",
+      "add_trade": "添加交易成功",
+      "accept_offer": "接受报价",
+      "accept_bid": "出价被接受",
+      "remove_bid": "出价已移除",
+      "create_card": "卡片创建成功",
+      "default": "交易成功"
+    },
+    "transaction_sub_text": {
+      "mint": "您已成功制作卡片",
+      "edit_listing_sale": "您已成功将价格更新为 {{price}}",
+      "edit_listing_auction": "您已成功创建起价为 {{price}} 的拍卖",
+      "bid": "您已成功出价 {{price}}",
+      "offer": "您已成功提供 {{price}} 的价格",
+      "buy": "您已成功以 {{price}} 购买",
+      "buy_bulk": "您已成功购买新卡"
+    },
+    "h2_text": {
+      "create_card": "添加了 {{total}} 张新卡片",
+      "buy_bulk": "已购买 {{total}} 张卡片"
+    },
+    "cart": {
+      "you_successfully": "您已成功购买新卡",
+      "you_failed": "您选择的卡不再可用，因此不会向您收费。"
+    },
+    "nft_still_catching_up": "NFT仍在追赶中，您可以稍等片刻或关闭此模态",
+    "share_text": {
+      "one_card": "在 {{account}} 上查看 {{creator}} 的 {{collection1}} 合集中的 {{title}}！ #parasnft #nftcollectibles #nft",
+      "multiple_card_one_collection": "查看 {{creator}} 在 {{account}} 上收集的 {{collection1}} 中的所有 NFT！ #parasnft #nftcollectibles #nft",
+      "multiple_card_2_collections": "在 {{account}} 上查看来自 {{collection1}} 和 {{collection2}} 收藏的所有 NFT！ #parasnft #nftcollectibles #nft",
+      "multiple_card_3_collections": "在 {{account}} 上查看来自 {{collection1}}、{{collection2}} 和 {{collection3}} 收藏的所有 NFT！ #parasnft #nftcollectibles #nft"
+    }
+  }
+}

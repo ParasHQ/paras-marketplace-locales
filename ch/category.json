@@ -1,0 +1,47 @@
+{
+  "button": {
+    "join_event": "参加活动",
+    "submit_category": "提交到类别",
+    "learn more": "了解更多"
+  },
+  "tooltip": {
+    "submit_new_card": "与新卡一起提交",
+    "submit_existing_card": "使用现有卡提交"
+  },
+  "stats": {
+    "event_period": "活动期间",
+    "curated_by": "策划人",
+    "status": {
+      "upcoming": "即将在 {{date}}",
+      "open": "开放至 {{date}}",
+      "closed": "关闭"
+    }
+  },
+  "existingCard": {
+    "titleModal": "{{title}}",
+    "descModal": "{{desc}}",
+    "c4c_desc": "策展人将审核您提交的卡片。下面仅显示满足 Card4Card 要求的卡片。"
+  },
+  "common": {
+    "no_eligible_cards": "此集合中没有符合条件的卡片",
+    "card_must_meet": "您的卡必须符合<Span>Card4Card 要求。</span>",
+    "no_cards_basic": "此集合中没有卡片",
+    "want_create": "<Span>想要创建一张卡片？</span>",
+    "aggree_card_sumbission": "我同意<Span>Card4Card 机制</span>",
+    "submit": "提交",
+    "cancel": "取消",
+    "all_categories": "所有类别",
+    "select_cards": "您选择的卡片",
+    "select_all": "全选"
+  },
+  "messages": {
+    "success": "感谢您提交。提交卡片成功。",
+    "error": "出了点问题，请稍后重试。",
+    "maxSubmit": "不能提交超过 30 个项目。",
+    "limitQuota": "抱歉，您已达到每天为 {{type}} 类别提交 100 件商品的限制。"
+  },
+  "login_category": {
+    "need_login": "您需要登录",
+    "connect_wallet": "连接你的钱包加入或提交类别"
+  }
+}

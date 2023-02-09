@@ -1,0 +1,50 @@
+{
+  "fresh_on_market": "新鲜上市",
+  "search": "搜索：'{{query}}'",
+  "explore_top_collections": "热门收藏",
+  "explore_featured_collections": "精选系列",
+  "explore_cards": "探索卡片",
+  "explore_collections": "探索收藏",
+  "explore_profiles": "探索个人资料",
+  "explore_publication": "探索出版物",
+  "last_week": "最近 7 天",
+  "tab": {
+    "collections": "收藏品",
+    "cards": "牌",
+    "publications": "刊物",
+    "profiles": "简介"
+  },
+  "submission": {
+    "nft_title": "NFT 标题",
+    "collection": "收藏",
+    "creator": "造物主",
+    "floor": "地面",
+    "price": "价格",
+    "no_price": "没有价格",
+    "edition_of": "版本",
+    "button_accept": "接受",
+    "button_reject": "拒绝",
+    "search_placeholder": "搜索 NFT...",
+    "total": "总数：{{total}} NFT",
+    "learn_more": "了解更多",
+    "verified": "验证创作者",
+    "modal_accept": {
+      "title_one": "想要接受 {{count}} 件商品？",
+      "title_other": "想要接受 {{count}} 件商品？",
+      "description_single": "您将接受 {{card_name}} 卡到 {{category_name}} 类别。",
+      "description_multiple": "您将接受 {{count}} 张卡片到 {{category_name}} 类别。",
+      "button_accept": "是的",
+      "button_reject": "取消"
+    },
+    "modal_reject": {
+      "title_one": "想要拒绝 {{count}} 件商品？",
+      "title_other": "想要拒绝 {{count}} 件商品？",
+      "description_single": "您将拒绝属于 {{category_name}} 类别的 {{card_name}} 卡。",
+      "description_multiple": "您将拒绝 {{count}} 张属于 {{category_name}} 类别的卡片。",
+      "button_accept": "是的",
+      "button_reject": "取消"
+    },
+    "button_manage_curation": "管理策展",
+    "button_exit_manage_curation": "退出管理策展"
+  }
+}

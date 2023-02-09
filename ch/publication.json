@@ -1,0 +1,75 @@
+{
+  "publications": "刊物",
+  "breadcrumbs": {
+    "first": "出版物",
+    "second": "{{breadcrumb}}",
+    "third": "{{pubTitle}}"
+  },
+  "title": "{{pubTitle}}",
+  "description": "{{pubDesc}}",
+  "authorId": "{{authorId}}",
+  "verified": "已验证",
+  "view_profile": "查看资料",
+  "image": "图像",
+  "video": "视频",
+  "card": "卡片",
+  "collection": "收藏",
+  "pub_type": { "community": "社区", "editorial": "社论" },
+  "comic_type": "漫画",
+  "title_page": { "create": "创建出版物", "edit": "编辑出版物" },
+  "cancel": "取消",
+  "embedded_collectibles": "数字收藏品",
+  "form": {
+    "cover": {
+      "title": "上传封面",
+      "description": "支持的文件：PNG、JPG。最大文件大小：30mb"
+    },
+    "teaser": {
+      "title": "预告片",
+      "placeholder": "保持简短有趣以吸引读者......"
+    },
+    "publish": "发布"
+  },
+  "modal": {
+    "add_video": {
+      "label": "嵌入视频",
+      "placeholder": "视频地址",
+      "description": "请输入 youtube 视频的链接",
+      "button": "添加视频"
+    },
+    "add_card": {
+      "label": "将卡片添加到您的出版物",
+      "placeholder": "令牌的网址",
+      "description": "请输入您的代币链接 https://paras.id/token/x.paras.near::1",
+      "button": "加卡"
+    },
+    "add_collection": {
+      "label": "将集合添加到您的出版物",
+      "placeholder": "收藏的网址",
+      "description": "请输入您收藏的链接 https://paras.id/collection/paradigm",
+      "button": "添加收藏"
+    },
+    "leaving_confirmation": {
+      "label": "您确定要离开此页面吗？您将丢失所有未发布的更改",
+      "button_ok": "好的",
+      "button_cancel": "取消"
+    },
+    "delete_publication": {
+      "label": "确认删除",
+      "description": "您确定要发布您的 {{publication}} 吗？",
+      "button": "删除"
+    }
+  },
+  "error": {
+    "maximum_cards": "最多 {{num}} 张牌",
+    "maximum_collections": "最多 {{num}} 个集合",
+    "wrong_url": "请输入正确的网址",
+    "already_added_collection": "此合集已添加",
+    "maximum_file_size": "最大文件大小为 {{num}}MB",
+    "title_required": "标题是必需的",
+    "cover_required": "封面是必需的",
+    "teaser_required": "需要预告片"
+  },
+  "delete": "删除",
+  "text_editor": { "title": "标题", "placeholder": "讲一个故事..." }
+}

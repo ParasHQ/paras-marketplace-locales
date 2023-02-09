@@ -1,0 +1,54 @@
+{
+  "get_verified": "获得证实",
+  "verification_form": "验证表",
+  "verification_status": "验证状态",
+  "cancel": "取消",
+  "continue": "继续",
+  "profile": "轮廓",
+  "success_message": "成功提交提交",
+  "error_message": "出了点问题，稍后再试",
+  "requirement": {
+    "introduction": "作为 Paras 艺术家，您需要通过验证才能访问 Paras 的全部功能。验证在市场上提供了额外的可见性。目前，未经验证的艺术家的 NFT 不会出现在“市场”提要中。整个过程需要3-4天。",
+    "steps": "要获得验证，您只需执行以下步骤：",
+    "step_1": "使用个人资料照片",
+    "step_2": "填写您的简历",
+    "step_3": "在您的 Paras 个人资料（Twitter 和 Instagram）上链接到您的社交媒体",
+    "step_4": "链接到您的网站（不是必需的，但会增加您获得验证的机会）",
+    "step_5": "拥有真实的艺术，您没有盗用或在其他平台上列出您自己的作品。",
+    "step_6": "您需要在 Paras 上创建至少 3 个 NFT。",
+    "introduction_2": "同样重要的是要记住，成为经过验证的艺术家并不能使您立竿见影。",
+    "introduction_3": "这是一种向更大的 Paras 社区介绍自己的方法。"
+  },
+  "form": {
+    "paras_profile_url": "个人资料网址",
+    "your_name": "你的名字",
+    "your_name_placehoder": "输入您的真实姓名...",
+    "your_name_error": "请输入你的名字",
+    "email": "电子邮件",
+    "email_placeholder": "输入有效地址...",
+    "email_error": "请输入您的邮箱",
+    "twitter_account": "推特账号",
+    "twitter_account_placeholder": "https://twitter.com/用户名",
+    "telegram_discord": "电报/不和谐帐户",
+    "telegram_discord_placeholder": "电报/不和谐帐户",
+    "instagram": "Instagram的",
+    "instagram_placeholder": "https://instagram.com/用户名",
+    "link_error": "请输入有效链接",
+    "recaptcha_error": "需要验证码",
+    "quota": "配额"
+  },
+  "status": {
+    "description_status": "整个验证过程可能需要3-4天，每周三和周六公布。如果您未通过验证，您可以在下一批中重新提交验证状态。",
+    "description_status_2": "如需更多问题，您可以在 Discord 上询问我们的团队。",
+    "step_1": { "submitted": "已提交", "desc": "您已提交验证请求" },
+    "step_2": {
+      "in_review": "审查中",
+      "desc": "我们的团队正在审核您的个人资料"
+    },
+    "step_3": {
+      "result": "结果",
+      "desc": "您的验证请求的结果。查看您的电子邮件以了解详细信息。"
+    }
+  },
+  "verified": { "title": "您已通过验证！", "share_now": "立即分享" }
+}
