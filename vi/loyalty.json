@@ -1,0 +1,175 @@
+{
+  "tabs": {
+    "overview": "Tổng quan",
+    "rewards": "Phần thưởng",
+    "leaderboard": "bảng xếp hạng",
+    "mechanism": "cơ chế",
+    "faq": "câu hỏi thường gặp",
+    "terms": "Điều khoản và điều kiện"
+  },
+  "overview": {
+    "title": "Tham gia Paras Loyalty & Nhận phần thưởng tuyệt vời!",
+    "desc": "Lòng trung thành của Paras là một chương trình đặc biệt được tạo ra để đánh giá cao những người đặt cược $PARAS bằng cách cấp quyền truy cập độc quyền vào các cuộc xổ số có giới hạn.",
+    "button_start_locked_staking": "Bắt đầu đặt cược bị khóa",
+    "button_learn_more": "Tìm hiểu thêm",
+    "paras_loyalty_terms": "Lòng trung thành của Paras<Link> Điều khoản và điều kiện</Link>"
+  },
+  "rewards": {
+    "from_paras_top_coll": "NFT từ Bộ sưu tập hàng đầu của Paras",
+    "platinum_raffle": "xổ số bạch kim",
+    "gold_raffle": "xổ số vàng",
+    "from_paras_new_coll": "NFT từ Bộ sưu tập mới của Paras"
+  },
+  "leaderboard": {
+    "coming_soon_desc": "Bảng xếp hạng đặt cược bị khóa sẽ được hiển thị khi giai đoạn khách hàng thân thiết bắt đầu.",
+    "desc": "Bảng xếp hạng đặt cược bị khóa này KHÔNG phải là danh sách người chiến thắng. Người chiến thắng sẽ được chọn ngẫu nhiên thông qua xổ số. <Span>Điểm xổ số của bạn càng cao, cơ hội giành chiến thắng của bạn càng lớn.</span>",
+    "auto_refresh": "Tự động làm mới",
+    "table": {
+      "top_10": "Tôp 10",
+      "username": "tên tài khoản",
+      "locked_staking": "Cổ phần bị khóa (LS)",
+      "duration": "Khoảng thời gian",
+      "duration_point": "Thời lượng điểm",
+      "total_raffle_point": "Tổng điểm xổ số"
+    },
+    "my_ranking": "Xếp hạng của tôi",
+    "only_user": "Chỉ những người dùng đã đăng ký xổ số mới được hiển thị trên bảng xếp hạng này.",
+    "click_here": "Nhấp chuột<Link> đây</Link> cho hướng dẫn đăng ký xổ số."
+  },
+  "mechanism": {
+    "title": "Cơ chế chương trình khách hàng thân thiết",
+    "bronze_member": "thành viên đồng",
+    "silver_member": "Thành viên bạc",
+    "gold_member": "thành viên vàng",
+    "platinum_member": "Thành viên bạch kim",
+    "days": "ngày",
+    "loyalty_cycle": {
+      "cycle_1": {
+        "title": "Mức độ trung thành sẽ được xác định dựa trên số lượng $PARAS bị khóa và thời hạn đặt cược bị khóa.",
+        "desc": "Người dùng đặt cược $PARAS mà không khóa nó sẽ được coi là cấp độ Đồng. Tìm hiểu thêm về cách đặt cược bị khóa<Link> đây</Link> .",
+        "paras_locked": "Số tiền tối thiểu $PARAS bị khóa",
+        "locked_staking": "Thời lượng đặt cược bị khóa tối thiểu",
+        "info": {
+          "title": "Nếu người dùng ở cấp Bạc, Vàng hoặc Bạch kim khóa trong <b>90 ngày</b> , họ sẽ nhận được thêm điểm:",
+          "desc": "<Span>25%</span> từ số tiền đặt cược bị khóa của người dùng"
+        }
+      },
+      "cycle_2": {
+        "title": "Các thành viên Bạc, Vàng và Bạch kim sẽ có cơ hội đăng ký và tham gia xổ số độc quyền trong thời gian diễn ra chương trình khách hàng thân thiết.",
+        "desc_1": "Thành viên Bạc, Vàng và Bạch kim có thể đăng nhập vào<Link> Thị trường Paras</Link> và đăng ký xổ số độc quyền thông qua biểu ngữ bật lên được liệt kê trong danh sách cho phép sẽ xuất hiện trên màn hình chính.",
+        "desc_2": "Nếu bạn không thấy biểu ngữ bật lên, hãy kiểm tra hộp thông báo của bạn và tìm thông báo xổ số. Nhấp vào 'Đăng ký' để tham gia xổ số độc quyền."
+      },
+      "cycle_3": {
+        "title": "Tất cả các thành viên Bạc, Vàng và Bạch kim đã đăng ký xổ số sẽ được đưa vào các nhóm xổ số riêng.",
+        "desc": "Bạn khóa càng nhiều $PARAS và thời gian đặt cược bị khóa của bạn càng dài thì xác suất trúng xổ số của bạn càng cao."
+      },
+      "cycle_4": {
+        "title": "Mỗi nhóm xổ số sẽ có những phần thưởng khác nhau.",
+        "desc": "Có 3 phần thưởng: Mã thông báo $PARAS, NFT từ các bộ sưu tập hàng đầu & NFT từ các bộ sưu tập mới.",
+        "paras_token": "Mã thông báo $BEST",
+        "from_top_collection": "NFT từ Bộ sưu tập hàng đầu",
+        "from_new_collection": "NFT miễn phí từ Bộ sưu tập mới"
+      }
+    },
+    "please_check": "Vui lòng kiểm tra<Link> Điều khoản & Điều kiện của Paras Loyalty</Link> .",
+    "join_paras_loyalty": "Tham gia Paras Loyalty & Nhận phần thưởng tuyệt vời!"
+  },
+  "faq": {
+    "title": "câu hỏi thường gặp",
+    "list": {
+      "1": {
+        "title": "\"Bạn khóa càng nhiều $PARAS, xác suất trúng xổ số của bạn càng cao.\" Cái này hoạt động ra sao? Nếu tôi đặt cược 6.000 đô laPARAS, liệu tôi có cơ hội tốt hơn so với người đặt cược 3.000 đô laPARAS không? Hay tất cả những người có ghế Bạch kim đều bình đẳng, bất kể họ đặt cược bao nhiêu qua 3.000 Para?",
+        "desc_1": "Tỷ lệ chiến thắng phụ thuộc vào số lượng $PARAS bạn đặt cược. Vì vậy, vâng, bạn càng đặt cược nhiều, cơ hội giành chiến thắng của bạn càng lớn.",
+        "desc_2": "Chúng tôi muốn giảm thiểu khả năng gian lận, chẳng hạn như người dùng tạo nhiều tài khoản để trúng xổ số. Bằng cách này, chúng tôi hy vọng bạn có thể yên tâm và tập trung vào việc quản lý 1 ví cho Khách hàng trung thành."
+      },
+      "2": {
+        "title": "Có lợi ích gì khi khóa trong 90 ngày thay vì 30 ngày không?",
+        "desc": "Đúng. Bạn sẽ nhận được thêm 25% điểm xổ số trên tổng số tiền đặt cược của mình."
+      },
+      "3": {
+        "title": "Có huy hiệu thành viên hạng Đồng nghĩa là gì?",
+        "desc": "Cấp đồng dành cho người dùng khóa dưới 500 $PARAS."
+      },
+      "4": {
+        "title": "Tôi là một thành viên bạch kim. Làm thế nào để tôi đăng ký xổ số?",
+        "desc_1": "Bạn có thể kiểm tra cơ chế & thời gian đăng ký xổ số<Link> bên trên.</Link>",
+        "desc_2": "Trong mỗi giai đoạn của chương trình khách hàng thân thiết, bạn sẽ có thể đăng ký vào một ngày định trước.",
+        "desc_3": "Các thành viên Bạc, Vàng và Bạch kim sẽ nhận được thông báo hoặc thông báo bật lên để đăng ký xổ số trong thời gian đăng ký."
+      },
+      "5": {
+        "title": "Tôi có phải đặt cược linh hoạt trước khi khóa $PARAS của mình không?",
+        "desc": "Không, bạn có thể trực tiếp đặt $PARAS hiện có trong ví của mình vào hoạt động đặt cược bị khóa mà không cần tham gia đặt cược linh hoạt."
+      },
+      "6": {
+        "title": "Làm cách nào để tôi nhận phần thưởng đặt cược bị khóa?",
+        "desc": "Số lượng 'Phần thưởng có thể yêu cầu' trên trang đặt cược là sự tích lũy của phần thưởng đặt cược linh hoạt và phần thưởng đặt cược bị khóa của bạn. Bạn có thể nhận phần thưởng mà không cần hủy đặt cọc $PARAS của mình."
+      }
+    },
+    "social_media": {
+      "title": "Nếu bạn có thêm câu hỏi, vui lòng liên hệ với các kênh truyền thông xã hội của chúng tôi:",
+      "list": {
+        "discord": "bất hòa:<Link> https://discord.paras.id</Link>",
+        "telegram": "điện tín:<Link> https://t.me/parashq</Link>",
+        "twitter": "Twitter:<Link> https://twitter.com/ParasHQ</Link>",
+        "instagram": "Instagram:<Link> https://instagram.com/paras.hq</Link>"
+      }
+    }
+  },
+  "terms": {
+    "1": {
+      "title": "Mức độ trung thành sẽ được xác định dựa trên số tiền đặt cược bị khóa $PARAS và thời hạn đặt cược bị khóa.",
+      "desc": "Người dùng khóa $PARAS trong 90 ngày sẽ nhận được thêm 25% điểm xổ số trên tổng số tiền đặt cược của người dùng."
+    },
+    "2": {
+      "title": "Người dùng đặt cược $PARAS mà không khóa nó sẽ được coi là cấp độ Đồng."
+    },
+    "3": {
+      "title": "Trong thời gian đăng ký xổ số đã xác định, các thành viên Bạc, Vàng và Bạch kim sẽ có cơ hội đăng ký và tham gia một cuộc xổ số độc quyền."
+    },
+    "4": {
+      "title": "Các thành viên Bạc, Vàng và Bạch kim có thể đăng nhập vào Paras Marketplace và đăng ký xổ số độc quyền thông qua biểu ngữ bật lên trên trang chủ Paras hoặc thông báo đăng ký xổ số."
+    },
+    "5": {
+      "title": "Các thành viên Bạc, Vàng và Bạch kim phải nhấp vào 'Đăng ký' trên biểu ngữ bật lên hoặc hộp thông báo để tham gia xổ số độc quyền."
+    },
+    "6": {
+      "title": "Các thành viên Bạc, Vàng và Bạch kim đủ điều kiện tham gia xổ số nhưng không nhấp vào nút 'Đăng ký' trên biểu ngữ bật lên hoặc hộp thông báo sẽ không được đưa vào xổ số."
+    },
+    "7": {
+      "title": "Người dùng có cấp độ thành viên trung thành bị giảm sau khi đăng ký xổ số sẽ tự động được đăng ký tham gia xổ số cho cấp độ hiện tại của họ. Tuy nhiên, nếu cấp độ thành viên của người dùng giảm xuống Đồng, họ sẽ không được đưa vào bất kỳ cuộc xổ số nào."
+    },
+    "8": {
+      "title": "Các thành viên Bạc và Vàng nạp tiền đặt cược bị khóa và lên cấp trong thời gian đăng ký xổ số sẽ đủ điều kiện để đăng ký lại xổ số cấp cao hơn. Nếu họ không đăng ký cấp độ mới, họ sẽ tự động được đăng ký ở cấp độ trước đó (Bạc hoặc Vàng)."
+    },
+    "9": {
+      "title": "1 (một) người dùng chỉ có thể giành được 1 (một) giải xổ số mỗi tháng."
+    },
+    "10": {
+      "title": "Thêm chi tiết về đặt cược bị khóa:",
+      "sub": {
+        "1": "Đặt cược bị khóa không cho phép người dùng mở khóa trước ngày kết thúc của thời gian đặt cược bị khóa.",
+        "2": "Khi người dùng nạp số tiền đặt cược bị khóa, khoảng thời gian sẽ được đặt lại.",
+        "3": "Khi người dùng không hủy đặt cược $PARAS của họ sau khi thời gian đặt cược bị khóa kết thúc, thì $PARAS sẽ tự động chuyển sang đặt cược linh hoạt trong vòng 1x24 giờ sau khi thời gian đặt cược bị khóa kết thúc.",
+        "4": "Người dùng có thể thực hiện đặt cược bị khóa mà không giảm $PARAS của họ khi đặt cược linh hoạt bằng cách sử dụng $PARAS còn lại trong ví của họ.",
+        "5": "Người dùng có thể trực tiếp đặt $PARAS hiện có trong ví của họ vào hoạt động đặt cược bị khóa mà không cần tham gia đặt cược linh hoạt.",
+        "6": "Số lượng 'Phần thưởng có thể yêu cầu' trên trang đặt cược là sự tích lũy của phần thưởng đặt cược linh hoạt và phần thưởng đặt cược bị khóa. Người dùng có thể nhận phần thưởng mà không cần mở khóa $PARAS."
+      }
+    },
+    "11": {
+      "title": "Bằng cách tham gia vào chương trình này, bạn đồng ý với<Link> Điều khoản và điều kiện</Link> của Lòng trung thành của Paras."
+    },
+    "title": "Điều khoản và điều kiện"
+  },
+  "upcoming_loyalty": {
+    "title": "Chuẩn bị tinh thần cho Thời kỳ trung thành sắp tới trong",
+    "desc": "tháng 2 năm 2023"
+  },
+  "loyalty_phase": {
+    "1": {
+      "title": "Đăng ký thời gian trung thành",
+      "desc": "15-17 tháng 12 năm 2022"
+    },
+    "2": { "title": "Ngày xổ số", "desc": "15-17 tháng 12 năm 2022" },
+    "3": { "title": "Thông báo người chiến thắng", "desc": "1 tháng một 2023" }
+  }
+}

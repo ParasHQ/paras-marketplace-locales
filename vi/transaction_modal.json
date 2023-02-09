@@ -1,0 +1,214 @@
+{
+  "edition_of": "Ấn bản của {{copies}}, Xếp hạng {{rarityScore}}",
+  "you_will_redirected": "Bạn sẽ được chuyển hướng đến ví của mình để xác nhận giao dịch.",
+  "cancel": "Hủy bỏ",
+  "trade": "Buôn bán",
+  "edition_text_internal_token": "NFT | {{edition}} của {{copies}}",
+  "edition_text_external_token": "NFT | {{copies}}",
+  "edition_text_multiple_token_series": "SERIES | Ấn bản của {{edition}}",
+  "edition_text_1of1_token_series": "Phiên bản mở",
+  "no_price": "Không có giá",
+  "free": "Miễn phí",
+  "transfer": {
+    "no_token_owned": "Không có mã thông báo nào được sở hữu",
+    "select": "Lựa chọn",
+    "input_label_transfer": "Chuyển đến ID tài khoản",
+    "input_error": "Vui lòng nhập hợp lệ gần id tài khoản",
+    "input_placeholder_transfer": "ID tài khoản",
+    "transfer": "Chuyển khoản"
+  },
+  "burn": {
+    "youre_about_burn": "Bạn sắp đốt cháy {{title}}",
+    "burn": "Đốt cháy"
+  },
+  "buy": {
+    "rarity": "Độ hiếm {{score}}",
+    "price": "Giá",
+    "your_balance": "Số dư của bạn",
+    "buy": "Mua"
+  },
+  "place_bid": {
+    "min_bid_error": "Giá thầu tối thiểu là giá thầu tối thiểu",
+    "max_bid_error": "Tối đa là số dư của bạn",
+    "min_bid": "tối thiểu Đấu thầu",
+    "your_balance": "Số dư của bạn",
+    "auction_token": "đấu giá kết thúc trong<time> {{days}} ngày, {{hours}}:{{mins}}:{{secs}}</time>",
+    "auction_token_series": "Một số ấn bản đang được bán đấu giá",
+    "place_bid": "Đặt một giá thầu",
+    "input_label": "giá thầu của bạn"
+  },
+  "place_offer": {
+    "rarity": "Độ hiếm {{score}}",
+    "min_offer_error": "Tối thiểu 0,01",
+    "max_offer_error": "Tối đa là số dư của bạn",
+    "current_price": "Giá hiện tại",
+    "your_offer": "Phiếu mua hàng của bạn",
+    "your_balance": "Số dư của bạn",
+    "currently_staked": "NFT này hiện được đặt cược bởi chủ sở hữu",
+    "place_offer": "Đặt ưu đãi",
+    "update_offer": "Cập nhật ưu đãi"
+  },
+  "trading": {
+    "title": "thẻ thương mại",
+    "desc": "Chỉ thẻ từ người tạo đã xác minh được hiển thị bên dưới",
+    "rarity": "Độ hiếm {{score}}",
+    "no_card": "Không có thẻ nào từ những người sáng tạo đã được xác minh trong bộ sưu tập này",
+    "selected_card": "Thẻ bạn đã chọn",
+    "desc_empty": "Bạn chưa chọn thẻ.",
+    "all_collections": "Tất cả bộ sưu tập",
+    "submit": "Nộp",
+    "cancel": "Hủy bỏ",
+    "add_card": "thẻ {{type}}"
+  },
+  "mint": {
+    "rarity": "Độ hiếm {{score}}",
+    "mint_to_self": "Mint cho bản thân mình",
+    "input_label_mint": "ID tài khoản",
+    "storage_fee": "Phí lưu trữ",
+    "mint": "BẰNG"
+  },
+  "accept_offer": {
+    "offer_from": "<semibold>Lời đề nghị</semibold> từ<semibold> {{buyerId}}</semibold>",
+    "for_card": "cho thẻ<spanSemibold><linkToken> {{title}}</linkToken></spanSemibold> TRONG<spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold>",
+    "received_offer": "Đã nhận được ưu đãi",
+    "royalty_artist": "Tiền bản quyền cho nghệ sĩ",
+    "fee": "Phí",
+    "storage_fee": "Phí lưu trữ",
+    "total_received": "Tổng số đã nhận",
+    "accept_offer": "Chấp nhận đề nghị"
+  },
+  "reject_offer": {
+    "reject_offer": "Từ chối đề nghị",
+    "reject_confirm": {
+      "want_to_reject": "Bạn muốn từ chối đề nghị từ {{accountId}}?",
+      "you_are_going_to_reject": "Bạn sẽ từ chối lời đề nghị cho<semibold> {{cardName}}</semibold> với giá của<semibold> {{amount}}<iconnear/></semibold>",
+      "offerer_receive_notif": "<semibold>{{accountId}}</semibold> vì người cung cấp sẽ nhận được thông báo rằng ưu đãi của họ đã bị từ chối và có thể hủy bỏ ưu đãi đó.",
+      "you_cant_request_reofferer": "Bạn không thể yêu cầu được cung cấp lại. Từ chối của bạn không thể được hoàn tác.",
+      "cancel": "Hủy bỏ",
+      "confirm": "Xác nhận Từ chối"
+    },
+    "warning_rejected_sent": "Đề nghị của bạn đã bị chủ sở hữu thẻ từ chối. Hủy phiếu mua hàng của bạn để lấy lại số dư hoặc cập nhật phiếu mua hàng để thực hiện một phiếu mua hàng khác.",
+    "success_toast": "Từ chối đề nghị đã thành công"
+  },
+  "accept_trade": {
+    "card_trade_from": "<semibold>giao dịch thẻ<semibold/> từ<semibold> {{buyerId}}</semibold>",
+    "in": "TRONG",
+    "this_card_flagged": "Thẻ này đã được gắn cờ là {{flag}}",
+    "with_your_card": "Với thẻ của bạn",
+    "volume_gap": "Khoảng trống âm lượng",
+    "your_card_volume": "Khối lượng thẻ của bạn",
+    "received_card_volume": "Khối lượng thẻ nhận được",
+    "accept_trade": "Chấp nhận giao dịch",
+    "reject_trade": "Từ chối giao dịch"
+  },
+  "reject_trade": {
+    "card_trade_from": "<semibold>giao dịch thẻ<semibold/> từ<semibold> {{buyerId}}</semibold>",
+    "in": "TRONG",
+    "this_card_flagged": "Thẻ này đã được gắn cờ là {{flag}}",
+    "with_your_card": "Với thẻ của bạn",
+    "volume_gap": "Khoảng trống âm lượng",
+    "your_card_volume": "Khối lượng thẻ của bạn",
+    "received_card_volume": "Khối lượng thẻ nhận được",
+    "reject_trade": "Từ chối giao dịch",
+    "i_understand": "Tôi hiểu rủi ro và muốn chấp nhận",
+    "success_toast": "Từ chối giao dịch thành công",
+    "you_cant_request_reofferer": "Bạn không thể yêu cầu được cung cấp lại. Từ chối của bạn không thể được hoàn tác."
+  },
+  "accept_bid": {
+    "bid_from": "<semibold>Đấu thầu<semibold/> từ<semibold> {{currentBidder}}</semibold>",
+    "for_card": "cho thẻ<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken> TRONG<linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken>",
+    "received_bid": "Giá thầu đã nhận",
+    "royalty_artist": "Tiền bản quyền cho nghệ sĩ",
+    "fee": "Phí",
+    "storage_fee": "Phí lưu trữ",
+    "total_received": "Tổng số đã nhận",
+    "accept_bid": "chấp nhận giá thầu"
+  },
+  "cancel_offer": {
+    "are_you_sure": "Bạn có chắc chắn muốn hủy ưu đãi của mình không?",
+    "your_balance_will_be_returned": "Số dư của bạn sẽ được trả lại ngay khi bạn hủy ưu đãi này.",
+    "cancel_offer": "Hủy ưu đãi"
+  },
+  "cancel_bid": {
+    "are_you_sure": "Bạn có chắc chắn muốn hủy giá thầu của mình không?",
+    "cancel_bid": "Hủy thầu"
+  },
+  "edit_listing": {
+    "min_duration_auction": "Đấu giá phải dưới 5 ngày",
+    "must_future_auction": "Đấu giá phải trong tương lai",
+    "edit_listing": "Chỉnh sửa danh sách",
+    "listed": "Liệt kê",
+    "reduce_copies": {
+      "max_reduce_error": "Số giảm phải nhỏ hơn hoặc bằng tổng số lần đúc",
+      "min_reduce_error": "Số rút gọn phải lớn hơn hoặc bằng 0",
+      "reduce_copies": "Giảm bản sao",
+      "remaining_copies": "Các bản sao còn lại: {{remainingCopies}}"
+    },
+    "put_marketplace": {
+      "put_marketplace": "Đưa vào Marketplace?",
+      "no": "KHÔNG",
+      "for_sale": "Rao bán",
+      "for_auction": "để đấu giá",
+      "update_price": "Cập nhật giá",
+      "starting_bid": "Bắt đầu đặt thầu",
+      "auction_ends": "Phiên đấu giá kết thúc sau",
+      "equal_to": "Tương đương với",
+      "receive": "Nhận được",
+      "royalty": "tiền bản quyền",
+      "fee": "Phí"
+    },
+    "update": "Cập nhật"
+  },
+  "success_tx_modal": {
+    "button_close": "Đóng",
+    "button_see_other_cards": "Xem các thẻ khác",
+    "button_see_profile": "Đi đến tiểu sử của tôi",
+    "transaction_hash": "Băm giao dịch",
+    "share_to": "Chia sẻ với",
+    "share": "Chia sẻ",
+    "thank_you_submission": "Cảm ơn bạn đã gửi của bạn! Gửi thẻ thành công.",
+    "transaction_text": {
+      "buy": "Thanh toán thành công",
+      "offer": "Đã gửi phiếu mua hàng",
+      "bid": "Hồ sơ dự thầu đã nộp",
+      "edit_listing_auction": "Đấu giá thẻ bắt đầu",
+      "edit_listing_sale": "Cập nhật giá thẻ",
+      "mint": "Thẻ đúc thành công",
+      "trade": "Ưu đãi NFT đã được gửi",
+      "transfer": "Đã gửi thẻ tới {{accountId}}",
+      "remove_auction": "Đã xóa phiên đấu giá",
+      "remove_listing": "Đã xóa danh sách",
+      "accept_trade": "Giao dịch NFT được chấp nhận",
+      "add_trade": "Thêm Giao dịch thành công",
+      "accept_offer": "Đề nghị chấp nhận",
+      "accept_bid": "Giá thầu được chấp nhận",
+      "remove_bid": "Đã xóa giá thầu",
+      "create_card": "Thẻ được tạo thành công",
+      "default": "Giao dịch thành công"
+    },
+    "transaction_sub_text": {
+      "mint": "Bạn đã đúc thẻ thành công",
+      "edit_listing_sale": "Bạn đã cập nhật thành công giá thành {{price}}",
+      "edit_listing_auction": "Bạn đã tạo thành công một phiên đấu giá bắt đầu từ {{price}}",
+      "bid": "Bạn đã đặt giá thành công tại {{price}}",
+      "offer": "Bạn đã chào giá thành công tại {{price}}",
+      "buy": "Bạn đã mua thành công với giá {{price}}",
+      "buy_bulk": "Bạn đã mua thẻ mới thành công"
+    },
+    "h2_text": {
+      "create_card": "Đã thêm {{total}} thẻ mới",
+      "buy_bulk": "Đã mua {{total}} thẻ"
+    },
+    "cart": {
+      "you_successfully": "Bạn đã mua thẻ mới thành công",
+      "you_failed": "Thẻ bạn đã chọn không còn nữa, vì vậy bạn sẽ không bị tính phí."
+    },
+    "nft_still_catching_up": "NFT vẫn đang bắt kịp, bạn có thể đợi một lúc hoặc đóng phương thức này",
+    "share_text": {
+      "one_card": "Xem {{title}} từ bộ sưu tập {{collection1}} của {{creator}} trên {{account}}! #parasnft #nftcollectibles #nft",
+      "multiple_card_one_collection": "Xem tất cả NFT từ bộ sưu tập {{collection1}} của {{creator}} trên {{account}}! #parasnft #nftcollectibles #nft",
+      "multiple_card_2_collections": "Xem tất cả NFT từ bộ sưu tập {{collection1}} & {{collection2}} trên {{account}}! #parasnft #nftcollectibles #nft",
+      "multiple_card_3_collections": "Xem tất cả NFT từ bộ sưu tập {{collection1}}, {{collection2}} và {{collection3}} trên {{account}}! #parasnft #nftcollectibles #nft"
+    }
+  }
+}

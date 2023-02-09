@@ -1,0 +1,43 @@
+{
+  "hero": {
+    "title": "Thị trường tốt nhất cho",
+    "subtitle": "NFT sưu tập kỹ thuật số",
+    "description": "<text>Chào mừng bạn đến với nền tảng xã hội tất cả trong một để mua, bán và tạo NFT trên</text><NearLink> Giao thức gần</NearLink>",
+    "primary_button": "Khám phá",
+    "secondary_button": "Tìm hiểu thêm"
+  },
+  "featured_collection": "Bộ sưu tập nổi bật",
+  "activity_you_follow": "Hoạt động bạn theo dõi",
+  "top_collection": {
+    "title": "Bộ sưu tập hàng đầu",
+    "last_7_d": "7 ngày qua",
+    "more": "Xem thêm"
+  },
+  "mint_calendar": "Lịch bạc hà",
+  "whats_new": "Có gì mới",
+  "highest_sale": { "title": "Doanh số cao nhất", "last_24_h": "24 giờ qua" },
+  "apex_collectior": { "title": "Bộ sưu tập Apex", "more": "Xem thêm" },
+  "guide": {
+    "1": {
+      "title": "Mới trong Paras?",
+      "description": "Paras là thị trường NFT xã hội tất cả trong một dành cho người sáng tạo và người sưu tập sử dụng<DescLink> Ví gần</DescLink>",
+      "button": "Về chúng tôi"
+    },
+    "2": {
+      "title": "có tác phẩm nghệ thuật?",
+      "description": "Chia sẻ tác phẩm nghệ thuật hoặc dự án của bạn dưới dạng NFT sau đó nhận được lợi nhuận từ việc bán hàng và phí bản quyền trong tương lai",
+      "button": "Bắt đầu bây giờ"
+    },
+    "3": {
+      "title": "Bạn muốn có được lợi nhuận?",
+      "description": "Săn lùng bộ sưu tập NFT hiếm nhất và được mong muốn nhất và trở thành<DescLink> Bộ sưu tập Apex</DescLink>",
+      "button": "Kết nối gần ví"
+    },
+    "4": {
+      "title": "Giống như những gì bạn nhìn thấy?",
+      "description": "Hỗ trợ nghệ sĩ bạn thích bằng cách chia sẻ trang của họ trong Paras. Càng nhiều lượt xem sẽ khiến nghệ sĩ có được danh tiếng",
+      "button": "Khám phá Paras"
+    }
+  },
+  "live_auction": { "title": "đấu giá trực tiếp", "more": "Xem thêm" }
+}
