@@ -1,0 +1,152 @@
+{
+	"create_collection": "Créer une Collection",
+	"create_cards": "Créer des Cartes",
+	"create_card": "Créer une Carte",
+	"back": "Retour",
+	"cancel": "Annuler",
+	"form_collection": {
+		"upload_logo": "Télécharger le logo",
+		"upload_logo_info": "150px x 150px \n Formats pris en charge: PNG, GIF, JPG, JPEG",
+		"upload_logo_error": "Le logo est requis",
+		"name": "Nom de la Collection",
+		"name_placeholder": "Soyez brefs et intéressant...",
+		"name_error": "Le nom de la Collection ne peut pas être vide",
+		"description": "Description",
+		"description_placeholder": "Soyez bref mais suffisant pour couvrir l'histoire",
+		"description_error": "La description de la Collection ne peut pas être vide",
+		"twitter": "Compte Twitter",
+		"twitter_placeholder": "https://twitter.com/username",
+		"discord": "Canal Discord",
+		"discord_placeholder": "https://discord.gg/invite",
+		"website": "Site internet",
+		"website_placeholder": "URL du site...",
+		"button": "Continuer",
+		"button_edit": "Sauvegarder",
+		"link_error": "Veuillez entrer un lien valide"
+	},
+	"guide": {
+		"1": {
+			"title": "Choisissez le meilleur nom, il est permanent",
+			"description": "Le nom de la Collection est permanent après sa publication. Vous ne pouvez pas non plus supprimer la Collection. Mais vous pouvez toujours éditer les autres informations. <DescLink>Guide de l'artiste</DescLink>"
+		},
+		"2": {
+			"title": "Définissez votre fichier correctement",
+			"description": "Nous avons défini votre nom comme titre par défaut. Vous pouvez encore l'éditer avant de le publier. Après cela, le titre et le fichier des Cartes est permanent."
+		},
+		"3": {
+			"title": "Préparez les attributs assignés",
+			"description": "Les attributs sont une caractéristique que les Cartes possèdent. Les attributs permettront de calculer un score de rareté et un classement. Les attributs seront permanents pour la Carte."
+		},
+		"4": {
+			"title": "Soyez minutieux avec les détails de votre Carte",
+			"description": "Une fois votre Carte listée 'À Vendre', les gens peuvent directement l'acheter et la posséder. Assurez-vous donc des détails de votre Carte avant de la publier."
+		}
+	},
+	"set_cover": "Définir la banière",
+	"add_card": "Ajouter une Carte ({{total}})",
+	"form_attribute": {
+		"attributes": "Attributs",
+		"close": "Fermer",
+		"new_attribute": "Nouvel attribut",
+		"edit": "Modifier",
+		"button_save": "Enregistrer",
+		"button_value": "Valeur",
+		"value": "Valeur",
+		"value_placeholder": "Nouvelle Valeur...",
+		"value_error": "La Valeur est requise",
+		"label": "Etiquette",
+		"label_placeholder": "ex: Couleur de fond",
+		"label_error": "L'étiquette est requise",
+		"informative_create_attribute": "Les attributs que vous enregistrez seront disponibles pour les utiliser pour les prochaines Cartes dans la même Collection. Les attributs assignés ne peuvent pas être modifiés ou supprimés après la publication de la Carte."
+	},
+	"form_card_details": {
+		"card_details": "Détails de la Carte",
+		"cancel": "Annuler",
+		"title": "Titre",
+		"title_placeholder": "Titre de la Carte",
+		"royalty": "Droits d'auteur",
+		"royalty_add_account": "Ajouter un compte",
+		"royalty_account_label": "ID de compte sur NEAR",
+		"royalty_account_placeholder": "ID de compte",
+		"royalty_amount_label": "Montant des droits d'auteur",
+		"royalty_amount_placeholder": "10% 20% 30%",
+		"royalty_total": "Total: {{total}}%",
+		"listed": "Listée",
+		"price": "Prix",
+		"price_placeholder": "10",
+		"price_dollar": "Egal à ${{price}}",
+		"copies": "Nombre de Copies",
+		"error_copies_card4card": "Votre édition doit être d'au moins 100 exemplaires",
+		"put_on_market": "Lister sur le marché ?",
+		"put_on_market_option": {
+			"no": "Non",
+			"for_sale": "À Vendre"
+		},
+		"attributes": "Définir des attributs",
+		"new_attribute": "Nouvel attribut",
+		"attributes_unset": "Non défini",
+		"description": "Description",
+		"description_placeholder": "Soyez bref et intéressant mais suffisamment long pour couvrir l'histoire...",
+		"button": "Enregistrer les détails",
+		"error_accountid_not_found": "ID de compte introuvable",
+		"error_max_royalty": "Les droits d'auteur en totalité ne peut pas dépasser 90%",
+		"error_input": {
+			"price_required": "Le montant du prix est requis",
+			"minimum_0": "Minimum 0 {{iconnear}}",
+			"maximum_card4card_01": "Votre prix maximum doit être de 0.1 <iconnear/>"
+		},
+		"category": "Catégorie",
+		"category_tooltip": "Ajouter une catégorie aidera votre Carte à être plus facilement découverte sur le marché. Une fois qu'une catégorie a été appliquée, vous ne pourrez pas la changer plus tard",
+		"unset": "Non défini",
+		"you_cant_change_category": "Vous ne pouvez pas changer la catégorie."
+	},
+	"form_thumbnail": {
+		"title": "Miniature pour créer une Carte",
+		"description": "Vous devez télécharger une image miniature pour votre Carte NFT si votre Carte est de type: Audio, Modèle 3D ou Iframe jouable",
+		"thumbnail": "Miniature pour la Carte:",
+		"button_submit": "Soumettre",
+		"button_cancel": "Annuler"
+	},
+	"fill": "Remplir",
+	"edit": "Modifier",
+	"sale": "À vendre {{price}}",
+	"not_filled": "Les détails doivent être remplis",
+	"attributes_count": "Attributs ({{count}})",
+	"upload_cover": "Télécharger la banière",
+	"upload_cover_info": "Taille 1152px × 288px.\n Fichiers pris en charge: PNG, JPG. Taille maximale de fichier: 30mb",
+	"upload_cards": "Télécharger les Cartes",
+	"upload_cards_info": "Fichiers pris en charge : PNG, JPG, GIF, MPX, MP4, GLB.\n Max. 10 fichiers par téléchargement, 30mb chacun",
+	"need_bulk_upload": "Besoin d'un téléchargement en masse ?",
+	"publish": "Publier",
+	"informative_create_card": "Pour économiser votre temps, nous utilisons le nom de votre fichier comme titre par défaut. Vous pouvez toujours éditer le titre plus tard",
+	"got_it": "Vu!",
+	"see_detail": "Voir le détail",
+	"create_new_card": {
+		"step_1": {
+			"where_do_you_want": "Où voulez-vous ajouter de nouvelles Cartes ?",
+			"create": "Créer",
+			"new_collection": "Nouvelle Collection",
+			"exist_collection": "Collection existante",
+			"you_will_create_new_collection": "Vous allez créer une nouvelle Collection avant d'ajouter de nouvelles Cartes",
+			"you_will_select_one_of_collection": "Vous allez sélectionner une de vos Collections existantes avant d'ajouter de nouvelles Cartes"
+		},
+		"step_2": {
+			"choose_your_existing_collection": "Choisissez votre Collection existante",
+			"your_card_will_be_added": "Votre Carte sera ajoutée à la Collection que vous avez sélectionnée",
+			"search_collection_name": "Rechercher le nom de la Collection",
+			"sort_by": "Trier par",
+			"sort_recently_created": "Récemment créé",
+			"sort_alphabetic_az": "Alphabétique  (A-Z)",
+			"sort_alphabetic_za": "Alphabétique  (Z-A)",
+			"sort_highest_volume": "Volume le plus élevé",
+			"sort_most_owner": "Propriétaire le plus fréquent",
+			"sort_highest_floor_price": "Prix Plancher le plus élevé",
+			"sort_lowest_floor_price": "Prix Plancher le plus bas",
+			"collection_name": "Nom de la Collection",
+			"continue": "Continuer",
+			"select_collection_first": "Veuillez sélectionner d'abord la Collection",
+			"you_dont_have_collection": "Vous n'avez pas encore de Collection",
+			"want_to_create_collection": "Vous voulez créer une Collection ?"
+		}
+	}
+}

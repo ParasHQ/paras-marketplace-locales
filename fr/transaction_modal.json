@@ -1,0 +1,214 @@
+{
+	"edition_of": "Edition de {{copies}}, Rang {{rarityScore}}",
+	"you_will_redirected": "Vous serez redirigé vers votre portefeuille pour confirmer votre transaction",
+	"cancel": "Annuler",
+	"trade": "Echanger",
+	"edition_text_internal_token": "NFT | {{edition}} de {{copies}}",
+	"edition_text_external_token": "NFT | {{edition}}",
+	"edition_text_multiple_token_series": "SERIES | Edition de {{edition}}",
+	"edition_text_1of1_token_series": "Edition ouverte",
+	"no_price": "Pas de Prix",
+	"free": "Gratuit",
+	"transfer": {
+		"no_token_owned": "Aucun token détenu",
+		"select": "Selectionner",
+		"input_label_transfer": "Transfert vers l'ID du compte",
+		"input_error": "Veuillez entrer un identifiant de compte ID valide",
+		"input_placeholder_transfer": "ID compte",
+		"transfer": "Transfert"
+	},
+	"burn": {
+		"youre_about_burn": "Vous êtes sur le point de brûler {{title}}",
+		"burn": "Brûler"
+	},
+	"buy": {
+		"rarity": "Rareté {{score}}",
+		"price": "Prix",
+		"your_balance": "Votre Solde",
+		"buy": "Acheter"
+	},
+	"place_bid": {
+		"min_bid_error": "Le minimum est l'Enchère mini",
+		"max_bid_error": "Le maximum est votre Solde",
+		"min_bid": "Enchère mini",
+		"your_balance": "Votre Solde",
+		"auction_token": "La Vente aux Enchères se termine dans <time>{{days}} jours et {{hours}}:{{mins}}:{{secs}}s</time>",
+		"auction_token_series": "Une partie de l'édition est mise aux Enchères",
+		"place_bid": "Placer une Enchère",
+		"input_label": "Votre Enchère"
+	},
+	"place_offer": {
+		"rarity": "Rareté {{score}}",
+		"min_offer_error": "Minimum 0.01 ",
+		"max_offer_error": "Le maximum est votre Solde",
+		"current_price": "Prix actuel",
+		"your_offer": "Votre Offre",
+		"your_balance": "Votre Solde",
+		"currently_staked": "Ce NFT est actuellement staké par le propriétaire",
+		"place_offer": "Faire une Offre",
+		"update_offer": "Offre actualisée"
+	},
+	"trading": {
+		"title": "Echanger Carte",
+		"desc": "Seules les Cartes de Créateurs Vérifiés sont affichées ci-dessous",
+		"rarity": "Rareté {{score}}",
+		"no_card": "Il n'y a pas de Cartes de Créateurs Vérifiés dans cette Collection.",
+		"selected_card": "Votre Carte sélectionnée",
+		"desc_empty": "Vous n'avez pas sélectionné de Carte.",
+		"all_collections": "Toutes les Collections",
+		"submit": "Soumettre",
+		"cancel": "Annuler",
+		"add_card": "Carte {{type}}"
+	},
+	"mint": {
+		"rarity": "Rareté {{score}}",
+		"mint_to_self": "Mint à moi-même",
+		"input_label_mint": "ID Compte",
+		"storage_fee": "Frais de stockage",
+		"mint": "Mint"
+	},
+	"accept_offer": {
+		"offer_from": "<semibold>Offer</semibold> de <semibold>{{buyerId}}</semibold>",
+		"for_card": "Pour la Carte <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> dans <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+		"received_offer": "Offre reçue",
+		"royalty_artist": "Droits d'auteur pour l'artiste ",
+		"fee": "Frais",
+		"storage_fee": "Frais de stockage",
+		"total_received": "Total reçu",
+		"accept_offer": "Accepter l'Offre"
+		},
+	"reject_offer": {
+		"reject_offer": "Rejeter l'Offre",
+		"reject_confirm": {
+			"want_to_reject": "Vous voulez rejeter l'Offre de {{accountId}} ?",
+			"you_are_going_to_reject": "Vous allez rejeter l'offre pour <semibold>{{cardName}}</semibold> au prix de <semibold>{{amount}} <iconnear/></semibold>",
+			"offerer_receive_notif": "<semibold>{{accountId}}</semibold> en tant qu'offrant recevra une notification indiquant que son offre a été rejetée et peut l'annuler.",
+			"you_cant_request_reofferer": "Vous ne pouvez pas demander recevoir une nouvelle Offre. Votre rejet ne peut pas être annulé.",
+			"cancel": "Annuler",
+			"confirm": "Confirmer Rejet"
+		},
+		"warning_rejected_sent": "Votre offre a été rejetée par le propriétaire de la Carte. Annulez votre Offre pour récupérer votre Solde ou mettez-la à jour pour faire une autre Offre.",
+		"success_toast": "Le rejet de l'offre a été effectué avec succès"
+	},	
+	"accept_trade": {
+		"card_trade_from": "<semibold>Card trade<semibold/> de <semibold>{{buyerId}}</semibold>",
+		"in": "dans",
+		"this_card_flagged": "Cette Carte a été marquée comme {{flag}}",
+		"with_your_card": "Avec votre Carte",
+		"volume_gap": "Écart de volume",
+		"your_card_volume": "Volume des Cartes",
+		"received_card_volume": "Volume des Cartes reçues",
+		"accept_trade": "Accepter l'échange",
+		"reject_trade": "Rejeter l'échange"
+	},
+	"reject_trade": {
+		"card_trade_from": "<semibold>Card trade<semibold/> de <semibold>{{buyerId}}</semibold>",
+		"in": "sur",
+		"this_card_flagged": "Cette Carte a été signalée comme {{flag}}",
+		"with_your_card": "Avec votre Carte",
+		"volume_gap": "Écart de prix",
+		"your_card_volume": "Prix de votre Carte",
+		"received_card_volume": "Prix de la Carte reçue",
+		"reject_trade": "Rejeter l'échange",
+		"i_understand": "Je comprends le risque et je souhaite l'accepter",
+		"success_toast": "Le rejet de l'échange a été effectué avec succès",
+		"you_cant_request_reofferer": "Vous ne pouvez pas demander une nouvelle offre. Votre refus ne peut être annulé"
+	},
+	"accept_bid": {
+		"bid_from": "<semibold>Bid<semibold/> de <semibold>{{currentBidder}}</semibold>",
+		"for_card": "Pour la carte <linkToken><spanSemibold>{{title}}</spanSemibold></linkToken> dans <linkToken><spanSemibold>{{collection}}</spanSemibold></linkToken>",
+		"received_bid": "Enchère reçue",
+		"royalty_artist": "Droits d'auteur pour l'artiste",
+		"fee": "Frais",
+		"storage_fee": "Frais de stockage",
+		"total_received": "Total reçu",
+		"accept_bid": "Accepter l'Enchère"
+	},
+	"cancel_offer": {
+		"are_you_sure": "Vous êtes sûr de vouloir annuler votre Offre ?",
+		"your_balance_will_be_returned": "Votre Solde vous sera restitué dès que vous aurez annulé cette Offre",
+		"cancel_offer": "Annuler l'Offre"
+	},
+	"cancel_bid": {
+		"are_you_sure": "Vous êtes sûr de vouloir annuler votre Enchère ?",
+		"cancel_bid": "Annuler l'Enchère"
+	},
+	"edit_listing": {
+		"min_duration_auction": "La Vente aux Enchères doit être inférieure à 5 jours",
+		"must_future_auction": "La Vente aux Enchères doit être dans le futur",
+		"edit_listing": "Modifier le Listing",
+		"listed": "Listé",
+		"reduce_copies": {
+			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
+			"min_reduce_error": "Le nombre de copies doit être supérieur ou égal a 0",
+			"reduce_copies": "Réduire les copies",
+			"remaining_copies": "Copies restantes: {{remainingCopies}}"
+		},
+		"put_marketplace": {
+			"put_marketplace": "Lister sur le Marché ?",
+			"no": "Non",
+			"for_sale": "À Vendre",
+			"for_auction": "Pour une Vente aux Enchères",
+			"update_price": "Mettre à jour le Prix",
+			"starting_bid": "Enchère de départ",
+			"auction_ends": "La Vente aux Enchères se termine dans",
+			"equal_to": "Egal à ",
+			"receive": "Recevoir",
+			"royalty": "Droits d'auteurs",
+			"fee": "Frais"
+		},
+		"update": "Mettre à jour"
+	},
+	"success_tx_modal": {
+		"button_close": "Fermer",
+		"button_see_other_cards": "Voir les autres Cartes",
+		"button_see_profile": "Aller sur mon Profil",
+		"transaction_hash": "Hash de transaction",
+		"share_to": "Partager sur",
+		"share": "Partager",
+		"thank_you_submission": "Merci pour votre soumission! Soumission de la carte réussie.",
+		"transaction_text": {
+			"buy": "Paiement réussi",
+			"offer": "Offre soumise",
+			"bid": "Enchère soumise",
+			"edit_listing_auction": "l'Enchère de la Carte a démarée",
+			"edit_listing_sale": "Prix de la Carte mis à jour",
+			"mint": "Succès du 'Mint' de la Carte",
+			"trade": "Offre NFT soumise",
+			"transfer": "Carte envoyée à {{accountId}}",
+			"remove_auction": "Vente aux Enchères supprimée",
+			"remove_listing": "Listing suprimé",
+			"accept_trade": "Echange NFT accepté",
+			"add_trade": "Ajout Echange accepté",
+			"accept_offer": "Offre acceptée",
+			"accept_bid": "Enchère acceptée",
+			"remove_bid": "Enchère supprimée",
+			"create_card": "Carte créée avec succès",
+			"default": "Transaction réussie"
+		},
+		"transaction_sub_text": {
+			"mint": "Succès du 'Mint' de la Carte",
+			"edit_listing_sale": "Vous avez réussi à mettre à jour le Prix à {{price}}",
+			"edit_listing_auction": "Vous avez créé avec succès une Enchère commençant à {{price}}",
+			"bid": "Vous avez réussi à enchérir le prix à {{price}}",
+			"offer": "Vous avez offert avec succès le prix de {{price}}",
+			"buy": "Vous avez acheté avec succès à {{price}}",
+			"buy_bulk": "Vous avez acheté de nouvelles Cartes avec succès"
+		},
+		"h2_text": {
+			"create_card": "{{total}} nouvelles Cartes ajoutées",
+			"buy_bulk": "{{total}} Cartes achetées"
+		},
+		"cart": {
+			"you_successfully": "Vous avez acheté de nouvelles Cartes avec succès",
+			"you_failed": "La carte que vous avez sélectionnée n'est plus disponible, vous ne serez donc pas débité"
+		},
+		"nft_still_catching_up": "Le site est toujours en train de rattraper son retard, vous pouvez soit attendre un peu, soit fermer cette fenêtre",
+		"share_text": {
+			"one_card": "Découvrez {{title}} de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_one_collection": "Découvrez tous les NFTs de {{collection1}} collection de {{creator}} sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_2_collections": "Découvrez tous les NFTs de {{collection1}} & {{collection2}} collections sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
+			"multiple_card_3_collections": "Découvrez tous les NFTs de {{collection1}}, {{collection2}}, et {{collection3}} collections sur {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n"
+		}
+	}
+}

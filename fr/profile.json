@@ -1,0 +1,79 @@
+{
+	"header": {
+		"edit_profile": "Modifier Profil",
+		"follow_activity": "Suivre l'activité",
+		"following": "Abonnements"
+	},
+	"tabs": {
+		"cards": "Cartes",
+		"collections": "Collections",
+		"bio": "Biographie",
+		"followers": "Abonnés",
+		"following": "Abonnements",
+		"liked": "Favoris",
+		"publication": "Publications"
+	},
+	"cards": {
+		"search_placeholder": "Recherche NFTs...",
+		"search_placeholder_collection": "Recherche dans les Collections",
+		"filter_reset": "Réinitialiser",
+		"filter_apply": "Appliquer",
+		"filter_no_collection": "Aucune Collection",
+		"filter_by_collection": "Filtrer par Collection"
+	},
+	"bio": {
+		"joined": "Inscrit depuis",
+		"account_id": "ID compte",
+		"about_me": "A propos de moi",
+		"more": "Plus",
+		"less": "Moins",
+		"links": "Liens",
+		"edit_bio": "Modifier Bio",
+		"cancel": "Annuler",
+		"placeholder": "Racontez l'histoire de votre profil",
+		"edit": "Modifier"
+	},
+	"action_logo_cover": {
+		"profile_cover": "Bannière du profil",
+		"zoom": "Zoom",
+		"straighten": "Ajuster",
+		"upload": "Télécharger",
+		"edit": "Modifier",
+		"save_cover": "Sauvegarder la bannière",
+		"not_allowed_edit": "Vous n'avez pas la permission de modifier si vous n'aviez pas de bannière précédemment"
+	},
+	"followers": "{{count}} Abonné(s)",
+	"following": "{{count}} Abonnement(s)",
+	"edit": {
+		"edit_profile": "Modifier Profil",
+		"cancel_edit": "Annuler",
+		"form": {
+			"display_status_label": "Statut affiché",
+			"bio_label": "Biographie",
+			"bio_placeholder": "Parlez-nous de vous...",
+			"twitter_label": "Profil Twitter",
+			"twitter_placeholder": "https://twitter.com/username",
+			"twitter_error": "Veuillez saisir uniquement votre nom d'utilisateur Twitter",
+			"instagram_label": "Profil Instagram",
+			"instagram_placeholder": "https://instagram.com/username",
+			"instagram_error": "Veuillez saisir uniquement votre nom d'utilisateur Instagram",
+			"weibo_label": "Weibo",
+			"weibo_placeholder": "Entrez l'URL Weibo...",
+			"weibo_error": "Veuillez entrer une URL Weibo valide",
+			"website_label": "Votre site Web",
+			"website_placeholder": "Entrez l'URL du site Web",
+			"website_error": "Veuillez entrer l'URL du site Web valide"
+		},
+		"privacy": {
+			"label": "Paramètres de confidentialité",
+			"option": {
+				"private_likes": "Rendre mes like privés",
+				"private_following": "Rendre mes abonnements privés",
+				"show_loyalty_frame": "Afficher mon badge de fidélité sur mon profil"
+			}
+		},
+		"success_update_toast": "Mis à jour avec succès",
+		"error_update_toast": "Un problème est survenu, réessayez plus tard",
+		"button_update": "Mettre à jour"
+	}
+}

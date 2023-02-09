@@ -1,0 +1,181 @@
+{
+	"tabs": {
+		"overview": "Aperçu",
+		"rewards": "Récompenses",
+		"leaderboard": "Tableau de bord",
+		"mechanism": "Processus",
+		"faq": "FAQs",
+		"terms": "Conditions générales"
+	},
+	"overview": {
+		"title": "Rejoignez le programme de fidélité Paras et\n obtenez d'excellentes récompenses!",
+		"desc": "Le programme de fidélité Paras est un programme spécial créé pour\napprécier les 'stakers' de $PARAS en donnant un accès exclusif\nà des tirages au sort limités.",
+		"button_start_locked_staking": "Commencer le 'staking' bloqué",
+		"button_learn_more": "En savoir plus",
+		"paras_loyalty_terms": "Conditions générales du programme de fidélité Paras <Link>Termes & Conditions</Link>"
+	},
+	"rewards": {
+		"from_paras_top_coll": "NFTs des Meilleures Collections de Paras",
+		"platinum_raffle": "Tirage au sort Platine",
+		"gold_raffle": "Tirage au sort Or",
+		"from_paras_new_coll": "NFTs des Nouvelles Collections de Paras"
+	},
+	"leaderboard": {
+		"coming_soon_desc": "Le classement des 'stakings' bloqués sera affiché lorsque la période de fidélité commencera.",
+		"desc": "Ce classement des 'stakings' bloqués n'est PAS une liste de gagnants. Les gagnants seront choisis au hasard par tirage au sort. <Span> Plus votre point de tirage au sort est élevé, plus vos chances de gagner sont grandes.</Span>",
+		"auto_refresh": "Actualisation automatique",
+		"table": {
+			"top_10": "Top 10",
+			"username": "Nom d'utilisateur",
+			"locked_staking": "Staking bloqué (LS)",
+			"duration": "Durée",
+			"duration_point": "Point de durée",
+			"total_raffle_point": "Point de tirage au sort total"
+		},
+		"my_ranking": "Mon classement",
+		"only_user": "Seuls les utilisateurs enregistrés pour le tirage au sort sont affichés sur ce classement.",
+		"click_here": "Cliquez <Link>ici</Link> pour le tutoriel d'inscription au tirage au sort."
+	},
+	"mechanism": {
+		"title": "Processus du programme de fidélité",
+		"bronze_member": "Membres Bronze",
+		"silver_member": "Membres Argent",
+		"gold_member": "Membres Or",
+		"platinum_member": "Membres Platine",
+		"days": "jours",
+		"loyalty_cycle": {
+			"cycle_1": {
+				"title": "Le niveau de fidélité sera déterminé en fonction de la quantité de $PARAS bloqués et de la durée du 'staking' bloqué.",
+				"desc": "Les utilisateurs qui 'stake' des $PARAS sans les bloquer seront considérés comme étant au niveau Bronze. En savoir plus sur comment effectuer 'staking' bloqué.<Link>ici</Link>",
+				"paras_locked": "Montant minimum de $PARAS bloqués.",
+				"locked_staking": "Durée minimale de 'staking' bloqué.",
+				"info": {
+					"title": "Si les utilisateurs au niveau Argent, Or ou Platine bloquent pendant <b>90 jours</b>, ils obtiendront un point supplémentaire:",
+					"desc": "<Span>25%</Span> du montant de 'staking' bloqué de l'utilisateur."
+				}
+			},
+			"cycle_2": {
+				"title": "Les membres Argent, Or et Platine auront la possibilité de s'inscrire et de participer à un tirage au sort exclusif pendant la période du programme de fidélité.",
+				"desc_1": "Les membres Argent, Or et Platine peuvent se connecter à <Link>Paras Marketplace</Link>, et s'inscrire au tirage au sort exclusif en cliquant sur une bannière contextuelle qui apparaîtra sur l'écran d'accueil.",
+				"desc_2": "Si vous ne voyez pas la bannière contextuelle, vérifiez votre boîte de notification et recherchez l'annonce de tirage au sort. Cliquez sur 'S'inscrire' pour participer au tirage au sort exclusif."
+			},
+			"cycle_3": {
+				"title": "Tous les membres Argent, Or et Platine qui ont signé pour le tirage au sort seront mis dans des groupes de tirage au sort séparés.",
+				"desc": "Plus vous bloquez de $PARAS et plus la durée de votre 'staking' bloqué est longue, plus vos chances de gagner le tirage au sort sont élevées."
+			},
+			"cycle_4": {
+				"title": "Chaque catégorie de tirage au sort aura des récompenses différentes.",
+				"desc": "Il y a 3 récompenses: tokens $PARAS, NFTs provenant des Meilleures Collections et NFTs provenant de Nouvelles Collections.",
+				"paras_token": "Token $PARAS",
+				"from_top_collection": "NFTs des Meilleures Collections",
+				"from_new_collection": "NFTs des Nouvelles Collections"
+			}
+		},
+		"please_check": "Veuillez vérifier les <Link> conditions générales du programme de fidélité de Paras </Link>.",
+		"join_paras_loyalty": "Rejoignez le programme de fidélité de Paras et obtenez des récompenses exceptionnelles!"
+	},
+	"faq": {
+		"title": "FAQs",
+		"list": {
+			"1": {
+				"title": "\"Plus vous bloquez de $PARAS, plus votre probabilité de gagner le tirage au sort est élevée\". Comment cela fonctionne-t-il? Si je m'engage avec 6 000 $PARAS, aurai-je une meilleure chance qu'une personne qui s'engage avec 3 000 $PARAS? Ou tous les utilisateurs dans la catégorie Platine sont-ils égaux, indépendamment de la somme qu'ils s'engagent après 3 000 Paras?",
+				"desc_1": "La proportion de gain dépend de la quantité de $PARAS que vous mettez en jeu. Donc, oui, plus vous mettez en jeu, plus vous avez de chances de gagner.",
+				"desc_2": "Nous voulons minimiser la possibilité de fraude, comme les utilisateurs créant plusieurs comptes pour gagner le tirage au sort. En faisant cela, nous espérons que vous pourrez vous détendre et vous concentrer sur la gestion d'un seul portefeuille pour le programme de fidélité de Paras."
+			},
+			"2": {
+				"title": "Y a-t-il un avantage à bloquer pour 90 jours plutôt que 30 jours ?",
+				"desc": "Oui. Vous obtiendrez des points de tirage au sort supplémentaires de 25% de votre montant total de 'staking'."
+			},
+			"3": {
+				"title": "Qu'est-ce que cela signifie d'avoir un badge de membre Bronze ?",
+				"desc": "Le niveau Bronze est destiné aux utilisateurs qui bloquent moins de 500 $PARAS"
+			},
+			"4": {
+				"title": "Je suis un membre Platinum. Comment m'inscrire aux tirages au sort ?",
+				"desc_1": "Vous pouvez vérifier le processus d'inscription au tirage au sort et la période <Link>ci-dessus.</Link>",
+				"desc_2": "Pendant chaque période de programme de fidélité, vous pourrez vous inscrire à une date prédéterminée.",
+				"desc_3": "Les membres Silver, Gold et Platinum recevront un message ou une notification pop-up pour s'inscrire au tirage au sort pendant la période d'inscription."
+			},
+			"5": {
+				"title": "Est-ce que je dois faire le 'staking' flexible avant de bloquer mes $PARAS?",
+				"desc": "Non, vous pouvez directement mettre les $PARAS existants dans votre portefeuille dans le 'staking' bloqué sans vous inscrire au 'staking' flexible."
+			},
+			"6": {
+				"title": "Comment réclamer les récompenses de 'staking' bloqué ?",
+				"desc": "Le montant des 'Récompenses réclamables' sur la page de 'staking' est une accumulation de vos récompenses de 'staking' flexible et de 'staking' verrouillé. Vous pouvez réclamer les récompenses sans débloquer vos $PARAS."
+			}
+		},
+		"social_media": {
+			"title": "Si vous avez plus de questions, veuillez vous rendre sur nos canaux de médias sociaux :",
+			"list": {
+				"discord": "Discord: <Link>https://discord.paras.id</Link>",
+				"telegram": "Telegram: <Link>https://t.me/parashq</Link>",
+				"twitter": "Twitter: <Link>https://twitter.com/ParasHQ</Link>",
+				"instagram": "Instagram: <Link>https://instagram.com/paras.hq</Link>"
+			}
+		}
+	},
+	"terms": {
+		"title": "Conditions générales",
+		"1": {
+			"title": "Le niveau de fidélité sera déterminé en fonction de la quantité de $PARAS bloqués et de la durée de 'staking' bloquée.",
+			"desc": "Les utilisateurs qui bloquent $PARAS pendant 90 jours obtiendront des points de tirage supplémentaires de 25% de la somme totale de 'staking' de l'utilisateur."
+		},
+		"2": {
+			"title": "Les utilisateurs qui placent des $PARAS sans les bloquer seront considérés comme étant au niveau Bronze."
+		},
+		"3": {
+			"title": "Pendant la période d'inscription au tirage au sort déterminée, les membres Argent, Or et Platine auront la possibilité de s'inscrire et de participer à un tirage au sort exclusif."
+		},
+		"4": {
+			"title": "Les membres Argent, Or et Platine peuvent se connecter à Paras Marketplace et s'inscrire au tirage au sort exclusif via une bannière contextuelle sur la page d'accueil de Paras ou une notification d'inscription au tirage au sort."
+		},
+		"5": {
+			"title": "Les membres Argent, Or et Platine doivent cliquer sur -S'inscrire- sur la bannière contextuelle ou la boîte de notification pour participer au tirage au sort exclusif."
+		},
+		"6": {
+			"title": "Les membres Argent, Or et Platine qui sont éligibles pour participer au tirage au sort mais qui ne cliquent pas sur le bouton -S'inscrire- sur la bannière contextuelle ou la boîte de notification ne seront pas inclus dans le tirage au sort."
+		},
+		"7": {
+			"title": "Les utilisateurs dont le niveau d'adhésion à la fidélité baisse après s'être inscrits pour un tirage au sort seront automatiquement inscrits pour leur niveau actuel. Cependant, si le niveau d'adhésion des utilisateurs tombe à Bronze, ils ne seront inclus dans aucun tirage au sort."
+		},
+		"8": {
+			"title": "Les membres Argent et Or qui augmentent leur 'staking' bloqué et augmentent de niveau pendant la période d'inscription au tirage au sort peuvent se réinscrire pour le tirage au sort de niveau supérieur. S'ils ne s'inscrivent pas pour le nouveau niveau, ils seront automatiquement inscrits au niveau précédent (Argent ou Or)."
+		},
+		"9": {
+			"title": "1 (un) utilisateur ne peut gagner qu'1 (un) prix de raffle par mois."
+		},
+		"10": {
+			"title": "Plus de détails sur le 'staking' bloqué:",
+			"sub": {
+				"1": "Le 'staking' bloqué n'autorise pas les utilisateurs à débloquer avant la date de fin de la période de 'staking' bloquée.",
+				"2": "Lorsque les utilisateurs ajoutent de l'argent à leur montant 'staké' bloqué, la période sera réinitialisée.",
+				"3": "Lorsque les utilisateurs ne débloquent pas leurs $PARAS après la fin de la période de blocage, les $PARAS se déplaceront automatiquement vers un 'staking' bloqué flexible dans les 24 heures suivant la fin de la période de blocage.",
+				"4": "Les utilisateurs peuvent faire du 'staking' bloqué sans réduire leur $PARAS sur le 'staking' flexible en utilisant les $PARAS restants dans leur portefeuille.",
+				"5": "Les utilisateurs peuvent mettre directement les $PARAS existants dans leur portefeuille en 'staking' bloqué sans rejoindre le 'staking' flexible.",
+				"6": "Les 'récompenses réclamables' sur la page de 'staking' sont une accumulation des récompenses de 'staking' flexible et bloquée. Les utilisateurs peuvent réclamer les récompenses sans débloquer les $PARAS."
+			}
+		},
+		"11": {
+			"title": "En participant à ce programme, vous acceptez les <Link>Conditions générales</Link> de la fidélité de Paras."
+		}
+	},
+	"upcoming_loyalty": {
+		"title": "Préparez-vous pour la prochaine période de fidélité à venir.",
+		"desc": "Février 2023"
+	},
+	"loyalty_phase": {
+		"1": {
+			"title": "Période d'inscription de fidélité",
+			"desc": "15-17 December 2022"
+		},
+		"2": {
+			"title": "Date du tirage au sort",
+			"desc": "15-17 December 2022"
+		},
+		"3": {
+			"title": "Annonce des gagnants",
+			"desc": "1 January 2023"
+		}
+	}
+}
