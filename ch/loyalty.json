@@ -1,170 +1,170 @@
 {
-  "tabs": {
-    "overview": "概述",
-    "rewards": "奖励",
-    "leaderboard": "排行榜",
-    "mechanism": "机制",
-    "faq": "常见问题",
-    "terms": "条款和条件"
-  },
-  "overview": {
-    "title": "加入 Paras Loyalty 并获得丰厚奖励！",
-    "desc": "Paras loyalty 是一项特殊计划，旨在通过提供独家访问有限抽奖活动的方式来感谢 $PARAS 质押者。",
-    "button_start_locked_staking": "开始锁定质押",
-    "button_learn_more": "了解更多",
-    "paras_loyalty_terms": "忠诚度<Link>条款和条件</Link>"
-  },
-  "rewards": {
-    "from_paras_top_coll": "来自 Paras Top Collections 的 NFT",
-    "platinum_raffle": "白金抽奖",
-    "gold_raffle": "黄金抽奖",
-    "from_paras_new_coll": "来自 Paras 新系列的 NFT"
-  },
-  "leaderboard": {
-    "coming_soon_desc": "锁定的质押排行榜将在忠诚期开始时显示。",
-    "desc": "这个锁定的赌注排行榜不是赢家名单。获奖者将通过抽奖随机选出。<Span>您的抽奖点数越高，您中奖的机会就越大。</span>",
-    "auto_refresh": "自动刷新",
-    "table": {
-      "top_10": "前10名",
-      "username": "用户名",
-      "locked_staking": "锁定质押 (LS)",
-      "duration": "期间",
-      "duration_point": "持续时间点",
-      "total_raffle_point": "总抽奖点数"
-    },
-    "my_ranking": "我的排名",
-    "only_user": "此排行榜上仅显示已注册抽奖的用户。",
-    "click_here": "点击<Link>这里</Link>用于抽奖注册教程。"
-  },
-  "mechanism": {
-    "title": "忠诚计划机制",
-    "bronze_member": "铜牌会员",
-    "silver_member": "白银会员",
-    "gold_member": "金卡会员",
-    "platinum_member": "白金会员",
-    "days": "天",
-    "loyalty_cycle": {
-      "cycle_1": {
-        "title": "忠诚度水平将根据锁定的 $PARAS 数量和锁定的质押期限来确定。",
-        "desc": "在不锁定 $PARAS 的情况下抵押 $PARAS 的用户将被视为青铜级别。了解有关如何进行锁定质押的更多信息<Link>这里</Link>.",
-        "paras_locked": "锁定的最低 $PARAS 数量",
-        "locked_staking": "最短锁仓时间",
-        "info": {
-          "title": "白银级、黄金级、白金级用户锁定<b>90天</b>可获得额外积分：",
-          "desc": "用户锁定质押金额的<Span>25%</span>"
-        }
-      },
-      "cycle_2": {
-        "title": "银卡、金卡和白金卡会员将有机会在忠诚度计划期间注册并参加独家抽奖活动。",
-        "desc_1": "白银、黄金和白金会员可以登录<Link>帕拉斯市场</Link>，并通过出现在主屏幕上的白名单弹出横幅注册独家抽奖活动。",
-        "desc_2": "如果您错过了弹出式横幅，请检查您的通知框并查找抽奖公告。点击“注册”参加独家抽奖活动。"
-      },
-      "cycle_3": {
-        "title": "所有报名参加抽奖的银卡、金卡和白金会员将被放入单独的抽奖池。",
-        "desc": "您锁定的 $PARAS 越多，您锁定的质押期越长，您赢得抽奖的概率就越高。"
-      },
-      "cycle_4": {
-        "title": "每个抽奖池都会有不同的奖励。",
-        "desc": "有 3 种奖励：$PARAS 代币、来自顶级收藏的 NFT 和来自新收藏的 NFT。",
-        "paras_token": "$BEST 代币",
-        "from_top_collection": "来自热门收藏的 NFT",
-        "from_new_collection": "来自新收藏的免费 NFT"
-      }
-    },
-    "please_check": "请检查<Link>Paras Loyalty 的条款和条件</Link>.",
-    "join_paras_loyalty": "加入 Paras Loyalty 并获得丰厚奖励！"
-  },
-  "faq": {
-    "title": "常见问题",
-    "list": {
-      "1": {
-        "title": "“您锁定的 $PARAS 越多，您中奖的概率就越高。”这是如何运作的？如果我质押 6,000 美元 PARAS，我是否会比质押 3,000 美元 PARAS 的人有更好的机会？或者每个拥有白金席位的人都是平等的，无论他们在超过 3,000 Paras 时投入了多少？",
-        "desc_1": "获胜的比例取决于您投入了多少 $PARAS。所以，是的，您投注的越多，获胜的机会就越大。",
-        "desc_2": "我们希望将欺诈的可能性降到最低，例如用户创建多个帐户来赢得抽奖。通过这样做，我们希望您可以安心并专注于为 Paras Loyalty 管理 1 个钱包。"
-      },
-      "2": {
-        "title": "锁定 90 天而不是 30 天有什么好处吗？",
-        "desc": "是的。您将获得相当于总赌注金额 25% 的额外抽奖积分。"
-      },
-      "3": {
-        "title": "拥有青铜会员徽章意味着什么？",
-        "desc": "青铜级适用于锁定少于 500 $PARAS 的用户。"
-      },
-      "4": {
-        "title": "我是白金会员。我如何报名参加抽奖活动？",
-        "desc_1": "您可以查看抽奖注册机制和时间<Link>多于。</Link>",
-        "desc_2": "在每个忠诚度计划期间，您都可以在预定日期注册。",
-        "desc_3": "银卡、金卡和白金卡会员将在注册期间收到弹出消息或通知，要求注册抽奖。"
-      },
-      "5": {
-        "title": "在锁定我的 $PARAS 之前，我是否必须进行灵活的质押？",
-        "desc": "不需要，您可以直接将钱包中已有的$PARAS锁仓，无需加入灵活质押。"
-      },
-      "6": {
-        "title": "如何领取锁定的质押奖励？",
-        "desc": "质押页面上的“可领取奖励”数量是您灵活质押和锁定质押奖励的累加。您可以在不取消质押 $PARAS 的情况下领取奖励。"
-      }
-    },
-    "social_media": {
-      "title": "如果您有更多问题，请联系我们的社交媒体渠道：",
-      "list": {
-        "discord": "不和谐：<Link> https://discord.paras.id</Link>",
-        "telegram": "电报：<Link> https://t.me/parashq</Link>",
-        "twitter": "推特：<Link> https://twitter.com/ParasHQ</Link>",
-        "instagram": "Instagram：<Link> https://instagram.com/paras.hq</Link>"
-      }
-    }
-  },
-  "terms": {
-    "1": {
-      "title": "忠诚度水平将根据 $PARAS 锁定质押的数量和锁定质押持续时间来确定。",
-      "desc": "锁定$PARAS 90天的用户将获得用户总质押量25%的额外抽奖积分。"
-    },
-    "2": {
-      "title": "在不锁定 $PARAS 的情况下抵押 $PARAS 的用户将被视为青铜级别。"
-    },
-    "3": {
-      "title": "在确定的抽奖注册期间，银卡、金卡和白金会员将有机会注册并参加独家抽奖。"
-    },
-    "4": {
-      "title": "Silver、Gold、Platinum 会员可登录 Paras Marketplace，通过 Paras 主页弹窗或抽奖登记通知报名参加专属抽奖。"
-    },
-    "5": {
-      "title": "银卡、金卡和白金卡会员必须点击弹出横幅或通知框上的“注册”才能参加独家抽奖活动。"
-    },
-    "6": {
-      "title": "有资格参加抽奖但未点击弹出横幅上的“注册”按钮或通知框的银卡、金卡和白金卡会员将不会参与抽奖。"
-    },
-    "7": {
-      "title": "注册抽奖后忠诚度会员级别下降的用户将自动参加当前级别的抽奖。但是，如果用户的会员级别降为青铜级，则他们将不会参与任何抽奖活动。"
-    },
-    "8": {
-      "title": "在抽奖登记期间补足锁定赌注并升级的白银和黄金会员有资格重新登记更高级别的抽奖。如果他们不注册新级别，他们将自动注册到以前的级别（银级或金级）。"
-    },
-    "9": { "title": "1（一）个用户每月只能赢得 1（一）个抽奖奖品。" },
-    "10": {
-      "title": "有关锁定质押的更多详细信息：",
-      "sub": {
-        "1": "锁定质押不允许用户在锁定质押期结束日期之前解锁。",
-        "2": "当用户充值锁定的质押数量时，周期将被重置。",
-        "3": "当用户在锁定质押期结束后未取消质押其$PARAS 时，$PARAS 将在锁定质押期结束后的 1x24 小时内自动转为灵活质押。",
-        "4": "用户可以使用钱包中剩余的 $PARAS 进行锁定质押，而不会减少他们在灵活质押上的 $PARAS。",
-        "5": "用户无需加入弹性质押，直接将钱包中已有的$PARAS锁仓质押。",
-        "6": "质押页面的“可领取奖励”金额为灵活质押和锁定质押奖励的累加。用户无需解锁 $PARAS 即可领取奖励。"
-      }
-    },
-    "11": {
-      "title": "参与此计划，即表示您同意<Link>条款和条件</Link>Paras 忠诚度。"
-    },
-    "title": "条款和条件"
-  },
-  "upcoming_loyalty": {
-    "title": "为即将到来的忠诚期做好准备",
-    "desc": "2023 年 2 月"
-  },
-  "loyalty_phase": {
-    "1": { "title": "注册忠诚期", "desc": "2022 年 12 月 15-17 日" },
-    "2": { "title": "抽奖日期", "desc": "2022 年 12 月 15-17 日" },
-    "3": { "title": "获奖者公告", "desc": "2023 年 1 月 1 日" }
-  }
+	"tabs": {
+		"overview": "概述",
+		"rewards": "奖励",
+		"leaderboard": "排行榜",
+		"mechanism": "机制",
+		"faq": "常见问题",
+		"terms": "条款和条件"
+	},
+	"overview": {
+		"title": "加入 Paras Loyalty 并获得丰厚奖励！",
+		"desc": "Paras loyalty 是一项特殊计划，旨在通过提供独家访问有限抽奖活动的方式来感谢 $PARAS 质押者。",
+		"button_start_locked_staking": "开始锁定质押",
+		"button_learn_more": "了解更多",
+		"paras_loyalty_terms": "忠诚度<Link>条款和条件</Link>"
+	},
+	"rewards": {
+		"from_paras_top_coll": "来自 Paras Top Collections 的 NFT",
+		"platinum_raffle": "白金抽奖",
+		"gold_raffle": "黄金抽奖",
+		"from_paras_new_coll": "来自 Paras 新系列的 NFT"
+	},
+	"leaderboard": {
+		"coming_soon_desc": "锁定的质押排行榜将在忠诚期开始时显示。",
+		"desc": "这个锁定的赌注排行榜不是赢家名单。获奖者将通过抽奖随机选出。<Span>您的抽奖点数越高，您中奖的机会就越大。</span>",
+		"auto_refresh": "自动刷新",
+		"table": {
+			"top_10": "前10名",
+			"username": "用户名",
+			"locked_staking": "锁定质押 (LS)",
+			"duration": "期间",
+			"duration_point": "持续时间点",
+			"total_raffle_point": "总抽奖点数"
+		},
+		"my_ranking": "我的排名",
+		"only_user": "此排行榜上仅显示已注册抽奖的用户。",
+		"click_here": "点击<Link>这里</Link>用于抽奖注册教程。"
+	},
+	"mechanism": {
+		"title": "忠诚计划机制",
+		"bronze_member": "铜牌会员",
+		"silver_member": "白银会员",
+		"gold_member": "金卡会员",
+		"platinum_member": "白金会员",
+		"days": "天",
+		"loyalty_cycle": {
+			"cycle_1": {
+				"title": "忠诚度水平将根据锁定的 $PARAS 数量和锁定的质押期限来确定。",
+				"desc": "在不锁定 $PARAS 的情况下抵押 $PARAS 的用户将被视为青铜级别。了解有关如何进行锁定质押的更多信息<Link>这里</Link>.",
+				"paras_locked": "锁定的最低 $PARAS 数量",
+				"locked_staking": "最短锁仓时间",
+				"info": {
+					"title": "白银级、黄金级、白金级用户锁定<b>90天</b>可获得额外积分：",
+					"desc": "用户锁定质押金额的<Span>25%</span>"
+				}
+			},
+			"cycle_2": {
+				"title": "银卡、金卡和白金卡会员将有机会在忠诚度计划期间注册并参加独家抽奖活动。",
+				"desc_1": "白银、黄金和白金会员可以登录<Link>帕拉斯市场</Link>，并通过出现在主屏幕上的白名单弹出横幅注册独家抽奖活动。",
+				"desc_2": "如果您错过了弹出式横幅，请检查您的通知框并查找抽奖公告。点击“注册”参加独家抽奖活动。"
+			},
+			"cycle_3": {
+				"title": "所有报名参加抽奖的银卡、金卡和白金会员将被放入单独的抽奖池。",
+				"desc": "您锁定的 $PARAS 越多，您锁定的质押期越长，您赢得抽奖的概率就越高。"
+			},
+			"cycle_4": {
+				"title": "每个抽奖池都会有不同的奖励。",
+				"desc": "有 3 种奖励：$PARAS 代币、来自顶级收藏的 NFT 和来自新收藏的 NFT。",
+				"paras_token": "$BEST 代币",
+				"from_top_collection": "来自热门收藏的 NFT",
+				"from_new_collection": "来自新收藏的免费 NFT"
+			}
+		},
+		"please_check": "请检查<Link>Paras Loyalty 的条款和条件</Link>.",
+		"join_paras_loyalty": "加入 Paras Loyalty 并获得丰厚奖励！"
+	},
+	"faq": {
+		"title": "常见问题",
+		"list": {
+			"1": {
+				"title": "“您锁定的 $PARAS 越多，您中奖的概率就越高。”这是如何运作的？如果我质押 6,000 美元 PARAS，我是否会比质押 3,000 美元 PARAS 的人有更好的机会？或者每个拥有白金席位的人都是平等的，无论他们在超过 3,000 Paras 时投入了多少？",
+				"desc_1": "获胜的比例取决于您投入了多少 $PARAS。所以，是的，您投注的越多，获胜的机会就越大。",
+				"desc_2": "我们希望将欺诈的可能性降到最低，例如用户创建多个帐户来赢得抽奖。通过这样做，我们希望您可以安心并专注于为 Paras Loyalty 管理 1 个钱包。"
+			},
+			"2": {
+				"title": "锁定 90 天而不是 30 天有什么好处吗？",
+				"desc": "是的。您将获得相当于总赌注金额 25% 的额外抽奖积分。"
+			},
+			"3": {
+				"title": "拥有青铜会员徽章意味着什么？",
+				"desc": "青铜级适用于锁定少于 500 $PARAS 的用户。"
+			},
+			"4": {
+				"title": "我是白金会员。我如何报名参加抽奖活动？",
+				"desc_1": "您可以查看抽奖注册机制和时间<Link>多于。</Link>",
+				"desc_2": "在每个忠诚度计划期间，您都可以在预定日期注册。",
+				"desc_3": "银卡、金卡和白金卡会员将在注册期间收到弹出消息或通知，要求注册抽奖。"
+			},
+			"5": {
+				"title": "在锁定我的 $PARAS 之前，我是否必须进行灵活的质押？",
+				"desc": "不需要，您可以直接将钱包中已有的$PARAS锁仓，无需加入灵活质押。"
+			},
+			"6": {
+				"title": "如何领取锁定的质押奖励？",
+				"desc": "质押页面上的“可领取奖励”数量是您灵活质押和锁定质押奖励的累加。您可以在不取消质押 $PARAS 的情况下领取奖励。"
+			}
+		},
+		"social_media": {
+			"title": "如果您有更多问题，请联系我们的社交媒体渠道：",
+			"list": {
+				"discord": "不和谐：<Link> https://discord.paras.id</Link>",
+				"telegram": "电报：<Link> https://t.me/parashq</Link>",
+				"twitter": "推特：<Link> https://twitter.com/ParasHQ</Link>",
+				"instagram": "Instagram：<Link> https://instagram.com/paras.hq</Link>"
+			}
+		}
+	},
+	"terms": {
+		"1": {
+			"title": "忠诚度水平将根据 $PARAS 锁定质押的数量和锁定质押持续时间来确定。",
+			"desc": "锁定$PARAS 90天的用户将获得用户总质押量25%的额外抽奖积分。"
+		},
+		"2": {
+			"title": "在不锁定 $PARAS 的情况下抵押 $PARAS 的用户将被视为青铜级别。"
+		},
+		"3": {
+			"title": "在确定的抽奖注册期间，银卡、金卡和白金会员将有机会注册并参加独家抽奖。"
+		},
+		"4": {
+			"title": "Silver、Gold、Platinum 会员可登录 Paras Marketplace，通过 Paras 主页弹窗或抽奖登记通知报名参加专属抽奖。"
+		},
+		"5": {
+			"title": "银卡、金卡和白金卡会员必须点击弹出横幅或通知框上的“注册”才能参加独家抽奖活动。"
+		},
+		"6": {
+			"title": "有资格参加抽奖但未点击弹出横幅上的“注册”按钮或通知框的银卡、金卡和白金卡会员将不会参与抽奖。"
+		},
+		"7": {
+			"title": "注册抽奖后忠诚度会员级别下降的用户将自动参加当前级别的抽奖。但是，如果用户的会员级别降为青铜级，则他们将不会参与任何抽奖活动。"
+		},
+		"8": {
+			"title": "在抽奖登记期间补足锁定赌注并升级的白银和黄金会员有资格重新登记更高级别的抽奖。如果他们不注册新级别，他们将自动注册到以前的级别（银级或金级）。"
+		},
+		"9": { "title": "1（一）个用户每月只能赢得 1（一）个抽奖奖品。" },
+		"10": {
+			"title": "有关锁定质押的更多详细信息：",
+			"sub": {
+				"1": "锁定质押不允许用户在锁定质押期结束日期之前解锁。",
+				"2": "当用户充值锁定的质押数量时，周期将被重置。",
+				"3": "当用户在锁定质押期结束后未取消质押其$PARAS 时，$PARAS 将在锁定质押期结束后的 1x24 小时内自动转为灵活质押。",
+				"4": "用户可以使用钱包中剩余的 $PARAS 进行锁定质押，而不会减少他们在灵活质押上的 $PARAS。",
+				"5": "用户无需加入弹性质押，直接将钱包中已有的$PARAS锁仓质押。",
+				"6": "质押页面的“可领取奖励”金额为灵活质押和锁定质押奖励的累加。用户无需解锁 $PARAS 即可领取奖励。"
+			}
+		},
+		"11": {
+			"title": "参与此计划，即表示您同意<Link>条款和条件</Link>Paras 忠诚度。"
+		},
+		"title": "条款和条件"
+	},
+	"upcoming_loyalty": {
+		"title": "为即将到来的忠诚期做好准备",
+		"desc": "2023 年 2 月"
+	},
+	"loyalty_phase": {
+		"1": { "title": "注册忠诚期", "desc": "2022 年 12 月 15-17 日" },
+		"2": { "title": "抽奖日期", "desc": "2022 年 12 月 15-17 日" },
+		"3": { "title": "获奖者公告", "desc": "2023 年 1 月 1 日" }
+	}
 }

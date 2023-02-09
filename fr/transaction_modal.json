@@ -76,7 +76,7 @@
 		"storage_fee": "Frais de stockage",
 		"total_received": "Total reçu",
 		"accept_offer": "Accepter l'Offre"
-		},
+	},
 	"reject_offer": {
 		"reject_offer": "Rejeter l'Offre",
 		"reject_confirm": {
@@ -89,7 +89,7 @@
 		},
 		"warning_rejected_sent": "Votre offre a été rejetée par le propriétaire de la Carte. Annulez votre Offre pour récupérer votre Solde ou mettez-la à jour pour faire une autre Offre.",
 		"success_toast": "Le rejet de l'offre a été effectué avec succès"
-	},	
+	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> de <semibold>{{buyerId}}</semibold>",
 		"in": "dans",

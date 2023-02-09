@@ -425,8 +425,8 @@
 		"you_need_connect": "Afin de vous connecter, vous devez vous relier à l'un de ces portefeuilles.",
 		"login_with_wallet": "Connexion avec le portefeuille",
 		"login_email": "Connexion avec l'email",
-		"need_guide": "Besoin d'aide ?"	
-		},
+		"need_guide": "Besoin d'aide ?"
+	},
 	"flag_modal": {
 		"this_creator_flagged": "Le créateur a été signalé comme {{flag}}"
 	},

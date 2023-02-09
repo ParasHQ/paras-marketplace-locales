@@ -1,79 +1,79 @@
 {
-  "header": {
-    "edit_profile": "แก้ไขโปรไฟล์",
-    "follow_activity": "ติดตามกิจกรรม",
-    "following": "กำลังติดตาม"
-  },
-  "tabs": {
-    "cards": "การ์ด",
-    "collections": "คอลเลกชัน",
-    "bio": "เขาเคยเป็น",
-    "followers": "ผู้ติดตาม",
-    "following": "กำลังติดตาม",
-    "liked": "ชอบ",
-    "publication": "สิ่งพิมพ์"
-  },
-  "cards": {
-    "search_placeholder": "ค้นหา NFT...",
-    "search_placeholder_collection": "ค้นหาในคอลเลกชัน",
-    "filter_reset": "พักผ่อน",
-    "filter_apply": "นำมาใช้",
-    "filter_no_collection": "ไม่มีคอลเลกชัน",
-    "filter_by_collection": "กรองตามคอลเลกชัน"
-  },
-  "bio": {
-    "joined": "เข้าร่วม",
-    "account_id": "หมายเลขบัญชี",
-    "about_me": "เกี่ยวกับฉัน",
-    "more": "มากกว่า",
-    "less": "น้อย",
-    "links": "ลิงค์",
-    "edit_bio": "แก้ไขประวัติ",
-    "cancel": "ยกเลิก",
-    "placeholder": "บอกเล่าเรื่องราวเกี่ยวกับโปรไฟล์ของคุณ",
-    "edit": "แก้ไข"
-  },
-  "action_logo_cover": {
-    "profile_cover": "ปกโปรไฟล์",
-    "zoom": "ซูม",
-    "straighten": "ยืดตรง",
-    "upload": "ที่อัพโหลด",
-    "edit": "แก้ไข",
-    "save_cover": "บันทึกปก",
-    "not_allowed_edit": "คุณไม่มีสิทธิ์แก้ไขหากคุณไม่มีหน้าปกมาก่อน"
-  },
-  "followers": "ผู้ติดตาม {{count}} คน",
-  "following": "{{count}} กำลังติดตาม",
-  "edit": {
-    "edit_profile": "แก้ไขโปรไฟล์",
-    "cancel_edit": "ยกเลิก",
-    "form": {
-      "display_status_label": "แสดงสถานะ",
-      "bio_label": "เขาเคยเป็น",
-      "bio_placeholder": "บอกเราเกี่ยวกับตัวคุณ...",
-      "twitter_label": "โปรไฟล์ทวิตเตอร์",
-      "twitter_placeholder": "https://twitter.com/username",
-      "twitter_error": "กรุณาป้อนชื่อผู้ใช้ทวิตเตอร์ของคุณเท่านั้น",
-      "instagram_label": "โปรไฟล์อินสตาแกรม",
-      "instagram_placeholder": "https://instagram.com/username",
-      "instagram_error": "โปรดป้อนชื่อผู้ใช้ Instagram ของคุณเท่านั้น",
-      "weibo_label": "เว่ยป๋อ",
-      "weibo_placeholder": "ป้อน Weibo URL...",
-      "weibo_error": "กรุณากรอก weibo url ที่ถูกต้อง",
-      "website_label": "เว็บไซต์ของคุณ",
-      "website_placeholder": "ป้อน URL ของเว็บไซต์",
-      "website_error": "โปรดป้อน URL ของเว็บไซต์ที่ถูกต้อง"
-    },
-    "privacy": {
-      "label": "การตั้งค่าความเป็นส่วนตัว",
-      "option": {
-        "private_likes": "ทำให้ความชอบของฉันเป็นแบบส่วนตัว",
-        "private_following": "ทำให้การติดตามของฉันเป็นแบบส่วนตัว",
-        "show_loyalty_frame": "แสดงกรอบความภักดีของฉันในโปรไฟล์ของฉัน"
-      }
-    },
-    "success_update_toast": "อัปเดตเรียบร้อยแล้ว",
-    "error_update_toast": "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
-    "button_update": "อัปเดต"
-  }
+	"header": {
+		"edit_profile": "แก้ไขโปรไฟล์",
+		"follow_activity": "ติดตามกิจกรรม",
+		"following": "กำลังติดตาม"
+	},
+	"tabs": {
+		"cards": "การ์ด",
+		"collections": "คอลเลกชัน",
+		"bio": "เขาเคยเป็น",
+		"followers": "ผู้ติดตาม",
+		"following": "กำลังติดตาม",
+		"liked": "ชอบ",
+		"publication": "สิ่งพิมพ์"
+	},
+	"cards": {
+		"search_placeholder": "ค้นหา NFT...",
+		"search_placeholder_collection": "ค้นหาในคอลเลกชัน",
+		"filter_reset": "พักผ่อน",
+		"filter_apply": "นำมาใช้",
+		"filter_no_collection": "ไม่มีคอลเลกชัน",
+		"filter_by_collection": "กรองตามคอลเลกชัน"
+	},
+	"bio": {
+		"joined": "เข้าร่วม",
+		"account_id": "หมายเลขบัญชี",
+		"about_me": "เกี่ยวกับฉัน",
+		"more": "มากกว่า",
+		"less": "น้อย",
+		"links": "ลิงค์",
+		"edit_bio": "แก้ไขประวัติ",
+		"cancel": "ยกเลิก",
+		"placeholder": "บอกเล่าเรื่องราวเกี่ยวกับโปรไฟล์ของคุณ",
+		"edit": "แก้ไข"
+	},
+	"action_logo_cover": {
+		"profile_cover": "ปกโปรไฟล์",
+		"zoom": "ซูม",
+		"straighten": "ยืดตรง",
+		"upload": "ที่อัพโหลด",
+		"edit": "แก้ไข",
+		"save_cover": "บันทึกปก",
+		"not_allowed_edit": "คุณไม่มีสิทธิ์แก้ไขหากคุณไม่มีหน้าปกมาก่อน"
+	},
+	"followers": "ผู้ติดตาม {{count}} คน",
+	"following": "{{count}} กำลังติดตาม",
+	"edit": {
+		"edit_profile": "แก้ไขโปรไฟล์",
+		"cancel_edit": "ยกเลิก",
+		"form": {
+			"display_status_label": "แสดงสถานะ",
+			"bio_label": "เขาเคยเป็น",
+			"bio_placeholder": "บอกเราเกี่ยวกับตัวคุณ...",
+			"twitter_label": "โปรไฟล์ทวิตเตอร์",
+			"twitter_placeholder": "https://twitter.com/username",
+			"twitter_error": "กรุณาป้อนชื่อผู้ใช้ทวิตเตอร์ของคุณเท่านั้น",
+			"instagram_label": "โปรไฟล์อินสตาแกรม",
+			"instagram_placeholder": "https://instagram.com/username",
+			"instagram_error": "โปรดป้อนชื่อผู้ใช้ Instagram ของคุณเท่านั้น",
+			"weibo_label": "เว่ยป๋อ",
+			"weibo_placeholder": "ป้อน Weibo URL...",
+			"weibo_error": "กรุณากรอก weibo url ที่ถูกต้อง",
+			"website_label": "เว็บไซต์ของคุณ",
+			"website_placeholder": "ป้อน URL ของเว็บไซต์",
+			"website_error": "โปรดป้อน URL ของเว็บไซต์ที่ถูกต้อง"
+		},
+		"privacy": {
+			"label": "การตั้งค่าความเป็นส่วนตัว",
+			"option": {
+				"private_likes": "ทำให้ความชอบของฉันเป็นแบบส่วนตัว",
+				"private_following": "ทำให้การติดตามของฉันเป็นแบบส่วนตัว",
+				"show_loyalty_frame": "แสดงกรอบความภักดีของฉันในโปรไฟล์ของฉัน"
+			}
+		},
+		"success_update_toast": "อัปเดตเรียบร้อยแล้ว",
+		"error_update_toast": "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
+		"button_update": "อัปเดต"
+	}
 }

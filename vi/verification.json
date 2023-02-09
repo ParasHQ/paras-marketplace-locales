@@ -1,57 +1,57 @@
 {
-  "get_verified": "Được xác minh",
-  "verification_form": "Biểu mẫu xác minh",
-  "verification_status": "Trạng thái xác minh",
-  "cancel": "Hủy bỏ",
-  "continue": "Tiếp tục",
-  "profile": "Hồ sơ",
-  "success_message": "gửi thành công",
-  "error_message": "Đã xảy ra lỗi, hãy thử lại sau",
-  "requirement": {
-    "introduction": "Là một nghệ sĩ Paras, bạn cần được xác minh để truy cập đầy đủ các tính năng của Paras. Xác minh cung cấp thêm khả năng hiển thị trên thị trường. Hiện tại, NFT của nghệ sĩ chưa được xác minh sẽ không xuất hiện trên nguồn cấp dữ liệu \"thị trường\". Toàn bộ quá trình mất 3-4 ngày.",
-    "steps": "Để được xác minh, bạn chỉ cần thực hiện các bước sau:",
-    "step_1": "Sử dụng ảnh hồ sơ",
-    "step_2": "Điền vào Tiểu sử của bạn",
-    "step_3": "Liên kết với phương tiện truyền thông xã hội của bạn trên hồ sơ Paras của bạn (Twitter và Instagram)",
-    "step_4": "Liên kết đến trang web của bạn (không bắt buộc nhưng sẽ tăng cơ hội được xác minh)",
-    "step_5": "Có tác phẩm nghệ thuật đích thực, bạn không ăn cắp hoặc đã liệt kê tác phẩm của chính mình trên nền tảng khác.",
-    "step_6": "Bạn cần tạo ít nhất 3 NFT trên Paras.",
-    "introduction_2": "Điều cực kỳ quan trọng cần nhớ là việc trở thành nghệ sĩ đã được xác minh không mang lại cho bạn thành công ngay lập tức.",
-    "introduction_3": "Đó là một phương pháp để giới thiệu bản thân bạn với một cộng đồng Paras lớn hơn."
-  },
-  "form": {
-    "paras_profile_url": "URL hồ sơ Paras",
-    "your_name": "Tên của bạn",
-    "your_name_placehoder": "Nhập tên thật của bạn...",
-    "your_name_error": "xin hãy nhập tên của bạn",
-    "email": "E-mail",
-    "email_placeholder": "Nhập địa chỉ hợp lệ...",
-    "email_error": "Vui lòng nhập email",
-    "twitter_account": "Tài khoản Twitter",
-    "twitter_account_placeholder": "https://twitter.com/username",
-    "telegram_discord": "Tài khoản Telegram / Discord",
-    "telegram_discord_placeholder": "Tài khoản Telegram / Discord",
-    "instagram": "Instagram",
-    "instagram_placeholder": "https://instagram.com/username",
-    "link_error": "Vui lòng nhập liên kết hợp lệ",
-    "recaptcha_error": "Hình ảnh xác thực là bắt buộc",
-    "quota": "Hạn ngạch"
-  },
-  "status": {
-    "description_status": "Toàn bộ quá trình xác minh có thể mất 3-4 ngày, được thông báo vào Thứ Tư và Thứ Bảy hàng tuần. Nếu bạn chưa được xác minh thành công, bạn có thể gửi lại trạng thái xác minh trong đợt tiếp theo.",
-    "description_status_2": "Nếu có thêm câu hỏi, bạn có thể hỏi nhóm của chúng tôi trên Discord.",
-    "step_1": { "submitted": "Đã gửi", "desc": "Bạn đã gửi yêu cầu xác minh" },
-    "step_2": {
-      "in_review": "Đang xem xét",
-      "desc": "Hồ sơ của bạn đang được nhóm của chúng tôi xem xét"
-    },
-    "step_3": {
-      "result": "Kết quả",
-      "desc": "Kết quả của yêu cầu xác minh của bạn. Kiểm tra email của bạn để biết chi tiết."
-    }
-  },
-  "verified": {
-    "title": "Bạn đã được xác minh!",
-    "share_now": "Chia sẻ ngay bây giờ"
-  }
+	"get_verified": "Được xác minh",
+	"verification_form": "Biểu mẫu xác minh",
+	"verification_status": "Trạng thái xác minh",
+	"cancel": "Hủy bỏ",
+	"continue": "Tiếp tục",
+	"profile": "Hồ sơ",
+	"success_message": "gửi thành công",
+	"error_message": "Đã xảy ra lỗi, hãy thử lại sau",
+	"requirement": {
+		"introduction": "Là một nghệ sĩ Paras, bạn cần được xác minh để truy cập đầy đủ các tính năng của Paras. Xác minh cung cấp thêm khả năng hiển thị trên thị trường. Hiện tại, NFT của nghệ sĩ chưa được xác minh sẽ không xuất hiện trên nguồn cấp dữ liệu \"thị trường\". Toàn bộ quá trình mất 3-4 ngày.",
+		"steps": "Để được xác minh, bạn chỉ cần thực hiện các bước sau:",
+		"step_1": "Sử dụng ảnh hồ sơ",
+		"step_2": "Điền vào Tiểu sử của bạn",
+		"step_3": "Liên kết với phương tiện truyền thông xã hội của bạn trên hồ sơ Paras của bạn (Twitter và Instagram)",
+		"step_4": "Liên kết đến trang web của bạn (không bắt buộc nhưng sẽ tăng cơ hội được xác minh)",
+		"step_5": "Có tác phẩm nghệ thuật đích thực, bạn không ăn cắp hoặc đã liệt kê tác phẩm của chính mình trên nền tảng khác.",
+		"step_6": "Bạn cần tạo ít nhất 3 NFT trên Paras.",
+		"introduction_2": "Điều cực kỳ quan trọng cần nhớ là việc trở thành nghệ sĩ đã được xác minh không mang lại cho bạn thành công ngay lập tức.",
+		"introduction_3": "Đó là một phương pháp để giới thiệu bản thân bạn với một cộng đồng Paras lớn hơn."
+	},
+	"form": {
+		"paras_profile_url": "URL hồ sơ Paras",
+		"your_name": "Tên của bạn",
+		"your_name_placehoder": "Nhập tên thật của bạn...",
+		"your_name_error": "xin hãy nhập tên của bạn",
+		"email": "E-mail",
+		"email_placeholder": "Nhập địa chỉ hợp lệ...",
+		"email_error": "Vui lòng nhập email",
+		"twitter_account": "Tài khoản Twitter",
+		"twitter_account_placeholder": "https://twitter.com/username",
+		"telegram_discord": "Tài khoản Telegram / Discord",
+		"telegram_discord_placeholder": "Tài khoản Telegram / Discord",
+		"instagram": "Instagram",
+		"instagram_placeholder": "https://instagram.com/username",
+		"link_error": "Vui lòng nhập liên kết hợp lệ",
+		"recaptcha_error": "Hình ảnh xác thực là bắt buộc",
+		"quota": "Hạn ngạch"
+	},
+	"status": {
+		"description_status": "Toàn bộ quá trình xác minh có thể mất 3-4 ngày, được thông báo vào Thứ Tư và Thứ Bảy hàng tuần. Nếu bạn chưa được xác minh thành công, bạn có thể gửi lại trạng thái xác minh trong đợt tiếp theo.",
+		"description_status_2": "Nếu có thêm câu hỏi, bạn có thể hỏi nhóm của chúng tôi trên Discord.",
+		"step_1": { "submitted": "Đã gửi", "desc": "Bạn đã gửi yêu cầu xác minh" },
+		"step_2": {
+			"in_review": "Đang xem xét",
+			"desc": "Hồ sơ của bạn đang được nhóm của chúng tôi xem xét"
+		},
+		"step_3": {
+			"result": "Kết quả",
+			"desc": "Kết quả của yêu cầu xác minh của bạn. Kiểm tra email của bạn để biết chi tiết."
+		}
+	},
+	"verified": {
+		"title": "Bạn đã được xác minh!",
+		"share_now": "Chia sẻ ngay bây giờ"
+	}
 }

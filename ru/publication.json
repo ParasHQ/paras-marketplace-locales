@@ -1,78 +1,78 @@
 {
-  "publications": "Публикации",
-  "breadcrumbs": {
-    "first": "Публикация",
-    "second": "{{breadcrumb}}",
-    "third": "{{pubTitle}}"
-  },
-  "title": "{{pubTitle}}",
-  "description": "{{pubDesc}}",
-  "authorId": "{{authorId}",
-  "verified": "проверено",
-  "view_profile": "Просмотреть профиль",
-  "image": "Изображение",
-  "video": "видео",
-  "card": "Карта",
-  "collection": "Коллекция",
-  "pub_type": { "community": "Сообщество", "editorial": "Редакция" },
-  "comic_type": "комикс",
-  "title_page": {
-    "create": "Создать публикацию",
-    "edit": "Редактировать публикацию"
-  },
-  "cancel": "Отмена",
-  "embedded_collectibles": "Цифровые предметы коллекционирования",
-  "form": {
-    "cover": {
-      "title": "Загрузить обложку",
-      "description": "Поддерживаемые файлы: PNG, JPG. Максимальный размер файла: 30 МБ"
-    },
-    "teaser": {
-      "title": "Тизер",
-      "placeholder": "Будьте краткими и интересными, чтобы привлечь читателей..."
-    },
-    "publish": "Публиковать"
-  },
-  "modal": {
-    "add_video": {
-      "label": "Встроенное видео",
-      "placeholder": "URL-адрес видео",
-      "description": "Пожалуйста, введите ссылку на видео с ютуба",
-      "button": "Добавить видео"
-    },
-    "add_card": {
-      "label": "Добавьте карточку в свою публикацию",
-      "placeholder": "URL токена",
-      "description": "Пожалуйста, введите ссылку на ваш токен https://paras.id/token/x.paras.near::1",
-      "button": "Добавить карту"
-    },
-    "add_collection": {
-      "label": "Добавьте коллекцию в свою публикацию",
-      "placeholder": "URL коллекции",
-      "description": "Пожалуйста, введите ссылку на вашу коллекцию https://paras.id/collection/paradigm",
-      "button": "Добавить коллекцию"
-    },
-    "leaving_confirmation": {
-      "label": "Вы уверены, что покинете эту страницу? Вы потеряете все неопубликованные изменения",
-      "button_ok": "ХОРОШО",
-      "button_cancel": "Отмена"
-    },
-    "delete_publication": {
-      "label": "Подтвердите удаление",
-      "description": "Вы уверены, что хотите получить свою публикацию {{publication}}?",
-      "button": "Удалить"
-    }
-  },
-  "error": {
-    "maximum_cards": "Максимум {{num}} карт",
-    "maximum_collections": "Максимум {{num}} коллекций",
-    "wrong_url": "Пожалуйста, введите правильный URL",
-    "already_added_collection": "Эта коллекция уже добавлена",
-    "maximum_file_size": "Максимальный размер файла: {{num}} МБ.",
-    "title_required": "Требуется заголовок",
-    "cover_required": "Требуется обложка",
-    "teaser_required": "Требуется тизер"
-  },
-  "delete": "Удалить",
-  "text_editor": { "title": "Заголовок", "placeholder": "Расскажи историю..." }
+	"publications": "Публикации",
+	"breadcrumbs": {
+		"first": "Публикация",
+		"second": "{{breadcrumb}}",
+		"third": "{{pubTitle}}"
+	},
+	"title": "{{pubTitle}}",
+	"description": "{{pubDesc}}",
+	"authorId": "{{authorId}",
+	"verified": "проверено",
+	"view_profile": "Просмотреть профиль",
+	"image": "Изображение",
+	"video": "видео",
+	"card": "Карта",
+	"collection": "Коллекция",
+	"pub_type": { "community": "Сообщество", "editorial": "Редакция" },
+	"comic_type": "комикс",
+	"title_page": {
+		"create": "Создать публикацию",
+		"edit": "Редактировать публикацию"
+	},
+	"cancel": "Отмена",
+	"embedded_collectibles": "Цифровые предметы коллекционирования",
+	"form": {
+		"cover": {
+			"title": "Загрузить обложку",
+			"description": "Поддерживаемые файлы: PNG, JPG. Максимальный размер файла: 30 МБ"
+		},
+		"teaser": {
+			"title": "Тизер",
+			"placeholder": "Будьте краткими и интересными, чтобы привлечь читателей..."
+		},
+		"publish": "Публиковать"
+	},
+	"modal": {
+		"add_video": {
+			"label": "Встроенное видео",
+			"placeholder": "URL-адрес видео",
+			"description": "Пожалуйста, введите ссылку на видео с ютуба",
+			"button": "Добавить видео"
+		},
+		"add_card": {
+			"label": "Добавьте карточку в свою публикацию",
+			"placeholder": "URL токена",
+			"description": "Пожалуйста, введите ссылку на ваш токен https://paras.id/token/x.paras.near::1",
+			"button": "Добавить карту"
+		},
+		"add_collection": {
+			"label": "Добавьте коллекцию в свою публикацию",
+			"placeholder": "URL коллекции",
+			"description": "Пожалуйста, введите ссылку на вашу коллекцию https://paras.id/collection/paradigm",
+			"button": "Добавить коллекцию"
+		},
+		"leaving_confirmation": {
+			"label": "Вы уверены, что покинете эту страницу? Вы потеряете все неопубликованные изменения",
+			"button_ok": "ХОРОШО",
+			"button_cancel": "Отмена"
+		},
+		"delete_publication": {
+			"label": "Подтвердите удаление",
+			"description": "Вы уверены, что хотите получить свою публикацию {{publication}}?",
+			"button": "Удалить"
+		}
+	},
+	"error": {
+		"maximum_cards": "Максимум {{num}} карт",
+		"maximum_collections": "Максимум {{num}} коллекций",
+		"wrong_url": "Пожалуйста, введите правильный URL",
+		"already_added_collection": "Эта коллекция уже добавлена",
+		"maximum_file_size": "Максимальный размер файла: {{num}} МБ.",
+		"title_required": "Требуется заголовок",
+		"cover_required": "Требуется обложка",
+		"teaser_required": "Требуется тизер"
+	},
+	"delete": "Удалить",
+	"text_editor": { "title": "Заголовок", "placeholder": "Расскажи историю..." }
 }

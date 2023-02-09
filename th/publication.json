@@ -1,75 +1,75 @@
 {
-  "publications": "สิ่งพิมพ์",
-  "breadcrumbs": {
-    "first": "สิ่งพิมพ์",
-    "second": "{{breadcrumb}}",
-    "third": "{{pubTitle}}"
-  },
-  "title": "{{pubTitle}}",
-  "description": "{{pubDesc}}",
-  "authorId": "{{authorId}}",
-  "verified": "ตรวจสอบแล้ว",
-  "view_profile": "ดูประวัติ",
-  "image": "ภาพ",
-  "video": "วิดีโอ",
-  "card": "การ์ด",
-  "collection": "ของสะสม",
-  "pub_type": { "community": "ชุมชน", "editorial": "บทบรรณาธิการ" },
-  "comic_type": "การ์ตูน",
-  "title_page": { "create": "สร้างสิ่งพิมพ์", "edit": "แก้ไขสิ่งพิมพ์" },
-  "cancel": "ยกเลิก",
-  "embedded_collectibles": "ของสะสมดิจิตอล",
-  "form": {
-    "cover": {
-      "title": "อัปโหลดหน้าปก",
-      "description": "ไฟล์ที่รองรับ: PNG, JPG ขนาดไฟล์สูงสุด: 30mb"
-    },
-    "teaser": {
-      "title": "ทีเซอร์",
-      "placeholder": "ให้สั้นและน่าสนใจเพื่อดึงดูดผู้อ่าน..."
-    },
-    "publish": "เผยแพร่"
-  },
-  "modal": {
-    "add_video": {
-      "label": "ฝังวิดีโอ",
-      "placeholder": "URL ของวิดีโอ",
-      "description": "กรุณาใส่ลิงค์ของวิดีโอ youtube",
-      "button": "เพิ่มวิดีโอ"
-    },
-    "add_card": {
-      "label": "เพิ่มการ์ดลงในสิ่งพิมพ์ของคุณ",
-      "placeholder": "URL ของโทเค็น",
-      "description": "โปรดป้อนลิงก์โทเค็นของคุณ https://paras.id/token/x.paras.near::1",
-      "button": "เพิ่มการ์ด"
-    },
-    "add_collection": {
-      "label": "เพิ่มคอลเลกชันไปยังสิ่งพิมพ์ของคุณ",
-      "placeholder": "URL ของคอลเลกชัน",
-      "description": "โปรดป้อนลิงก์ของคอลเลกชันของคุณ https://paras.id/collection/paradigm",
-      "button": "เพิ่มคอลเลกชัน"
-    },
-    "leaving_confirmation": {
-      "label": "คุณแน่ใจหรือที่จะออกจากหน้านี้ คุณจะสูญเสียการเปลี่ยนแปลงที่ไม่ได้เผยแพร่",
-      "button_ok": "ตกลง",
-      "button_cancel": "ยกเลิก"
-    },
-    "delete_publication": {
-      "label": "ยืนยันการลบ",
-      "description": "คุณแน่ใจหรือไม่ว่าต้องการเผยแพร่ {{publication}} ของคุณ",
-      "button": "ลบ"
-    }
-  },
-  "error": {
-    "maximum_cards": "การ์ดสูงสุด {{num}} ใบ",
-    "maximum_collections": "คอลเล็กชันสูงสุด {{num}} รายการ",
-    "wrong_url": "โปรดป้อน URL ที่ถูกต้อง",
-    "already_added_collection": "มีการเพิ่มคอลเล็กชันนี้แล้ว",
-    "maximum_file_size": "ขนาดไฟล์สูงสุดคือ {{num}}MB",
-    "title_required": "ต้องระบุชื่อเรื่อง",
-    "cover_required": "จำเป็นต้องมีฝาครอบ",
-    "teaser_required": "จำเป็นต้องมีทีเซอร์"
-  },
-  "delete": "ลบ",
-  "text_editor": { "title": "ชื่อ", "placeholder": "เล่าเรื่อง..." }
+	"publications": "สิ่งพิมพ์",
+	"breadcrumbs": {
+		"first": "สิ่งพิมพ์",
+		"second": "{{breadcrumb}}",
+		"third": "{{pubTitle}}"
+	},
+	"title": "{{pubTitle}}",
+	"description": "{{pubDesc}}",
+	"authorId": "{{authorId}}",
+	"verified": "ตรวจสอบแล้ว",
+	"view_profile": "ดูประวัติ",
+	"image": "ภาพ",
+	"video": "วิดีโอ",
+	"card": "การ์ด",
+	"collection": "ของสะสม",
+	"pub_type": { "community": "ชุมชน", "editorial": "บทบรรณาธิการ" },
+	"comic_type": "การ์ตูน",
+	"title_page": { "create": "สร้างสิ่งพิมพ์", "edit": "แก้ไขสิ่งพิมพ์" },
+	"cancel": "ยกเลิก",
+	"embedded_collectibles": "ของสะสมดิจิตอล",
+	"form": {
+		"cover": {
+			"title": "อัปโหลดหน้าปก",
+			"description": "ไฟล์ที่รองรับ: PNG, JPG ขนาดไฟล์สูงสุด: 30mb"
+		},
+		"teaser": {
+			"title": "ทีเซอร์",
+			"placeholder": "ให้สั้นและน่าสนใจเพื่อดึงดูดผู้อ่าน..."
+		},
+		"publish": "เผยแพร่"
+	},
+	"modal": {
+		"add_video": {
+			"label": "ฝังวิดีโอ",
+			"placeholder": "URL ของวิดีโอ",
+			"description": "กรุณาใส่ลิงค์ของวิดีโอ youtube",
+			"button": "เพิ่มวิดีโอ"
+		},
+		"add_card": {
+			"label": "เพิ่มการ์ดลงในสิ่งพิมพ์ของคุณ",
+			"placeholder": "URL ของโทเค็น",
+			"description": "โปรดป้อนลิงก์โทเค็นของคุณ https://paras.id/token/x.paras.near::1",
+			"button": "เพิ่มการ์ด"
+		},
+		"add_collection": {
+			"label": "เพิ่มคอลเลกชันไปยังสิ่งพิมพ์ของคุณ",
+			"placeholder": "URL ของคอลเลกชัน",
+			"description": "โปรดป้อนลิงก์ของคอลเลกชันของคุณ https://paras.id/collection/paradigm",
+			"button": "เพิ่มคอลเลกชัน"
+		},
+		"leaving_confirmation": {
+			"label": "คุณแน่ใจหรือที่จะออกจากหน้านี้ คุณจะสูญเสียการเปลี่ยนแปลงที่ไม่ได้เผยแพร่",
+			"button_ok": "ตกลง",
+			"button_cancel": "ยกเลิก"
+		},
+		"delete_publication": {
+			"label": "ยืนยันการลบ",
+			"description": "คุณแน่ใจหรือไม่ว่าต้องการเผยแพร่ {{publication}} ของคุณ",
+			"button": "ลบ"
+		}
+	},
+	"error": {
+		"maximum_cards": "การ์ดสูงสุด {{num}} ใบ",
+		"maximum_collections": "คอลเล็กชันสูงสุด {{num}} รายการ",
+		"wrong_url": "โปรดป้อน URL ที่ถูกต้อง",
+		"already_added_collection": "มีการเพิ่มคอลเล็กชันนี้แล้ว",
+		"maximum_file_size": "ขนาดไฟล์สูงสุดคือ {{num}}MB",
+		"title_required": "ต้องระบุชื่อเรื่อง",
+		"cover_required": "จำเป็นต้องมีฝาครอบ",
+		"teaser_required": "จำเป็นต้องมีทีเซอร์"
+	},
+	"delete": "ลบ",
+	"text_editor": { "title": "ชื่อ", "placeholder": "เล่าเรื่อง..." }
 }

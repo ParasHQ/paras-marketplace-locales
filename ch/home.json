@@ -1,43 +1,43 @@
 {
-  "hero": {
-    "title": "最佳市场",
-    "subtitle": "数字收藏品 NFT",
-    "description": "<text>欢迎来到多合一的社交平台，在上面购买、销售和创建 NFT</text><NearLink>附近的协议</NearLink>",
-    "primary_button": "探索",
-    "secondary_button": "了解更多"
-  },
-  "featured_collection": "精选系列",
-  "activity_you_follow": "您关注的活动",
-  "top_collection": {
-    "title": "热门收藏",
-    "last_7_d": "最近 7 天",
-    "more": "查看更多"
-  },
-  "mint_calendar": "薄荷日历",
-  "whats_new": "什么是新的",
-  "highest_sale": { "title": "最高销售额", "last_24_h": "最近 24 小时" },
-  "apex_collectior": { "title": "顶尖收藏家", "more": "查看更多" },
-  "guide": {
-    "1": {
-      "title": "帕拉斯的新功能？",
-      "description": "Paras 是面向使用的创作者和收藏者的一体化社交 NFT 市场<DescLink>近钱包</DescLink>",
-      "button": "关于我们"
-    },
-    "2": {
-      "title": "有艺术品吗？",
-      "description": "将您的艺术品或项目作为 NFT 分享，然后从销售和未来的版税中获利",
-      "button": "现在开始"
-    },
-    "3": {
-      "title": "想获取利润？",
-      "description": "寻找最稀有和最想要的 NFT 集合，并成为<DescLink>顶尖收藏家</DescLink>",
-      "button": "连接附近的钱包"
-    },
-    "4": {
-      "title": "喜欢你看到的吗？",
-      "description": "通过在 Paras 中分享他们的页面来支持您喜欢的艺术家。更多的浏览量将使艺术家获得声誉",
-      "button": "探索帕拉斯"
-    }
-  },
-  "live_auction": { "title": "现场拍卖", "more": "查看更多" }
+	"hero": {
+		"title": "最佳市场",
+		"subtitle": "数字收藏品 NFT",
+		"description": "<text>欢迎来到多合一的社交平台，在上面购买、销售和创建 NFT</text><NearLink>附近的协议</NearLink>",
+		"primary_button": "探索",
+		"secondary_button": "了解更多"
+	},
+	"featured_collection": "精选系列",
+	"activity_you_follow": "您关注的活动",
+	"top_collection": {
+		"title": "热门收藏",
+		"last_7_d": "最近 7 天",
+		"more": "查看更多"
+	},
+	"mint_calendar": "薄荷日历",
+	"whats_new": "什么是新的",
+	"highest_sale": { "title": "最高销售额", "last_24_h": "最近 24 小时" },
+	"apex_collectior": { "title": "顶尖收藏家", "more": "查看更多" },
+	"guide": {
+		"1": {
+			"title": "帕拉斯的新功能？",
+			"description": "Paras 是面向使用的创作者和收藏者的一体化社交 NFT 市场<DescLink>近钱包</DescLink>",
+			"button": "关于我们"
+		},
+		"2": {
+			"title": "有艺术品吗？",
+			"description": "将您的艺术品或项目作为 NFT 分享，然后从销售和未来的版税中获利",
+			"button": "现在开始"
+		},
+		"3": {
+			"title": "想获取利润？",
+			"description": "寻找最稀有和最想要的 NFT 集合，并成为<DescLink>顶尖收藏家</DescLink>",
+			"button": "连接附近的钱包"
+		},
+		"4": {
+			"title": "喜欢你看到的吗？",
+			"description": "通过在 Paras 中分享他们的页面来支持您喜欢的艺术家。更多的浏览量将使艺术家获得声誉",
+			"button": "探索帕拉斯"
+		}
+	},
+	"live_auction": { "title": "现场拍卖", "more": "查看更多" }
 }

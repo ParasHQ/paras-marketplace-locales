@@ -1,214 +1,214 @@
 {
-  "edition_of": "Издание {{copies}}, ранг {{rarityScore}}",
-  "you_will_redirected": "Вы будете перенаправлены в свой кошелек для подтверждения транзакции.",
-  "cancel": "Отмена",
-  "trade": "Торговля",
-  "edition_text_internal_token": "НФТ | {{edition}} из {{copies}}",
-  "edition_text_external_token": "НФТ | {{edition}}",
-  "edition_text_multiple_token_series": "СЕРИЯ | Издание {{edition}}",
-  "edition_text_1of1_token_series": "Открытое издание",
-  "no_price": "Нет цены",
-  "free": "Бесплатно",
-  "transfer": {
-    "no_token_owned": "Токен не принадлежит",
-    "select": "Выбирать",
-    "input_label_transfer": "Перевод на идентификатор аккаунта",
-    "input_error": "Пожалуйста, введите действительный идентификатор рядом с аккаунтом",
-    "input_placeholder_transfer": "Идентификатор учетной записи",
-    "transfer": "Передача"
-  },
-  "burn": {
-    "youre_about_burn": "Вы собираетесь сжечь {{title}}",
-    "burn": "Гореть"
-  },
-  "buy": {
-    "rarity": "Редкость {{score}}",
-    "price": "Цена",
-    "your_balance": "Ваш баланс",
-    "buy": "Купить"
-  },
-  "place_bid": {
-    "min_bid_error": "Минимум min.Bid",
-    "max_bid_error": "Максимум ваш баланс",
-    "min_bid": "Мин. Делать ставку",
-    "your_balance": "Ваш баланс",
-    "auction_token": "Окончание аукциона через<time> {{days}} дней, {{hours}}:{{mins}}:{{secs}}</time>",
-    "auction_token_series": "Часть тиража выставлена на аукцион",
-    "place_bid": "Сделать ставку",
-    "input_label": "Ваша ставка"
-  },
-  "place_offer": {
-    "rarity": "Редкость {{score}}",
-    "min_offer_error": "Минимум 0,01",
-    "max_offer_error": "Максимум ваш баланс",
-    "current_price": "Текущая цена",
-    "your_offer": "Ваше предложение",
-    "your_balance": "Ваш баланс",
-    "currently_staked": "Этот NFT в настоящее время застейкан владельцем",
-    "place_offer": "Разместить предложение",
-    "update_offer": "Обновить предложение"
-  },
-  "trading": {
-    "title": "Торговая карта",
-    "desc": "Ниже отображаются только карточки от проверенного создателя",
-    "rarity": "Редкость {{score}}",
-    "no_card": "В этой коллекции нет карт от проверенных авторов",
-    "selected_card": "Ваша выбранная карта",
-    "desc_empty": "Вы не выбрали карту.",
-    "all_collections": "Все коллекции",
-    "submit": "Представлять на рассмотрение",
-    "cancel": "Отмена",
-    "add_card": "{{type}} карта"
-  },
-  "mint": {
-    "rarity": "Редкость {{score}}",
-    "mint_to_self": "Монетный двор для себя",
-    "input_label_mint": "Идентификатор учетной записи",
-    "storage_fee": "Плата за хранение",
-    "mint": "Как"
-  },
-  "accept_offer": {
-    "offer_from": "<semibold>Предложение</semibold> от<semibold> {{buyerId}}</semibold>",
-    "for_card": "Для карты<spanSemibold><linkToken> {{title}}</linkToken></spanSemibold> в<spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold>",
-    "received_offer": "Полученное предложение",
-    "royalty_artist": "Роялти для художника",
-    "fee": "Платеж",
-    "storage_fee": "Плата за хранение",
-    "total_received": "Всего получено",
-    "accept_offer": "Принять предложение"
-  },
-  "reject_offer": {
-    "reject_offer": "Отклонить предложение",
-    "reject_confirm": {
-      "want_to_reject": "Хотите отклонить предложение от {{accountId}}?",
-      "you_are_going_to_reject": "Вы собираетесь отказаться от предложения<semibold> {{cardName}}</semibold> по цене<semibold> {{amount}}<iconnear/></semibold>",
-      "offerer_receive_notif": "<semibold>{{accountId}}</semibold> поскольку предлагающий получит уведомление о том, что его предложение было отклонено, и может отменить его.",
-      "you_cant_request_reofferer": "Вы не можете запросить повторное предложение. Ваш отказ не может быть отменен.",
-      "cancel": "Отмена",
-      "confirm": "Подтвердить Отклонить"
-    },
-    "warning_rejected_sent": "Ваше предложение было отклонено владельцем карты. Отмените свое предложение, чтобы вернуть баланс, или обновите его, чтобы сделать другое предложение.",
-    "success_toast": "Отклонить предложение было успешно"
-  },
-  "accept_trade": {
-    "card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
-    "in": "в",
-    "this_card_flagged": "Эта карточка помечена как {{flag}}",
-    "with_your_card": "С вашей картой",
-    "volume_gap": "Разрыв громкости",
-    "your_card_volume": "Объем вашей карты",
-    "received_card_volume": "Объем полученной карты",
-    "accept_trade": "Принять обмен",
-    "reject_trade": "Отклонить сделку"
-  },
-  "reject_trade": {
-    "card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
-    "in": "в",
-    "this_card_flagged": "Эта карточка помечена как {{flag}}",
-    "with_your_card": "С вашей картой",
-    "volume_gap": "Разрыв громкости",
-    "your_card_volume": "Объем вашей карты",
-    "received_card_volume": "Объем полученной карты",
-    "reject_trade": "Отклонить сделку",
-    "i_understand": "Я понимаю риск и хочу принять",
-    "success_toast": "Отклонение сделки успешно",
-    "you_cant_request_reofferer": "Вы не можете запросить повторное предложение. Ваш отказ не может быть отменен."
-  },
-  "accept_bid": {
-    "bid_from": "<semibold>Делать ставку<semibold/> от<semibold> {{currentBidder}}</semibold>",
-    "for_card": "Для карты<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken> в<linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken>",
-    "received_bid": "Полученная ставка",
-    "royalty_artist": "Роялти для художника",
-    "fee": "Платеж",
-    "storage_fee": "Плата за хранение",
-    "total_received": "Всего получено",
-    "accept_bid": "Принять ставку"
-  },
-  "cancel_offer": {
-    "are_you_sure": "Вы уверены, что хотите отменить свое предложение?",
-    "your_balance_will_be_returned": "Ваш баланс будет возвращен, как только вы отмените это предложение.",
-    "cancel_offer": "Отменить предложение"
-  },
-  "cancel_bid": {
-    "are_you_sure": "Вы уверены, что хотите отменить свою ставку?",
-    "cancel_bid": "Отменить ставку"
-  },
-  "edit_listing": {
-    "min_duration_auction": "Аукцион должен быть менее 5 дней",
-    "must_future_auction": "Аукцион должен быть в будущем",
-    "edit_listing": "Изменить список",
-    "listed": "Перечислено",
-    "reduce_copies": {
-      "max_reduce_error": "Уменьшить число должно быть меньше или равно общему монетному двору",
-      "min_reduce_error": "Уменьшить число должно быть больше или равно 0",
-      "reduce_copies": "Уменьшить количество копий",
-      "remaining_copies": "Осталось копий: {{remainingCopies}}"
-    },
-    "put_marketplace": {
-      "put_marketplace": "Выложить на биржу?",
-      "no": "Нет",
-      "for_sale": "Продается",
-      "for_auction": "Для аукциона",
-      "update_price": "Обновить цену",
-      "starting_bid": "Начальная ставка",
-      "auction_ends": "Аукцион заканчивается через",
-      "equal_to": "Равно",
-      "receive": "Получать",
-      "royalty": "Роялти",
-      "fee": "Платеж"
-    },
-    "update": "Обновлять"
-  },
-  "success_tx_modal": {
-    "button_close": "Закрывать",
-    "button_see_other_cards": "Посмотреть другие карты",
-    "button_see_profile": "Перейти в мой профиль",
-    "transaction_hash": "Хэш транзакции",
-    "share_to": "Поделиться с",
-    "share": "Делиться",
-    "thank_you_submission": "Спасибо за ваш вклад! Отправка карты прошла успешно.",
-    "transaction_text": {
-      "buy": "Успешный платеж",
-      "offer": "Предложение отправлено",
-      "bid": "Заявка отправлена",
-      "edit_listing_auction": "Карточный аукцион начался",
-      "edit_listing_sale": "Стоимость карты обновлена",
-      "mint": "Карта успешно отчеканена",
-      "trade": "Предложение NFT отправлено",
-      "transfer": "Карта отправлена на {{accountId}}",
-      "remove_auction": "Аукцион удален",
-      "remove_listing": "Список удален",
-      "accept_trade": "Торговля NFT принята",
-      "add_trade": "Добавить торговый успех",
-      "accept_offer": "Предложение принято",
-      "accept_bid": "Ставка принята",
-      "remove_bid": "Ставка удалена",
-      "create_card": "Карта успешно создана",
-      "default": "Успех транзакции"
-    },
-    "transaction_sub_text": {
-      "mint": "Вы успешно выпустили карту",
-      "edit_listing_sale": "Вы успешно обновили цену до {{price}}.",
-      "edit_listing_auction": "Вы успешно создали аукцион, начиная с {{price}}.",
-      "bid": "Вы успешно предложили цену по {{price}}",
-      "offer": "Вы успешно предложили цену {{price}}.",
-      "buy": "Вы успешно приобрели по {{price}}",
-      "buy_bulk": "Вы успешно приобрели новые карты"
-    },
-    "h2_text": {
-      "create_card": "Добавлено {{total}} новых карт",
-      "buy_bulk": "{{total}} куплено карт"
-    },
-    "cart": {
-      "you_successfully": "Вы успешно приобрели новые карты",
-      "you_failed": "Выбранная вами карта больше недоступна, поэтому с вас не будет взиматься плата."
-    },
-    "nft_still_catching_up": "NFT все еще догоняет, вы можете либо подождать некоторое время, либо закрыть это модальное окно.",
-    "share_text": {
-      "one_card": "Посмотрите {{title}} из коллекции {{collection1}} от {{creator}} в {{account}}! #parasnft #nftcollectibles #nft",
-      "multiple_card_one_collection": "Ознакомьтесь со всеми NFT из коллекции {{collection1}} от {{creator}} в {{account}}! #parasnft #nftcollectibles #nft",
-      "multiple_card_2_collections": "Ознакомьтесь со всеми NFT из коллекций {{collection1}} и {{collection2}} на {{account}}! #parasnft #nftcollectibles #nft",
-      "multiple_card_3_collections": "Ознакомьтесь со всеми NFT из коллекций {{collection1}}, {{collection2}} и {{collection3}} на {{account}}! #parasnft #nftcollectibles #nft"
-    }
-  }
+	"edition_of": "Издание {{copies}}, ранг {{rarityScore}}",
+	"you_will_redirected": "Вы будете перенаправлены в свой кошелек для подтверждения транзакции.",
+	"cancel": "Отмена",
+	"trade": "Торговля",
+	"edition_text_internal_token": "НФТ | {{edition}} из {{copies}}",
+	"edition_text_external_token": "НФТ | {{edition}}",
+	"edition_text_multiple_token_series": "СЕРИЯ | Издание {{edition}}",
+	"edition_text_1of1_token_series": "Открытое издание",
+	"no_price": "Нет цены",
+	"free": "Бесплатно",
+	"transfer": {
+		"no_token_owned": "Токен не принадлежит",
+		"select": "Выбирать",
+		"input_label_transfer": "Перевод на идентификатор аккаунта",
+		"input_error": "Пожалуйста, введите действительный идентификатор рядом с аккаунтом",
+		"input_placeholder_transfer": "Идентификатор учетной записи",
+		"transfer": "Передача"
+	},
+	"burn": {
+		"youre_about_burn": "Вы собираетесь сжечь {{title}}",
+		"burn": "Гореть"
+	},
+	"buy": {
+		"rarity": "Редкость {{score}}",
+		"price": "Цена",
+		"your_balance": "Ваш баланс",
+		"buy": "Купить"
+	},
+	"place_bid": {
+		"min_bid_error": "Минимум min.Bid",
+		"max_bid_error": "Максимум ваш баланс",
+		"min_bid": "Мин. Делать ставку",
+		"your_balance": "Ваш баланс",
+		"auction_token": "Окончание аукциона через<time> {{days}} дней, {{hours}}:{{mins}}:{{secs}}</time>",
+		"auction_token_series": "Часть тиража выставлена на аукцион",
+		"place_bid": "Сделать ставку",
+		"input_label": "Ваша ставка"
+	},
+	"place_offer": {
+		"rarity": "Редкость {{score}}",
+		"min_offer_error": "Минимум 0,01",
+		"max_offer_error": "Максимум ваш баланс",
+		"current_price": "Текущая цена",
+		"your_offer": "Ваше предложение",
+		"your_balance": "Ваш баланс",
+		"currently_staked": "Этот NFT в настоящее время застейкан владельцем",
+		"place_offer": "Разместить предложение",
+		"update_offer": "Обновить предложение"
+	},
+	"trading": {
+		"title": "Торговая карта",
+		"desc": "Ниже отображаются только карточки от проверенного создателя",
+		"rarity": "Редкость {{score}}",
+		"no_card": "В этой коллекции нет карт от проверенных авторов",
+		"selected_card": "Ваша выбранная карта",
+		"desc_empty": "Вы не выбрали карту.",
+		"all_collections": "Все коллекции",
+		"submit": "Представлять на рассмотрение",
+		"cancel": "Отмена",
+		"add_card": "{{type}} карта"
+	},
+	"mint": {
+		"rarity": "Редкость {{score}}",
+		"mint_to_self": "Монетный двор для себя",
+		"input_label_mint": "Идентификатор учетной записи",
+		"storage_fee": "Плата за хранение",
+		"mint": "Как"
+	},
+	"accept_offer": {
+		"offer_from": "<semibold>Предложение</semibold> от<semibold> {{buyerId}}</semibold>",
+		"for_card": "Для карты<spanSemibold><linkToken> {{title}}</linkToken></spanSemibold> в<spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold>",
+		"received_offer": "Полученное предложение",
+		"royalty_artist": "Роялти для художника",
+		"fee": "Платеж",
+		"storage_fee": "Плата за хранение",
+		"total_received": "Всего получено",
+		"accept_offer": "Принять предложение"
+	},
+	"reject_offer": {
+		"reject_offer": "Отклонить предложение",
+		"reject_confirm": {
+			"want_to_reject": "Хотите отклонить предложение от {{accountId}}?",
+			"you_are_going_to_reject": "Вы собираетесь отказаться от предложения<semibold> {{cardName}}</semibold> по цене<semibold> {{amount}}<iconnear/></semibold>",
+			"offerer_receive_notif": "<semibold>{{accountId}}</semibold> поскольку предлагающий получит уведомление о том, что его предложение было отклонено, и может отменить его.",
+			"you_cant_request_reofferer": "Вы не можете запросить повторное предложение. Ваш отказ не может быть отменен.",
+			"cancel": "Отмена",
+			"confirm": "Подтвердить Отклонить"
+		},
+		"warning_rejected_sent": "Ваше предложение было отклонено владельцем карты. Отмените свое предложение, чтобы вернуть баланс, или обновите его, чтобы сделать другое предложение.",
+		"success_toast": "Отклонить предложение было успешно"
+	},
+	"accept_trade": {
+		"card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
+		"in": "в",
+		"this_card_flagged": "Эта карточка помечена как {{flag}}",
+		"with_your_card": "С вашей картой",
+		"volume_gap": "Разрыв громкости",
+		"your_card_volume": "Объем вашей карты",
+		"received_card_volume": "Объем полученной карты",
+		"accept_trade": "Принять обмен",
+		"reject_trade": "Отклонить сделку"
+	},
+	"reject_trade": {
+		"card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
+		"in": "в",
+		"this_card_flagged": "Эта карточка помечена как {{flag}}",
+		"with_your_card": "С вашей картой",
+		"volume_gap": "Разрыв громкости",
+		"your_card_volume": "Объем вашей карты",
+		"received_card_volume": "Объем полученной карты",
+		"reject_trade": "Отклонить сделку",
+		"i_understand": "Я понимаю риск и хочу принять",
+		"success_toast": "Отклонение сделки успешно",
+		"you_cant_request_reofferer": "Вы не можете запросить повторное предложение. Ваш отказ не может быть отменен."
+	},
+	"accept_bid": {
+		"bid_from": "<semibold>Делать ставку<semibold/> от<semibold> {{currentBidder}}</semibold>",
+		"for_card": "Для карты<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken> в<linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken>",
+		"received_bid": "Полученная ставка",
+		"royalty_artist": "Роялти для художника",
+		"fee": "Платеж",
+		"storage_fee": "Плата за хранение",
+		"total_received": "Всего получено",
+		"accept_bid": "Принять ставку"
+	},
+	"cancel_offer": {
+		"are_you_sure": "Вы уверены, что хотите отменить свое предложение?",
+		"your_balance_will_be_returned": "Ваш баланс будет возвращен, как только вы отмените это предложение.",
+		"cancel_offer": "Отменить предложение"
+	},
+	"cancel_bid": {
+		"are_you_sure": "Вы уверены, что хотите отменить свою ставку?",
+		"cancel_bid": "Отменить ставку"
+	},
+	"edit_listing": {
+		"min_duration_auction": "Аукцион должен быть менее 5 дней",
+		"must_future_auction": "Аукцион должен быть в будущем",
+		"edit_listing": "Изменить список",
+		"listed": "Перечислено",
+		"reduce_copies": {
+			"max_reduce_error": "Уменьшить число должно быть меньше или равно общему монетному двору",
+			"min_reduce_error": "Уменьшить число должно быть больше или равно 0",
+			"reduce_copies": "Уменьшить количество копий",
+			"remaining_copies": "Осталось копий: {{remainingCopies}}"
+		},
+		"put_marketplace": {
+			"put_marketplace": "Выложить на биржу?",
+			"no": "Нет",
+			"for_sale": "Продается",
+			"for_auction": "Для аукциона",
+			"update_price": "Обновить цену",
+			"starting_bid": "Начальная ставка",
+			"auction_ends": "Аукцион заканчивается через",
+			"equal_to": "Равно",
+			"receive": "Получать",
+			"royalty": "Роялти",
+			"fee": "Платеж"
+		},
+		"update": "Обновлять"
+	},
+	"success_tx_modal": {
+		"button_close": "Закрывать",
+		"button_see_other_cards": "Посмотреть другие карты",
+		"button_see_profile": "Перейти в мой профиль",
+		"transaction_hash": "Хэш транзакции",
+		"share_to": "Поделиться с",
+		"share": "Делиться",
+		"thank_you_submission": "Спасибо за ваш вклад! Отправка карты прошла успешно.",
+		"transaction_text": {
+			"buy": "Успешный платеж",
+			"offer": "Предложение отправлено",
+			"bid": "Заявка отправлена",
+			"edit_listing_auction": "Карточный аукцион начался",
+			"edit_listing_sale": "Стоимость карты обновлена",
+			"mint": "Карта успешно отчеканена",
+			"trade": "Предложение NFT отправлено",
+			"transfer": "Карта отправлена на {{accountId}}",
+			"remove_auction": "Аукцион удален",
+			"remove_listing": "Список удален",
+			"accept_trade": "Торговля NFT принята",
+			"add_trade": "Добавить торговый успех",
+			"accept_offer": "Предложение принято",
+			"accept_bid": "Ставка принята",
+			"remove_bid": "Ставка удалена",
+			"create_card": "Карта успешно создана",
+			"default": "Успех транзакции"
+		},
+		"transaction_sub_text": {
+			"mint": "Вы успешно выпустили карту",
+			"edit_listing_sale": "Вы успешно обновили цену до {{price}}.",
+			"edit_listing_auction": "Вы успешно создали аукцион, начиная с {{price}}.",
+			"bid": "Вы успешно предложили цену по {{price}}",
+			"offer": "Вы успешно предложили цену {{price}}.",
+			"buy": "Вы успешно приобрели по {{price}}",
+			"buy_bulk": "Вы успешно приобрели новые карты"
+		},
+		"h2_text": {
+			"create_card": "Добавлено {{total}} новых карт",
+			"buy_bulk": "{{total}} куплено карт"
+		},
+		"cart": {
+			"you_successfully": "Вы успешно приобрели новые карты",
+			"you_failed": "Выбранная вами карта больше недоступна, поэтому с вас не будет взиматься плата."
+		},
+		"nft_still_catching_up": "NFT все еще догоняет, вы можете либо подождать некоторое время, либо закрыть это модальное окно.",
+		"share_text": {
+			"one_card": "Посмотрите {{title}} из коллекции {{collection1}} от {{creator}} в {{account}}! #parasnft #nftcollectibles #nft",
+			"multiple_card_one_collection": "Ознакомьтесь со всеми NFT из коллекции {{collection1}} от {{creator}} в {{account}}! #parasnft #nftcollectibles #nft",
+			"multiple_card_2_collections": "Ознакомьтесь со всеми NFT из коллекций {{collection1}} и {{collection2}} на {{account}}! #parasnft #nftcollectibles #nft",
+			"multiple_card_3_collections": "Ознакомьтесь со всеми NFT из коллекций {{collection1}}, {{collection2}} и {{collection3}} на {{account}}! #parasnft #nftcollectibles #nft"
+		}
+	}
 }

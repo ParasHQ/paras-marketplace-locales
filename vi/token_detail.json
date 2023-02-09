@@ -1,176 +1,176 @@
 {
-  "tabs": {
-    "overview": "Tổng quan",
-    "attributes": "Thuộc tính",
-    "owners": "Những chủ sở hữu",
-    "history": "Lịch sử",
-    "description": "Sự miêu tả",
-    "token_info": "Thông tin mã thông báo",
-    "publications": "ấn phẩm"
-  },
-  "banner_image": {
-    "share": "Chia sẻ",
-    "copy_link": "Sao chép đường dẫn",
-    "play": "CHƠI"
-  },
-  "top_info": {
-    "three_dots": {
-      "burn_nft": "Ghi NFT",
-      "transfer_nft": "Chuyển NFT",
-      "offer_nft": "Ưu đãi qua NFT",
-      "see_token_series": "Xem Chuỗi mã thông báo",
-      "report_card": "Thẻ báo cáo"
-    },
-    "sale_type": {
-      "on_auction": "đấu giá",
-      "start_from": "Bắt đầu từ",
-      "on_sale": "Đang giảm giá"
-    },
-    "bidding_price_type": {
-      "high_bid": "Giá cao nhất",
-      "start_bid": "Bắt đầu đặt thầu"
-    },
-    "bidding_list": {
-      "auction_history": "Lịch sử đấu giá",
-      "auction_ends_in_token": "Đấu giá kết thúc sau {{days}} ngày, {{hours}} {{mins}} {{secs}}s",
-      "auction_ends_in_token_series": "Một số ấn bản đang được bán đấu giá",
-      "summary_bid": "Giá thầu tóm tắt",
-      "since": "kể từ khi bắt đầu",
-      "place_recent_bid": "Đặt giá thầu gần đây",
-      "bid": "Đấu thầu",
-      "start_bid": "Bắt đầu một giá thầu",
-      "place_bid": "đặt một giá thầu",
-      "no_bid": "Không có nhà thầu tại thời điểm này"
-    },
-    "offer_list": {
-      "active_offering": "Cung cấp tích cực",
-      "regular": "Thường xuyên",
-      "trade_with_card": "Giao dịch bằng thẻ",
-      "active_offers": "cung cấp tích cực",
-      "no_offer": "Không có đề nghị tại thời điểm này",
-      "highest_offer": "Ưu đãi cao nhất",
-      "offer_higher": "Ưu đãi cao hơn",
-      "lowest_offer": "Ưu đãi thấp nhất",
-      "all_offers": "Tất cả các ưu đãi đang hoạt động",
-      "send_offer": "gửi lời đề nghị",
-      "accept": "Chấp nhận",
-      "delete": "Xóa bỏ",
-      "no_trade": "Không có giao dịch tại thời điểm này",
-      "highest": "cao nhất",
-      "volume": "Âm lượng",
-      "by": "qua",
-      "lowest": "thấp nhất",
-      "cancel": "Hủy bỏ"
-    },
-    "mint_nft": "thích NFT",
-    "creator": "Người sáng tạo",
-    "verified_creator": "người tạo đã được xác minh",
-    "collection": "Bộ sưu tập",
-    "top_collection": "Bộ sưu tập hàng đầu",
-    "make_own_offer": "Đưa ra đề nghị của riêng bạn",
-    "no_price": "Không có giá",
-    "free": "Miễn phí"
-  },
-  "price_history": {
-    "avg_price": "Giá trung bình",
-    "no_price": "Không có giá tại thời điểm này",
-    "all_time": "Tất cả thời gian",
-    "1day": "1 ngày",
-    "7days": "7 ngày",
-    "1month": "1 tháng",
-    "3months": "3 tháng",
-    "6months": "6 tháng",
-    "1year": "1 năm",
-    "price": "Giá",
-    "lowest_price": "Giá thấp nhất",
-    "avg._price": "Trung bình Giá",
-    "highest_price": "Giá cao nhất"
-  },
-  "dashed_info": {
-    "own_by": "Sở hữu bởi",
-    "owners": "Người sở hữu",
-    "nft_edition_copies": "Phiên bản / Bản sao NFT",
-    "tooltip_nft_edition_copies": "Số lượng bản sao của thẻ này",
-    "rarity_score": "Điểm hiếm có",
-    "rank": "Thứ hạng",
-    "rarity_score_rank": "Xếp hạng / Điểm hiếm",
-    "creator_royalty": "tiền bản quyền của người sáng tạo",
-    "tootlip_creator_royalty": "Tỷ lệ phần trăm từ mỗi lần bán hàng được phân bổ để hỗ trợ người sáng tạo."
-  },
-  "other_card": {
-    "same_collection": "Cùng Bộ Sưu Tập",
-    "see_collection": "Xem Bộ sưu tập",
-    "other_creator": "Khác từ người sáng tạo",
-    "creators_profile": "hồ sơ của người sáng tạo"
-  },
-  "attributes": {
-    "attributes": "Thuộc tính",
-    "rarity_score": "Điểm hiếm có",
-    "rank": "Thứ hạng",
-    "rank_rarity_score": "Xếp hạng {{rank}}, Điểm hiếm {{rarityScore}}",
-    "no_attributes": "Không có thuộc tính",
-    "rarity": "việc hiếm có"
-  },
-  "owners": {
-    "sort_by": "Sắp xếp theo",
-    "sort_lowest_price": "Giá thấp nhất",
-    "sort_highest_price": "Giá cao nhất",
-    "sort_lowest_edition": "Phiên bản thấp nhất",
-    "sort_highest_edition": "Phiên bản cao nhất",
-    "sort_az": "Tên người dùng AZ",
-    "sort_za": "Tên người dùng ZA",
-    "owners": "Người sở hữu",
-    "no_owners": "Không có chủ sở hữu, trở thành người đầu tiên",
-    "on_auction": "đấu giá",
-    "on_sale": "Đang giảm giá",
-    "staked": "đặt cược",
-    "not_for_sale": "Không phải để bán",
-    "update": "Cập nhật",
-    "buy": "Mua"
-  },
-  "histories": {
-    "history": "lịch sử",
-    "no_history": "Không có lịch sử tại thời điểm này",
-    "put_on_auction": "đem ra đấu giá",
-    "add_bid_for": "thêm giá thầu cho",
-    "cancel_bid_from_auction": "hủy đấu thầu từ cuộc đấu giá",
-    "put_on_sale": "đưa ra bán cho",
-    "added_offer_nft_trade": "thêm ưu đãi giao dịch NFT",
-    "deleted_offer_nft_trade": "đã xóa ưu đãi giao dịch NFT",
-    "accept_nft_trade": "chấp nhận giao dịch NFT",
-    "remove_from_sale": "xóa khỏi bán",
-    "staked_to": "đặt cược vào",
-    "bought_from": "Mua từ",
-    "for": "vì",
-    "minted": "đúc",
-    "minted_by": "đúc bởi",
-    "burned": "đốt cháy",
-    "accept_offer": "đề nghị được chấp nhận từ",
-    "with_auction_for": "với đấu giá cho",
-    "transferred_to": "chuyển giao cho",
-    "series_created_by": "Chuỗi được tạo bởi",
-    "creator_put_series_not_sale": "Tác giả đặt bộ truyện không phải để bán",
-    "creator_put_series_sale_for": "Người sáng tạo đã rao bán bộ truyện này với giá",
-    "creator_put_series_nonmintable": "Người tạo đã đưa bộ truyện vào hàng không thể đúc được",
-    "creator_decrease_series": "Người tạo giảm các bản sao của sê-ri xuống",
-    "add_offer_for": "ưu đãi thêm cho",
-    "removed_for": "phiếu mua hàng đã xóa"
-  },
-  "description": {
-    "description": "Sự miêu tả",
-    "no_description": "Không có mô tả"
-  },
-  "token_info": {
-    "token_info": "Thông tin mã thông báo",
-    "smart_contract": "Hợp đồng thông minh",
-    "image_link": "Đường kết nối tới hình ảnh",
-    "locked_fee": "Phí khóa",
-    "tooltip_locked_fee": "Đây là phí giao dịch bị khóa hiện tại. Mỗi lần cập nhật giá NFT cũng sẽ cập nhật giá trị theo phí giao dịch toàn cầu.",
-    "token_id": "ID mã thông báo",
-    "token_series_id": "ID sê-ri mã thông báo"
-  },
-  "publications": {
-    "publications": "ấn phẩm",
-    "no_publication": "Không có ấn phẩm tại thời điểm này"
-  }
+	"tabs": {
+		"overview": "Tổng quan",
+		"attributes": "Thuộc tính",
+		"owners": "Những chủ sở hữu",
+		"history": "Lịch sử",
+		"description": "Sự miêu tả",
+		"token_info": "Thông tin mã thông báo",
+		"publications": "ấn phẩm"
+	},
+	"banner_image": {
+		"share": "Chia sẻ",
+		"copy_link": "Sao chép đường dẫn",
+		"play": "CHƠI"
+	},
+	"top_info": {
+		"three_dots": {
+			"burn_nft": "Ghi NFT",
+			"transfer_nft": "Chuyển NFT",
+			"offer_nft": "Ưu đãi qua NFT",
+			"see_token_series": "Xem Chuỗi mã thông báo",
+			"report_card": "Thẻ báo cáo"
+		},
+		"sale_type": {
+			"on_auction": "đấu giá",
+			"start_from": "Bắt đầu từ",
+			"on_sale": "Đang giảm giá"
+		},
+		"bidding_price_type": {
+			"high_bid": "Giá cao nhất",
+			"start_bid": "Bắt đầu đặt thầu"
+		},
+		"bidding_list": {
+			"auction_history": "Lịch sử đấu giá",
+			"auction_ends_in_token": "Đấu giá kết thúc sau {{days}} ngày, {{hours}} {{mins}} {{secs}}s",
+			"auction_ends_in_token_series": "Một số ấn bản đang được bán đấu giá",
+			"summary_bid": "Giá thầu tóm tắt",
+			"since": "kể từ khi bắt đầu",
+			"place_recent_bid": "Đặt giá thầu gần đây",
+			"bid": "Đấu thầu",
+			"start_bid": "Bắt đầu một giá thầu",
+			"place_bid": "đặt một giá thầu",
+			"no_bid": "Không có nhà thầu tại thời điểm này"
+		},
+		"offer_list": {
+			"active_offering": "Cung cấp tích cực",
+			"regular": "Thường xuyên",
+			"trade_with_card": "Giao dịch bằng thẻ",
+			"active_offers": "cung cấp tích cực",
+			"no_offer": "Không có đề nghị tại thời điểm này",
+			"highest_offer": "Ưu đãi cao nhất",
+			"offer_higher": "Ưu đãi cao hơn",
+			"lowest_offer": "Ưu đãi thấp nhất",
+			"all_offers": "Tất cả các ưu đãi đang hoạt động",
+			"send_offer": "gửi lời đề nghị",
+			"accept": "Chấp nhận",
+			"delete": "Xóa bỏ",
+			"no_trade": "Không có giao dịch tại thời điểm này",
+			"highest": "cao nhất",
+			"volume": "Âm lượng",
+			"by": "qua",
+			"lowest": "thấp nhất",
+			"cancel": "Hủy bỏ"
+		},
+		"mint_nft": "thích NFT",
+		"creator": "Người sáng tạo",
+		"verified_creator": "người tạo đã được xác minh",
+		"collection": "Bộ sưu tập",
+		"top_collection": "Bộ sưu tập hàng đầu",
+		"make_own_offer": "Đưa ra đề nghị của riêng bạn",
+		"no_price": "Không có giá",
+		"free": "Miễn phí"
+	},
+	"price_history": {
+		"avg_price": "Giá trung bình",
+		"no_price": "Không có giá tại thời điểm này",
+		"all_time": "Tất cả thời gian",
+		"1day": "1 ngày",
+		"7days": "7 ngày",
+		"1month": "1 tháng",
+		"3months": "3 tháng",
+		"6months": "6 tháng",
+		"1year": "1 năm",
+		"price": "Giá",
+		"lowest_price": "Giá thấp nhất",
+		"avg._price": "Trung bình Giá",
+		"highest_price": "Giá cao nhất"
+	},
+	"dashed_info": {
+		"own_by": "Sở hữu bởi",
+		"owners": "Người sở hữu",
+		"nft_edition_copies": "Phiên bản / Bản sao NFT",
+		"tooltip_nft_edition_copies": "Số lượng bản sao của thẻ này",
+		"rarity_score": "Điểm hiếm có",
+		"rank": "Thứ hạng",
+		"rarity_score_rank": "Xếp hạng / Điểm hiếm",
+		"creator_royalty": "tiền bản quyền của người sáng tạo",
+		"tootlip_creator_royalty": "Tỷ lệ phần trăm từ mỗi lần bán hàng được phân bổ để hỗ trợ người sáng tạo."
+	},
+	"other_card": {
+		"same_collection": "Cùng Bộ Sưu Tập",
+		"see_collection": "Xem Bộ sưu tập",
+		"other_creator": "Khác từ người sáng tạo",
+		"creators_profile": "hồ sơ của người sáng tạo"
+	},
+	"attributes": {
+		"attributes": "Thuộc tính",
+		"rarity_score": "Điểm hiếm có",
+		"rank": "Thứ hạng",
+		"rank_rarity_score": "Xếp hạng {{rank}}, Điểm hiếm {{rarityScore}}",
+		"no_attributes": "Không có thuộc tính",
+		"rarity": "việc hiếm có"
+	},
+	"owners": {
+		"sort_by": "Sắp xếp theo",
+		"sort_lowest_price": "Giá thấp nhất",
+		"sort_highest_price": "Giá cao nhất",
+		"sort_lowest_edition": "Phiên bản thấp nhất",
+		"sort_highest_edition": "Phiên bản cao nhất",
+		"sort_az": "Tên người dùng AZ",
+		"sort_za": "Tên người dùng ZA",
+		"owners": "Người sở hữu",
+		"no_owners": "Không có chủ sở hữu, trở thành người đầu tiên",
+		"on_auction": "đấu giá",
+		"on_sale": "Đang giảm giá",
+		"staked": "đặt cược",
+		"not_for_sale": "Không phải để bán",
+		"update": "Cập nhật",
+		"buy": "Mua"
+	},
+	"histories": {
+		"history": "lịch sử",
+		"no_history": "Không có lịch sử tại thời điểm này",
+		"put_on_auction": "đem ra đấu giá",
+		"add_bid_for": "thêm giá thầu cho",
+		"cancel_bid_from_auction": "hủy đấu thầu từ cuộc đấu giá",
+		"put_on_sale": "đưa ra bán cho",
+		"added_offer_nft_trade": "thêm ưu đãi giao dịch NFT",
+		"deleted_offer_nft_trade": "đã xóa ưu đãi giao dịch NFT",
+		"accept_nft_trade": "chấp nhận giao dịch NFT",
+		"remove_from_sale": "xóa khỏi bán",
+		"staked_to": "đặt cược vào",
+		"bought_from": "Mua từ",
+		"for": "vì",
+		"minted": "đúc",
+		"minted_by": "đúc bởi",
+		"burned": "đốt cháy",
+		"accept_offer": "đề nghị được chấp nhận từ",
+		"with_auction_for": "với đấu giá cho",
+		"transferred_to": "chuyển giao cho",
+		"series_created_by": "Chuỗi được tạo bởi",
+		"creator_put_series_not_sale": "Tác giả đặt bộ truyện không phải để bán",
+		"creator_put_series_sale_for": "Người sáng tạo đã rao bán bộ truyện này với giá",
+		"creator_put_series_nonmintable": "Người tạo đã đưa bộ truyện vào hàng không thể đúc được",
+		"creator_decrease_series": "Người tạo giảm các bản sao của sê-ri xuống",
+		"add_offer_for": "ưu đãi thêm cho",
+		"removed_for": "phiếu mua hàng đã xóa"
+	},
+	"description": {
+		"description": "Sự miêu tả",
+		"no_description": "Không có mô tả"
+	},
+	"token_info": {
+		"token_info": "Thông tin mã thông báo",
+		"smart_contract": "Hợp đồng thông minh",
+		"image_link": "Đường kết nối tới hình ảnh",
+		"locked_fee": "Phí khóa",
+		"tooltip_locked_fee": "Đây là phí giao dịch bị khóa hiện tại. Mỗi lần cập nhật giá NFT cũng sẽ cập nhật giá trị theo phí giao dịch toàn cầu.",
+		"token_id": "ID mã thông báo",
+		"token_series_id": "ID sê-ri mã thông báo"
+	},
+	"publications": {
+		"publications": "ấn phẩm",
+		"no_publication": "Không có ấn phẩm tại thời điểm này"
+	}
 }

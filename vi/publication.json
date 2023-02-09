@@ -1,75 +1,75 @@
 {
-  "publications": "ấn phẩm",
-  "breadcrumbs": {
-    "first": "Sự xuất bản",
-    "second": "{{breadcrumb}}",
-    "third": "{{pubTitle}}"
-  },
-  "title": "{{pubTitle}}",
-  "description": "{{pubDesc}}",
-  "authorId": "{{authorId}}",
-  "verified": "Đã xác minh",
-  "view_profile": "Xem hồ sơ",
-  "image": "Hình ảnh",
-  "video": "Băng hình",
-  "card": "Thẻ",
-  "collection": "Bộ sưu tập",
-  "pub_type": { "community": "Cộng đồng", "editorial": "biên tập" },
-  "comic_type": "Hài hước",
-  "title_page": { "create": "Tạo ấn phẩm", "edit": "Chỉnh sửa ấn phẩm" },
-  "cancel": "Hủy bỏ",
-  "embedded_collectibles": "Sưu tầm kỹ thuật số",
-  "form": {
-    "cover": {
-      "title": "Tải lên ảnh bìa",
-      "description": "Các tệp được hỗ trợ: PNG, JPG. Kích thước tệp tối đa: 30mb"
-    },
-    "teaser": {
-      "title": "giới thiệu",
-      "placeholder": "Giữ cho nó ngắn gọn và thú vị để thu hút người đọc..."
-    },
-    "publish": "Công bố"
-  },
-  "modal": {
-    "add_video": {
-      "label": "nhúng video",
-      "placeholder": "url video",
-      "description": "Vui lòng nhập liên kết của video youtube",
-      "button": "Thêm video"
-    },
-    "add_card": {
-      "label": "Thêm thẻ vào ấn bản của bạn",
-      "placeholder": "Url của mã thông báo",
-      "description": "Vui lòng nhập liên kết mã thông báo của bạn https://paras.id/token/x.paras.near::1",
-      "button": "Thêm thẻ"
-    },
-    "add_collection": {
-      "label": "Thêm bộ sưu tập vào ấn phẩm của bạn",
-      "placeholder": "Url của Bộ sưu tập",
-      "description": "Vui lòng nhập liên kết bộ sưu tập của bạn https://paras.id/collection/paradigm",
-      "button": "Thêm bộ sưu tập"
-    },
-    "leaving_confirmation": {
-      "label": "Bạn có chắc chắn rời khỏi trang này? Bạn sẽ mất mọi thay đổi chưa được xuất bản",
-      "button_ok": "ĐƯỢC RỒI",
-      "button_cancel": "Hủy bỏ"
-    },
-    "delete_publication": {
-      "label": "Xác nhận Xóa",
-      "description": "Bạn có chắc chắn muốn xuất bản {{publication}} của mình không?",
-      "button": "Xóa bỏ"
-    }
-  },
-  "error": {
-    "maximum_cards": "Tối đa {{num}} thẻ",
-    "maximum_collections": "Tối đa {{num}} bộ sưu tập",
-    "wrong_url": "Vui lòng nhập url chính xác",
-    "already_added_collection": "Bộ sưu tập này đã được thêm vào",
-    "maximum_file_size": "Kích thước tệp tối đa là {{num}}MB",
-    "title_required": "tiêu đề là bắt buộc",
-    "cover_required": "Cần có bìa",
-    "teaser_required": "bắt buộc phải có đoạn giới thiệu"
-  },
-  "delete": "Xóa bỏ",
-  "text_editor": { "title": "Tiêu đề", "placeholder": "Kể một câu chuyện..." }
+	"publications": "ấn phẩm",
+	"breadcrumbs": {
+		"first": "Sự xuất bản",
+		"second": "{{breadcrumb}}",
+		"third": "{{pubTitle}}"
+	},
+	"title": "{{pubTitle}}",
+	"description": "{{pubDesc}}",
+	"authorId": "{{authorId}}",
+	"verified": "Đã xác minh",
+	"view_profile": "Xem hồ sơ",
+	"image": "Hình ảnh",
+	"video": "Băng hình",
+	"card": "Thẻ",
+	"collection": "Bộ sưu tập",
+	"pub_type": { "community": "Cộng đồng", "editorial": "biên tập" },
+	"comic_type": "Hài hước",
+	"title_page": { "create": "Tạo ấn phẩm", "edit": "Chỉnh sửa ấn phẩm" },
+	"cancel": "Hủy bỏ",
+	"embedded_collectibles": "Sưu tầm kỹ thuật số",
+	"form": {
+		"cover": {
+			"title": "Tải lên ảnh bìa",
+			"description": "Các tệp được hỗ trợ: PNG, JPG. Kích thước tệp tối đa: 30mb"
+		},
+		"teaser": {
+			"title": "giới thiệu",
+			"placeholder": "Giữ cho nó ngắn gọn và thú vị để thu hút người đọc..."
+		},
+		"publish": "Công bố"
+	},
+	"modal": {
+		"add_video": {
+			"label": "nhúng video",
+			"placeholder": "url video",
+			"description": "Vui lòng nhập liên kết của video youtube",
+			"button": "Thêm video"
+		},
+		"add_card": {
+			"label": "Thêm thẻ vào ấn bản của bạn",
+			"placeholder": "Url của mã thông báo",
+			"description": "Vui lòng nhập liên kết mã thông báo của bạn https://paras.id/token/x.paras.near::1",
+			"button": "Thêm thẻ"
+		},
+		"add_collection": {
+			"label": "Thêm bộ sưu tập vào ấn phẩm của bạn",
+			"placeholder": "Url của Bộ sưu tập",
+			"description": "Vui lòng nhập liên kết bộ sưu tập của bạn https://paras.id/collection/paradigm",
+			"button": "Thêm bộ sưu tập"
+		},
+		"leaving_confirmation": {
+			"label": "Bạn có chắc chắn rời khỏi trang này? Bạn sẽ mất mọi thay đổi chưa được xuất bản",
+			"button_ok": "ĐƯỢC RỒI",
+			"button_cancel": "Hủy bỏ"
+		},
+		"delete_publication": {
+			"label": "Xác nhận Xóa",
+			"description": "Bạn có chắc chắn muốn xuất bản {{publication}} của mình không?",
+			"button": "Xóa bỏ"
+		}
+	},
+	"error": {
+		"maximum_cards": "Tối đa {{num}} thẻ",
+		"maximum_collections": "Tối đa {{num}} bộ sưu tập",
+		"wrong_url": "Vui lòng nhập url chính xác",
+		"already_added_collection": "Bộ sưu tập này đã được thêm vào",
+		"maximum_file_size": "Kích thước tệp tối đa là {{num}}MB",
+		"title_required": "tiêu đề là bắt buộc",
+		"cover_required": "Cần có bìa",
+		"teaser_required": "bắt buộc phải có đoạn giới thiệu"
+	},
+	"delete": "Xóa bỏ",
+	"text_editor": { "title": "Tiêu đề", "placeholder": "Kể một câu chuyện..." }
 }

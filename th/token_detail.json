@@ -1,176 +1,176 @@
 {
-  "tabs": {
-    "overview": "ภาพรวม",
-    "attributes": "คุณลักษณะ",
-    "owners": "เจ้าของ",
-    "history": "ประวัติศาสตร์",
-    "description": "คำอธิบาย",
-    "token_info": "ข้อมูลโทเค็น",
-    "publications": "สิ่งพิมพ์"
-  },
-  "banner_image": {
-    "share": "แบ่งปัน",
-    "copy_link": "คัดลอกลิงค์",
-    "play": "เล่น"
-  },
-  "top_info": {
-    "three_dots": {
-      "burn_nft": "เผา NFT",
-      "transfer_nft": "ถ่ายโอน NFT",
-      "offer_nft": "นำเสนอผ่าน NFT",
-      "see_token_series": "ดูซีรี่ส์โทเค็น",
-      "report_card": "บัตรรายงาน"
-    },
-    "sale_type": {
-      "on_auction": "ในการประมูล",
-      "start_from": "เริ่มจาก",
-      "on_sale": "ลดราคา"
-    },
-    "bidding_price_type": {
-      "high_bid": "การเสนอราคาสูงสุด",
-      "start_bid": "เริ่มต้นการประมูล"
-    },
-    "bidding_list": {
-      "auction_history": "ประวัติการประมูล",
-      "auction_ends_in_token": "การประมูลจะสิ้นสุดใน {{days}} วัน {{hours}} {{mins}} {{secs}}s",
-      "auction_ends_in_token_series": "บางฉบับอยู่ระหว่างการประมูล",
-      "summary_bid": "สรุปราคาเสนอ",
-      "since": "ตั้งแต่เริ่มต้น",
-      "place_recent_bid": "วางการเสนอราคาล่าสุด",
-      "bid": "เสนอราคา",
-      "start_bid": "เริ่มการเสนอราคา",
-      "place_bid": "เสนอราคา",
-      "no_bid": "ไม่มีผู้เสนอราคาในขณะนี้"
-    },
-    "offer_list": {
-      "active_offering": "การเสนอขายที่ใช้งานอยู่",
-      "regular": "ปกติ",
-      "trade_with_card": "ซื้อขายด้วยบัตร",
-      "active_offers": "ข้อเสนอที่ใช้งานอยู่",
-      "no_offer": "ไม่มีข้อเสนอในขณะนี้",
-      "highest_offer": "ข้อเสนอที่สูงที่สุด",
-      "offer_higher": "ข้อเสนอที่สูงขึ้น",
-      "lowest_offer": "ข้อเสนอที่ต่ำที่สุด",
-      "all_offers": "ข้อเสนอที่ทำงานอยู่ทั้งหมด",
-      "send_offer": "ส่งข้อเสนอ",
-      "accept": "ยอมรับ",
-      "delete": "ลบ",
-      "no_trade": "ไม่มีการซื้อขายในขณะนี้",
-      "highest": "สูงสุด",
-      "volume": "ปริมาณ",
-      "by": "โดย",
-      "lowest": "ต่ำสุด",
-      "cancel": "ยกเลิก"
-    },
-    "mint_nft": "เช่นเดียวกับเอ็นเอฟที",
-    "creator": "ผู้สร้าง",
-    "verified_creator": "ผู้สร้างที่ได้รับการยืนยัน",
-    "collection": "ของสะสม",
-    "top_collection": "คอลเลกชันยอดนิยม",
-    "make_own_offer": "ทำข้อเสนอของคุณเอง",
-    "no_price": "ไม่มีราคา",
-    "free": "ฟรี"
-  },
-  "price_history": {
-    "avg_price": "ราคาเฉลี่ย",
-    "no_price": "ไม่มีราคาในขณะนี้",
-    "all_time": "ตลอดเวลา",
-    "1day": "1 วัน",
-    "7days": "7 วัน",
-    "1month": "1 เดือน",
-    "3months": "3 เดือน",
-    "6months": "6 เดือน",
-    "1year": "1 ปี",
-    "price": "ราคา",
-    "lowest_price": "ราคาต่ำสุด",
-    "avg._price": "เฉลี่ย ราคา",
-    "highest_price": "ราคาสูงสุด"
-  },
-  "dashed_info": {
-    "own_by": "เป็นเจ้าของโดย",
-    "owners": "เจ้าของ",
-    "nft_edition_copies": "NFT Edition / สำเนา",
-    "tooltip_nft_edition_copies": "จำนวนสำเนาของบัตรนี้",
-    "rarity_score": "คะแนนหายาก",
-    "rank": "อันดับ",
-    "rarity_score_rank": "คะแนนอันดับ / ความหายาก",
-    "creator_royalty": "ค่าภาคหลวงของผู้สร้าง",
-    "tootlip_creator_royalty": "เปอร์เซ็นต์จากการขายแต่ละครั้งที่จัดสรรเพื่อสนับสนุนครีเอเตอร์"
-  },
-  "other_card": {
-    "same_collection": "คอลเลกชันเดียวกัน",
-    "see_collection": "ดูคอลเลกชัน",
-    "other_creator": "อื่น ๆ จากผู้สร้าง",
-    "creators_profile": "โปรไฟล์ของผู้สร้าง"
-  },
-  "attributes": {
-    "attributes": "คุณลักษณะ",
-    "rarity_score": "คะแนนหายาก",
-    "rank": "อันดับ",
-    "rank_rarity_score": "อันดับ {{rank}} คะแนนความหายาก {{rarityScore}}",
-    "no_attributes": "ไม่มีแอตทริบิวต์",
-    "rarity": "หายาก"
-  },
-  "owners": {
-    "sort_by": "เรียงตาม",
-    "sort_lowest_price": "ราคาต่ำสุด",
-    "sort_highest_price": "ราคาสูงสุด",
-    "sort_lowest_edition": "รุ่นต่ำสุด",
-    "sort_highest_edition": "รุ่นสูงสุด",
-    "sort_az": "ชื่อผู้ใช้ AZ",
-    "sort_za": "ชื่อผู้ใช้ ZA",
-    "owners": "เจ้าของ",
-    "no_owners": "ไม่มีเจ้าของ กลายเป็นคนแรก",
-    "on_auction": "ในการประมูล",
-    "on_sale": "ลดราคา",
-    "staked": "เดิมพัน",
-    "not_for_sale": "ไม่ขาย",
-    "update": "อัปเดต",
-    "buy": "ซื้อ"
-  },
-  "histories": {
-    "history": "ประวัติ",
-    "no_history": "ไม่มีประวัติในขณะนี้",
-    "put_on_auction": "นำไปประมูลที่",
-    "add_bid_for": "เพิ่มราคาเสนอสำหรับ",
-    "cancel_bid_from_auction": "ยกเลิกการเสนอราคาจากการประมูล",
-    "put_on_sale": "วางขายสำหรับ",
-    "added_offer_nft_trade": "เพิ่มข้อเสนอการค้า NFT",
-    "deleted_offer_nft_trade": "ลบข้อเสนอการค้า NFT",
-    "accept_nft_trade": "ยอมรับการซื้อขาย NFT",
-    "remove_from_sale": "ลบออกจากการขาย",
-    "staked_to": "เดิมพันไปที่",
-    "bought_from": "ซื้อมาจาก",
-    "for": "สำหรับ",
-    "minted": "สะระแหน่",
-    "minted_by": "ผลิตโดย",
-    "burned": "เผาไหม้",
-    "accept_offer": "รับข้อเสนอจาก",
-    "with_auction_for": "กับงานประมูล",
-    "transferred_to": "โอนไปที่",
-    "series_created_by": "ซีรีส์ที่สร้างโดย",
-    "creator_put_series_not_sale": "ผู้สร้างกำหนดให้ซีรีส์นี้ไม่ขาย",
-    "creator_put_series_sale_for": "ผู้สร้างวางขายซีรีส์สำหรับ",
-    "creator_put_series_nonmintable": "ผู้สร้างทำให้ซีรีส์นี้ไม่สามารถสร้างได้",
-    "creator_decrease_series": "ผู้สร้างลดการคัดลอกซีรีส์เป็น",
-    "add_offer_for": "เพิ่มข้อเสนอสำหรับ",
-    "removed_for": "ข้อเสนอที่ถูกลบออก"
-  },
-  "description": {
-    "description": "คำอธิบาย",
-    "no_description": "ไม่มีคำอธิบาย"
-  },
-  "token_info": {
-    "token_info": "ข้อมูลโทเค็น",
-    "smart_contract": "สัญญาอัจฉริยะ",
-    "image_link": "ลิงค์ภาพ",
-    "locked_fee": "ค่าธรรมเนียมการล็อค",
-    "tooltip_locked_fee": "นี่คือค่าธรรมเนียมการทำธุรกรรมที่ถูกล็อคในปัจจุบัน ทุกการอัปเดตราคา NFT จะอัปเดตมูลค่าตามค่าธรรมเนียมการทำธุรกรรมทั่วโลกด้วย",
-    "token_id": "รหัสโทเค็น",
-    "token_series_id": "รหัสชุดโทเค็น"
-  },
-  "publications": {
-    "publications": "สิ่งพิมพ์",
-    "no_publication": "ไม่มีการเผยแพร่ในขณะนี้"
-  }
+	"tabs": {
+		"overview": "ภาพรวม",
+		"attributes": "คุณลักษณะ",
+		"owners": "เจ้าของ",
+		"history": "ประวัติศาสตร์",
+		"description": "คำอธิบาย",
+		"token_info": "ข้อมูลโทเค็น",
+		"publications": "สิ่งพิมพ์"
+	},
+	"banner_image": {
+		"share": "แบ่งปัน",
+		"copy_link": "คัดลอกลิงค์",
+		"play": "เล่น"
+	},
+	"top_info": {
+		"three_dots": {
+			"burn_nft": "เผา NFT",
+			"transfer_nft": "ถ่ายโอน NFT",
+			"offer_nft": "นำเสนอผ่าน NFT",
+			"see_token_series": "ดูซีรี่ส์โทเค็น",
+			"report_card": "บัตรรายงาน"
+		},
+		"sale_type": {
+			"on_auction": "ในการประมูล",
+			"start_from": "เริ่มจาก",
+			"on_sale": "ลดราคา"
+		},
+		"bidding_price_type": {
+			"high_bid": "การเสนอราคาสูงสุด",
+			"start_bid": "เริ่มต้นการประมูล"
+		},
+		"bidding_list": {
+			"auction_history": "ประวัติการประมูล",
+			"auction_ends_in_token": "การประมูลจะสิ้นสุดใน {{days}} วัน {{hours}} {{mins}} {{secs}}s",
+			"auction_ends_in_token_series": "บางฉบับอยู่ระหว่างการประมูล",
+			"summary_bid": "สรุปราคาเสนอ",
+			"since": "ตั้งแต่เริ่มต้น",
+			"place_recent_bid": "วางการเสนอราคาล่าสุด",
+			"bid": "เสนอราคา",
+			"start_bid": "เริ่มการเสนอราคา",
+			"place_bid": "เสนอราคา",
+			"no_bid": "ไม่มีผู้เสนอราคาในขณะนี้"
+		},
+		"offer_list": {
+			"active_offering": "การเสนอขายที่ใช้งานอยู่",
+			"regular": "ปกติ",
+			"trade_with_card": "ซื้อขายด้วยบัตร",
+			"active_offers": "ข้อเสนอที่ใช้งานอยู่",
+			"no_offer": "ไม่มีข้อเสนอในขณะนี้",
+			"highest_offer": "ข้อเสนอที่สูงที่สุด",
+			"offer_higher": "ข้อเสนอที่สูงขึ้น",
+			"lowest_offer": "ข้อเสนอที่ต่ำที่สุด",
+			"all_offers": "ข้อเสนอที่ทำงานอยู่ทั้งหมด",
+			"send_offer": "ส่งข้อเสนอ",
+			"accept": "ยอมรับ",
+			"delete": "ลบ",
+			"no_trade": "ไม่มีการซื้อขายในขณะนี้",
+			"highest": "สูงสุด",
+			"volume": "ปริมาณ",
+			"by": "โดย",
+			"lowest": "ต่ำสุด",
+			"cancel": "ยกเลิก"
+		},
+		"mint_nft": "เช่นเดียวกับเอ็นเอฟที",
+		"creator": "ผู้สร้าง",
+		"verified_creator": "ผู้สร้างที่ได้รับการยืนยัน",
+		"collection": "ของสะสม",
+		"top_collection": "คอลเลกชันยอดนิยม",
+		"make_own_offer": "ทำข้อเสนอของคุณเอง",
+		"no_price": "ไม่มีราคา",
+		"free": "ฟรี"
+	},
+	"price_history": {
+		"avg_price": "ราคาเฉลี่ย",
+		"no_price": "ไม่มีราคาในขณะนี้",
+		"all_time": "ตลอดเวลา",
+		"1day": "1 วัน",
+		"7days": "7 วัน",
+		"1month": "1 เดือน",
+		"3months": "3 เดือน",
+		"6months": "6 เดือน",
+		"1year": "1 ปี",
+		"price": "ราคา",
+		"lowest_price": "ราคาต่ำสุด",
+		"avg._price": "เฉลี่ย ราคา",
+		"highest_price": "ราคาสูงสุด"
+	},
+	"dashed_info": {
+		"own_by": "เป็นเจ้าของโดย",
+		"owners": "เจ้าของ",
+		"nft_edition_copies": "NFT Edition / สำเนา",
+		"tooltip_nft_edition_copies": "จำนวนสำเนาของบัตรนี้",
+		"rarity_score": "คะแนนหายาก",
+		"rank": "อันดับ",
+		"rarity_score_rank": "คะแนนอันดับ / ความหายาก",
+		"creator_royalty": "ค่าภาคหลวงของผู้สร้าง",
+		"tootlip_creator_royalty": "เปอร์เซ็นต์จากการขายแต่ละครั้งที่จัดสรรเพื่อสนับสนุนครีเอเตอร์"
+	},
+	"other_card": {
+		"same_collection": "คอลเลกชันเดียวกัน",
+		"see_collection": "ดูคอลเลกชัน",
+		"other_creator": "อื่น ๆ จากผู้สร้าง",
+		"creators_profile": "โปรไฟล์ของผู้สร้าง"
+	},
+	"attributes": {
+		"attributes": "คุณลักษณะ",
+		"rarity_score": "คะแนนหายาก",
+		"rank": "อันดับ",
+		"rank_rarity_score": "อันดับ {{rank}} คะแนนความหายาก {{rarityScore}}",
+		"no_attributes": "ไม่มีแอตทริบิวต์",
+		"rarity": "หายาก"
+	},
+	"owners": {
+		"sort_by": "เรียงตาม",
+		"sort_lowest_price": "ราคาต่ำสุด",
+		"sort_highest_price": "ราคาสูงสุด",
+		"sort_lowest_edition": "รุ่นต่ำสุด",
+		"sort_highest_edition": "รุ่นสูงสุด",
+		"sort_az": "ชื่อผู้ใช้ AZ",
+		"sort_za": "ชื่อผู้ใช้ ZA",
+		"owners": "เจ้าของ",
+		"no_owners": "ไม่มีเจ้าของ กลายเป็นคนแรก",
+		"on_auction": "ในการประมูล",
+		"on_sale": "ลดราคา",
+		"staked": "เดิมพัน",
+		"not_for_sale": "ไม่ขาย",
+		"update": "อัปเดต",
+		"buy": "ซื้อ"
+	},
+	"histories": {
+		"history": "ประวัติ",
+		"no_history": "ไม่มีประวัติในขณะนี้",
+		"put_on_auction": "นำไปประมูลที่",
+		"add_bid_for": "เพิ่มราคาเสนอสำหรับ",
+		"cancel_bid_from_auction": "ยกเลิกการเสนอราคาจากการประมูล",
+		"put_on_sale": "วางขายสำหรับ",
+		"added_offer_nft_trade": "เพิ่มข้อเสนอการค้า NFT",
+		"deleted_offer_nft_trade": "ลบข้อเสนอการค้า NFT",
+		"accept_nft_trade": "ยอมรับการซื้อขาย NFT",
+		"remove_from_sale": "ลบออกจากการขาย",
+		"staked_to": "เดิมพันไปที่",
+		"bought_from": "ซื้อมาจาก",
+		"for": "สำหรับ",
+		"minted": "สะระแหน่",
+		"minted_by": "ผลิตโดย",
+		"burned": "เผาไหม้",
+		"accept_offer": "รับข้อเสนอจาก",
+		"with_auction_for": "กับงานประมูล",
+		"transferred_to": "โอนไปที่",
+		"series_created_by": "ซีรีส์ที่สร้างโดย",
+		"creator_put_series_not_sale": "ผู้สร้างกำหนดให้ซีรีส์นี้ไม่ขาย",
+		"creator_put_series_sale_for": "ผู้สร้างวางขายซีรีส์สำหรับ",
+		"creator_put_series_nonmintable": "ผู้สร้างทำให้ซีรีส์นี้ไม่สามารถสร้างได้",
+		"creator_decrease_series": "ผู้สร้างลดการคัดลอกซีรีส์เป็น",
+		"add_offer_for": "เพิ่มข้อเสนอสำหรับ",
+		"removed_for": "ข้อเสนอที่ถูกลบออก"
+	},
+	"description": {
+		"description": "คำอธิบาย",
+		"no_description": "ไม่มีคำอธิบาย"
+	},
+	"token_info": {
+		"token_info": "ข้อมูลโทเค็น",
+		"smart_contract": "สัญญาอัจฉริยะ",
+		"image_link": "ลิงค์ภาพ",
+		"locked_fee": "ค่าธรรมเนียมการล็อค",
+		"tooltip_locked_fee": "นี่คือค่าธรรมเนียมการทำธุรกรรมที่ถูกล็อคในปัจจุบัน ทุกการอัปเดตราคา NFT จะอัปเดตมูลค่าตามค่าธรรมเนียมการทำธุรกรรมทั่วโลกด้วย",
+		"token_id": "รหัสโทเค็น",
+		"token_series_id": "รหัสชุดโทเค็น"
+	},
+	"publications": {
+		"publications": "สิ่งพิมพ์",
+		"no_publication": "ไม่มีการเผยแพร่ในขณะนี้"
+	}
 }
