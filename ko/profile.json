@@ -1,0 +1,79 @@
+{
+  "header": {
+    "edit_profile": "프로필 수정",
+    "follow_activity": "팔로우 활동",
+    "following": "수행원"
+  },
+  "tabs": {
+    "cards": "카드",
+    "collections": "컬렉션",
+    "bio": "그는 ~였다",
+    "followers": "추종자",
+    "following": "수행원",
+    "liked": "좋아요",
+    "publication": "출판"
+  },
+  "cards": {
+    "search_placeholder": "NFT 검색...",
+    "search_placeholder_collection": "컬렉션에서 검색",
+    "filter_reset": "나머지",
+    "filter_apply": "적용하다",
+    "filter_no_collection": "컬렉션 없음",
+    "filter_by_collection": "컬렉션으로 필터링"
+  },
+  "bio": {
+    "joined": "가입",
+    "account_id": "계정 ID",
+    "about_me": "나에 대해서",
+    "more": "더",
+    "less": "더 적은",
+    "links": "연결",
+    "edit_bio": "바이오 편집",
+    "cancel": "취소",
+    "placeholder": "프로필에 대한 이야기를 들려주세요.",
+    "edit": "편집하다"
+  },
+  "action_logo_cover": {
+    "profile_cover": "프로필 표지",
+    "zoom": "줌",
+    "straighten": "바르게 되다",
+    "upload": "업로드",
+    "edit": "편집하다",
+    "save_cover": "표지 저장",
+    "not_allowed_edit": "이전에 표지가 없으면 편집 권한이 없습니다."
+  },
+  "followers": "{{count}} 팔로어",
+  "following": "{{count}} 팔로잉",
+  "edit": {
+    "edit_profile": "프로필 수정",
+    "cancel_edit": "취소",
+    "form": {
+      "display_status_label": "표시된 상태",
+      "bio_label": "그는 ~였다",
+      "bio_placeholder": "자신에 대해 알려주세요...",
+      "twitter_label": "트위터 프로필",
+      "twitter_placeholder": "https://twitter.com/사용자 이름",
+      "twitter_error": "트위터 아이디만 입력해주세요",
+      "instagram_label": "인스타그램 프로필",
+      "instagram_placeholder": "https://instagram.com/사용자 이름",
+      "instagram_error": "인스타그램 아이디만 입력해주세요",
+      "weibo_label": "웨이보",
+      "weibo_placeholder": "웨이보 URL 입력...",
+      "weibo_error": "유효한 웨이보 URL을 입력하세요.",
+      "website_label": "귀하의 웹사이트",
+      "website_placeholder": "웹사이트 URL 입력",
+      "website_error": "유효한 웹사이트 URL을 입력하세요."
+    },
+    "privacy": {
+      "label": "프라이버시 설정",
+      "option": {
+        "private_likes": "내 좋아요를 비공개로 설정",
+        "private_following": "내 팔로우를 비공개로 설정",
+        "show_loyalty_frame": "내 프로필에 내 충성도 프레임 표시"
+      }
+    },
+    "success_update_toast": "성공적으로 업데이트됨",
+    "error_update_toast": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
+    "button_update": "업데이트"
+  }
+}
