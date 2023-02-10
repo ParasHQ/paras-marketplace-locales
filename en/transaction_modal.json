@@ -79,16 +79,15 @@
 	},
 	"reject_offer": {
 		"reject_offer": "Reject Offer",
-		"reject_confirm": {
-			"want_to_reject": "Want to reject offer from {{accountId}}?",
-			"you_are_going_to_reject": "You are going to reject the offer for <semibold>{{cardName}}</semibold> at the price of <semibold>{{amount}} <iconnear/></semibold>",
-			"offerer_receive_notif": "<semibold>{{accountId}}</semibold> as the offerer will receive a notification that their offer was rejected and are free to cancel it.",
-			"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
-			"cancel": "Cancel",
-			"confirm": "Confirm Reject"
-		},
 		"warning_rejected_sent": "Your offer was rejected by the card owner. Cancel your offer to get your balance back or update it to make another offer.",
-		"success_toast": "Reject offer was successfully"
+		"success_toast": "Reject offer was successfully",
+    "offer_from": "<semibold>Offer</semibold> from <semibold>{{buyerId}}</semibold>",
+		"for_card": "For card <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> in <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+		"received_offer": "Received Offer",
+		"royalty_artist": "Royalty for Artist ",
+		"fee": "Fee",
+		"storage_fee": "Storage Fee",
+		"total_received": "Total Received"
 	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
@@ -112,8 +111,20 @@
 		"reject_trade": "Reject Trade",
 		"i_understand": "I understand the risk and wish to accept",
 		"success_toast": "Reject trade was successfully",
-		"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone."
+		"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
+    "confirm": "Confirm Reject"
 	},
+  "reject_confirm": {
+    "want_to_reject_offer": "Want to reject offer from {{accountId}}?",
+    "want_to_reject_trade": "Want to reject trade card from {{accountId}}?",
+    "you_are_going_to_reject_offer": "You are going to reject the offer for <semibold>{{cardName}}</semibold> at the price of <semibold>{{amount}} <iconnear/></semibold>",
+    "you_are_going_to_reject_trade": "You are going to reject the trade card offer of <semibold>{{buyerCard}}</semibold> with your card <semibold>{{sellerCard}}</semibold>.",
+    "offerer_receive_notif": "<semibold>{{accountId}}</semibold> as the offerer will receive a notification that their offer was rejected and are free to cancel it.",
+    "you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Confirm Reject",
+    "success_toast": "Reject {{type}} was successfully"
+  },
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> from <semibold>{{currentBidder}}</semibold>",
 		"for_card": "For card <linkToken><spanSemibold>{{title}}</spanSemibold></linkToken> in <linkToken><spanSemibold>{{collection}}</spanSemibold></linkToken>",

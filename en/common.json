@@ -137,7 +137,7 @@
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> accepted trade <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"notification_offer_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> {{offeredPrice}} Ⓝ offer for <semibold>{{sellerCard}}</semibold>",
 		"notification_trade_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> trade for <semibold>{{sellerCard}}</semibold>",
-		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> that you offered has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>",
+		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> that you offered has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>. Please update or cancel your offer",
 		"notification_trade_rejected": "<semibold>{{buyerCard}}</semibold> that you traded has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>",
 		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> outbid <semibold><linkToken>{{title}}</linkToken></semibold> for {{_amount}} Ⓝ",
 		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> that you offered was sold to <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
