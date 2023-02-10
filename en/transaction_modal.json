@@ -87,7 +87,10 @@
 		"royalty_artist": "Royalty for Artist ",
 		"fee": "Fee",
 		"storage_fee": "Storage Fee",
-		"total_received": "Total Received"
+		"total_received": "Total Received",
+    "you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Confirm Reject"
 	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> from <semibold>{{buyerId}}</semibold>",
@@ -112,6 +115,7 @@
 		"i_understand": "I understand the risk and wish to accept",
 		"success_toast": "Reject trade was successfully",
 		"you_cant_request_reofferer": "You can not request to be re-offer. Your rejection cannot be undone.",
+    "cancel": "Cancel",
     "confirm": "Confirm Reject"
 	},
   "reject_confirm": {
