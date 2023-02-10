@@ -158,7 +158,13 @@
 		},
 		"11": {
 			"title": "En participant à ce programme, vous acceptez les <Link>Conditions générales</Link> de la fidélité de Paras."
-		}
+		},
+    "12": {
+      "title": "Les termes et conditions de ce programme peuvent être modifiés à tout moment sans préavis."
+    },
+    "13": {
+      "title": "La décision de Paras concernant le tirage au sort et la liste des gagnants est considérée comme définitive et ne peut être portée en appel ni contestée."
+    }
 	},
 	"upcoming_loyalty": {
 		"title": "Préparez-vous pour la prochaine période de fidélité à venir.",
