@@ -158,7 +158,13 @@
 		},
 		"11": {
 			"title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
-		}
+		},
+    "12": {
+      "title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+    },
+    "13": {
+      "title": "Paras’ decision regarding the raffle and the winner list is considered final and cannot be appealed nor contested."
+    }
 	},
 	"upcoming_loyalty": {
 		"title": "Brace Yourself for the Upcoming Loyalty Period in",

@@ -1,0 +1,50 @@
+{
+  "fresh_on_market": "신선한 시장",
+  "search": "검색어}}'",
+  "explore_top_collections": "최상위 컬렉션",
+  "explore_featured_collections": "추천 컬렉션",
+  "explore_cards": "카드 탐색",
+  "explore_collections": "컬렉션 탐색",
+  "explore_profiles": "프로필 살펴보기",
+  "explore_publication": "간행물 살펴보기",
+  "last_week": "지난 7일",
+  "tab": {
+    "collections": "컬렉션",
+    "cards": "카드",
+    "publications": "간행물",
+    "profiles": "프로필"
+  },
+  "submission": {
+    "nft_title": "NFT 제목",
+    "collection": "수집",
+    "creator": "창조자",
+    "floor": "바닥",
+    "price": "가격",
+    "no_price": "가격 없음",
+    "edition_of": "에디션",
+    "button_accept": "수용하다",
+    "button_reject": "거부하다",
+    "search_placeholder": "NFT 검색...",
+    "total": "합계: {{total}} NFT",
+    "learn_more": "더 알아보기",
+    "verified": "인증된 작성자",
+    "modal_accept": {
+      "title_one": "{{count}} 항목을 수락하시겠습니까?",
+      "title_other": "{{count}} 항목을 수락하시겠습니까?",
+      "description_single": "{{category_name}} 카테고리에 {{card_name}} 카드를 허용하려고 합니다.",
+      "description_multiple": "{{category_name}} 카테고리에 {{count}}장의 카드를 수락할 예정입니다.",
+      "button_accept": "예",
+      "button_reject": "취소"
+    },
+    "modal_reject": {
+      "title_one": "{{count}} 항목을 거부하시겠습니까?",
+      "title_other": "{{count}} 항목을 거부하시겠습니까?",
+      "description_single": "{{category_name}} 카테고리에서 {{card_name}} 카드를 거부하려고 합니다.",
+      "description_multiple": "{{category_name}} 카테고리에 {{count}}장의 카드를 거부하려고 합니다.",
+      "button_accept": "예",
+      "button_reject": "취소"
+    },
+    "button_manage_curation": "큐레이션 관리",
+    "button_exit_manage_curation": "큐레이션 관리 종료"
+  }
+}
