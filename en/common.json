@@ -19,6 +19,8 @@
 		"search_placeholder": "Search collection, NFTs and more..."
 	},
 	"menu": {
+		"display": "Display",
+		"dark_mode": "Dark Mode",
 		"language": "Language",
 		"product": "Product",
 		"product_list": {
@@ -468,5 +470,57 @@
 			"team": "Team"
 		}
 	},
-	"experimental_language": "This is experimental language. For feedback and bounty, please create a pull request <Link>here</Link> or reach us on discord."
+	"experimental_language": "This is experimental language. For feedback and bounty, please create a pull request <Link>here</Link> or reach us on discord.",
+	"first_time_user": {
+		"next": "Next",
+		"back": "Back",
+		"got_it": "Got it",
+		"show_me": "Show me",
+		"give_feedback": "Give feedback",
+		"feature_update": "Feature Update",
+		"feature_update_desc": "For more information, you can read the publications on our <GuideLink>Guide</GuideLink>.",
+		"feature": {
+			"dark_mode": {
+				"name": "Dark Mode",
+				"desc": "The dark mode display is more suitable for reducing eye strain and glare from bright screens, especially in low-light conditions.",
+				"steps": {
+					"1": {
+						"title": "Dark mode features have been updated, find out in this menu",
+						"content": "Now you will be able to switch from the traditional light theme to a darker one."
+					},
+					"2": {
+						"title": "Switch the toggle button to on",
+						"content": "You can return to the previous light mode display by switching off this toggle."
+					}
+				}
+			},
+			"language": {
+				"name": "Language",
+				"desc": "Adjust your language preferences to enhance your user experience and make it easier to interact with our platform.",
+				"steps": {
+					"1": {
+						"title": "Language features have been updated, find out in this menu",
+						"content": "Now you can adjust your language preferences based on the language you want."
+					},
+					"2": {
+						"title": "Press the dropdown button",
+						"content": "See the various language options in the \"Language\" menu."
+					},
+					"3": {
+						"title": "Choose your language preferences",
+						"content": "We will continuously update the language preferences according to your needs."
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "Share your feedback",
+			"input_placeholder": "What’s on your mind?",
+			"input_email_label": "Your email",
+			"input_email_placeholder": "Paras can contact me through",
+			"checkbox_label": "I’d like to participate in product research",
+			"button_submit": "Send Feedback",
+			"button_cancel": "Cancel"
+		}
+	}
 }
