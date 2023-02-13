@@ -135,7 +135,7 @@
 		"notification_category_rejected": "Token <semibold><linkToken>{{title}}</linkToken></semibold> submission has been rejected from <semibold><linkCategory>{{categoryName}}</linkCategory></semibold> category.",
 		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> offered trade <semibold>{{tradeTitle}}</semibold> with your <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> accepted trade <semibold><linkToken>{{title}}</linkToken></semibold>",
-		"notification_offer_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> {{offeredPrice}} Ⓝ offer for <semibold>{{sellerCard}}</semibold>",
+		"notification_offer_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> {{rejectedPrice}} Ⓝ offer for <semibold>{{sellerCard}}</semibold>",
 		"notification_trade_confirm_rejection": "You have rejected <linkFrom><semibold>{{buyer}}'s</semibold></linkFrom> trade for <semibold>{{sellerCard}}</semibold>",
 		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> that you offered has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>. Please update or cancel your offer",
 		"notification_trade_rejected": "<semibold>{{buyerCard}}</semibold> that you traded has been rejected by <linkTo><semibold>{{seller}}</semibold></linkTo>",
