@@ -8,7 +8,7 @@
 		"sort_by_option": {
 			"market_update": "Обновление рынка",
 			"card_created": "Недавно добавленные",
-			"lowest_price": "Низшая цена",
+			"lowest_price": "Самая низкая цена",
 			"highest_price": "Самая высокая цена",
 			"auction_ends_soon": "Аукцион скоро закончится",
 			"rare_to_common": "От редкого до обычного",
@@ -17,9 +17,9 @@
 			"most_liked": "Больше всего понравилось",
 			"collection_created": "Недавно созданный",
 			"highest_volume": "Самый высокий объем",
-			"most_owner": "Самый владелец",
-			"highest_fp": "Самая высокая цена этажа",
-			"lowest_fp": "Самая низкая этажная цена",
+			"most_owner": "Владелец",
+			"highest_fp": "Самая высокая цена",
+			"lowest_fp": "Самая низкая цена",
 			"recently_sent": "Недавно отправлено",
 			"recently_received": "Недавно получено",
 			"most_recent": "От нового к старому",
@@ -27,9 +27,9 @@
 			"alphabetic": "Алфавитный (AZ)",
 			"reverse_alphabetic": "Алфавитный (ЗА)",
 			"price_low_to_high": "Цена от низкой до высокой",
-			"price_high_to_low": "Высокая к низкой цене",
-			"edition_high_to_low": "Сумма тиража от высокой до низкой",
-			"edition_low_to_high": "Количество выпусков от низкого до высокого"
+			"price_high_to_low": "Цена от высокой до низкой",
+			"edition_high_to_low": "Тираж от высокой до низкой",
+			"edition_low_to_high": "Тираж от низкой до высокой"
 		},
 		"price": "Цена",
 		"price_placeholder": {
@@ -47,7 +47,7 @@
 			"transfer": "Передача",
 			"auction": "Аукцион",
 			"offer": "Предложение",
-			"bid": "Делать ставку",
+			"bid": "Сделать предложение",
 			"created": "Созданный",
 			"minted": "Отчеканено",
 			"burned": "Сгорел",
@@ -61,16 +61,16 @@
 		"edition": "Редактирование",
 		"edition_option": {
 			"all": "Показать все",
-			"one": "Издание 1",
+			"one": "Издание 1/1",
 			"multiple": "Несколько копий"
 		},
-		"status": "Положение дел",
-		"verified": "Только подтверждено",
+		"status": "Статус",
+		"verified": "Только подтвержденные авторы",
 		"selection": "Выбор",
 		"selection_option": { "all": "Выбрать все" },
-		"selected": "Выбран {{count}} элемент",
-		"button_accept_all": "Принять все выбранные",
-		"button_reject_all": "Отклонить все выбранные"
+		"selected": "Выбрано {{count}} элемент",
+		"button_accept_all": "Принять все",
+		"button_reject_all": "Отклонить все"
 	},
 	"sent": "Отправил",
 	"sent_offer": "Отправлено предложение",
