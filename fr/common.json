@@ -19,6 +19,8 @@
 		"search_placeholder": "Recherche de Collection, NFTs et plus encore..."
 	},
 	"menu": {
+		"display": "Affichage",
+		"dark_mode": "Mode Sombre",		
 		"language": "Langues",
 		"product": "Catégories",
 		"product_list": {
@@ -135,7 +137,7 @@
 		"notification_category_rejected": "La soumission du token <semibold><linkToken>{{title}}</linkToken></semibold> a été rejetée de la catégorie <semibold><linkCategory>{{categoryName}}</linkCategory></semibold>",
 		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a proposé un échange de <semibold>{{tradeTitle}}</semibold> avec votre <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> a accepté l'échange de <semibold><linkToken>{{title}}</linkToken></semibold>",
-		"notification_offer_confirm_rejection": "Vous avez rejeté l'offre de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> de {{offeredPrice}} Ⓝ pour <semibold>{{sellerCard}}</semibold>",
+		"notification_offer_confirm_rejection": "Vous avez rejeté l'offre de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> de {{rejectedPrice}} Ⓝ pour <semibold>{{sellerCard}}</semibold>",
 		"notification_trade_confirm_rejection": "Vous avez rejeté l'échange de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> pour la carte de <semibold>{{sellerCard}}</semibold>",
 		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> que vous avez offert a été rejeté par <linkTo><semibold>{{seller}}</semibold></linkTo>.",
 		"notification_trade_rejected": "<semibold>{{buyerCard}}</semibold>, que vous avez échangée, a été rejetée par <linkTo><semibold>{{seller}}</semibold></linkTo>",
@@ -468,5 +470,57 @@
 			"team": "Equipe"
 		}
 	},
-	"experimental_language": "Il s'agit d'un langage expérimental. Pour les commentaires et les primes, s'il vous plaît créer une demande de pull request <Link>ici</Link> ou rejoignez-nous sur discord."
+	"experimental_language": "Il s'agit d'un langage expérimental. Pour les commentaires et les primes, s'il vous plaît créer une demande de pull request <Link>ici</Link> ou rejoignez-nous sur discord.",
+	"first_time_user": {
+		"next": "Suivant",
+		"back": "Retour",
+		"got_it": "Compris",
+		"show_me": "Montrez-moi",
+		"give_feedback": "Faire des commentaires",
+		"feature_update": "Mise à jour des fonctionnalités",
+		"feature_update_desc": "Pour plus d'informations, vous pouvez lire les publications sur notre <GuideLink>Guide</GuideLink>.",
+		"feature": {
+			"dark_mode": {
+				"name": "Mode Sombre",
+				"desc": "Le mode sombre est plus adapté pour réduire la fatigue oculaire et l'éblouissement des écrans lumineux, notamment dans des conditions de faible luminosité.",
+				"steps": {
+					"1": {
+						"title": "Les fonctionnalités du mode sombre ont été mises à jour, découvrez-les dans ce menu",
+						"content": "Maintenant, vous pourrez passer du thème clair traditionnel à un thème plus sombre."
+					},
+					"2": {
+						"title": "Basculez le bouton sur ON",
+						"content": "Vous pouvez revenir à l'affichage précédent en mode clair en désactivant le bouton."
+					}
+				}
+			},
+			"language": {
+				"name": "Langue",
+				"desc": "Ajustez vos préférences linguistiques pour améliorer votre expérience utilisateur et faciliter votre interaction avec notre plateforme.",
+				"steps": {
+					"1": {
+						"title": "Les fonctionnalités de la langue ont été mises à jour, découvrez-les dans ce menu",
+						"content": "Maintenant, vous pouvez ajuster vos préférences linguistiques en fonction de la langue que vous souhaitez."
+					},
+					"2": {
+						"title": "Appuyez sur le bouton déroulant",
+						"content": "Voyez les différentes options de langue dans le menu \"Language\"."
+					},
+					"3": {
+						"title": "Choisissez vos préférences linguistiques",
+						"content": "Nous mettrons continuellement à jour les préférences linguistiques en fonction de vos besoins."
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "Partagez vos commentaires",
+			"input_placeholder": "Qu'est-ce qui vous préoccupe ?",
+			"input_email_label": "Votre e-mail",
+			"input_email_placeholder": "Paras peut me contacter via",
+			"checkbox_label": "Je souhaite participer à la recherche sur les produits",
+			"button_submit": "Envoyer des commentaires",
+			"button_cancel": "Annuler"
+		}
+	}	
 }
