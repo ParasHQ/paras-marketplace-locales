@@ -136,13 +136,23 @@
 		"notification_add_trade": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a proposé un échange de <semibold>{{tradeTitle}}</semibold> avec votre <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold> a accepté l'échange de <semibold><linkToken>{{title}}</linkToken></semibold>",
 		"notification_offer_confirm_rejection": "Vous avez rejeté l'offre de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> de {{tradedPrice}} Ⓝ pour <semibold>{{sellerCard}}</semibold>",
-		"notification_trade_confirm_rejection": "<linkTo><semibold>{{seller}}</semibold></linkTo> a rejeté l'échange de <semibold>{{sellerCard}}</semibold>",
+		"notification_trade_confirm_rejection": "Vous avez rejeté l'échange de <linkFrom><semibold>{{buyer}}</semibold></linkFrom> pour la carte de <semibold>{{sellerCard}}</semibold>",
 		"notification_offer_rejected": "<semibold>{{sellerCard}}</semibold> que vous avez offert a été rejeté par <linkTo><semibold>{{seller}}</semibold></linkTo>. Veuillez mettre à jour ou annuler votre offre.",
-		"notification_trade_rejected": "<linkTo><semibold>{{seller}}</semibold></linkTo> a rejeté l'échange de <semibold>{{sellerCard}}</semibold>",
+		"notification_trade_rejected": "<semibold>{{buyerCard}}</semibold>, que vous avez échangée, a été rejetée par <linkTo><semibold>{{seller}}</semibold></linkTo>",
 		"notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> a fait une offre supérieure pour <semibold><linkToken>{{title}}</linkToken></semibold> de {{_amount}} Ⓝ",
 		"notification_nft_sold_for_offer": "<semibold><linkToken>{{title}}</linkToken></semibold> que vous avez proposé en offre a été vendu à <semibold><linkProfile>{{ownerId}}</linkProfile></semibold>",
 		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> a été retiré de la vente",
 		"notification_card4card_user_disqualified": "<semibold>Désolé, vous avez été disqualifié du concours C4C.</semibold> <br><sm>Vous avez collecté le même NFT plusieurs fois</sm>",
+		"reminder": {
+			"notification_offer_reminder_seller_with_time_condition": "Vous n'avez pas répondu à l'offre de <semibold>{{buyer}}</semibold> de {{offerPrice}} Ⓝ pour <semibold>{{timeCondition}}</semibold>.",
+			"notification_trade_reminder_seller_with_time_condition": "Vous n'avez pas répondu à l'offre de <semibold>{{buyer}}</semibold> pour <semibold>{{timeCondition}}</semibold>.",
+			"notification_offer_reminder_buyer_with_time_condition": "Votre offre sur <semibold>{{sellerCard}}</semibold> pour {{offerPrice}} n'a pas reçu de réponse depuis <semibold>{{timeCondition}}</semibold>. Veuillez mettre à jour ou annuler votre offre.",
+			"notification_trade_reminder_buyer_with_time_condition": "Votre offre sur <semibold>{{sellerCard}}</semibold> n'a pas reçu de réponse depuis <semibold>{{timeCondition}}</semibold>. Veuillez mettre à jour ou annuler votre offre."
+		},
+		"a_week": "une semaine",
+		"a_few_weeks": "quelques semaines",
+		"a_month": "un mois",
+		"a_few_months": "quelques mois",
 		"signup": "S'inscrire"
 	},
 	"footer": {
