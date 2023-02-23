@@ -79,16 +79,15 @@
 	},
 	"reject_offer": {
 		"reject_offer": "Rejeter l'Offre",
-		"reject_confirm": {
-			"want_to_reject": "Vous voulez rejeter l'Offre de {{accountId}} ?",
-			"you_are_going_to_reject": "Vous allez rejeter l'offre pour <semibold>{{cardName}}</semibold> au prix de <semibold>{{amount}} <iconnear/></semibold>",
-			"offerer_receive_notif": "<semibold>{{accountId}}</semibold> en tant qu'offrant recevra une notification indiquant que son offre a été rejetée et peut l'annuler.",
-			"you_cant_request_reofferer": "Vous ne pouvez pas demander recevoir une nouvelle Offre. Votre rejet ne peut pas être annulé.",
-			"cancel": "Annuler",
-			"confirm": "Confirmer Rejet"
-		},
 		"warning_rejected_sent": "Votre offre a été rejetée par le propriétaire de la Carte. Annulez votre Offre pour récupérer votre Solde ou mettez-la à jour pour faire une autre Offre.",
-		"success_toast": "Le rejet de l'offre a été effectué avec succès"
+		"success_toast": "L'Offre a été rejetée avec succès",
+  		"offer_from": "<semibold>Offre</semibold> de <semibold>{{buyerId}}</semibold>",
+		"for_card": "Pour la Carte <spanSemibold><linkToken>{{title}}</linkToken></spanSemibold> dans la Collection <spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>",
+		"received_offer": "Offre reçue",
+		"royalty_artist": "Droits d'auteur pour l'artiste",
+		"fee": "Frais",
+		"storage_fee": "Frais de stockage",
+		"total_received": "Total reçu"
 	},
 	"accept_trade": {
 		"card_trade_from": "<semibold>Card trade<semibold/> de <semibold>{{buyerId}}</semibold>",
@@ -112,7 +111,19 @@
 		"reject_trade": "Rejeter l'échange",
 		"i_understand": "Je comprends le risque et je souhaite l'accepter",
 		"success_toast": "Le rejet de l'échange a été effectué avec succès",
-		"you_cant_request_reofferer": "Vous ne pouvez pas demander une nouvelle offre. Votre refus ne peut être annulé"
+		"you_cant_request_reofferer": "Vous ne pouvez pas demander une nouvelle offre. Votre refus ne peut être annulé",
+		"confirm": "Confirmer Rejeter"	
+		},
+	"reject_confirm": {
+  		"want_to_reject_offer": "Voulez-vous rejeter l'offre de {{accountId}} ?",
+    		"want_to_reject_trade": "Voulez-vous rejeter l'échange de carte proposé par {{accountId}} ?",
+    		"you_are_going_to_reject_offer": "Vous allez rejeter l'offre pour <semibold>{{cardName}}</semibold> au prix de <semibold>{{amount}} <iconnear/></semibold>",
+    		"you_are_going_to_reject_trade": "Vous allez rejeter l'offre d'échange de la carte <semibold>{{buyerCard}}</semibold> avec votre carte <semibold>{{sellerCard}}</semibold>.",
+    		"offerer_receive_notif": "<semibold>{{accountId}}</semibold>, en tant qu'offreur, recevra une notification indiquant que son offre a été rejetée et qu'il peut l'annuler.",
+    		"you_cant_request_reofferer": "Vous ne pouvez pas demander à ce que l'on vous refasse une offre. Votre rejet ne peut pas être annulé.",
+    		"cancel": "Annuler",
+    		"confirm": "Confirmer Rejeter",
+    		"success_toast": "Le rejet de {{type}} a été effectué avec succès"
 	},
 	"accept_bid": {
 		"bid_from": "<semibold>Bid<semibold/> de <semibold>{{currentBidder}}</semibold>",
