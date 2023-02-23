@@ -144,9 +144,9 @@
 		"notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold> a été retiré de la vente",
 		"notification_card4card_user_disqualified": "<semibold>Désolé, vous avez été disqualifié du concours C4C.</semibold> <br><sm>Vous avez collecté le même NFT plusieurs fois</sm>",
 		"reminder": {
-			"notification_offer_reminder_seller_with_time_condition": "Vous n'avez pas répondu à l'offre de <semibold>{{buyer}}</semibold> de {{offerPrice}} Ⓝ pour <semibold>{{timeCondition}}</semibold>.",
+			"notification_offer_reminder_seller_with_time_condition": "Vous n'avez pas répondu à l'offre de <semibold>{{buyer}}</semibold> de {{offeredPrice}} Ⓝ pour <semibold>{{timeCondition}}</semibold>.",
 			"notification_trade_reminder_seller_with_time_condition": "Vous n'avez pas répondu à l'offre de <semibold>{{buyer}}</semibold> pour <semibold>{{timeCondition}}</semibold>.",
-			"notification_offer_reminder_buyer_with_time_condition": "Votre offre sur <semibold>{{sellerCard}}</semibold> pour {{offerPrice}} n'a pas reçu de réponse depuis <semibold>{{timeCondition}}</semibold>. Veuillez mettre à jour ou annuler votre offre.",
+			"notification_offer_reminder_buyer_with_time_condition": "Votre offre sur <semibold>{{sellerCard}}</semibold> pour {{offeredPrice}} n'a pas reçu de réponse depuis <semibold>{{timeCondition}}</semibold>. Veuillez mettre à jour ou annuler votre offre.",
 			"notification_trade_reminder_buyer_with_time_condition": "Votre offre sur <semibold>{{sellerCard}}</semibold> n'a pas reçu de réponse depuis <semibold>{{timeCondition}}</semibold>. Veuillez mettre à jour ou annuler votre offre."
 		},
 		"a_week": "une semaine",
