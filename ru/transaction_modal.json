@@ -117,7 +117,7 @@
 	"accept_bid": {
 		"bid_from": "<semibold>Делать ставку<semibold/> от<semibold> {{currentBidder}}</semibold>",
 		"for_card": "Для карты<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken> в<linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken>",
-		"received_bid": "Полученное предложение",
+		"received_bid": "Полученная ставка",
 		"royalty_artist": "Роялти для художника",
 		"fee": "Сбор",
 		"storage_fee": "Плата за хранение",
