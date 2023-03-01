@@ -1,15 +1,15 @@
 {
 	"header": {
 		"edit_profile": "Редактировать профиль",
-		"follow_activity": "Следите за активностью",
-		"following": "Следующий"
+		"follow_activity": "Подписаться",
+		"following": "Подписка"
 	},
 	"tabs": {
 		"cards": "Карты",
 		"collections": "Коллекции",
-		"bio": "Он был",
-		"followers": "Последователи",
-		"following": "Следующий",
+		"bio": "Обо мне",
+		"followers": "Подписчики",
+		"following": "Подписка",
 		"liked": "Понравилось",
 		"publication": "Публикация"
 	},
@@ -19,18 +19,18 @@
 		"filter_reset": "Отдых",
 		"filter_apply": "Применять",
 		"filter_no_collection": "Нет коллекций",
-		"filter_by_collection": "Фильтровать по коллекции"
+		"filter_by_collection": "Фильтровать по коллекциям"
 	},
 	"bio": {
 		"joined": "Присоединился",
 		"account_id": "Идентификатор учетной записи",
 		"about_me": "Обо мне",
 		"more": "Более",
-		"less": "Меньше",
+		"less": "Свернуть",
 		"links": "Ссылки",
 		"edit_bio": "Изменить биографию",
 		"cancel": "Отмена",
-		"placeholder": "Расскажите историю о своем профиле",
+		"placeholder": "Расскажите о себе",
 		"edit": "Редактировать"
 	},
 	"action_logo_cover": {
@@ -43,21 +43,21 @@
 		"not_allowed_edit": "У вас нет прав на редактирование, если у вас раньше не было обложки"
 	},
 	"followers": "{{count}} подписчиков",
-	"following": "{{count}} Подписано",
+	"following": "{{count}} подписок",
 	"edit": {
 		"edit_profile": "Редактировать профиль",
 		"cancel_edit": "Отмена",
 		"form": {
 			"display_status_label": "Отображаемый статус",
-			"bio_label": "Он был",
+			"bio_label": "Описание",
 			"bio_placeholder": "Расскажите нам о себе...",
-			"twitter_label": "Профиль в Твиттере",
+			"twitter_label": "Профиль в Twitter",
 			"twitter_placeholder": "https://twitter.com/имя пользователя",
 			"twitter_error": "Пожалуйста, введите только свое имя пользователя Twitter",
-			"instagram_label": "Профиль в Инстаграм",
+			"instagram_label": "Профиль в Instagram",
 			"instagram_placeholder": "https://instagram.com/имя пользователя",
 			"instagram_error": "Пожалуйста, введите только свое имя пользователя в Instagram",
-			"weibo_label": "Вейбо",
+			"weibo_label": "Weibo",
 			"weibo_placeholder": "Введите URL-адрес Weibo...",
 			"weibo_error": "Пожалуйста, введите действительный URL-адрес weibo",
 			"website_label": "Ваш сайт",
@@ -65,15 +65,15 @@
 			"website_error": "Пожалуйста, введите действительный URL-адрес веб-сайта"
 		},
 		"privacy": {
-			"label": "Настройки конфиденциальности",
+			"label": "Конфиденциальность",
 			"option": {
-				"private_likes": "Сделать мои лайки приватными",
-				"private_following": "Сделать мою подписку приватной",
-				"show_loyalty_frame": "Показывать мою рамку лояльности в моем профиле"
+				"private_likes": "Скрыть отметки Нравиться",
+				"private_following": "Скрыть мои Подписки",
+				"show_loyalty_frame": "Показывать рамку лояльности в моем профиле"
 			}
 		},
 		"success_update_toast": "Успешно Обновлено",
 		"error_update_toast": "Что-то пошло не так, повторите попытку позже",
-		"button_update": "Обновлять"
+		"button_update": "Обновить"
 	}
 }
