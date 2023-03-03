@@ -5,71 +5,71 @@
 		"following": "Tiếp theo"
 	},
 	"tabs": {
-		"cards": "thẻ",
-		"collections": "bộ sưu tập",
-		"bio": "Anh ấy đã",
+		"cards": "Thẻ",
+		"collections": "Bộ sưu tập",
+		"bio": "Thông tin",
 		"followers": "Người theo dõi",
-		"following": "Tiếp theo",
+		"following": "Đang theo dõi",
 		"liked": "Đã thích",
-		"publication": "Sự xuất bản"
+		"publication": "Tác phẩm"
 	},
 	"cards": {
 		"search_placeholder": "Tìm kiếm NFT...",
 		"search_placeholder_collection": "Tìm kiếm trong bộ sưu tập",
-		"filter_reset": "Nghỉ ngơi",
+		"filter_reset": "Đặt lại",
 		"filter_apply": "Áp dụng",
 		"filter_no_collection": "Không có bộ sưu tập",
 		"filter_by_collection": "Lọc theo bộ sưu tập"
 	},
 	"bio": {
-		"joined": "đã tham gia",
+		"joined": "Đã tham gia",
 		"account_id": "ID tài khoản",
 		"about_me": "Về tôi",
-		"more": "Hơn",
+		"more": "Xem thêm",
 		"less": "Ít hơn",
-		"links": "liên kết",
+		"links": "Liên kết",
 		"edit_bio": "Chỉnh sửa tiểu sử",
 		"cancel": "Hủy bỏ",
 		"placeholder": "Kể một câu chuyện về hồ sơ của bạn",
-		"edit": "Biên tập"
+		"edit": "Sửa"
 	},
 	"action_logo_cover": {
 		"profile_cover": "Bìa hồ sơ",
 		"zoom": "Phóng",
-		"straighten": "duỗi thẳng",
+		"straighten": "Làm phẳng",
 		"upload": "Tải lên",
-		"edit": "Biên tập",
+		"edit": "Sửa",
 		"save_cover": "Lưu bìa",
 		"not_allowed_edit": "Bạn không có quyền chỉnh sửa nếu bạn không có ảnh bìa trước đó"
 	},
 	"followers": "{{count}} người theo dõi",
-	"following": "{{count}} Đang theo dõi",
+	"following": "{{count}} đang theo dõi",
 	"edit": {
 		"edit_profile": "Chỉnh sửa hồ sơ",
 		"cancel_edit": "Hủy bỏ",
 		"form": {
 			"display_status_label": "Trạng thái hiển thị",
-			"bio_label": "Anh ấy đã",
+			"bio_label": "Thông tin",
 			"bio_placeholder": "Nói cho chúng tôi biết về bạn...",
 			"twitter_label": "Hồ sơ Twitter",
 			"twitter_placeholder": "https://twitter.com/username",
 			"twitter_error": "Vui lòng chỉ nhập tên người dùng twitter của bạn",
 			"instagram_label": "Hồ sơ Instagram",
 			"instagram_placeholder": "https://instagram.com/username",
-			"instagram_error": "Vui lòng chỉ nhập tên người dùng instagram của bạn",
-			"weibo_label": "weibo",
-			"weibo_placeholder": "Nhập địa chỉ weibo...",
-			"weibo_error": "Vui lòng nhập url weibo hợp lệ",
+			"instagram_error": "Vui lòng chỉ nhập tên người dùng Instagram của bạn",
+			"weibo_label": "Weibo",
+			"weibo_placeholder": "Nhập địa chỉ Weibo...",
+			"weibo_error": "Vui lòng nhập url Weibo hợp lệ",
 			"website_label": "Trang web của bạn",
 			"website_placeholder": "Nhập URL trang web",
 			"website_error": "Vui lòng nhập url trang web hợp lệ"
 		},
 		"privacy": {
-			"label": "Cài đặt cá nhân",
+			"label": "Cài đặt quyền riêng tư",
 			"option": {
 				"private_likes": "Đặt lượt thích của tôi ở chế độ riêng tư",
-				"private_following": "Đặt thông tin sau của tôi ở chế độ riêng tư",
-				"show_loyalty_frame": "Hiển thị khung trung thành của tôi trên hồ sơ của tôi"
+				"private_following": "Không hiển thị công khai những người tôi đang theo dõi",
+				"show_loyalty_frame": "Hiển thị khung Loyalty trên hồ sơ"
 			}
 		},
 		"success_update_toast": "Cập nhật thành công",

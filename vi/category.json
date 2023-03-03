@@ -1,26 +1,26 @@
 {
 	"button": {
 		"join_event": "Tham gia sự kiện",
-		"submit_category": "gửi đến danh mục",
+		"submit_category": "Gửi đến mục",
 		"learn more": "Tìm hiểu thêm"
 	},
 	"tooltip": {
-		"submit_new_card": "Gửi bằng thẻ mới",
-		"submit_existing_card": "Gửi bằng thẻ hiện có"
+		"submit_new_card": "Gửi thẻ mới",
+		"submit_existing_card": "Gửi thẻ hiện có"
 	},
 	"stats": {
 		"event_period": "Thời gian sự kiện",
-		"curated_by": "Giám tuyển bởi",
+		"curated_by": "Chọn bởi",
 		"status": {
-			"upcoming": "Sắp tới sau {{date}}",
-			"open": "Mở cho đến {{date}}",
-			"closed": "đã đóng"
+			"upcoming": "Sắp tới {{date}}",
+			"open": "Mở đến {{date}}",
+			"closed": "Đã đóng"
 		}
 	},
 	"existingCard": {
 		"titleModal": "{{title}}",
 		"descModal": "{{desc}}",
-		"c4c_desc": "Người phụ trách sẽ xem xét việc gửi thẻ của bạn. Chỉ những thẻ đáp ứng các yêu cầu của Card4Card mới được hiển thị bên dưới."
+		"c4c_desc": "Người phụ trách đang xem xét thẻ của bạn. Chỉ những thẻ đáp ứng các yêu cầu của Card4Card mới được hiển thị."
 	},
 	"common": {
 		"no_eligible_cards": "Không có thẻ đủ điều kiện trong bộ sưu tập này",
@@ -31,17 +31,17 @@
 		"submit": "Nộp",
 		"cancel": "Hủy bỏ",
 		"all_categories": "Tất cả danh mục",
-		"select_cards": "Thẻ đã chọn của bạn",
+		"select_cards": "Thẻ bạn đã chọn",
 		"select_all": "Chọn tất cả"
 	},
 	"messages": {
-		"success": "Cảm ơn bạn đã gửi của bạn. Gửi thẻ thành công.",
+		"success": "Cảm ơn bạn. Đã gửi thẻ thành công.",
 		"error": "Đã xảy ra lỗi, hãy thử lại sau.",
-		"maxSubmit": "Không thể gửi nhiều hơn 30 mặt hàng.",
-		"limitQuota": "Rất tiếc, bạn đã đạt đến giới hạn gửi 100 mục mỗi ngày cho danh mục {{type}}."
+		"maxSubmit": "Không thể gửi nhiều hơn 30 thẻ.",
+		"limitQuota": "Rất tiếc, bạn đã đạt đến giới hạn gửi 100 mục mỗi ngày cho mục {{type}}."
 	},
 	"login_category": {
-		"need_login": "Bạn cân đăng nhập",
+		"need_login": "Bạn cần đăng nhập",
 		"connect_wallet": "Kết nối ví của bạn để tham gia hoặc gửi danh mục"
 	}
 }
