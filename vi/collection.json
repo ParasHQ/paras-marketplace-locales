@@ -121,5 +121,7 @@
 		"owner": "Người sở hữu",
 		"total_items": "{{count}} mục",
 		"creator": "Nhà sáng tạo"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px",
+  "logo_image_minimum": "Logo image must have minimum height and minimum width 320px"
 }

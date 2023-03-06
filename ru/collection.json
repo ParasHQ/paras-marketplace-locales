@@ -121,5 +121,7 @@
 		"owner": "Владелец",
 		"total_items": "{{count}} элементов",
 		"creator": "Автор"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px",
+  "logo_image_minimum": "Logo image must have minimum height and minimum width 320px"
 }

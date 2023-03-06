@@ -75,5 +75,6 @@
 		"success_update_toast": "Успешно Обновлено",
 		"error_update_toast": "Что-то пошло не так, повторите попытку позже",
 		"button_update": "Обновить"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
 }

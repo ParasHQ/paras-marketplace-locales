@@ -75,5 +75,6 @@
     "success_update_toast": "성공적으로 업데이트됨",
     "error_update_toast": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
     "button_update": "업데이트"
-  }
+  },
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
 }

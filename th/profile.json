@@ -75,5 +75,6 @@
 		"success_update_toast": "อัปเดตเรียบร้อยแล้ว",
 		"error_update_toast": "เกิดข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
 		"button_update": "อัปเดต"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
 }
