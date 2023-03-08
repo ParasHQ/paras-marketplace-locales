@@ -1,5 +1,5 @@
 {
-	"get_verified": "Được xác minh",
+	"get_verified": "Yêu cầu xác minh",
 	"verification_form": "Biểu mẫu xác minh",
 	"verification_status": "Trạng thái xác minh",
 	"cancel": "Hủy bỏ",
@@ -8,23 +8,23 @@
 	"success_message": "gửi thành công",
 	"error_message": "Đã xảy ra lỗi, hãy thử lại sau",
 	"requirement": {
-		"introduction": "Là một nghệ sĩ Paras, bạn cần được xác minh để truy cập đầy đủ các tính năng của Paras. Xác minh cung cấp thêm khả năng hiển thị trên thị trường. Hiện tại, NFT của nghệ sĩ chưa được xác minh sẽ không xuất hiện trên nguồn cấp dữ liệu \"thị trường\". Toàn bộ quá trình mất 3-4 ngày.",
-		"steps": "Để được xác minh, bạn chỉ cần thực hiện các bước sau:",
+		"introduction": "Là một nghệ sĩ trên Paras, bạn cần được xác minh để truy cập đầy đủ các tính năng của Paras. Xác minh cung cấp thêm khả năng hiển thị trên chợ. Hiện tại, NFT của nghệ sĩ chưa được xác minh sẽ không xuất hiện trên phần \"Thị trường\". Toàn bộ quá trình này mất 3-4 ngày.",
+		"steps": "Để được xác minh, bạn cần thực hiện các bước sau:",
 		"step_1": "Sử dụng ảnh hồ sơ",
 		"step_2": "Điền vào Tiểu sử của bạn",
-		"step_3": "Liên kết với phương tiện truyền thông xã hội của bạn trên hồ sơ Paras của bạn (Twitter và Instagram)",
+		"step_3": "Liên kết các link mạng xã hội của bạn trên hồ sơ Paras (Twitter và Instagram)",
 		"step_4": "Liên kết đến trang web của bạn (không bắt buộc nhưng sẽ tăng cơ hội được xác minh)",
-		"step_5": "Có tác phẩm nghệ thuật đích thực, bạn không ăn cắp hoặc đã liệt kê tác phẩm của chính mình trên nền tảng khác.",
+		"step_5": "Có tác phẩm nghệ thuật đích thực, không ăn cắp hoặc đã liệt kê tác phẩm của chính mình trên các nền tảng khác.",
 		"step_6": "Bạn cần tạo ít nhất 3 NFT trên Paras.",
-		"introduction_2": "Điều cực kỳ quan trọng cần nhớ là việc trở thành nghệ sĩ đã được xác minh không mang lại cho bạn thành công ngay lập tức.",
-		"introduction_3": "Đó là một phương pháp để giới thiệu bản thân bạn với một cộng đồng Paras lớn hơn."
+		"introduction_2": "Điều cực kỳ quan trọng cần nhớ là việc trở thành nghệ sĩ được xác minh không mang lại cho bạn thành công ngay lập tức.",
+		"introduction_3": "Đó là một phương pháp để giới thiệu bản thân bạn tới cộng đồng Paras."
 	},
 	"form": {
 		"paras_profile_url": "URL hồ sơ Paras",
 		"your_name": "Tên của bạn",
 		"your_name_placehoder": "Nhập tên thật của bạn...",
-		"your_name_error": "xin hãy nhập tên của bạn",
-		"email": "E-mail",
+		"your_name_error": "Xin hãy nhập tên của bạn",
+		"email": "Email",
 		"email_placeholder": "Nhập địa chỉ hợp lệ...",
 		"email_error": "Vui lòng nhập email",
 		"twitter_account": "Tài khoản Twitter",
@@ -34,8 +34,8 @@
 		"instagram": "Instagram",
 		"instagram_placeholder": "https://instagram.com/username",
 		"link_error": "Vui lòng nhập liên kết hợp lệ",
-		"recaptcha_error": "Hình ảnh xác thực là bắt buộc",
-		"quota": "Hạn ngạch"
+		"recaptcha_error": "Mã Captcha là bắt buộc",
+		"quota": "Mức"
 	},
 	"status": {
 		"description_status": "Toàn bộ quá trình xác minh có thể mất 3-4 ngày, được thông báo vào Thứ Tư và Thứ Bảy hàng tuần. Nếu bạn chưa được xác minh thành công, bạn có thể gửi lại trạng thái xác minh trong đợt tiếp theo.",

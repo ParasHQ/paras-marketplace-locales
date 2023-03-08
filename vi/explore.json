@@ -1,5 +1,5 @@
 {
-	"fresh_on_market": "tươi trên thị trường",
+	"fresh_on_market": "Mới ra mắt",
 	"search": "Tìm kiếm: '{{query}}'",
 	"explore_top_collections": "Bộ sưu tập hàng đầu",
 	"explore_featured_collections": "Bộ sưu tập nổi bật",
@@ -9,42 +9,42 @@
 	"explore_publication": "Khám phá ấn phẩm",
 	"last_week": "7 ngày qua",
 	"tab": {
-		"collections": "bộ sưu tập",
-		"cards": "thẻ",
-		"publications": "ấn phẩm",
-		"profiles": "hồ sơ"
+		"collections": "Bộ sưu tập",
+		"cards": "Thẻ",
+		"publications": "Ấn phẩm",
+		"profiles": "Hồ sơ"
 	},
 	"submission": {
 		"nft_title": "Tiêu đề NFT",
 		"collection": "Bộ sưu tập",
 		"creator": "Người sáng tạo",
-		"floor": "Sàn nhà",
+		"floor": "Giá sàn",
 		"price": "Giá",
 		"no_price": "Không có giá",
-		"edition_of": "phiên bản của",
+		"edition_of": "Phiên bản",
 		"button_accept": "Chấp nhận",
 		"button_reject": "Từ chối",
 		"search_placeholder": "Tìm kiếm NFT...",
 		"total": "Tổng cộng: {{total}} NFT",
 		"learn_more": "Tìm hiểu thêm",
-		"verified": "Người tạo đã được xác minh",
+		"verified": "Nhà sáng tạo đã được xác thực",
 		"modal_accept": {
-			"title_one": "Bạn muốn chấp nhận mục {{count}}?",
-			"title_other": "Bạn muốn chấp nhận các mặt hàng {{count}}?",
+			"title_one": "Bạn muốn chấp nhận {{count}}?",
+			"title_other": "Bạn muốn chấp nhận các thẻ {{count}}?",
 			"description_single": "Bạn sẽ chấp nhận thẻ {{card_name}} cho danh mục {{category_name}}.",
 			"description_multiple": "Bạn sẽ chấp nhận thẻ {{count}} cho danh mục {{category_name}}.",
 			"button_accept": "Đúng",
 			"button_reject": "Hủy bỏ"
 		},
 		"modal_reject": {
-			"title_one": "Bạn muốn từ chối mặt hàng {{count}}?",
-			"title_other": "Bạn muốn từ chối {{count}} mặt hàng?",
-			"description_single": "Bạn sẽ từ chối thẻ {{card_name}} cho danh mục {{category_name}}.",
-			"description_multiple": "Bạn sẽ từ chối thẻ {{count}} cho danh mục {{category_name}}.",
+			"title_one": "Bạn muốn hủy {{count}} thẻ?",
+			"title_other": "Bạn muốn từ chối {{count}} thẻ?",
+			"description_single": "Bạn sẽ từ chối thẻ {{card_name}} cho mục {{category_name}}.",
+			"description_multiple": "Bạn sẽ từ chối thẻ {{count}} cho mục {{category_name}}.",
 			"button_accept": "Đúng",
 			"button_reject": "Hủy bỏ"
 		},
-		"button_manage_curation": "Quản lý giám tuyển",
-		"button_exit_manage_curation": "Thoát Quản lý giám tuyển"
+		"button_manage_curation": "Quản lý tuyển chọn",
+		"button_exit_manage_curation": "Thoát Quản lý"
 	}
 }

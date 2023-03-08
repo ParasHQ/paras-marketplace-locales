@@ -3,11 +3,11 @@
 As the Paras community grows globally, https://new.paras.id/ needs to support multiple languages, including:
 
 - Thai (th)
-- Vietnamese (vn)
-- Chinese (ch)
-- Russian (ru)
+- Vietnamese (vi) - [IN PROGRESS]
+- Chinese (ch) 
+- Russian (ru) - [IN PROGRESS]
 - Korean (ko)
-- French (fr)
+- French (fr) - [COMPLETED]
 
 We need to refactor the frontend source code to enable the multi-language feature GitHub - ParasHQ/paras-marketplace-locales and make it easy to translate strings with i18n JSON strings.
 
