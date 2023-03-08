@@ -81,7 +81,7 @@
 		"put_on_market_option": { "no": "Нет", "for_sale": "Продается" },
 		"attributes": "Назначение атрибутов",
 		"new_attribute": "Новый атрибут",
-		"attributes_unset": "Без категории",
+		"attributes_unset": "Без атрибута",
 		"description": "Описание",
 		"description_placeholder": "Сделайте его коротким и интересным, но достаточно длинным, что бы охватить всю суть.",
 		"button": "Сохранить детали",
