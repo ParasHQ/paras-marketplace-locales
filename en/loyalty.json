@@ -15,6 +15,27 @@
 		"paras_loyalty_terms": "Paras Loyalty <Link>Terms & Conditions</Link>"
 	},
 	"rewards": {
+    "buttons": {
+      "register_now": "Register Now",
+      "registered": "Registered",
+      "closed": "Closed"
+    },
+    "weekly_missions": {
+      "mission": "Mission",
+      "title": "{{title}}",
+      "week": "Week",
+      "reward": "Reward",
+      "points": "Points",
+      "go":"Go",
+      "completed": "Completed",
+      "mission_locked": "Mission locked",
+      "status": {
+        "started_yet": "You haven’t started yet.",
+        "successfully": "Your points have been successfully added.",
+        "more": "{{amount}} more to get the reward!",
+        "completed": "Complete the previous mission to unlock."
+      }
+    },
 		"from_paras_top_coll": "NFTs from Paras Top Collections",
 		"platinum_raffle": "Platinum Raffle",
 		"gold_raffle": "Gold Raffle",
