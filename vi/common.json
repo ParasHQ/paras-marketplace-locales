@@ -177,7 +177,7 @@
 		"total_volume": "Tổng khối lượng",
 		"last_week_volume": "Khối lượng tuần trước",
 		"floor": "Giá sàn",
-		"owners": "Những chủ sở hữu",
+		"owners": "Chủ sở hữu",
 		"collection": "Bộ sưu tập",
 		"listed_collection": "Bộ sưu tập được liệt kê",
 		"creator": "Nhà sáng tạo",
@@ -203,7 +203,7 @@
 			"place_an_offer": "Đặt offer",
 			"edit_listing": "Chỉnh sửa danh sách",
 			"lowest_price": "Giá thấp nhất",
-			"min_bid": "Giá bid thấp nhất",
+			"min_bid": "Bid thấp nhất",
 			"start_from": "Bắt đầu từ"
 		},
 		"rarity": "Độ hiếm {{rarity}}",

@@ -24,8 +24,8 @@
 		"total_volume": "Tổng khối lượng",
 		"floor_price": "Giá sàn",
 		"average_price": "Giá trung bình",
-		"listed_items": "Mục đã được liệt kê",
-		"total_items": "Tổng số mặt hàng",
+		"listed_items": "Đang niêm yết",
+		"total_items": "Tổng số item",
 		"total_owners": "Tổng số chủ sở hữu"
 	},
 	"bio": {
@@ -49,9 +49,9 @@
 		"error_update_toast": "Đã xảy ra lỗi, hãy thử lại sau"
 	},
 	"cards": "Thẻ",
-	"about": "Về",
+	"about": "Thông tin",
 	"activity": "Hoạt động",
-	"tracker": "Theo dõi",
+	"tracker": "Tracker",
 	"search": "Tìm kiếm",
 	"search_placeholder": "Tìm NFT...",
 	"filter_attributes": {
@@ -105,7 +105,7 @@
 	"edit_collection_bio": "Chỉnh sửa tiểu sử bộ sưu tập",
 	"tracker_tab": {
 		"floor_price": "Giá sàn",
-		"owners": "Những chủ sở hữu",
+		"owners": "Chủ sở hữu",
 		"token_listed": "Token được niêm yết",
 		"top_owners": "Chủ sở hữu hàng đầu",
 		"today": "Hôm nay",
