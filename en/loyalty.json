@@ -51,7 +51,8 @@
 			"locked_staking": "Locked Staking (LS)",
 			"duration": "Duration",
 			"duration_point": "Duration Point",
-			"total_raffle_point": "Total Raffle Point"
+			"total_raffle_point": "Total Raffle Point",
+			"reward_point": "Reward Point"
 		},
 		"my_ranking": "My Ranking",
 		"only_user": "Only users who have registered for the raffle are displayed on this leaderboard.",
