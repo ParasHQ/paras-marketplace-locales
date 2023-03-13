@@ -156,51 +156,56 @@
 	"terms": {
 		"title": "Terms & Conditions",
 		"1": {
-			"title": "Loyalty level will be determined based on the amount of $PARAS locked staking & the locked staking duration.",
-			"desc": "Users who lock $PARAS for 90 days will get additional raffle points of 25% of the user’s total staking amount."
+			"title": "Loyalty level will be determined based on the amount of $PARAS locked staking & the locked staking duration."
 		},
 		"2": {
 			"title": "Users who stake $PARAS without locking it will be considered Bronze level."
 		},
 		"3": {
-			"title": "During the determined raffle registration period, Silver, Gold, and Platinum members will have a chance to sign up and enter an exclusive raffle."
+			"title": "During the determined raffle registration period (every Tuesday - Sunday), Silver, Gold, and Platinum members will have a chance to sign up and enter weekly raffles."
 		},
 		"4": {
-			"title": "Silver, Gold, and Platinum members can log in to Paras Marketplace, and sign up for the exclusive raffle through a pop-up banner on Paras homepage or a raffle registration notification."
+			"title": "The duration points will be valid until the end of each Paras Loyalty campaign period."
 		},
 		"5": {
-			"title": "Silver, Gold, and Platinum members have to click ‘Sign Up’ on the pop-up banner or the notification box to join the exclusive raffle."
+			"title": "The reward points from weekly missions will be refreshed (back to 0) on every Tuesday at 00:00 UTC+0."
 		},
 		"6": {
-			"title": "Silver, Gold, and Platinum members who are eligible to join the raffle but do not click the ‘Sign Up’ button on the pop-up banner or the notification box will not be included in the raffle."
+			"title": "Silver, Gold, and Platinum members can log in to Paras Marketplace, and sign up for the exclusive raffle through the pop-up banner on Paras homepage, raffle registration notification, Paras Loyalty landing page."
 		},
 		"7": {
-			"title": "Users whose loyalty membership level drop after signing up for a raffle will be automatically enrolled in the raffle for their current level. However, if the users' membership level drops to Bronze, they will not be included in any raffle."
+			"title": "Silver, Gold, and Platinum members have to click ‘Sign Up’ on the pop-up banner, the notification box, or Paras Loyalty landing page to join the exclusive raffle."
 		},
 		"8": {
-			"title": "Silver and Gold members who top up their locked staking and level up during the raffle registration period are eligible to re-register for the higher level raffle. If they do not sign up for the new level, they will be automatically enrolled in the previous level (Silver or Gold)."
+			"title": "Silver, Gold, and Platinum members who are eligible to join the raffle but do not click the ‘Sign Up’ button on the pop-up banner or the notification box will not be included in the raffle."
 		},
 		"9": {
-			"title": "1 (one) user can only win 1 (one) raffle prize per month."
+			"title": "Users whose loyalty membership level drop after signing up for a raffle will be automatically enrolled in the raffle for their current level. However, if the users' membership level drops to Bronze, they will not be included in any raffle."
 		},
-		"10": {
-			"title": "More details about locked staking:",
-			"sub": {
-				"1": "Locked staking does not allow users to unlock before the end date of the locked staking period.",
-				"2": "When users top up the locked staking amount, the period will be reset.",
-				"3": "When users do not unstake their $PARAS after the locked staking period ends, the $PARAS will automatically move into flexible staking within 1x24 hours after the locked staking period ends.",
-				"4": "Users can do locked staking without reducing their $PARAS on the flexible staking by using the remaining $PARAS in their wallet.",
-				"5": "Users can directly put the existing $PARAS in their wallet into locked staking without joining the flexible staking.",
-				"6": "The amount of 'Claimable Rewards' on the staking page is an accumulation of flexible staking and locked staking rewards. Users can claim the rewards without unlocking $PARAS."
-			}
-		},
-		"11": {
-			"title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
-		},
+    "10": {
+      "title": "Silver and Gold members who top up their locked staking and level up during the raffle registration period are eligible to re-register for the higher level raffle. If they do not sign up for the new level, they will be automatically enrolled in the previous level (Silver or Gold)."
+    },
+    "11": {
+      "title": "1 (one) user can only win 1 (one) raffle prize throughout the whole campaign period."
+    },
     "12": {
-      "title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+      "title": "More details about locked staking:",
+      "sub": {
+        "1": "Locked staking does not allow users to unlock before the end date of the locked staking period.",
+        "2": "When users top up the locked staking amount, the period will be reset.",
+        "3": "When users do not un-stake their $PARAS after the locked staking period ends, the $PARAS will automatically move into flexible staking within 1x24 hours after the locked staking period ends.",
+        "4": "Users can do locked staking without reducing their $PARAS on the flexible staking by using the remaining $PARAS in their wallet.",
+        "5": "Users can directly put the existing $PARAS in their wallet into locked staking without joining the flexible staking.",
+        "6": "The amount of 'Claimable Rewards' on the staking page is an <Bold>accumulation</Bold> of flexible staking and locked staking rewards. Users can claim the rewards without unlocking $PARAS."
+      }
     },
     "13": {
+      "title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
+    },
+    "14": {
+      "title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+    },
+    "15": {
       "title": "Paras’ decision regarding the raffle and the winner list is considered final and cannot be appealed nor contested."
     }
 	},
