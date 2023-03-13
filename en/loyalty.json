@@ -107,21 +107,37 @@
 				"title": "Is there any benefit of locking for 90 days instead of 30 days?",
 				"desc": "Yes. You will get additional raffle points of 25% of your total staking amount."
 			},
-			"3": {
+      "3": {
+        "title": "<Span>[NEW]</Span> How do I get the reward points?",
+        "desc_1": "To get reward points, you have to complete the weekly missions. There are two types of weekly missions, Regular & Premium, and each mission consists of 3 sub-missions. After completing one sub-mission, the next one will be automatically unlocked.",
+        "desc_2": "Once the weekly mission period ends, your total reward points will be calculated based on the biggest reward points percentage from each mission you have completed.",
+        "desc_3": "For example:",
+        "desc_4": "Total locked-staking: 15,000 $PARAS\nLocked staking period: 90 days",
+        "desc_5": "Week 1<br/><b>Regular mission</b><br/>Sub-missions:<br/>1. Like 5 NFTs, reward point 3% <green>(completed)</green><br />2. Like 25 NFTs, reward point 7% <green>(completed)</green><br/>3. Like 50 NFTs, reward point 10% <red>(incomplete)</red>",
+        "desc_6": "<b>Premium mission</b><br/>Sub-missions:<br/>1. Buy 1 NFT, reward point 5% <green>(completed)</green><br/>2. Buy 5 NFTs, reward point 10% <green>(completed)</green><br/>3. Buy 10 NFTs, reward point 15% <green>(completed)</green>",
+        "desc_7": "<b>Reward points</b><br/>Regular mission: 15,000 x 7%= 1,050<br/>Premium mission: 15,000 x 15%= 2,250<br/>Total reward points: 3,300",
+        "desc_8": "<b>Duration Points</b><br/>15,000 x 25%= 3,750",
+        "desc_9": "Total Raffle Points<br/>15,000 + 3,300 + 3,750= 22,050"
+      },
+      "4": {
+        "title": "<Span>[NEW]</Span> How long are the additional points valid?",
+        "desc": "The duration points will be valid until the end of each Paras Loyalty campaign period, while the reward points from weekly missions will be refreshed (back to 0) every Tuesday at 00:00 UTC+0."
+      },
+			"5": {
 				"title": "What does it mean to have a Bronze member badge?",
 				"desc": "Bronze level is for users who lock less than 500 $PARAS."
 			},
-			"4": {
+			"6": {
 				"title": "I am a platinum member. How do I sign up for the raffles?",
 				"desc_1": "You can check the raffle registration mechanism & period <Link>above.</Link>",
 				"desc_2": "During each loyalty progra period, you will be able to sign up on a predetermined date.",
 				"desc_3": "Silver, Gold, and Platinum members will receive a pop-up message or notification to sign up for the raffle during the registration period."
 			},
-			"5": {
+			"7": {
 				"title": "Do I have to do the flexible staking before locking my $PARAS?",
 				"desc": "No, you can directly put the existing $PARAS in your wallet into locked staking without joining the flexible staking."
 			},
-			"6": {
+			"8": {
 				"title": "How do I claim the locked staking rewards?",
 				"desc": "The amount of 'Claimable Rewards' on the staking page is an accumulation of your flexible staking and locked staking rewards. You can claim the rewards without unstaking your $PARAS."
 			}
