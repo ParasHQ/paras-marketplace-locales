@@ -1,7 +1,8 @@
 {
 	"tabs": {
 		"overview": "Overview",
-		"rewards": "Rewards",
+    "raffle_period": "Raffle Period",
+    "weekly_missions": "Weekly Missions",
 		"leaderboard": "Leaderboard",
 		"mechanism": "Mechanism",
 		"faq": "FAQs",
@@ -34,7 +35,9 @@
         "successfully": "Your points have been successfully added.",
         "more": "{{amount}} more to get the reward!",
         "completed": "Complete the previous mission to unlock."
-      }
+      },
+      "period_ended": "The period has ended. Wait for upcoming programs to begin.",
+      "register_for_weekly": "Register for the weekly raffle to unlock the weekly missions"
     },
 		"from_paras_top_coll": "NFTs from Paras Top Collections",
 		"platinum_raffle": "Platinum Raffle",
