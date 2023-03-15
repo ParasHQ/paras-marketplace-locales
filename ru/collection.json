@@ -74,7 +74,7 @@
 		"auto_swap_tooltip": "Автоматически меняйте местами проданные или исключенные из списка предметы во время подметания.",
 		"on": "Вкл.",
 		"off": "Выкл.",
-		"cart": "Тележка для уборки пола",
+		"cart": "Корзина груповой покупки",
 		"see_details": "Смотрите подробности",
 		"hide_details": "Скрыть детали",
 		"total_purchase": "Общая сумма покупки",
@@ -122,6 +122,6 @@
 		"total_items": "{{count}} элементов",
 		"creator": "Автор"
 	},
-  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px",
-  "logo_image_minimum": "Logo image must have minimum height and minimum width 320px"
+  "cover_image_minimum": "Изображение обложки должно иметь минимальную высоту 200px и минимальную ширину 800px",
+  "logo_image_minimum": "Логотип должен иметь минимальную высоту и минимальную ширину 320px"
 }

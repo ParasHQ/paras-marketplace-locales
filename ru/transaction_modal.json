@@ -10,7 +10,7 @@
 	"no_price": "Нет цены",
 	"free": "Бесплатно",
 	"transfer": {
-		"no_token_owned": "Токен не принадлежит",
+		"no_token_owned": "Токен без владельца",
 		"select": "Выбирать",
 		"input_label_transfer": "Перевод на идентификатор аккаунта",
 		"input_error": "Пожалуйста, введите действительный идентификатор рядом с аккаунтом",
@@ -39,8 +39,8 @@
 	},
 	"place_offer": {
 		"rarity": "Редкость {{score}}",
-		"min_offer_error": "Минимум 0,01",
-		"max_offer_error": "Максимум - ваш баланс",
+		"min_offer_error": "Минимум 0.01",
+		"max_offer_error": "Не должно привышать ваш баланс",
 		"current_price": "Текущая цена",
 		"your_offer": "Ваше предложение",
 		"your_balance": "Ваш баланс",
@@ -49,7 +49,7 @@
 		"update_offer": "Обновить предложение"
 	},
 	"trading": {
-		"title": "Торговая карта",
+		"title": "Обмен картами",
 		"desc": "Ниже отображаются только карточки от проверенного создателя",
 		"rarity": "Редкость {{score}}",
 		"no_card": "В этой коллекции нет карт от проверенных авторов",
@@ -91,7 +91,7 @@
 		"success_toast": "Успешное отклонения предложения"
 	},
 	"accept_trade": {
-		"card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
+		"card_trade_from": "<semibold>Обмен картами <semibold/> от<semibold> {{buyerId}}</semibold>",
 		"in": "в",
 		"this_card_flagged": "Эта карточка помечена как {{flag}}",
 		"with_your_card": "С вашей картой",
@@ -102,7 +102,7 @@
 		"reject_trade": "Отклонить сделку"
 	},
 	"reject_trade": {
-		"card_trade_from": "<semibold>Карточная торговля<semibold/> от<semibold> {{buyerId}}</semibold>",
+		"card_trade_from": "<semibold>Обмен картами <semibold/> от<semibold> {{buyerId}}</semibold>",
 		"in": "в",
 		"this_card_flagged": "Эта карточка помечена как {{flag}}",
 		"with_your_card": "С вашей картой",
@@ -178,8 +178,8 @@
 			"transfer": "Карта отправлена на {{accountId}}",
 			"remove_auction": "Аукцион удален",
 			"remove_listing": "Список удален",
-			"accept_trade": "Торговля NFT принята",
-			"add_trade": "Добавить торговый успех",
+			"accept_trade": "Обмен NFT принято",
+			"add_trade": "Предложение успешно отправлено",
 			"accept_offer": "Предложение принято",
 			"accept_bid": "Ставка принята",
 			"remove_bid": "Ставка удалена",
