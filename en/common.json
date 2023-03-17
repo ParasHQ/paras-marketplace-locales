@@ -161,7 +161,9 @@
 		"notification_raffle_mission_unlocked": "You have unlocked new mission: {{mission_name}}",
 		"notification_raffle_mission_unlocked_detail": "Complete the mission now!",
 		"notification_raffle_weekly_mission_reminder": "Get up to {{mission_reward}}% additional raffle points for Paras Loyalty!!",
-		"notification_raffle_weekly_mission_reminder_detail": "Check the missions now 👉 <linkLoyalty>Loyalty</linkLoyalty>"
+		"notification_raffle_weekly_mission_reminder_detail": "Check the missions now 👉 <linkLoyalty>Loyalty</linkLoyalty>",
+    "notification_raffle_mission_complete_all": "Congrats! You've completed {{mission_action}} missions!",
+    "notification_raffle_mission_complete_all_detail": "You get {{mission_reward}}% additional raffle points."
 	},
 	"footer": {
 		"tagline": "Create, Trade, and Collect Digital Collectibles. All-in-one \n social NFT marketplace for creators and collectors.",
