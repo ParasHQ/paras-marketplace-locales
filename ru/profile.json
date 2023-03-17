@@ -9,17 +9,17 @@
 		"collections": "Коллекции",
 		"bio": "Обо мне",
 		"followers": "Подписчики",
-		"following": "Подписка",
+		"following": "Подписки",
 		"liked": "Понравилось",
-		"publication": "Публикация"
+		"publication": "Публикации"
 	},
 	"cards": {
 		"search_placeholder": "Поиск NFT...",
 		"search_placeholder_collection": "Поиск в коллекциях",
-		"filter_reset": "Отдых",
-		"filter_apply": "Применять",
+		"filter_reset": "Сброс",
+		"filter_apply": "Применить",
 		"filter_no_collection": "Нет коллекций",
-		"filter_by_collection": "Фильтровать по коллекциям"
+		"filter_by_collection": "Фильтр по коллекциям"
 	},
 	"bio": {
 		"joined": "Присоединился",
@@ -76,5 +76,5 @@
 		"error_update_toast": "Что-то пошло не так, повторите попытку позже",
 		"button_update": "Обновить"
 	},
-  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
+  "cover_image_minimum": "Изображение обложки должно иметь минимальную высоту 200px и минимальную ширину 800px"
 }

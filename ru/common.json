@@ -188,11 +188,11 @@
 		"last_7_days_volume": "Объем за последние 7 дней",
 		"created": "Создан",
     "delete_modal": {
-      "title": "Are you sure you want to delete this collection?",
-      "description": "Once deleted, you cannot undo this process.",
-      "button_delete": "Yes",
-      "button_cancel": "Cancel",
-      "success_toast": "{{count}} collection removed"
+      "title": "Вы уверены, что хотите удалить эту коллекцию?",
+      "description": "После удаления вы не сможете отменить этот процесс.",
+      "button_delete": "Да",
+      "button_cancel": "Отмена",
+      "success_toast": "{{count}} коллекция удалена"
     }
 	},
 	"card": {
@@ -206,8 +206,8 @@
 		"card_text": {
 			"price": "Цена",
 			"place_an_offer": "Отправить предложение",
-			"edit_listing": "Изменить список",
-			"lowest_price": "Низшая цена",
+			"edit_listing": "Радактировать",
+			"lowest_price": "Минимальная цена",
 			"min_bid": "Мин. ставка",
 			"start_from": "Начать с"
 		},
@@ -222,7 +222,7 @@
 		"button_report": "Отчет",
 		"button_buy": "Купить сейчас",
 		"button_place_an_offer": "Отправить предложение",
-		"button_edit_listing": "Изменить список",
+		"button_edit_listing": "Радактировать",
 		"button_bid": "Сделать ставку",
 		"button_mint": "Отчеканить",
 		"button_buy_short": "Купить",
