@@ -10,7 +10,7 @@
 	},
 	"overview": {
 		"title": "Join Paras Loyalty &\n Get Excellent Reward!",
-		"desc": "Paras loyalty is a special program created to\nappreciate $PARAS stakers by giving exclusive\naccess to limited raffles.",
+		"desc": "Paras loyalty is a special program created to appreciate $PARAS stakers by giving exclusive access to <bold>weekly raffles</bold> on <bold>28 Mar - 24 Apr 2023.</bold>",
 		"button_start_locked_staking": "Start Locked Staking",
 		"button_learn_more": "Learn More",
 		"paras_loyalty_terms": "Paras Loyalty <Link>Terms & Conditions</Link>"
@@ -19,7 +19,9 @@
     "buttons": {
       "register_now": "Register Now",
       "registered": "Registered",
-      "closed": "Closed"
+      "closed": "Closed",
+      "remind_me": "Remind Me",
+      "reminded": "Reminded"
     },
     "weekly_missions": {
       "mission": "Mission",
@@ -31,6 +33,7 @@
       "completed": "Completed",
       "mission_locked": "Mission locked",
       "status": {
+        "early_locked": "Get ready for the next mission",
         "started_yet": "You haven’t started yet.",
         "successfully": "Your points have been successfully added.",
         "more": "{{amount}} more to get the reward!",
@@ -53,9 +56,9 @@
 			"username": "Username",
 			"locked_staking": "Locked Staking (LS)",
 			"duration": "Duration",
-			"duration_point": "Duration Point",
-			"total_raffle_point": "Total Raffle Point",
-			"reward_point": "Reward Point"
+			"duration_point": "Duration Points",
+			"total_raffle_point": "Total Raffle Points",
+			"reward_point": "Reward Points"
 		},
 		"my_ranking": "My Ranking",
 		"only_user": "Only users who have registered for the raffle are displayed on this leaderboard.",
@@ -68,6 +71,7 @@
 		"gold_member": "Gold Members",
 		"platinum_member": "Platinum Members",
 		"days": "days",
+    "new": "NEW!",
 		"loyalty_cycle": {
 			"cycle_1": {
 				"title": "Loyalty level will be determined based on the amount of $PARAS locked & the locked staking duration.",
@@ -75,12 +79,12 @@
 				"paras_locked": "Minimum amount of $PARAS locked",
 				"locked_staking": "Minimum locked staking duration",
 				"info": {
-					"title": "If users at Silver, Gold, or Platinum level lock for <b>90 days</b>, they will get additional point:",
-					"desc": "<Span>25%</Span> from user’s locked staking amount"
+					"title": "Silver, Gold, or Platinum members who lock $PARAS for <b>90 days</b>, will get additional point:",
+					"desc": "<Span>25%</Span> from user’s total locked staking amount"
 				}
 			},
 			"cycle_2": {
-				"title": "Silver, Gold, and Platinum members will have a chance to sign up and enter an exclusive raffle during the loyalty program period.",
+				"title": "Silver, Gold, and Platinum members will have a chance to enter weekly raffles by signing up every Tuesday - Sunday on 22 Mar - 24 Apr 2023.",
 				"desc_1": "Silver, Gold, and Platinum members can log in to <Link>Paras Marketplace</Link>, and sign up to the exclusive raffle through a whitelisted pop-up banner that will appear on the home screen.",
 				"desc_2": "If you’re missing the pop-up banner, check your notification box and look for the raffle announcement. Click ‘Sign Up’ to join the exclusive raffle."
 			},
@@ -97,7 +101,7 @@
 			}
 		},
 		"please_check": "Please check the <Link>Terms & Conditions of Paras Loyalty</Link>.",
-		"join_paras_loyalty": "Join Paras Loyalty & Get Excellent Reward!"
+		"join_paras_loyalty": "Join Paras Loyalty & Win Weekly Raffles!"
 	},
 	"faq": {
 		"title": "FAQs",
@@ -116,7 +120,7 @@
         "desc_1": "To get reward points, you have to complete the weekly missions. There are two types of weekly missions, Regular & Premium, and each mission consists of 3 sub-missions. After completing one sub-mission, the next one will be automatically unlocked.",
         "desc_2": "Once the weekly mission period ends, your total reward points will be calculated based on the biggest reward points percentage from each mission you have completed.",
         "desc_3": "For example:",
-        "desc_4": "Total locked-staking: 15,000 $PARAS\nLocked staking period: 90 days",
+        "desc_4": "Total locked-staking: 15,000 $PARAS<br/>Locked staking period: 90 days",
         "desc_5": "Week 1<br/><b>Regular mission</b><br/>Sub-missions:<br/>1. Like 5 NFTs, reward point 3% <green>(completed)</green><br />2. Like 25 NFTs, reward point 7% <green>(completed)</green><br/>3. Like 50 NFTs, reward point 10% <red>(incomplete)</red>",
         "desc_6": "<b>Premium mission</b><br/>Sub-missions:<br/>1. Buy 1 NFT, reward point 5% <green>(completed)</green><br/>2. Buy 5 NFTs, reward point 10% <green>(completed)</green><br/>3. Buy 10 NFTs, reward point 15% <green>(completed)</green>",
         "desc_7": "<b>Reward points</b><br/>Regular mission: 15,000 x 7%= 1,050<br/>Premium mission: 15,000 x 15%= 2,250<br/>Total reward points: 3,300",
@@ -134,7 +138,7 @@
 			"6": {
 				"title": "I am a platinum member. How do I sign up for the raffles?",
 				"desc_1": "You can check the raffle registration mechanism & period <Link>above.</Link>",
-				"desc_2": "During each loyalty progra period, you will be able to sign up on a predetermined date.",
+				"desc_2": "During each loyalty program period, you will be able to sign up on a predetermined date.",
 				"desc_3": "Silver, Gold, and Platinum members will receive a pop-up message or notification to sign up for the raffle during the registration period."
 			},
 			"7": {
