@@ -10,12 +10,15 @@
 	"no_price": "No Price",
 	"free": "Free",
 	"transfer": {
-		"no_token_owned": "No token owned",
+		"you_dont_have_token": "You don’t have any tokens from this series.",
 		"select": "Select",
 		"input_label_transfer": "Transfer to Account ID",
 		"input_error": "Please enter valid near account id",
 		"input_placeholder_transfer": "Account ID",
-		"transfer": "Transfer"
+		"transfer": "Transfer",
+    "rarity": "Rarity {{score}}",
+    "choose_your_token": "Choose Your Token Edition",
+    "want_buy_it": "Want to buy it first?"
 	},
 	"burn": {
 		"youre_about_burn": "You are about to burn {{title}}",
