@@ -107,7 +107,7 @@
 		"notification_raffle_type_drop_bronze_and_deactive_detail": "You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
 		"notification_raffle_type_drop_not_bronze_and_deactive": "<semibold>Your level has dropped to Bronze!</semibold>",
 		"notification_raffle_type_drop_not_bronze_and_deactive_detail": "You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
-		"notification_sign_up": "Sign Up for {{currLevel}} Raffle Now!",
+		"notification_sign_up": "Sign Up For The Week 1 {{currLevel}} Raffle Now!",
 		"notification_sign_up_detail": "Click 'Sign Up' & get a chance to win exclusive rewards for {{currLevel}} member.",
 		"notification_endsoon_sign_up": "Raffle Registration for week {{currWeek}} Will END SOON!",
 		"notification_endsoon_sign_up_detail": "Click 'Sign Up' now to enter the raffle & get a chance to win excellent rewards.",
