@@ -10,7 +10,7 @@
 	},
 	"overview": {
 		"title": "Join Paras Loyalty &\n Get Excellent Reward!",
-		"desc": "Paras loyalty is a special program created to appreciate $PARAS stakers by giving exclusive access to <bold>weekly raffles</bold> on <bold>28 Mar - 24 Apr 2023.</bold>",
+		"desc": "Paras loyalty is a special program created to appreciate $PARAS stakers by giving exclusive access to <bold>weekly raffles</bold> on <bold>4 Apr - 1 May 2023.</bold>",
 		"button_start_locked_staking": "Start Locked Staking",
 		"button_learn_more": "Learn More",
 		"paras_loyalty_terms": "Paras Loyalty <Link>Terms & Conditions</Link>"
@@ -84,13 +84,13 @@
 				}
 			},
 			"cycle_2": {
-				"title": "Silver, Gold, and Platinum members will have a chance to enter weekly raffles by signing up every Tuesday - Sunday on 28 Mar - 24 Apr 2023.",
+				"title": "Silver, Gold, and Platinum members will have a chance to enter weekly raffles by signing up every Tuesday - Sunday on 4 Apr - 1 May 2023.",
 				"desc_1": "Silver, Gold, and Platinum members can log in to <Link>Paras Marketplace</Link>, and sign up to the exclusive raffle through a whitelisted pop-up banner that will appear on the home screen.",
 				"desc_2": "If you’re missing the pop-up banner, check your notification box and look for the raffle announcement. Click ‘Sign Up’ to join the exclusive raffle."
 			},
 			"cycle_3": {
 				"title": "All Silver, Gold, and Platinum members who has signed up for the raffle will be put into separate raffle pools.",
-				"desc": "The more $PARAS you lock & the longer your locked staking period, the higher your probability to win the raffle."
+				"desc": "Lock as much $PARAS as possible, set locked-staking duration to the longest, and <Span>complete all weekly missions</Span> to get a higher probability of winning the raffle!"
 			},
 			"cycle_4": {
 				"title": "Each raffle pool will have different rewards.",
