@@ -95,6 +95,9 @@
 		"rank": "Rank",
 		"rarity_score_rank": "Rank / Rarity Score",
 		"creator_royalty": "Creator Royalty",
+    "creators": "Creators",
+    "royalty_alloc": "Royalty Allocation",
+    "no_royalties": "This NFT has no royalties",
 		"tootlip_creator_royalty": "Percentage from each sale allocated to support creators."
 	},
 	"other_card": {

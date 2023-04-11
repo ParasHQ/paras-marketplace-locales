@@ -26,7 +26,7 @@
 		"average_price": "Giá trung bình",
 		"listed_items": "Đang niêm yết",
 		"total_items": "Tổng số item",
-		"total_owners": "Tổng số chủ sở hữu"
+		"total_owners": "Tổng chủ sở hữu"
 	},
 	"bio": {
 		"created": "Tạo",
@@ -121,5 +121,7 @@
 		"owner": "Người sở hữu",
 		"total_items": "{{count}} mục",
 		"creator": "Nhà sáng tạo"
-	}
+	},
+  "cover_image_minimum": "Ảnh Cover phải có kích thước tối thiểu 200px*800px",
+  "logo_image_minimum": "Ảnh Logo phải có kích thước ngang dọc tối thiểu 320px"
 }

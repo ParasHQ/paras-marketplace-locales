@@ -186,7 +186,14 @@
 		"button_add_card": "เพิ่มการ์ด",
 		"button_edit_collection": "แก้ไขคอลเลกชัน",
 		"last_7_days_volume": "ปริมาณ 7 วันล่าสุด",
-		"created": "สร้าง"
+		"created": "สร้าง",
+    "delete_modal": {
+      "title": "Are you sure you want to delete this collection?",
+      "description": "Once deleted, you cannot undo this process.",
+      "button_delete": "Yes",
+      "button_cancel": "Cancel",
+      "success_toast": "{{count}} collection removed"
+    }
 	},
 	"card": {
 		"open_offer": "เปิดข้อเสนอ",

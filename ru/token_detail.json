@@ -9,22 +9,22 @@
 		"publications": "Публикации"
 	},
 	"banner_image": {
-		"share": "Делиться",
+		"share": "Поделиться",
 		"copy_link": "Копировать ссылку",
 		"play": "ИГРАТЬ"
 	},
 	"top_info": {
 		"three_dots": {
 			"burn_nft": "Сжечь NFT",
-			"transfer_nft": "Перевод NFT",
+			"transfer_nft": "Отправить NFT",
 			"offer_nft": "Предложение через NFT",
 			"see_token_series": "См. серию токенов",
-			"report_card": "Табель успеваемости"
+			"report_card": "Жалоба"
 		},
 		"sale_type": {
 			"on_auction": "На аукционе",
-			"start_from": "Начать с",
-			"on_sale": "В продаже"
+			"start_from": "Начало с",
+			"on_sale": "На продаже"
 		},
 		"bidding_price_type": {
 			"high_bid": "Самая высокая ставка",
@@ -37,16 +37,16 @@
 			"summary_bid": "Суммарная ставка",
 			"since": "с начала",
 			"place_recent_bid": "Сделать последнюю ставку",
-			"bid": "Делать ставку",
-			"start_bid": "Начать ставку",
-			"place_bid": "сделать ставку",
-			"no_bid": "На данный момент нет претендента"
+			"bid": "Ставка",
+			"start_bid": "Начальная ставка",
+			"place_bid": "Сделать ставку",
+			"no_bid": "На данный момент нет претендентов"
 		},
 		"offer_list": {
-			"active_offering": "Активное предложение",
-			"regular": "Обычный",
-			"trade_with_card": "Торговля с картой",
-			"active_offers": "активное предложение",
+			"active_offering": "Активные предложения",
+			"regular": "Обычные",
+			"trade_with_card": "Обмен картами",
+			"active_offers": "активных предложений",
 			"no_offer": "Нет предложения на данный момент",
 			"highest_offer": "Самое высокое предложение",
 			"offer_higher": "Предложение выше",
@@ -55,26 +55,26 @@
 			"send_offer": "отправить предложение",
 			"accept": "Принимать",
 			"delete": "Удалить",
-			"no_trade": "На данный момент торга нет",
+			"no_trade": "На данный момент обмена нет",
 			"highest": "Наибольший",
 			"volume": "Объем",
 			"by": "к",
 			"lowest": "Самый низкий",
 			"cancel": "Отмена"
 		},
-		"mint_nft": "Как NFT",
-		"creator": "Создатель",
+		"mint_nft": "Чеканить NFT",
+		"creator": "Автор",
 		"verified_creator": "Подтвержденный автор",
 		"collection": "Коллекция",
 		"top_collection": "Топовая коллекция",
-		"make_own_offer": "Сделайте свое собственное предложение",
+		"make_own_offer": "Отправить собственное предложение",
 		"no_price": "Нет цены",
 		"free": "Бесплатно"
 	},
 	"price_history": {
 		"avg_price": "Средняя цена",
 		"no_price": "На данный момент нет цены",
-		"all_time": "Все время",
+		"all_time": "Всё время",
 		"1day": "1 день",
 		"7days": "7 дней",
 		"1month": "1 месяц",
@@ -92,21 +92,21 @@
 		"nft_edition_copies": "Издание NFT / Копии",
 		"tooltip_nft_edition_copies": "Количество копий этой карты",
 		"rarity_score": "Оценка редкости",
-		"rank": "Классифицировать",
-		"rarity_score_rank": "Ранг/Оценка редкости",
-		"creator_royalty": "Создатель Роялти",
-		"tootlip_creator_royalty": "Процент от каждой продажи, предназначенный для поддержки авторов."
+		"rank": "Ранг",
+		"rarity_score_rank": "Ранг / Оценка редкости",
+		"creator_royalty": "Роялти автора",
+		"tootlip_creator_royalty": "Процент с каждой продажи направляется на поддержку автора."
 	},
 	"other_card": {
 		"same_collection": "Та же коллекция",
 		"see_collection": "Посмотреть коллекцию",
-		"other_creator": "Другое от создателя",
-		"creators_profile": "Профиль создателя"
+		"other_creator": "Другое от автора",
+		"creators_profile": "Профиль автора"
 	},
 	"attributes": {
 		"attributes": "Атрибуты",
 		"rarity_score": "Оценка редкости",
-		"rank": "Классифицировать",
+		"rank": "Ранг",
 		"rank_rarity_score": "Ранг {{rank}}, показатель редкости {{rarityScore}}",
 		"no_attributes": "Нет атрибутов",
 		"rarity": "редкость"
@@ -115,30 +115,30 @@
 		"sort_by": "Сортировать по",
 		"sort_lowest_price": "Низшая цена",
 		"sort_highest_price": "Самая высокая цена",
-		"sort_lowest_edition": "Самая низкая версия",
+		"sort_lowest_edition": "Самое низкое издание",
 		"sort_highest_edition": "Высшее издание",
-		"sort_az": "Имя пользователя AZ",
-		"sort_za": "Имя пользователя ЗА",
+		"sort_az": "Имя пользователя A-Z",
+		"sort_za": "Имя пользователя Z-A",
 		"owners": "Владелец",
 		"no_owners": "Владельцев нет, стань первым",
 		"on_auction": "На аукционе",
 		"on_sale": "В продаже",
 		"staked": "Ставки",
 		"not_for_sale": "Не продается",
-		"update": "Обновлять",
+		"update": "Обновить",
 		"buy": "Купить"
 	},
 	"histories": {
-		"history": "Истории",
+		"history": "История",
 		"no_history": "На данный момент нет истории",
-		"put_on_auction": "выставить на аукцион",
-		"add_bid_for": "добавить ставку для",
+		"put_on_auction": "выставил на аукцион",
+		"add_bid_for": "добавил ставку для",
 		"cancel_bid_from_auction": "отменить ставку с аукциона",
-		"put_on_sale": "выставить на продажу за",
-		"added_offer_nft_trade": "добавлено предложение NFT trade",
-		"deleted_offer_nft_trade": "удалено предложение NFT trade",
-		"accept_nft_trade": "принятая сделка NFT",
-		"remove_from_sale": "снять с продажи",
+		"put_on_sale": "выставил на продажу за",
+		"added_offer_nft_trade": "добавил предложение NFT trade",
+		"deleted_offer_nft_trade": "удалил предложение NFT trade",
+		"accept_nft_trade": "принял сделку NFT trade",
+		"remove_from_sale": "снял с продажи",
 		"staked_to": "поставлен на кон",
 		"bought_from": "купил у",
 		"for": "для",
@@ -147,14 +147,14 @@
 		"burned": "сгорел",
 		"accept_offer": "принято предложение от",
 		"with_auction_for": "с аукционом на",
-		"transferred_to": "перемещенный в",
+		"transferred_to": "переданный",
 		"series_created_by": "Серия создана",
 		"creator_put_series_not_sale": "Создатель выставил сериал не для продажи",
 		"creator_put_series_sale_for": "Создатель выставил сериал на продажу за",
 		"creator_put_series_nonmintable": "Создатель поместил серию в неминтабле",
 		"creator_decrease_series": "Создатель уменьшает количество копий серии до",
-		"add_offer_for": "добавлено предложение для",
-		"removed_for": "удаленное предложение"
+		"add_offer_for": "добавил предложение для",
+		"removed_for": "удалил предложение"
 	},
 	"description": {
 		"description": "Описание",
@@ -164,8 +164,8 @@
 		"token_info": "Информация о токене",
 		"smart_contract": "Смарт-контракт",
 		"image_link": "Ссылка на изображение",
-		"locked_fee": "Заблокированная плата",
-		"tooltip_locked_fee": "Это текущая комиссия за заблокированную транзакцию. Каждое обновление цены NFT также будет обновлять значение в соответствии с глобальной комиссией за транзакцию.",
+		"locked_fee": "Заблокированный сбор",
+		"tooltip_locked_fee": "Это текущая фиксированная комиссия за транзакцию. Каждое обновление цены NFT также будет обновлять значение в соответствии с глобальной комиссией за транзакцию.",
 		"token_id": "Идентификатор токена",
 		"token_series_id": "Идентификатор серии токенов"
 	},
