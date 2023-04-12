@@ -94,7 +94,7 @@
 		"rarity_score": "Điểm hiếm có",
 		"rank": "Thứ hạng",
 		"rarity_score_rank": "Xếp hạng / Điểm hiếm",
-		"creator_royalty": "tiền bản quyền của người sáng tạo",
+		"creator_royalty": "Tiền bản quyền của người sáng tạo",
 		"tootlip_creator_royalty": "Tỷ lệ phần trăm từ mỗi lần bán hàng được phân bổ để hỗ trợ người sáng tạo."
 	},
 	"other_card": {
@@ -170,7 +170,7 @@
 		"token_series_id": "ID token series"
 	},
 	"publications": {
-		"publications": "An phẩm",
+		"publications": "Ấn phẩm",
 		"no_publication": "Không có ấn phẩm tại thời điểm này"
 	}
 }
