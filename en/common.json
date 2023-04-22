@@ -468,14 +468,14 @@
 		"description": "Create, Trade, and Collect Digital Collectibles. All-in-one social NFT marketplace for creators and collectors. Discover the best and latest NFT collectibles on NEAR."
 	},
 	"mint_calendar": {
-		"dyor": "This project is not an endorsement from Paras or a guarantee of listing on Paras post-mint. Dates may be subject to change. Please ‘Do Your Own Research (DYOR)’. <DYORLink>How to DYOR<DYORLink>",
+		"dyor": "This project is not an endorsement from Paras or a guarantee of listing on Paras post-mint. Dates may be subject to change. Please ‘Do Your Own Research (DYOR)’. <DYORLink>How to DYOR</DYORLink>",
 		"button_remind_me": "Remind me on email",
 		"button_share": "Share",
 		"button_mint": "Mint Here",
 		"email_not_added": "You need to add your email in \"Settings\" \nbefore you can receive notification.",
 		"go_to_setting": "Go to settings",
 		"status": {
-			"soon": "Minting on {{date}} UTC",
+			"soon": "Minting on ",
 			"live": "Live Minting end in {{days}}d {{hours}}h {{mins}}m {{secs}}s",
 			"end": "Minting ends"
 		},
