@@ -2,8 +2,8 @@
   "hero": {
     "title": "최고의 마켓플레이스",
     "subtitle": "디지털 수집 가능한 NFT",
-    "description": "<text>NFT를 구매, 판매 및 생성할 수 있는 올인원 소셜 플랫폼에 오신 것을 환영합니다.</text><NearLink> 가까운 프로토콜</NearLink>",
-    "primary_button": "탐구하다",
+    "description": "<text>NFT를 구매, 판매 및 생성할 수 있는 올인원 소셜 플랫폼에 오신 것을 환영합니다.</text><NearLink> 니어 프로토콜</NearLink>",
+    "primary_button": "탐구하기",
     "secondary_button": "더 알아보기"
   },
   "featured_collection": "추천 컬렉션",
@@ -20,7 +20,7 @@
   "guide": {
     "1": {
       "title": "파라스의 새로운 기능?",
-      "description": "Paras는 다음을 사용하는 제작자 및 수집가를 위한 올인원 소셜 NFT 마켓플레이스입니다.<DescLink> 월렛 근처</DescLink>",
+      "description": "Paras는 다음을 사용하는 제작자 및 수집가를 위한 올인원 소셜 NFT 마켓플레이스입니다.<DescLink> 지갑 근처</DescLink>",
       "button": "회사 소개"
     },
     "2": {
@@ -30,8 +30,8 @@
     },
     "3": {
       "title": "이익을 얻고 싶습니까?",
-      "description": "가장 희귀하고 가장 원하는 NFT 컬렉션을 사냥하고<DescLink> 에이펙스 컬렉터</DescLink>",
-      "button": "가까운 지갑 연결"
+      "description": "가장 희귀하고 가장 원하는 NFT 컬렉션을 구하고 <DescLink> 에이펙스 컬렉터</DescLink> 가 되세요.",
+      "button": "니어 지갑 연결"
     },
     "4": {
       "title": "당신이 보는 것과 같이?",

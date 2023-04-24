@@ -1,20 +1,20 @@
 {
   "button": {
-    "join_event": "이벤트 참여",
-    "submit_category": "카테고리에 제출",
+    "join_event": "이벤트 참여하기",
+    "submit_category": "카테고리에 제출힉;",
     "learn more": "더 알아보기"
   },
   "tooltip": {
-    "submit_new_card": "새 카드로 제출",
-    "submit_existing_card": "기존 카드로 제출"
+    "submit_new_card": "새 카드로 제출하기",
+    "submit_existing_card": "기존 카드로 제출하기"
   },
   "stats": {
     "event_period": "이벤트 기간",
     "curated_by": "큐레이터",
     "status": {
-      "upcoming": "{{date}}에 예정",
-      "open": "{{date}}까지 영업",
-      "closed": "닫은"
+      "upcoming": "{{date}}에 오픈 예정",
+      "open": "{{date}}에 오픈",
+      "closed": "종료"
     }
   },
   "existingCard": {
@@ -28,14 +28,14 @@
     "no_cards_basic": "이 컬렉션에 카드가 없습니다.",
     "want_create": "<Span>카드를 만들고 싶습니까?</span>",
     "aggree_card_sumbission": "나는 <Span>Card4Card 메커니즘</span> 에 동의합니다",
-    "submit": "제출하다",
-    "cancel": "취소",
+    "submit": "제출하기",
+    "cancel": "취소하기",
     "all_categories": "모든 카테고리",
     "select_cards": "선택한 카드",
-    "select_all": "모두 선택"
+    "select_all": "모두 선택하기"
   },
   "messages": {
-    "success": "당신의 의견에 대해 감사합니다. 카드 제출 성공.",
+    "success": "제출해주셔서 감사합니다. 카드 제출에 성공하였습니다.",
     "error": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
     "maxSubmit": "30개 이상의 항목을 제출할 수 없습니다.",
     "limitQuota": "죄송합니다. {{type}} 카테고리의 일일 제출 한도인 100개 항목에 도달했습니다."
