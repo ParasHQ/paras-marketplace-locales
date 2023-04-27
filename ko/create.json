@@ -20,39 +20,39 @@
     "discord_placeholder": "https://discord.gg/invite",
     "website": "웹사이트",
     "website_placeholder": "사이트 URL...",
-    "button": "계속하다",
-    "button_edit": "구하다",
+    "button": "계속하기",
+    "button_edit": "저장하기",
     "link_error": "유효한 링크를 입력하십시오"
   },
   "guide": {
     "1": {
       "title": "최고의 이름을 선택하세요. 영구적입니다.",
-      "description": "컬렉션 이름은 게시된 후 영구적입니다. 또한 컬렉션을 삭제할 수 없습니다. 그러나 여전히 다른 정보를 편집할 수 있습니다.<DescLink> 아티스트 가이드</DescLink>"
+      "description": "컬렉션 이름은 영구적입니다. 또한 컬렉션을 삭제할 수 없습니다. 그러나 여전히 다른 정보를 편집할 수 있습니다.<DescLink> 아티스트 가이드</DescLink>"
     },
     "2": {
-      "title": "파일을 올바르게 설정하십시오",
+      "title": "파일을 올바르게 설정하십시오.",
       "description": "귀하의 이름을 기본 제목으로 설정했습니다. 게시하기 전에 편집할 수 있습니다. 그 후 카드의 제목과 파일은 영구적입니다."
     },
     "3": {
-      "title": "할당된 속성 준비",
+      "title": "할당된 속성을 비교하십시오.",
       "description": "속성은 카드가 가지고 있는 특성입니다. 희소성 점수와 순위를 생성하기 위해 계산됩니다. 속성은 카드에 영구적입니다."
     },
     "4": {
-      "title": "카드 정보를 꼼꼼하게",
+      "title": "카드 정보를 자세하게 설명하십시오.",
       "description": "카드가 '판매용'으로 등록되면 사람들이 직접 카드를 구매하고 소유할 수 있습니다. 따라서 게시하기 전에 카드 세부 정보를 확인하십시오."
     }
   },
-  "set_cover": "엄폐물 설정",
+  "set_cover": "커버 설정",
   "add_card": "카드 추가({{total}})",
   "form_attribute": {
     "attributes": "속성",
     "close": "닫다",
     "new_attribute": "새 속성",
-    "edit": "편집하다",
-    "button_save": "구하다",
+    "edit": "편집하기",
+    "button_save": "구하기",
     "button_value": "값",
     "value": "값",
-    "value_placeholder": "새로운 가치...",
+    "value_placeholder": "새로운 값...",
     "value_error": "값이 필요합니다.",
     "label": "상표",
     "label_placeholder": "예: 배경색",
@@ -64,7 +64,7 @@
     "cancel": "취소",
     "title": "제목",
     "title_placeholder": "카드 제목",
-    "royalty": "왕족",
+    "royalty": "로열티",
     "royalty_add_account": "계정을 추가",
     "royalty_account_label": "NEAR의 계정 ID",
     "royalty_account_placeholder": "계정 ID",
@@ -101,11 +101,11 @@
     "title": "카드 만들기 썸네일",
     "description": "카드에 오디오, 3D 모델 또는 재생 가능한 Iframe 유형이 있는 경우 NFT 카드의 썸네일 이미지를 업로드해야 합니다.",
     "thumbnail": "카드 썸네일:",
-    "button_submit": "제출하다",
+    "button_submit": "제출하기",
     "button_cancel": "취소"
   },
   "fill": "채우다",
-  "edit": "편집하다",
+  "edit": "편집하기",
   "sale": "판매용 {{price}}",
   "not_filled": "세부정보를 입력해야 합니다.",
   "attributes_count": "속성({{count}})",
@@ -133,14 +133,14 @@
       "search_collection_name": "컬렉션 이름 검색",
       "sort_by": "정렬 기준",
       "sort_recently_created": "최근에 생성됨",
-      "sort_alphabetic_az": "알파벳순(AZ)",
-      "sort_alphabetic_za": "알파벳(ZA)",
+      "sort_alphabetic_az": "알파벳 순(AZ)",
+      "sort_alphabetic_za": "알파벳 역순(ZA)",
       "sort_highest_volume": "최고 볼륨",
       "sort_most_owner": "대부분의 소유자",
-      "sort_highest_floor_price": "최고 하한가",
-      "sort_lowest_floor_price": "최저 가격",
+      "sort_highest_floor_price": "최고 가격순",
+      "sort_lowest_floor_price": "최저 가격순",
       "collection_name": "컬렉션 이름",
-      "continue": "계속하다",
+      "continue": "계속하기",
       "select_collection_first": "컬렉션을 먼저 선택하세요.",
       "you_dont_have_collection": "아직 컬렉션이 없습니다.",
       "want_to_create_collection": "컬렉션을 만들고 싶습니까?"

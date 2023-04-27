@@ -71,5 +71,5 @@
     "teaser_required": "티저가 필요합니다."
   },
   "delete": "삭제",
-  "text_editor": { "title": "제목", "placeholder": "이야기를하다..." }
+  "text_editor": { "title": "제목", "placeholder": "이야기 하기..." }
 }
