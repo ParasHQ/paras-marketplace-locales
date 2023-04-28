@@ -539,5 +539,6 @@
 			"button_submit": "Send Feedback",
 			"button_cancel": "Cancel"
 		}
-	}
+	},
+  "slow_indexer_info": "Our server is still catching up with the latest activity. The recent transaction may be delayed. Please <Link>refresh</Link> the page to see updated transactions"
 }
