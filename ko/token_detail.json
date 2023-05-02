@@ -3,43 +3,43 @@
     "overview": "개요",
     "attributes": "속성",
     "owners": "소유자",
-    "history": "역사",
+    "history": "토큰 히스토리",
     "description": "설명",
     "token_info": "토큰 정보",
-    "publications": "간행물"
+    "publications": "출판물"
   },
   "banner_image": {
     "share": "공유하기",
     "copy_link": "링크 복사",
-    "play": "놀다"
+    "play": "재생"
   },
   "top_info": {
     "three_dots": {
-      "burn_nft": "소각 NFT",
+      "burn_nft": "NFT 소각",
       "transfer_nft": "NFT 전송",
-      "offer_nft": "NFT를 통한 제공",
+      "offer_nft": "내NFT와 교환 제안하기",
       "see_token_series": "토큰 시리즈 보기",
-      "report_card": "성적표"
+      "report_card": "이 카드 신고하기"
     },
     "sale_type": {
       "on_auction": "경매 중",
-      "start_from": "에서 시작하기",
+      "start_from": "최소 제안 가격",
       "on_sale": "판매 중"
     },
     "bidding_price_type": {
-      "high_bid": "최고 입찰가",
+      "high_bid": "최고 제시가",
       "start_bid": "입찰 시작"
     },
     "bidding_list": {
       "auction_history": "경매 내역",
-      "auction_ends_in_token": "경매가 {{days}}일, {{hours}} {{mins}} {{secs}}s 후에 종료됩니다.",
-      "auction_ends_in_token_series": "일부 에디션 경매 중",
-      "summary_bid": "요약 입찰",
-      "since": "시작부터",
-      "place_recent_bid": "최근 입찰하기",
-      "bid": "매기다",
+      "auction_ends_in_token": "경매가 {{days}}일, {{hours}}시간 {{mins}}분 {{secs}}초 후에 종료됩니다.",
+      "auction_ends_in_token_series": "일부 에디션 경매 중입니다.",
+      "summary_bid": "경매 정보",
+      "since": "경매 등록 가격",
+      "place_recent_bid": "최근 제시가",
+      "bid": "제시",
       "start_bid": "입찰 시작",
-      "place_bid": "입찰하기",
+      "place_bid": "제시하기",
       "no_bid": "현재 입찰자 없음"
     },
     "offer_list": {
