@@ -142,7 +142,8 @@
 			"max_reduce_error": "Le nombre de copies doit être inférieur ou égal au total des Mint",
 			"min_reduce_error": "Le nombre de copies doit être supérieur ou égal a 0",
 			"reduce_copies": "Réduire les copies",
-			"remaining_copies": "Copies restantes: {{remainingCopies}}"
+			"remaining_copies": "Copies restantes: {{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "Lister sur le Marché ?",

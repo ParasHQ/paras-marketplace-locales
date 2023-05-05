@@ -142,7 +142,8 @@
 			"max_reduce_error": "Максимальное число должно быть меньше или равно общему монетному двору",
 			"min_reduce_error": "Минимальное число должно быть больше или равно 0",
 			"reduce_copies": "Сократить количество копий",
-			"remaining_copies": "Осталось копий: {{remainingCopies}}"
+			"remaining_copies": "Осталось копий: {{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "Выложить на продажу?",

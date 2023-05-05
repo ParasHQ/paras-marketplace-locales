@@ -160,7 +160,8 @@
 			"max_reduce_error": "Reduce number must be less than or equal to total mint",
 			"min_reduce_error": "Reduce number must be greater than or equal to 0",
 			"reduce_copies": "Reduce Copies",
-			"remaining_copies": "Remaining copies: {{remainingCopies}}"
+			"remaining_copies": "Remaining copies: {{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "Put on Marketplace?",
