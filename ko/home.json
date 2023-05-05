@@ -3,14 +3,14 @@
     "title": "최고의 마켓플레이스",
     "subtitle": "디지털 수집 가능한 NFT",
     "description": "<text>NFT를 구매, 판매 및 생성할 수 있는 올인원 소셜 플랫폼에 오신 것을 환영합니다.</text><NearLink> 니어 프로토콜</NearLink>",
-    "primary_button": "탐구하기",
+    "primary_button": "탐색하기",
     "secondary_button": "더 알아보기"
   },
   "featured_collection": "추천 컬렉션",
-  "activity_you_follow": "팔로우하는 활동",
+  "activity_you_follow": "팔로우 활동",
   "top_collection": {
-    "title": "최상위 컬렉션",
-    "last_7_d": "지난 7일",
+    "title": "인기 컬렉션",
+    "last_7_d": "지난 일주일",
     "more": "더보기"
   },
   "mint_calendar": "민트 캘린더",
@@ -19,22 +19,22 @@
   "apex_collectior": { "title": "에이펙스 수집가", "more": "더보기" },
   "guide": {
     "1": {
-      "title": "파라스의 새로운 기능?",
-      "description": "Paras는 다음을 사용하는 제작자 및 수집가를 위한 올인원 소셜 NFT 마켓플레이스입니다.<DescLink> 지갑 근처</DescLink>",
+      "title": "파라스의 새로운 기능은 무엇인가요?",
+      "description": "Paras는 <DescLink> NEAR Wallet </DescLink>를 사용하는 제작자 및 수집가를 위한 올인원 소셜 NFT 마켓플레이스입니다.",
       "button": "회사 소개"
     },
     "2": {
-      "title": "삽화가 있습니까?",
+      "title": "작품활동을 하고 있습니까?",
       "description": "작품이나 프로젝트를 NFT로 공유하고 판매 및 향후 로열티 수수료로 이익을 얻습니다.",
       "button": "지금 시작"
     },
     "3": {
-      "title": "이익을 얻고 싶습니까?",
+      "title": "수익을 얻고 싶습니까?",
       "description": "가장 희귀하고 가장 원하는 NFT 컬렉션을 구하고 <DescLink> 에이펙스 컬렉터</DescLink> 가 되세요.",
       "button": "니어 지갑 연결"
     },
     "4": {
-      "title": "당신이 보는 것과 같이?",
+      "title": "당신도 참여할 수 있습니다!",
       "description": "Paras에서 페이지를 공유하여 좋아하는 아티스트를 지원하세요. 더 많이 볼수록 아티스트는 명성을 얻게 됩니다.",
       "button": "파라스 둘러보기"
     }
