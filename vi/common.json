@@ -195,7 +195,8 @@
       "button_delete": "Xác nhận",
       "button_cancel": "Hủy bỏ",
       "success_toast": "{{count}} bộ sưu tập đã xóa"
-    }
+    },
+    "burn_all_cards": "Burn all cards within the collection first"
 	},
 	"card": {
 		"open_offer": "Mở offer",

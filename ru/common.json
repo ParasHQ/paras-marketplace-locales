@@ -193,7 +193,8 @@
       "button_delete": "Да",
       "button_cancel": "Отмена",
       "success_toast": "{{count}} коллекция удалена"
-    }
+    },
+    "burn_all_cards": "Burn all cards within the collection first"
 	},
 	"card": {
 		"open_offer": "Открыт для предложения",

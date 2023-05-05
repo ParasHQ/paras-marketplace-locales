@@ -215,7 +215,8 @@
       "button_delete": "Yes",
       "button_cancel": "Cancel",
       "success_toast": "{{count}} collection removed"
-    }
+    },
+    "burn_all_cards": "Burn all cards within the collection first"
 	},
 	"card": {
 		"open_offer": "Open Offer",
