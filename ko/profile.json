@@ -7,49 +7,49 @@
   "tabs": {
     "cards": "카드",
     "collections": "컬렉션",
-    "bio": "정보",
+    "bio": "자기소개",
     "followers": "팔로워",
     "following": "팔로잉",
     "liked": "좋아요",
     "publication": "출판"
   },
   "cards": {
-    "search_placeholder": "NFT 검색...",
-    "search_placeholder_collection": "컬렉션에서 검색",
-    "filter_reset": "나머지",
-    "filter_apply": "적용하기",
+    "search_placeholder": "Search NFTs...",
+    "search_placeholder_collection": "Search in Collections...",
+    "filter_reset": "초기화",
+    "filter_apply": "적용",
     "filter_no_collection": "컬렉션 없음",
-    "filter_by_collection": "컬렉션으로 필터링"
+    "filter_by_collection": "컬렉션 필터"
   },
   "bio": {
-    "joined": "가입",
+    "joined": "가입일",
     "account_id": "계정 ID",
-    "about_me": "내 정보",
-    "more": "더",
-    "less": "더 적은",
-    "links": "연결",
-    "edit_bio": "정보 편집",
+    "about_me": "자기소개",
+    "more": "펼치기",
+    "less": "줄이기",
+    "links": "다른 사이트",
+    "edit_bio": "자기소개 편집",
     "cancel": "취소",
-    "placeholder": "프로필에 대한 이야기를 들려주세요.",
-    "edit": "편집하기"
+    "placeholder": "자기소개를 적어주세요.",
+    "edit": "편집"
   },
   "action_logo_cover": {
-    "profile_cover": "프로필 표지",
-    "zoom": "줌",
-    "straighten": "바르게 되다",
+    "profile_cover": "프로필 배경",
+    "zoom": "확대",
+    "straighten": "회전",
     "upload": "업로드",
-    "edit": "편집하기",
-    "save_cover": "표지 저장",
-    "not_allowed_edit": "이전에 표지가 없으면 편집 권한이 없습니다."
+    "edit": "편집",
+    "save_cover": "배경 저장",
+    "not_allowed_edit": "표지가 없으면 편집 권한이 없습니다."
   },
-  "followers": "{{count}} 팔로어",
+  "followers": "{{count}} 팔로워",
   "following": "{{count}} 팔로잉",
   "edit": {
     "edit_profile": "프로필 수정",
     "cancel_edit": "취소",
     "form": {
-      "display_status_label": "표시된 상태",
-      "bio_label": "그는 ~였다",
+      "display_status_label": "회원 정보",
+      "bio_label": "자기소개",
       "bio_placeholder": "자신에 대해 알려주세요...",
       "twitter_label": "트위터 프로필",
       "twitter_placeholder": "https://twitter.com/사용자 이름",
@@ -57,24 +57,24 @@
       "instagram_label": "인스타그램 프로필",
       "instagram_placeholder": "https://instagram.com/사용자 이름",
       "instagram_error": "인스타그램 아이디만 입력해주세요",
-      "weibo_label": "웨이보",
-      "weibo_placeholder": "웨이보 URL 입력...",
-      "weibo_error": "유효한 웨이보 URL을 입력하세요.",
+      "weibo_label": "Weibo",
+      "weibo_placeholder": "Weibo URL 입력...",
+      "weibo_error": "유효한 Weibo URL을 입력하세요.",
       "website_label": "귀하의 웹사이트",
       "website_placeholder": "웹사이트 URL 입력",
       "website_error": "유효한 웹사이트 URL을 입력하세요."
     },
     "privacy": {
-      "label": "프라이버시 설정",
+      "label": "개인 정보 설정",
       "option": {
         "private_likes": "내 좋아요를 비공개로 설정",
         "private_following": "내 팔로우를 비공개로 설정",
-        "show_loyalty_frame": "내 프로필에 내 로열티 프레임 표시"
+        "show_loyalty_frame": "내 프로필 아이콘에 등급 표시"
       }
     },
-    "success_update_toast": "성공적으로 업데이트됨",
+    "success_update_toast": "성공적으로 업데이트되었습니다.",
     "error_update_toast": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
-    "button_update": "업데이트"
+    "button_update": "변경"
   },
-  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
+  "cover_image_minimum": "배경 이미지는 최소 가로 800px 세로 200px를 넘어야 합니다."
 }

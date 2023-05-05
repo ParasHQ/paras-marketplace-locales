@@ -2,20 +2,20 @@
   "edition_of": "{{copies}} 에디션, 순위 {{rarityScore}}",
   "you_will_redirected": "거래를 확인하기 위해 지갑으로 리디렉션됩니다.",
   "cancel": "취소",
-  "trade": "거래",
+  "trade": "거래하기",
   "edition_text_internal_token": "NFT | {{edition}} 중 {{copies}}",
   "edition_text_external_token": "NFT | {{edition}}",
   "edition_text_multiple_token_series": "시리즈 | {{edition}} 에디션",
-  "edition_text_1of1_token_series": "오픈 에디션",
+  "edition_text_1of1_token_series": "한정판",
   "no_price": "가격 없음",
   "free": "무료",
   "transfer": {
     "no_token_owned": "소유한 토큰 없음",
     "select": "선택하기",
     "input_label_transfer": "계정 ID로 전송",
-    "input_error": "유효한 근거리 계정 ID를 입력하세요.",
+    "input_error": "유효한 NEAR 계정 ID를 입력하세요.",
     "input_placeholder_transfer": "계정 ID",
-    "transfer": "옮기다"
+    "transfer": "옮기기"
   },
   "burn": {
     "youre_about_burn": "{{title}}을(를) 소각하려고 합니다.",
@@ -29,27 +29,27 @@
   },
   "place_bid": {
     "min_bid_error": "최소값은 min.Bid입니다.",
-    "max_bid_error": "최대 잔액은 귀하의 잔액입니다",
-    "min_bid": "최소 매기다",
+    "max_bid_error": "최대 잔액은 귀하의 잔액입니다.",
+    "min_bid": "최저 입찰 가격",
     "your_balance": "귀하의 잔액",
     "auction_token": "경매 종료<time> {{days}}일, {{hours}}:{{mins}}:{{secs}}</time>",
     "auction_token_series": "일부 에디션 경매 중",
     "place_bid": "입찰하기",
-    "input_label": "당신의 입찰"
+    "input_label": "입찰 가격"
   },
   "place_offer": {
     "rarity": "희소성 {{score}}",
     "min_offer_error": "최소 0.01",
     "max_offer_error": "최대 잔액은 귀하의 잔액입니다",
     "current_price": "현재 가격",
-    "your_offer": "당신의 구매 제안",
+    "your_offer": "귀하의 구매 제안",
     "your_balance": "귀하의 잔액",
     "currently_staked": "이 NFT는 현재 소유자가 스테이킹하고 있습니다.",
     "place_offer": "구매 제안하기",
     "update_offer": "구매 제안 업데이트"
   },
   "trading": {
-    "title": "트레이드 카드",
+    "title": "카드 맞바꾸기",
     "desc": "인증된 크리에이터의 카드만 아래에 표시됩니다.",
     "rarity": "희소성 {{score}}",
     "no_card": "이 컬렉션에는 인증된 크리에이터의 카드가 없습니다.",
@@ -58,30 +58,30 @@
     "all_collections": "모든 컬렉션",
     "submit": "제출하기",
     "cancel": "취소하기",
-    "add_card": "{{type}} 카드"
+    "add_card": "{{type}} 카드 추가"
   },
   "mint": {
     "rarity": "희소성 {{score}}",
-    "mint_to_self": "나 자신에게 발행",
+    "mint_to_self": "나 자신에게 민팅하기",
     "input_label_mint": "계정 ID",
-    "storage_fee": "보관 수수료",
-    "mint": "처럼"
+    "storage_fee": "스토리지 수수료",
+    "mint": "민팅하기"
   },
   "accept_offer": {
-    "offer_from": "<semibold>권하기</semibold> ~에서<semibold> {{buyerId}}</semibold>",
-    "for_card": "카드용<spanSemibold><linkToken> {{title}}</linkToken></spanSemibold> ~에<spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold>",
-    "received_offer": "받은 구매 제안",
+    "offer_from": "<semibold> {{buyerId}}</semibold>에서 <semibold>제안이 들어왔습니다.</semibold>",
+    "for_card": "카드 : <spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold> 의 <spanSemibold><linkToken> {{title}}</linkToken></spanSemibold>",
+    "received_offer": "받은 가격 제안",
     "royalty_artist": "예술가를 위한 로열티",
-    "fee": "요금",
-    "storage_fee": "보관 수수료",
-    "total_received": "받은 총계",
-    "accept_offer": "구매 제안을 받아들이다"
+    "fee": "수수료",
+    "storage_fee": "스토리지 수수료",
+    "total_received": "받을 총 금액",
+    "accept_offer": "수락"
   },
   "reject_offer": {
     "reject_offer": "구매 제안 거부",
     "reject_confirm": {
       "want_to_reject": "{{accountId}}의 구매 제안을 거부하시겠습니까?",
-      "you_are_going_to_reject": "당신은 다음에 대한 구매 제안을 거절할 것입니다.<semibold> {{cardName}}</semibold> 가격으로<semibold> {{amount}}<iconnear/></semibold>",
+      "you_are_going_to_reject": "당신은 다음에 대한 구매 제안을 거절할 것입니다.<semibold> {{cardName}}</semibold> - <semibold> {{amount}}<iconnear/></semibold>",
       "offerer_receive_notif": "<semibold>{{accountId}}</semibold> 구매 제안자는 구매 제안이 거부되었다는 알림을 받게 되며 자유롭게 취소할 수 있습니다.",
       "you_cant_request_reofferer": "재 주문을 요청할 수 없습니다. 거부는 취소할 수 없습니다.",
       "cancel": "취소",
@@ -91,18 +91,18 @@
     "success_toast": "구매 제안을 거부했습니다."
   },
   "accept_trade": {
-    "card_trade_from": "<semibold>카드 거래<semibold/> ~에서<semibold> {{buyerId}}</semibold>",
+    "card_trade_from": "<semibold> {{buyerId}}</semibold>에서 <semibold>카드 거래가 들어왔습니다.<semibold/> ",
     "in": "~에",
     "this_card_flagged": "이 카드는 {{flag}}로 표시되었습니다.",
     "with_your_card": "당신의 카드로",
-    "volume_gap": "볼륨 갭",
+    "volume_gap": "볼륨 차이",
     "your_card_volume": "카드 볼륨",
     "received_card_volume": "받은 카드 볼륨",
     "accept_trade": "거래 수락",
     "reject_trade": "거래 거부"
   },
   "reject_trade": {
-    "card_trade_from": "<semibold>카드 거래<semibold/> ~에서<semibold> {{buyerId}}</semibold>",
+    "card_trade_from": "<semibold> {{buyerId}}</semibold>에서<semibold>카드 거래가 거부되었습니다.<semibold/> ",
     "in": "~에",
     "this_card_flagged": "이 카드는 {{flag}}로 표시되었습니다.",
     "with_your_card": "당신의 카드로",
@@ -110,19 +110,19 @@
     "your_card_volume": "카드 볼륨",
     "received_card_volume": "받은 카드 볼륨",
     "reject_trade": "거래 거부",
-    "i_understand": "나는 위험을 이해하고 수락하기를 원합니다",
+    "i_understand": "나는 위험을 이해하고 수락하기를 원합니다.",
     "success_toast": "거래 거부가 성공적으로 이루어졌습니다.",
     "you_cant_request_reofferer": "재제공을 요청할 수 없습니다. 거부는 취소할 수 없습니다."
   },
   "accept_bid": {
-    "bid_from": "<semibold>매기다<semibold/> ~에서<semibold> {{currentBidder}}</semibold>",
-    "for_card": "카드용<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken> ~에<linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken>",
-    "received_bid": "접수된 입찰",
+    "bid_from": "<semibold> {{currentBidder}}</semibold>에서 <semibold>입찰이 들어왔습니다.<semibold/>",
+    "for_card": "카드 : <linkToken><spanSemibold> {{collection}}</spanSemibold></linkToken> 의 <linkToken><spanSemibold> {{title}}</spanSemibold></linkToken>",
+    "received_bid": "받은 입찰 제안",
     "royalty_artist": "예술가를 위한 로열티",
-    "fee": "요금",
-    "storage_fee": "보관 수수료",
-    "total_received": "받은 총계",
-    "accept_bid": "입찰 수락"
+    "fee": "수수료",
+    "storage_fee": "스토리지 수수료",
+    "total_received": "받을 총 금액",
+    "accept_bid": "수락"
   },
   "cancel_offer": {
     "are_you_sure": "구매 제안을 취소하시겠습니까?",
@@ -135,32 +135,32 @@
   },
   "edit_listing": {
     "min_duration_auction": "경매는 5일 미만이어야 합니다.",
-    "must_future_auction": "경매는 미래에 있어야 합니다.",
+    "must_future_auction": "경매는 미래로 진행해야 합니다.",
     "edit_listing": "목록 수정",
-    "listed": "상장",
+    "listed": "등록되었습니다.",
     "reduce_copies": {
-      "max_reduce_error": "리듀스 숫자는 총 민트보다 작거나 같아야 합니다.",
-      "min_reduce_error": "감소 숫자는 0보다 크거나 같아야 합니다.",
+      "max_reduce_error": "줄이는 숫자는 총 민트보다 작거나 같아야 합니다.",
+      "min_reduce_error": "줄이는 숫자는 0보다 크거나 같아야 합니다.",
       "reduce_copies": "복사본 줄이기",
       "remaining_copies": "남은 사본: {{remainingCopies}}"
     },
     "put_marketplace": {
       "put_marketplace": "마켓플레이스에 올리시겠습니까?",
       "no": "아니요",
-      "for_sale": "매물",
-      "for_auction": "경매를 위해",
+      "for_sale": "판매",
+      "for_auction": "경매",
       "update_price": "가격 업데이트",
       "starting_bid": "입찰 시작",
       "auction_ends": "경매 종료:",
       "equal_to": "동일",
       "receive": "받다",
       "royalty": "로열티",
-      "fee": "요금"
+      "fee": "수수료"
     },
     "update": "업데이트"
   },
   "success_tx_modal": {
-    "button_close": "닫다",
+    "button_close": "닫기",
     "button_see_other_cards": "다른 카드 보기",
     "button_see_profile": "내 프로필로 이동",
     "transaction_hash": "트랜잭션 해시",
@@ -173,13 +173,13 @@
       "bid": "제출된 입찰",
       "edit_listing_auction": "카드 경매 시작",
       "edit_listing_sale": "카드 가격 업데이트됨",
-      "mint": "카드가 성공적으로 발행되었습니다",
-      "trade": "NFT 구매 제안이 제출됨",
+      "mint": "카드가 성공적으로 민팅되었습니다.",
+      "trade": "NFT 교환 제안이 제출되었습니다.",
       "transfer": "{{accountId}}에 카드 전송",
       "remove_auction": "경매 삭제됨",
       "remove_listing": "리스팅이 제거됨",
-      "accept_trade": "NFT 거래 수락",
-      "add_trade": "무역 성공 추가",
+      "accept_trade": "NFT 교환 수락",
+      "add_trade": "교환 성공 추가",
       "accept_offer": "구매 제안 수락됨",
       "accept_bid": "입찰 수락됨",
       "remove_bid": "입찰이 제거됨",
@@ -187,13 +187,13 @@
       "default": "거래 성공"
     },
     "transaction_sub_text": {
-      "mint": "당신은 성공적으로 카드를 발행했습니다",
-      "edit_listing_sale": "가격을 {{price}}(으)로 성공적으로 업데이트했습니다.",
-      "edit_listing_auction": "{{price}}에서 시작하는 경매를 성공적으로 생성했습니다.",
-      "bid": "가격을 {{price}}로 성공적으로 입찰했습니다.",
-      "offer": "가격을 {{price}}로 성공적으로 구매 제안했습니다.",
-      "buy": "{{price}}에서 성공적으로 구매했습니다.",
-      "buy_bulk": "새 카드를 성공적으로 구입했습니다."
+      "mint": "카드를 발행했습니다",
+      "edit_listing_sale": "가격을 {{price}}(으)로 업데이트했습니다.",
+      "edit_listing_auction": "{{price}}에서 시작하는 경매를 생성했습니다.",
+      "bid": "가격을 {{price}}로 입찰했습니다.",
+      "offer": "가격을 {{price}}로 구매 제안했습니다.",
+      "buy": "{{price}}에 구매했습니다.",
+      "buy_bulk": "새 카드를 구입했습니다."
     },
     "h2_text": {
       "create_card": "{{total}}개의 새 카드 추가됨",
@@ -203,7 +203,7 @@
       "you_successfully": "새 카드를 성공적으로 구입했습니다.",
       "you_failed": "선택한 카드는 더 이상 사용할 수 없으므로 요금이 청구되지 않습니다."
     },
-    "nft_still_catching_up": "NFT가 여전히 따라잡는 중입니다. 잠시 기다리거나 이 모달을 닫을 수 있습니다.",
+    "nft_still_catching_up": "NFT를 현재 처리 중입니다.. 잠시 기다리거나 이 모달을 닫을 수 있습니다.",
     "share_text": {
       "one_card": "{{account}}에서 {{creator}}의 {{collection1}} 컬렉션에서 {{title}}을(를) 확인하세요! #parasnft #nftcollectibles #nft",
       "multiple_card_one_collection": "{{account}}에서 {{creator}}가 수집한 {{collection1}}의 모든 NFT를 확인하세요! #parasnft #nftcollectibles #nft",
