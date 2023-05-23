@@ -207,7 +207,7 @@
 		},
 		"transaction_sub_text": {
 			"mint": "You have successfully minted card",
-			"edit_listing_sale": "You have successfully updated the price",
+			"edit_listing_sale": "You have successfully updated the price to {{price}}",
 			"edit_listing_auction": "You have successfully created an auction starting at {{price}}",
 			"bid": "You have successfully bid the price at {{price}}",
 			"offer": "You have successfully offered the price at {{price}}",
