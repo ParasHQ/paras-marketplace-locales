@@ -227,7 +227,7 @@
 		"verified_creator": "Verified Creator",
 		"listed_collection": "Listed Collection",
 		"card_text": {
-			"price": "Price",
+			"price": "",
 			"place_an_offer": "Place an Offer",
 			"edit_listing": "Edit Listing",
 			"lowest_price": "Lowest Price",
