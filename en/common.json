@@ -192,6 +192,10 @@
 		"share_collection_text": "Checkout {{collection}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Checkout {{publication}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
 	},
+  "launchpad": {
+    "title": "Launchpad",
+    "total_supply": "Total Supply"
+  },
 	"collection": {
 		"total_number_nft": "{{total}} NFTs",
 		"total_volume": "Total Volume",
