@@ -16,7 +16,8 @@
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
-		"search_placeholder": "Search collection, NFTs and more..."
+		"search_placeholder": "Search collection, NFTs and more...",
+    "no_results": "No Results Found"
 	},
 	"menu": {
 		"display": "Display",
