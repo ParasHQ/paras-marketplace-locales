@@ -1,0 +1,75 @@
+{
+  "publications": "출판물",
+  "breadcrumbs": {
+    "first": "출판물",
+    "second": "{{breadcrumb}}",
+    "third": "{{pubTitle}}"
+  },
+  "title": "{{pubTitle}}",
+  "description": "{{pubDesc}}",
+  "authorId": "{{authorId}}",
+  "verified": "검증된 제작자",
+  "view_profile": "프로필 보기",
+  "image": "이미지",
+  "video": "동영상",
+  "card": "카드",
+  "collection": "컬렉션",
+  "pub_type": { "community": "커뮤니티", "editorial": "설명" },
+  "comic_type": "만화",
+  "title_page": { "create": "출판물 만들기", "edit": "출판물 편집" },
+  "cancel": "취소",
+  "embedded_collectibles": "출판물의 다른 컬렉션들",
+  "form": {
+    "cover": {
+      "title": "썸네일 업로드",
+      "description": "지원되는 파일: PNG, JPG. 최대 파일 크기: 30MB"
+    },
+    "teaser": {
+      "title": "요약본",
+      "placeholder": "독자를 끌기 위해 짧고 흥미롭게 유지하십시오 ..."
+    },
+    "publish": "게시"
+  },
+  "modal": {
+    "add_video": {
+      "label": "동영상 추가하기",
+      "placeholder": "동영상 URL",
+      "description": "유튜브 영상 링크를 입력해주세요",
+      "button": "동영상 추가"
+    },
+    "add_card": {
+      "label": "출판물에 NFT 추가하기",
+      "placeholder": "토큰의 URL",
+      "description": "https://paras.id/token/x.paras.near::1 토큰 링크를 입력하세요.",
+      "button": "NFT 추가"
+    },
+    "add_collection": {
+      "label": "간행물에 컬렉션 추가하기",
+      "placeholder": "컬렉션의 URL",
+      "description": "컬렉션 링크를 입력하세요 https://paras.id/collection/paradigm",
+      "button": "컬렉션 추가"
+    },
+    "leaving_confirmation": {
+      "label": "이 페이지에서 나가시겠습니까? 업데이트하지 않은 변경사항은 잃게 됩니다.",
+      "button_ok": "네",
+      "button_cancel": "취소"
+    },
+    "delete_publication": {
+      "label": "잠깐만요!",
+      "description": "정말로 {{publication}}의 삭제를 원하십니까?",
+      "button": "삭제하기"
+    }
+  },
+  "error": {
+    "maximum_cards": "최대 {{num}}장의 카드만 추가할 수 있습니다.",
+    "maximum_collections": "최대 {{num}}개의 컬렉션을 추가할 수 있습니다.",
+    "wrong_url": "올바른 URL을 입력하세요.",
+    "already_added_collection": "이 컬렉션은 이미 추가되었습니다.",
+    "maximum_file_size": "최대 파일 크기는 {{num}}MB입니다.",
+    "title_required": "제목을 입력해주세요.",
+    "cover_required": "썸네일을 추가해주세요",
+    "teaser_required": "요약본을 입력해주세요."
+  },
+  "delete": "삭제",
+  "text_editor": { "title": "제목", "placeholder": "내용을 입력해주세요..." }
+}

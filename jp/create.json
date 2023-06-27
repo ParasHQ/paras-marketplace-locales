@@ -1,0 +1,149 @@
+{
+  "create_collection": "컬렉션 만들기",
+  "create_cards": "카드 만들기",
+  "create_card": "카드 만들기",
+  "back": "뒤로가기",
+  "cancel": "취소",
+  "form_collection": {
+    "upload_logo": "로고 업로드",
+    "upload_logo_info": "150px x 150px 지원되는 파일: PNG, GIF, JPG, JPEG",
+    "upload_logo_error": "로고가 필요합니다",
+    "name": "컬렉션 이름",
+    "name_placeholder": "짧고 흥미롭게...",
+    "name_error": "컬렉션 이름은 비워둘 수 없습니다.",
+    "description": "설명",
+    "description_placeholder": "짧지만 이야기를 다루기에 충분하도록 작성하십시오.",
+    "description_error": "컬렉션 설명은 비워둘 수 없습니다.",
+    "twitter": "트위터 계정",
+    "twitter_placeholder": "https://twitter.com/사용자 이름",
+    "discord": "디스코드 채널",
+    "discord_placeholder": "https://discord.gg/invite",
+    "website": "웹사이트",
+    "website_placeholder": "사이트 URL...",
+    "button": "계속하기",
+    "button_edit": "저장하기",
+    "link_error": "유효한 링크를 입력하십시오"
+  },
+  "guide": {
+    "1": {
+      "title": "최고의 이름을 선택하세요. 영구적입니다.",
+      "description": "컬렉션 이름은 영구적입니다. 또한 컬렉션을 삭제할 수 없습니다. 그러나 여전히 다른 정보를 편집할 수 있습니다.<DescLink> 아티스트 가이드</DescLink>"
+    },
+    "2": {
+      "title": "파일을 올바르게 설정하십시오.",
+      "description": "귀하의 이름을 기본 제목으로 설정했습니다. 게시하기 전에 편집할 수 있습니다. 그 후 카드의 제목과 파일은 영구적입니다."
+    },
+    "3": {
+      "title": "할당된 속성을 비교하십시오.",
+      "description": "속성은 카드가 가지고 있는 특성입니다. 희소성 점수와 순위를 생성하기 위해 계산됩니다. 속성은 카드에 영구적입니다."
+    },
+    "4": {
+      "title": "카드 정보를 자세하게 설명하십시오.",
+      "description": "카드가 '판매용'으로 등록되면 사람들이 직접 카드를 구매하고 소유할 수 있습니다. 따라서 게시하기 전에 카드 세부 정보를 확인하십시오."
+    }
+  },
+  "set_cover": "커버 설정",
+  "add_card": "카드 추가({{total}})",
+  "form_attribute": {
+    "attributes": "속성",
+    "close": "닫기",
+    "new_attribute": "새 속성",
+    "edit": "편집하기",
+    "button_save": "저장하기",
+    "button_value": "내용",
+    "value": "내용",
+    "value_placeholder": "내용을 넣어주세요..",
+    "value_error": "값이 필요합니다.",
+    "label": "상표",
+    "label_placeholder": "예: 배경색",
+    "label_error": "라벨이 필요합니다.",
+    "informative_create_attribute": "저장한 속성은 같은 컬렉션의 다음 카드에 사용할 수 있습니다. 카드가 게시된 후에는 할당된 속성을 편집하거나 삭제할 수 없습니다."
+  },
+  "form_card_details": {
+    "card_details": "카드 상세",
+    "cancel": "취소",
+    "title": "제목",
+    "title_placeholder": "카드 제목",
+    "royalty": "로열티",
+    "royalty_add_account": "계정 추가",
+    "royalty_account_label": "NEAR의 계정 ID",
+    "royalty_account_placeholder": "계정 ID",
+    "royalty_amount_label": "로열티 금액",
+    "royalty_amount_placeholder": "10% 20% 30$",
+    "royalty_total": "합계: {{total}}%",
+    "listed": "리스팅하기",
+    "price": "가격",
+    "price_placeholder": "10",
+    "price_dollar": "${{price}}와 같습니다.",
+    "copies": "사본 수",
+    "error_copies_card4card": "에디션은 100부 이상이어야 합니다.",
+    "put_on_market": "마켓플레이스에 올리시겠습니까?",
+    "put_on_market_option": { "no": "아니요", "for_sale": "매물" },
+    "attributes": "속성",
+    "new_attribute": "새 속성",
+    "attributes_unset": "속성 해제",
+    "description": "설명",
+    "description_placeholder": "짧고 흥미롭게 유지하되 이야기를 다룰 수 있을 만큼 충분히 길게...",
+    "button": "세부 정보 저장",
+    "error_accountid_not_found": "계정 아이디가 존재하지 않습니다",
+    "error_max_royalty": "총 로열티는 90%를 초과할 수 없습니다.",
+    "error_input": {
+      "price_required": "가격 금액은 필수 항목입니다.",
+      "minimum_0": "최소 0<iconnear/>",
+      "maximum_card4card_01": "최대 가격은 0.1이어야 합니다.<iconnear/>"
+    },
+    "category": "범주",
+    "category_tooltip": "카테고리를 추가하면 시장에서 카드를 더 쉽게 찾을 수 있습니다. 카테고리를 적용한 후에는 나중에 변경할 수 없습니다.",
+    "unset": "설정 해제",
+    "you_cant_change_category": "카테고리를 변경할 수 없습니다."
+  },
+  "form_thumbnail": {
+    "title": "카드 만들기 썸네일",
+    "description": "카드에 오디오, 3D 모델 또는 재생 가능한 Iframe 유형이 있는 경우 NFT 카드의 썸네일 이미지를 업로드해야 합니다.",
+    "thumbnail": "카드 썸네일:",
+    "button_submit": "제출하기",
+    "button_cancel": "취소"
+  },
+  "fill": "채우다",
+  "edit": "편집하기",
+  "sale": "판매용 {{price}}",
+  "not_filled": "세부정보를 입력해야 합니다.",
+  "attributes_count": "속성({{count}})",
+  "upload_cover": "표지 업로드",
+  "upload_cover_info": "크기 1152px × 288px. 지원되는 파일: PNG, JPG. 최대 파일 크기: 30MB",
+  "upload_cards": "카드 업로드",
+  "upload_cards_info": "지원되는 파일: PNG, JPG, GIF, MPX, MP4, GLB. 최대 업로드당 10개 파일, 각 30mb.",
+  "need_bulk_upload": "일괄 업로드가 필요하십니까?",
+  "publish": "게시",
+  "informative_create_card": "시간을 절약하기 위해 파일 이름을 기본 제목으로 사용합니다. 나중에 제목을 편집할 수 있습니다.",
+  "got_it": "알았어요!",
+  "see_detail": "자세히 보기",
+  "create_new_card": {
+    "step_1": {
+      "where_do_you_want": "새 카드를 어디에 추가하시겠습니까?",
+      "create": "만들기",
+      "new_collection": "새 컬렉션",
+      "exist_collection": "기존 컬렉션",
+      "you_will_create_new_collection": "새 카드를 추가하기 전에 새 컬렉션을 만듭니다.",
+      "you_will_select_one_of_collection": "새 카드를 추가하기 전에 기존 컬렉션 중 하나를 선택합니다."
+    },
+    "step_2": {
+      "choose_your_existing_collection": "기존 컬렉션 선택",
+      "your_card_will_be_added": "선택한 컬렉션에 카드가 추가됩니다.",
+      "search_collection_name": "컬렉션 이름 검색",
+      "sort_by": "정렬 기준",
+      "sort_recently_created": "최근에 생성됨",
+      "sort_alphabetic_az": "알파벳 순(AZ)",
+      "sort_alphabetic_za": "알파벳 역순(ZA)",
+      "sort_highest_volume": "최고 볼륨",
+      "sort_most_owner": "대부분의 소유자",
+      "sort_highest_floor_price": "최고 가격순",
+      "sort_lowest_floor_price": "최저 가격순",
+      "collection_name": "컬렉션 이름",
+      "continue": "계속하기",
+      "select_collection_first": "컬렉션을 먼저 선택하세요.",
+      "you_dont_have_collection": "아직 컬렉션이 없습니다.",
+      "want_to_create_collection": "컬렉션을 만들고 싶습니까?"
+    }
+  }
+}

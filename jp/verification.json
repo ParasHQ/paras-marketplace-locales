@@ -1,0 +1,57 @@
+{
+  "get_verified": "인증받기",
+  "verification_form": "인증 신청 양식",
+  "verification_status": "인증 상태",
+  "cancel": "취소",
+  "continue": "계속하기",
+  "profile": "프로필",
+  "success_message": "성공적으로 제출되었습니다.",
+  "error_message": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
+  "requirement": {
+    "introduction": "Paras 아티스트로서 Paras의 전체 기능에 액세스하려면 인증을 받아야 합니다. 인증된 아티스트는 시장에서 추가로 인증 마크를 부여합니다. 현재 검증되지 않은 아티스트의 NFT는 \"마켓\" 피드에 표시되지 않습니다. 전체 과정은 3~4일이 소요됩니다.",
+    "steps": "인증을 받으려면 다음 단계만 수행하면 됩니다.",
+    "step_1": "프로필 사진 사용",
+    "step_2": "약력을 입력하세요.",
+    "step_3": "Paras 프로필의 소셜 미디어 링크(Twitter 및 Instagram)",
+    "step_4": "웹사이트 링크(필수는 아니지만 확인 가능성이 높아짐)",
+    "step_5": "진정한 예술을 위해 당신은 도용하지 않았으며, 다른 플랫폼에 자신의 같은 작품을 올리지 않았습니다.",
+    "step_6": "Paras에서 최소 3개의 NFT를 생성해야 합니다.",
+    "introduction_2": "검증된 아티스트가 되는 것이 즉각적인 성공을 가져다주지 않는다는 점을 기억하는 것도 매우 중요합니다.",
+    "introduction_3": "큰 규모의 Paras 커뮤니티에 자신을 소개하는 방법입니다."
+  },
+  "form": {
+    "paras_profile_url": "paras profile URL",
+    "your_name": "이름",
+    "your_name_placehoder": "실명을 입력해주세요...",
+    "your_name_error": "당신의 이름을 입력 해주세요",
+    "email": "이메일",
+    "email_placeholder": "유효한 주소를 입력하세요...",
+    "email_error": "이메일을 입력하세요",
+    "twitter_account": "트위터 계정",
+    "twitter_account_placeholder": "https://twitter.com/사용자 이름",
+    "telegram_discord": "텔레그램 / 디스코드 계정",
+    "telegram_discord_placeholder": "텔레그램 / 디스코드 계정",
+    "instagram": "인스타그램",
+    "instagram_placeholder": "https://instagram.com/사용자 이름",
+    "link_error": "유효한 링크를 입력하십시오",
+    "recaptcha_error": "captcha 인증이 필요합니다",
+    "quota": "인증 가능한 유저 수"
+  },
+  "status": {
+    "description_status": "전체 확인 절차는 3-4일이 소요될 수 있으며 매주 수요일과 토요일에 공지됩니다. 인증에 실패하면 다음 배치에서 인증 상태를 다시 제출할 수 있습니다.",
+    "description_status_2": "추가 질문은 Discord에서 저희 팀에 문의해주시길 부탁드립니다.",
+    "step_1": {
+      "submitted": "제출되었습니다.",
+      "desc": "인증 유저 요청을 제출했습니다."
+    },
+    "step_2": {
+      "in_review": "검토 중",
+      "desc": "귀하의 프로필은 저희 팀에서 검토 중입니다."
+    },
+    "step_3": {
+      "result": "결과",
+      "desc": "확인 요청의 결과입니다. 자세한 내용은 이메일을 확인하세요."
+    }
+  },
+  "verified": { "title": "확인되었습니다!", "share_now": "지금 공유하기" }
+}
