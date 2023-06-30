@@ -16,6 +16,8 @@
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
+    "dapp_staking": "dApp Staking",
+    "login": "Login",
 		"search_placeholder": "Search collection, NFTs and more...",
     "no_results": "No Results Found"
 	},
@@ -69,6 +71,8 @@
 		"open": "Open Profile",
 		"paras_citizen": "Paras Citizen",
 		"near_balance": "Near Balance",
+    "locked_balance": "Locked",
+    "transferable_balance": "Transferable",
 		"paras_balance": "Paras Balance",
 		"create_collection": "Create Collection",
 		"create_publication": "Create Publication",
@@ -77,10 +81,13 @@
 		"setting": "Setting",
 		"my_ramper_wallet": "My Ramper Wallet",
 		"switch_wallet": "Switch Wallet",
+    "switch_account": "Switch Account",
 		"logout": "Logout",
 		"top_up_near": "+ Top up Near with Fiat",
+    "top_up_astar": "+ Top up Astar",
 		"get_verified": "Get Verified",
 		"create_card": "Create Card",
+    "explore_launchpad": "Explore Launchpad",
 		"dark_mode": "Dark Mode"
 	},
 	"notification": {
@@ -200,8 +207,10 @@
 	"collection": {
 		"total_number_nft": "{{total}} NFTs",
 		"total_volume": "Total Volume",
+    "volume": "Volume",
 		"last_week_volume": "Last Week Volume",
 		"floor": "Floor",
+    "floor_price": "Floor Price",
     "total_nft": "Items",
 		"owners": "Owners",
 		"collection": "Collection",
@@ -260,7 +269,9 @@
 		"button_bid_short": "Bid",
 		"button_see_owners": "See Owners",
 		"no_price": "No Price",
-		"free": "Free"
+		"free": "Free",
+    "royalty": "Royalty",
+    "by": "By: "
 	},
 	"profile": {
 		"total_purchase": "Total Purchase",
