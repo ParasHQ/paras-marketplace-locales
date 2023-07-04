@@ -165,12 +165,12 @@
 		"twitter": "Twitter",
 		"telegram": "Telegram",
 		"copy_link": "Sao chép đường dẫn",
-		"discord": "bất hòa",
-		"links": "liên kết",
-		"website": "trang mạng",
-		"share_nft_text": "Thanh toán {{title}} từ bộ sưu tập {{collection}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
-		"share_collection_text": "Thanh toán {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
-		"share_publication_text": "Thanh toán {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
+		"discord": "Discord",
+		"links": "Liên kết",
+		"website": "Website",
+		"share_nft_text": "Xem ngay {{title}} từ bộ sưu tập {{collection}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Xem ngay {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Xem ngay {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
 	},
 	"collection": {
 		"total_number_nft": "{{total}} NFT",
@@ -196,7 +196,7 @@
 			"button_cancel": "Hủy bỏ",
 			"success_toast": "{{count}} bộ sưu tập đã xóa"
 		  },
-		  "burn_all_cards": "Burn all cards within the collection first"
+		  "burn_all_cards": "Burn tất cả các thẻ trong bộ sưu tập trước"
 	},
 	"card": {
 		"open_offer": "Mở offer",
@@ -368,7 +368,7 @@
 		"top_up": "Nạp tiền",
 		"you_will_redirect": "Bạn sẽ được chuyển hướng đến ví của mình để xác nhận giao dịch.",
 		"your_card_empty": "Giỏ của bạn trống trơn",
-		"buy_faster_by_adding": "Mua nhanh hơn bằng cách thêm tối đa 10 mặt hàng vào giỏ hàng của bạn.",
+		"buy_faster_by_adding": "Mua nhanh hơn bằng cách thêm tối đa 10 thẻ vào giỏ hàng của bạn.",
 		"go_to_market": "Đi chợ",
 		"tooltip_you_can_add": "Bạn không thể thêm hơn 10 thẻ vào giỏ hàng của mình do hạn chế về gas.",
 		"want_to_delete": "Bạn muốn xóa tất cả {{total}} ?",
@@ -456,13 +456,17 @@
 		"email_not_added": "Bạn cần thêm email của mình vào phần \"Cài đặt\" trước khi có thể nhận được thông báo.",
 		"go_to_setting": "Chuyển đến cài đặt",
 		"status": {
-			"soon": "Khai thác vào {{date}} UTC",
-			"live": "Kết thúc đúc trực tiếp sau {{days}}d {{hours}}h {{mins}}m {{secs}}s",
-			"end": "đúc tiền kết thúc"
+			"soon": "Mint vào {{date}} UTC",
+			"live": "Kết thúc mint sau {{days}} ngày {{hours}} giờ {{mins}} phút {{secs}} giây",
+			"end": "Mint kết thúc"
 		},
 		"total_supply": "{{count}} mục",
 		"starting_price": "Giá khởi điểm {{price}}",
-		"content": { "story": "Câu chuyện", "roadmap": "lộ trình", "team": "Đội ngũ" }
+		"content": {
+			"story": "Câu chuyện",
+			"roadmap": "Lộ trình",
+			"team": "Đội ngũ"
+		}
 	},
-	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng."
+	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để phản hồi lỗi, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng."
 }
