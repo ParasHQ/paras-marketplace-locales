@@ -16,7 +16,10 @@
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
-		"search_placeholder": "Tìm kiếm bộ sưu tập, NFT và hơn thế nữa..."
+		"search_placeholder": "Tìm kiếm bộ sưu tập, NFT và hơn thế nữa...",
+            "dapp_staking": "dApp Staking",
+    "login": "Login",
+        "no_results": "No Results Found"
 	},
 	"menu": {
 		"display": "Hiển thị",
@@ -172,6 +175,10 @@
 		"share_collection_text": "Xem ngay {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Xem ngay {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
 	},
+  "launchpad": {
+    "title": "Launchpad",
+    "total_supply": "Tổng cung"
+  },
 	"collection": {
 		"total_number_nft": "{{total}} NFT",
 		"total_volume": "Tổng khối lượng",
@@ -285,8 +292,8 @@
 		"empty_activity": "Không có hoạt động tại thời điểm này",
 		"today": "Hôm nay",
 		"tooltip": {
-			"average_price": "Trung bình Giá",
-			"sales": "Việc bán hàng",
+			"average_price": "Giá trung bình",
+			"sales": "Đã bán",
 			"volume": "Khối lượng"
 		}
 	},
@@ -468,5 +475,58 @@
 			"team": "Đội ngũ"
 		}
 	},
-	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để phản hồi lỗi, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng."
+	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để phản hồi lỗi, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng.",
+	"first_time_user": {
+		"next": "Tiếp",
+		"back": "Trở lại",
+		"got_it": "Okay",
+		"show_me": "Cho tôi xem",
+		"give_feedback": "Để lại góp ý",
+		"feature_update": "Cập nhật tính năng",
+		"feature_update_desc": "Bạn có thể đọc <GuideLink>hướng dẫn này</GuideLink> để tìm hiểu thêm.",
+		"feature": {
+			"dark_mode": {
+				"name": "Chế độ tối",
+				"desc": "Chế độ tối giảm mỏi mắt và lóa từ màn hình sáng, đặc biệt là trong điều kiện ánh sáng yếu.",
+				"steps": {
+					"1": {
+						"title": "Các tính năng của chế độ tối đã được cập nhật, hãy tìm hiểu trong menu này",
+						"content": "Bây giờ bạn sẽ có thể chuyển từ chủ đề sáng truyền thống sang chủ đề tối hơn."
+					},
+					"2": {
+						"title": "Chuyển sang bật",
+						"content": "Bạn có thể quay lại màn hình chế độ sáng bằng cách tắt nút này."
+					}
+				}
+			},
+			"language": {
+				"name": "Ngôn ngữ",
+				"desc": "Điều chỉnh tùy chọn ngôn ngữ để nâng cao trải nghiệm người dùng của bạn và giúp tương tác với nền tảng dễ dàng hơn.",
+				"steps": {
+					"1": {
+						"title": "Các tính năng ngôn ngữ đã được cập nhật, hãy tìm hiểu trong menu này",
+						"content": "Bây giờ bạn có thể điều chỉnh tùy chọn ngôn ngữ của mình dựa trên ngôn ngữ bạn muốn."
+					},
+					"2": {
+						"title": "Nhấn nút thả xuống",
+						"content": "Xem các tùy chọn ngôn ngữ khác nhau trong menu \"Ngôn ngữ\"."
+					},
+					"3": {
+						"title": "Chọn tùy chọn ngôn ngữ",
+						"content": "Chúng tôi sẽ liên tục cập nhật các tùy chọn ngôn ngữ theo nhu cầu của bạn."
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "Chia sẻ phản hồi của bạn",
+			"input_placeholder": "Bạn đang nghĩ gì?",
+			"input_email_label": "Email của bạn",
+			"input_email_placeholder": "Paras có thể liên hệ với tôi thông qua",
+			"checkbox_label": "Tôi muốn tham gia vào quá trình nghiên cứu sản phẩm",
+			"button_submit": "Gửi feedback",
+			"button_cancel": "Hủy"
+		}
+	},
+  "slow_indexer_info": "Hệ thống đang cập nhật các hoạt động mới nhất. Những giao dịch gần đây có thể hiển thị chậm trễ. Vui lòng <Link>tải lại</Link> trang để xem những cập nhật mới"
 }
