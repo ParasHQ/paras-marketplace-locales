@@ -16,7 +16,10 @@
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
-		"search_placeholder": "Search collection, NFTs and more..."
+    "dapp_staking": "dApp Staking",
+    "login": "Login",
+		"search_placeholder": "Search collection, NFTs and more...",
+    "no_results": "No Results Found"
 	},
 	"menu": {
 		"display": "Display",
@@ -68,6 +71,8 @@
 		"open": "Open Profile",
 		"paras_citizen": "Paras Citizen",
 		"near_balance": "Near Balance",
+    "locked_balance": "Locked",
+    "transferable_balance": "Transferable",
 		"paras_balance": "Paras Balance",
 		"create_collection": "Create Collection",
 		"create_publication": "Create Publication",
@@ -76,10 +81,13 @@
 		"setting": "Setting",
 		"my_ramper_wallet": "My Ramper Wallet",
 		"switch_wallet": "Switch Wallet",
+    "switch_account": "Switch Account",
 		"logout": "Logout",
 		"top_up_near": "+ Top up Near with Fiat",
+    "top_up_astar": "+ Top up Astar",
 		"get_verified": "Get Verified",
 		"create_card": "Create Card",
+    "explore_launchpad": "Explore Launchpad",
 		"dark_mode": "Dark Mode"
 	},
 	"notification": {
@@ -89,12 +97,12 @@
 		"see_more": "see more",
 		"action": "Action",
 		"link": "Link",
-		"notification_level_up": "<semibold>Congratulations, You're now a {{currLevel}} Member!</semibold>",
-		"notification_level_up_detail": "You can register for a raffle on {{timePeriod}}. Read more here 👉 <linkLoyalty>Loyalty</linkLoyalty>",
+		"notification_level_up": "<semibold>Congrats, You're now a {{currLevel}} Member!</semibold>",
+		"notification_level_up_detail": "Click 'Sign Up' & get a chance to win exclusive weekly rewards for {{currLevel}} member.",
 		"notification_raffle_program_launch": "<semibold>Join Paras Loyalty Now!</semibold>",
 		"notification_raffle_program_launch_detail": "Get into our exclusive raffle & grab the rewards! More details here 👉 <linkLoyalty>loyalty</linkLoyalty>",
-		"notification_raffle_new_cycle": "<semibold>Exclusive Rewards Are Waiting For You!</semibold>",
-		"notification_raffle_new_cycle_detail": "Find out this month's Paras Loyalty rewards <linkLoyalty>here</linkLoyalty>.",
+		"notification_raffle_new_cycle": "<semibold>Paras Loyalty weekly raffle registration starts today!</semibold>",
+		"notification_raffle_new_cycle_detail": "Check the weekly rewards & complete the missions to get additional points! More details here 👉 <linkLoyalty>Loyalty</linkLoyalty>.",
 		"notification_level_down": "<semibold>Your level has droppped to Bronze!.</semibold>",
 		"notification_level_down_detail": "Start <linkLoyalty>lock staking</linkLoyalty> again to stay enrolled in the raffle!",
 		"notification_level_going_expire": "<semibold>Your membership is about to expire!</semibold>",
@@ -107,15 +115,15 @@
 		"notification_raffle_type_drop_bronze_and_deactive_detail": "You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
 		"notification_raffle_type_drop_not_bronze_and_deactive": "<semibold>Your level has dropped to Bronze!</semibold>",
 		"notification_raffle_type_drop_not_bronze_and_deactive_detail": "You are currently a {{currRaffleType}} member. Start <Link>lock staking</Link> again to keep them at {{prevRaffleType}}",
-		"notification_sign_up": "Sign Up for {{currLevel}} Raffle Now!",
+		"notification_sign_up": "Sign Up For The Week 1 {{currLevel}} Raffle Now!",
 		"notification_sign_up_detail": "Click 'Sign Up' & get a chance to win exclusive rewards for {{currLevel}} member.",
-		"notification_endsoon_sign_up": "Raffle Registration Will End Soon!",
+		"notification_endsoon_sign_up": "Raffle Registration for week {{currWeek}} Will END SOON!",
 		"notification_endsoon_sign_up_detail": "Click 'Sign Up' now to enter the raffle & get a chance to win excellent rewards.",
-		"notification_raffle_registered": "Confirmation of Raffle Entry",
-		"notification_raffle_registered_detail": "You’ve been registered for the raffle. Thank you & good luck! ✨",
+		"notification_raffle_registered": "Confirmation of Raffle Entry for Week {{currWeek}}",
+		"notification_raffle_registered_detail": "You’ve been registered for the week {{currWeek}} raffle. Thank you & good luck! ✨",
 		"notification_content": "{{content}}",
-		"notification_raffle_over": "<semibold>Paras Loyalty Raffle Winner List</semibold>",
-		"notification_raffle_over_detail": "The raffle is over! Check the {{raffleTitle}}'s winners <linkLoyalty>here</linkLoyalty> 🏆",
+		"notification_raffle_over": "The week {{currWeek}} raffle is over!",
+		"notification_raffle_over_detail": "Check the winner list <linkLoyalty>here</linkLoyalty> 🏆",
 		"notification_raffle_won_wl_spot": "<semibold>Congratulations <linkTo>{{to}}</linkTo>,</semibold>",
 		"notification_raffle_won_wl_spot_detail": "You have won 1 {{collName}} WL Spot from Paras Loyalty! Read more about the rewards <linkLoyalty>here</linkLoyalty>",
 		"notification_raffle_won_paras_token": "<semibold>Congratulations <linkTo>{{to}}</linkTo>,</semibold>",
@@ -155,7 +163,17 @@
 		"a_few_weeks": "a few weeks",
 		"a_month": "a month",
 		"a_few_months": "a few months",
-		"signup": "Sign Up"
+		"signup": "Sign Up",
+		"notification_raffle_mission_complete": "Congrats! You've completed this mission {{mission_name}}",
+		"notification_raffle_mission_complete_detail": "You get {{mission_reward}}% additional raffle points from this weekly mission",
+		"notification_raffle_mission_unlocked": "You have unlocked new mission: {{mission_name}}",
+		"notification_raffle_mission_unlocked_detail": "Complete the mission now!",
+		"notification_raffle_weekly_mission_reminder": "Get up to {{mission_reward_all_type}}% additional raffle points for Paras Loyalty!!",
+		"notification_raffle_weekly_mission_reminder_detail": "Check the missions now 👉 <linkLoyalty>Loyalty</linkLoyalty>",
+    "notification_raffle_mission_complete_all": "Congrats! You've completed {{mission_action}} missions!",
+    "notification_raffle_mission_complete_all_detail": "You get {{mission_reward_all}}% additional raffle points.",
+    "notification_raffle_mission_complete_all_type": "Congrats! You've completed this week's missions!",
+    "notification_raffle_mission_complete_all_type_detail": "You get {{mission_reward_all_type}}% additional raffle points."
 	},
 	"footer": {
 		"tagline": "Create, Trade, and Collect Digital Collectibles. All-in-one \n social NFT marketplace for creators and collectors.",
@@ -182,23 +200,39 @@
 		"share_collection_text": "Checkout {{collection}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Checkout {{publication}} by {{creator}} on @ParasHQ\n\n#paras #cryptoart #digitalart #tradingcards"
 	},
+  "launchpad": {
+    "title": "Launchpad",
+    "total_supply": "Total Supply"
+  },
 	"collection": {
 		"total_number_nft": "{{total}} NFTs",
 		"total_volume": "Total Volume",
+    "volume": "Volume",
 		"last_week_volume": "Last Week Volume",
 		"floor": "Floor",
+    "floor_price": "Floor Price",
+    "total_nft": "Items",
 		"owners": "Owners",
 		"collection": "Collection",
 		"listed_collection": "Listed Collection",
 		"creator": "Creator",
 		"verified_creator": "Verified Creator",
+    "vol_change": "Vol. Change",
 		"collection_volume_change": "Weekly volume changed by <change>{{change}}</change> (<Volume>{{volume}}</Volume> <NearIcon></NearIcon>).",
 		"button_share": "Share",
 		"button_report": "Report",
 		"button_add_card": "Add Card",
 		"button_edit_collection": "Edit Collection",
 		"last_7_days_volume": "Last 7 Days Volume",
-		"created": "Created"
+		"created": "Created",
+    "delete_modal": {
+      "title": "Are you sure you want to delete this collection?",
+      "description": "Once deleted, you cannot undo this process.",
+      "button_delete": "Yes",
+      "button_cancel": "Cancel",
+      "success_toast": "{{count}} collection removed"
+    },
+    "burn_all_cards": "Burn all cards within the collection first"
 	},
 	"card": {
 		"open_offer": "Open Offer",
@@ -209,7 +243,7 @@
 		"verified_creator": "Verified Creator",
 		"listed_collection": "Listed Collection",
 		"card_text": {
-			"price": "Price",
+			"price": "",
 			"place_an_offer": "Place an Offer",
 			"edit_listing": "Edit Listing",
 			"lowest_price": "Lowest Price",
@@ -235,7 +269,9 @@
 		"button_bid_short": "Bid",
 		"button_see_owners": "See Owners",
 		"no_price": "No Price",
-		"free": "Free"
+		"free": "Free",
+    "royalty": "Royalty",
+    "by": "By: "
 	},
 	"profile": {
 		"total_purchase": "Total Purchase",
@@ -277,6 +313,7 @@
 		"following_activity": "Following Activity",
 		"following": "Following",
 		"floor": "Floor {{floor}} ",
+    "collection": "Collection",
 		"by": "by",
 		"to": "to",
 		"from": "From",
@@ -451,14 +488,14 @@
 		"description": "Create, Trade, and Collect Digital Collectibles. All-in-one social NFT marketplace for creators and collectors. Discover the best and latest NFT collectibles on NEAR."
 	},
 	"mint_calendar": {
-		"dyor": "This project is not an endorsement from Paras or a guarantee of listing on Paras post-mint. Dates may be subject to change. Please ‘Do Your Own Research (DYOR)’. <DYORLink>How to DYOR<DYORLink>",
+		"dyor": "This project is not an endorsement from Paras or a guarantee of listing on Paras post-mint. Dates may be subject to change. Please ‘Do Your Own Research (DYOR)’. <DYORLink>How to DYOR</DYORLink>",
 		"button_remind_me": "Remind me on email",
 		"button_share": "Share",
 		"button_mint": "Mint Here",
 		"email_not_added": "You need to add your email in \"Settings\" \nbefore you can receive notification.",
 		"go_to_setting": "Go to settings",
 		"status": {
-			"soon": "Minting on {{date}} UTC",
+			"soon": "Minting on ",
 			"live": "Live Minting end in {{days}}d {{hours}}h {{mins}}m {{secs}}s",
 			"end": "Minting ends"
 		},
@@ -522,5 +559,6 @@
 			"button_submit": "Send Feedback",
 			"button_cancel": "Cancel"
 		}
-	}
+	},
+  "slow_indexer_info": "Our server is still catching up with the latest activity. The recent transaction may be delayed. Please <Link>refresh</Link> the page to see updated transactions"
 }

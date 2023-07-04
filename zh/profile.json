@@ -75,5 +75,6 @@
 		"success_update_toast": "更新成功",
 		"error_update_toast": "出了点问题，稍后再试",
 		"button_update": "更新"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
 }

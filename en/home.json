@@ -7,7 +7,11 @@
 		"secondary_button": "Learn More"
 	},
 	"featured_collection": "Featured Collections",
-	"activity_you_follow": "Activity You Follow",
+	"new_collection": "New Collections",
+  "activity_you_follow": "Activity You Follow",
+  "view_on_market": "View on Market",
+  "collection_page": "Collection Page",
+  "whats_happerning": "What's Happening",
 	"top_collection": {
 		"title": "Top Collections",
 		"last_7_d": "Last 7 Days",
@@ -23,6 +27,7 @@
 		"title": "Apex Collectors",
 		"more": "View more"
 	},
+  "new_in_paras": "Are you new in Paras? Learn more and get started",
 	"guide": {
 		"1": {
 			"title": "New in Paras?",
@@ -48,5 +53,40 @@
 	"live_auction": {
 		"title": "Live Auctions",
 		"more": "View more"
-	}
+	},
+  "join": {
+    "title": "Want to chat to your fellow creators, collectors, or Paras’ team?",
+    "join_discord": "Join our Discord"
+  },
+  "discover": {
+    "title": "Discover What We Have Built",
+    "token": {
+      "title": "$PARAS Token",
+      "description": "PARAS is a utility token that lets you shape the future of Paras ecosystem and at the same time gives you more rewards and benefits.",
+      "tagline_one": "Earn up to 10.58% APR",
+      "tagline_two": "Loyalty Program",
+      "tagline_three": "Staking Paras",
+      "current_price": "Current Price",
+      "market_cap": "Market Cap",
+      "circulating_supply": "Circulating Supply",
+      "total_supply": "Total Supply"
+    },
+    "staking": {
+      "title": "$PARAS Staking",
+      "description": "Paras loyalty is a special program created to appreciate $PARAS stakers by giving exclusive access to limited raffles.",
+      "tagline": "Join Paras Loyalty & Get Excellent Reward!"
+
+    },
+    "sweep_floor": {
+      "title": "Sweep Floor",
+      "description": "You can buy faster up to 10 lowest-price cards.",
+      "tagline": "Faster, sweep the floor! 🧹"
+    },
+    "card4card": {
+      "title": "Card4Card",
+      "description": "Invite your friends to join the event, make new friends, and attract collectors to Paras! Goodluck!",
+      "tagline_one": "Swap your NFT with your fellow creators or collectors at a low price.",
+      "tagline_two": "Prizes are\n waiting for you!"
+    }
+  }
 }

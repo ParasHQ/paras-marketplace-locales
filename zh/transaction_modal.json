@@ -139,7 +139,8 @@
 			"max_reduce_error": "减少数量必须小于或等于总薄荷",
 			"min_reduce_error": "Reduce数必须大于等于0",
 			"reduce_copies": "减少份数",
-			"remaining_copies": "剩余份数：{{remainingCopies}}"
+			"remaining_copies": "剩余份数：{{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "投放市场？",

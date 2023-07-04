@@ -142,7 +142,8 @@
 			"max_reduce_error": "Số giảm phải nhỏ hơn hoặc bằng tổng số lần mint",
 			"min_reduce_error": "Số giảm phải lớn hơn hoặc bằng 0",
 			"reduce_copies": "Giảm bản sao",
-			"remaining_copies": "Các bản sao còn lại: {{remainingCopies}}"
+			"remaining_copies": "Các bản sao còn lại: {{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "Đưa vào Marketplace?",

@@ -1,0 +1,135 @@
+{
+ "head": {
+  "title": "Stake $ASTR To Paras & Get Rewards!"
+ },
+	"tabs": {
+		"overview": "Overview",
+    "leaderboard": "Leaderboard",
+    "mechanism": "Mechanism",
+		"faq": "FAQs",
+		"term": "Terms & Conditions"
+	},
+  "overview": {
+    "title_logo": "Astar dApp Staking", 
+    "title": "Stake $ASTR To <Span>Paras & Get Rewards!</Span>",
+    "desc": "The longer you stake, the higher your chance to <Span>win airdrops & raffles! Bonus staking points booster</Span> <Span>for Usagii holder 🔥</Span>",
+    "button": {
+      "start_staking": "Start $ASTR Staking",
+      "learn_more": "Learn More"
+    },
+    "terms": "<Link>Terms & Conditions</Link>"
+  },
+  "leaderboard": {
+		"coming_soon_desc": "The locked staking leaderboard will be displayed when the loyalty period begins.",
+		"desc": "This leaderboard is not winner list. Stake $ASTR to Paras dApp Staking to get points.",
+		"auto_refresh": "Auto-refresh",
+		"table": {
+			"rank": "Rank",
+			"wallet_id": "Wallet ID",
+			"total_staking": "Total Staking ($ASTR)",
+			"staking_points": "Staking Points",
+			"boost": "Boost",
+			"total_points": "Total Points"
+		},
+		"my_ranking": "My Ranking",
+		"only_user": "Only users who have staked $ASTR to Paras are displayed on this leaderboard. Click here for the tutorial on <Link>how to stake $ASTR to Paras.</Link>"
+	},
+  "mechanism": {
+		"title": "Mechanism",
+		"loyalty_cycle": {
+			"cycle_1": {
+				"title": "Your staking points is 50% of your total staking amount. The more $ASTR you stake, the higher your staking points.",
+				"desc": "(50% x Your Total Staking Amount) x (Time Passed In Seconds)/(1 Year In Seconds)"
+			},
+			"cycle_2": {
+				"title": "The longer you hold your $ASTR, the higher your staking points.",
+				"desc_1": "The longer $ASTR staking period, the higher your staking points, the higher probability to win airdrops & raffles."
+			},
+			"cycle_3": {
+				"title": "If you top up, withdraw, or transfer your staked $ASTR, the staking points will restart from 0 and it will start counting again based on your new staking amount. The total points will be an accumulation of your previous total points (before the top-up/withdrawal/transfer) and your on going staking points.",
+				"desc": ""
+			},
+			"cycle_4": {
+				"title": "If you withdraw or transfer all of your staked $ASTR, you will lost all of your points.",
+				"desc": ""
+			},
+			"cycle_5": {
+				"title": "Special booster for USAGII holders:",
+				"desc": "Your staking points will be boosted according to the total USAGII NFT you hold.",
+        "desc2": "Get your USAGII here."
+			}
+		},
+		"title2": "Stake $ASTR To Paras & Get Rewards!",
+		"button_start_staking": "Start $ASTR Staking"
+	},
+  "faq": {
+		"title": "FAQs",
+		"list": {
+			"1": {
+				"title": "How to join this leaderboard?",
+				"desc": "Stake your $ASTR to Paras dApp Staking."
+			},
+			"2": {
+				"title": "What rewards do I get from staking my $ASTR to Paras?",
+				"desc1": "Usagii free mint for users with min. staking 5,000 $ASTR (limited quantity)",
+        "desc2": "Airdrops & Raffles (exclusive within the Astar x Paras dApp stakers community)",
+        "desc3": "APR returns",
+        "desc4": "Upcoming: Alpha role on discord",
+        "desc5": "WL opportunities on future collections"
+			},
+      "3": {
+        "title": "If I top up my staked $ASTR, will I lost my previous points?",
+        "desc": "No, your previous points will be included in your total points. However, your staking points will restart from 0 and it will be counted based on your new total staking amount."
+      },
+      "4": {
+        "title": "What happen if I withdraw or transfer some of my $ASTR from Paras?",
+        "desc": "Your previous points will be included in your total points. However, your staking points will restart from 0 and it will be counted based on your new total staking amount."
+      },
+			"5": {
+				"title": "What happen if I withdraw or transfer all of my $ASTR from Paras?",
+				"desc": "You will lost all of your points. Once you stake your $ASTR to Paras again, your points will restart from 0 without the previous points that you’ve accumulated."
+			}
+		},
+		"social_media": {
+			"title": "If you have more questions, please reach out to our social media channels:",
+			"list": {
+				"discord": "Discord: <Link>https://discord.paras.id</Link>",
+				"twitter": "Twitter: <Link>https://twitter.com/ParasHQ</Link>",
+				"instagram": "Instagram: <Link>https://instagram.com/paras.hq</Link>"
+			}
+		}
+	},
+  "terms": {
+		"title": "Terms & Conditions",
+		"1": {
+			"title": "All users who stake their $ASTR to Paras will be included in the leaderboard."
+		},
+		"2": {
+			"title": "If you top up, withdraw, or transfer your staked $ASTR, the staking points will restart from 0 and it will start counting again based on your new staking amount. The total points will be an accumulation of your previous total points (before the top-up/withdrawal/transfer) and your on going staking points."
+		},
+		"3": {
+			"title": "If you withdraw or transfer all of your staked $ASTR, you will lost all of your points."
+		},
+		"4": {
+			"title": "Special booster for USAGII holders:"
+		},
+		"5": {
+			"title": "Your staking points will be boosted according to the total USAGII NFT you hold."
+		},
+		"6": {
+			"title": "<3 NFT: 1.5x booster"
+		},
+		"7": {
+			"title": ">= 3 NFT: 2.5x booster"
+		},
+		"8": {
+			"title": "By participating in this program, you agree to the Terms & Conditions of Paras Loyalty."
+		},
+		"9": {
+			"title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+		},
+    "10": {
+      "title": "Paras’ decision regarding the the winner list of the exclusive airdrop & raffles is considered final and cannot be appealed nor contested"
+    }
+	}
+}

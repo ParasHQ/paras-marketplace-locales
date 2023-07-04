@@ -75,5 +75,6 @@
 		"success_update_toast": "Cập nhật thành công",
 		"error_update_toast": "Đã xảy ra lỗi, hãy thử lại sau",
 		"button_update": "Cập nhật"
-	}
+	},
+  "cover_image_minimum": "Cover image must have minimum height 200px and minimum width 800px"
 }

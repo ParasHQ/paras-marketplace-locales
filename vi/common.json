@@ -165,12 +165,12 @@
 		"twitter": "Twitter",
 		"telegram": "Telegram",
 		"copy_link": "Sao chép đường dẫn",
-		"discord": "Discord",
-		"links": "Liên kết",
+		"discord": "bất hòa",
+		"links": "liên kết",
 		"website": "trang mạng",
-		"share_nft_text": "Xem ngay {{title}} từ bộ sưu tập {{collection}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
-		"share_collection_text": "Xem ngay {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
-		"share_publication_text": "Xem ngay {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
+		"share_nft_text": "Thanh toán {{title}} từ bộ sưu tập {{collection}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
+		"share_collection_text": "Thanh toán {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
+		"share_publication_text": "Thanh toán {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
 	},
 	"collection": {
 		"total_number_nft": "{{total}} NFT",
@@ -188,7 +188,15 @@
 		"button_add_card": "Thêm vào giỏ",
 		"button_edit_collection": "Chỉnh sửa bộ sưu tập",
 		"last_7_days_volume": "Khối lượng 7 ngày qua",
-		"created": "Đã tạo"
+		"created": "Tạo",
+		"delete_modal": {
+			"title": "Bạn muốn xóa bộ sưu tập?",
+			"description": "Sau khi bị xóa, bạn không thể hoàn tác quá trình này.",
+			"button_delete": "Xác nhận",
+			"button_cancel": "Hủy bỏ",
+			"success_toast": "{{count}} bộ sưu tập đã xóa"
+		  },
+		  "burn_all_cards": "Burn all cards within the collection first"
 	},
 	"card": {
 		"open_offer": "Mở offer",
@@ -203,7 +211,7 @@
 			"place_an_offer": "Đặt offer",
 			"edit_listing": "Chỉnh sửa danh sách",
 			"lowest_price": "Giá thấp nhất",
-			"min_bid": "Bid thấp nhất",
+			"min_bid": "Giá bid thấp nhất",
 			"start_from": "Bắt đầu từ"
 		},
 		"rarity": "Độ hiếm {{rarity}}",
@@ -254,8 +262,8 @@
 			"accept_trade": "Chấp nhận giao dịch",
 			"decrease_copy": "Giảm sao chép",
 			"auction": "Bán đấu giá",
-			"bid": "offer",
-			"cancel_bid": "Hủy bid",
+			"bid": "Đấu thầu",
+			"cancel_bid": "Hủy thầu",
 			"sold": "Đã bán"
 		},
 		"all_users_activity": "Tất cả hoạt động của người dùng",
@@ -311,8 +319,8 @@
 		"minimum_offer_price_description": "Đặt mức tối thiểu bạn muốn cho bộ sưu tập của mình",
 		"rpc_label": "URL RPC",
 		"rpc_option": {
-			"official": "rpc chính thức",
-			"blockpi": "blockpi rpc"
+			"official": "RPC chính thức",
+			"blockpi": "Blockpi RPC"
 		},
 		"button_update": "Cập nhật",
 		"email_verification": {
@@ -327,10 +335,10 @@
 		"report_category_label": "Tại sao bạn muốn báo cáo mục này?",
 		"report_category_placeholder": "Chọn lý do",
 		"report_category_option": {
-			"art_theft": "Ăn cắp",
+			"art_theft": "Ăn cắp ảnh",
 			"double_minting": "Mint 2 lần",
 			"inappropriate_content": "Nội dung không phù hợp",
-			"harmful_content": "nội dung có hại",
+			"harmful_content": "Nội dung có hại",
 			"rights_violation": "Vi phạm quyền",
 			"others": "Lý do khác"
 		},
@@ -359,8 +367,8 @@
 		"top_up_balance": "Số dư",
 		"top_up": "Nạp tiền",
 		"you_will_redirect": "Bạn sẽ được chuyển hướng đến ví của mình để xác nhận giao dịch.",
-		"your_card_empty": "Giỏ của bạn trống",
-		"buy_faster_by_adding": "Mua nhanh hơn bằng cách thêm tối đa 10 thẻ vào giỏ hàng của bạn.",
+		"your_card_empty": "Giỏ của bạn trống trơn",
+		"buy_faster_by_adding": "Mua nhanh hơn bằng cách thêm tối đa 10 mặt hàng vào giỏ hàng của bạn.",
 		"go_to_market": "Đi chợ",
 		"tooltip_you_can_add": "Bạn không thể thêm hơn 10 thẻ vào giỏ hàng của mình do hạn chế về gas.",
 		"want_to_delete": "Bạn muốn xóa tất cả {{total}} ?",
@@ -370,9 +378,9 @@
 		"all_item_section_deleted": "Tất cả các mục trong phần này sẽ bị xóa.",
 		"cannot_be_processed": "Không thể xử lý ({{total}})",
 		"tooltip_you_cannot_add": "Bạn không thể mua thẻ từ thẻ bên dưới",
-		"item_changed": "Trạng thái đã thay đổi.",
-		"refresh": "Làm mới",
-		"price_changes": "Thay đổi giá",
+		"item_changed": "Trạng thái mục đã thay đổi.",
+		"refresh": "Làm cho khỏe lại",
+		"price_changes": "thay đổi giá",
 		"unavailabe": "Không có sẵn",
 		"item_removed": "Đã xóa {{total}} mục",
 		"success_add": "1 thẻ đã được thêm vào giỏ hàng thành công.",
@@ -448,17 +456,13 @@
 		"email_not_added": "Bạn cần thêm email của mình vào phần \"Cài đặt\" trước khi có thể nhận được thông báo.",
 		"go_to_setting": "Chuyển đến cài đặt",
 		"status": {
-			"soon": "Mint vào {{date}} UTC",
-			"live": "Kết thúc mint sau {{days}}d {{hours}}h {{mins}}m {{secs}}s",
-			"end": "Mint kết thúc"
+			"soon": "Khai thác vào {{date}} UTC",
+			"live": "Kết thúc đúc trực tiếp sau {{days}}d {{hours}}h {{mins}}m {{secs}}s",
+			"end": "đúc tiền kết thúc"
 		},
 		"total_supply": "{{count}} mục",
 		"starting_price": "Giá khởi điểm {{price}}",
-		"content": {
-			"story": "Câu chuyện",
-			"roadmap": "lộ trình",
-			"team": "Đội ngũ"
-		}
+		"content": { "story": "Câu chuyện", "roadmap": "lộ trình", "team": "Đội ngũ" }
 	},
-	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để có phản hồi và tiền thưởng, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord."
+	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng."
 }

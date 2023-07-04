@@ -3,8 +3,8 @@
 As the Paras community grows globally, https://new.paras.id/ needs to support multiple languages, including:
 
 - Thai (th)
-- Vietnamese (vn)
-- Chinese (ch)
+- Vietnamese (vi) - [IN PROGRESS]
+- Chinese (ch) 
 - Russian (ru) - [IN PROGRESS]
 - Korean (ko)
 - French (fr) - [COMPLETED]

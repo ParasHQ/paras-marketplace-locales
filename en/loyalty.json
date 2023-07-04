@@ -1,20 +1,47 @@
 {
 	"tabs": {
 		"overview": "Overview",
-		"rewards": "Rewards",
+    "raffle_period": "Raffle Period",
+    "weekly_missions": "Weekly Missions",
 		"leaderboard": "Leaderboard",
 		"mechanism": "Mechanism",
 		"faq": "FAQs",
 		"terms": "Terms & Conditions"
 	},
 	"overview": {
-		"title": "Join Paras Loyalty &\n Get Excellent Reward!",
-		"desc": "Paras loyalty is a special program created to\nappreciate $PARAS stakers by giving exclusive\naccess to limited raffles.",
+		"title": "New! Join Paras Loyalty & Win Weekly Raffles!",
+		"desc": "Paras loyalty is a special program created to appreciate $PARAS stakers by giving exclusive access to <bold>weekly raffles</bold> on <bold>4 Apr - 1 May 2023.</bold>",
 		"button_start_locked_staking": "Start Locked Staking",
 		"button_learn_more": "Learn More",
 		"paras_loyalty_terms": "Paras Loyalty <Link>Terms & Conditions</Link>"
 	},
 	"rewards": {
+    "buttons": {
+      "register_now": "Register Now",
+      "registered": "Registered",
+      "closed": "Closed",
+      "remind_me": "Remind Me",
+      "reminded": "Reminded"
+    },
+    "weekly_missions": {
+      "mission": "Mission",
+      "title": "{{title}}",
+      "week": "Week",
+      "reward": "Reward",
+      "points": "Points",
+      "go":"Go",
+      "completed": "Completed",
+      "mission_locked": "Mission locked",
+      "status": {
+        "early_locked": "Get ready for the next mission",
+        "started_yet": "You haven’t started yet.",
+        "successfully": "Your points have been successfully added.",
+        "more": "{{amount}} more to get the reward!",
+        "completed": "Complete the previous mission to unlock."
+      },
+      "period_ended": "The period has ended. Wait for upcoming programs to begin.",
+      "register_for_weekly": "Register for the weekly raffle to unlock the weekly missions"
+    },
 		"from_paras_top_coll": "NFTs from Paras Top Collections",
 		"platinum_raffle": "Platinum Raffle",
 		"gold_raffle": "Gold Raffle",
@@ -29,8 +56,9 @@
 			"username": "Username",
 			"locked_staking": "Locked Staking (LS)",
 			"duration": "Duration",
-			"duration_point": "Duration Point",
-			"total_raffle_point": "Total Raffle Point"
+			"duration_point": "Duration Points",
+			"total_raffle_point": "Total Raffle Points",
+			"reward_point": "Reward Points"
 		},
 		"my_ranking": "My Ranking",
 		"only_user": "Only users who have registered for the raffle are displayed on this leaderboard.",
@@ -43,6 +71,7 @@
 		"gold_member": "Gold Members",
 		"platinum_member": "Platinum Members",
 		"days": "days",
+    "new": "NEW!",
 		"loyalty_cycle": {
 			"cycle_1": {
 				"title": "Loyalty level will be determined based on the amount of $PARAS locked & the locked staking duration.",
@@ -50,18 +79,18 @@
 				"paras_locked": "Minimum amount of $PARAS locked",
 				"locked_staking": "Minimum locked staking duration",
 				"info": {
-					"title": "If users at Silver, Gold, or Platinum level lock for <b>90 days</b>, they will get additional point:",
-					"desc": "<Span>25%</Span> from user’s locked staking amount"
+					"title": "Silver, Gold, or Platinum members who lock $PARAS for <b>90 days</b>, will get additional point:",
+					"desc": "<Span>25%</Span> from user’s total locked staking amount"
 				}
 			},
 			"cycle_2": {
-				"title": "Silver, Gold, and Platinum members will have a chance to sign up and enter an exclusive raffle during the loyalty program period.",
+				"title": "Silver, Gold, and Platinum members will have a chance to enter weekly raffles by signing up every Tuesday - Sunday on 4 Apr - 1 May 2023.",
 				"desc_1": "Silver, Gold, and Platinum members can log in to <Link>Paras Marketplace</Link>, and sign up to the exclusive raffle through a whitelisted pop-up banner that will appear on the home screen.",
 				"desc_2": "If you’re missing the pop-up banner, check your notification box and look for the raffle announcement. Click ‘Sign Up’ to join the exclusive raffle."
 			},
 			"cycle_3": {
 				"title": "All Silver, Gold, and Platinum members who has signed up for the raffle will be put into separate raffle pools.",
-				"desc": "The more $PARAS you lock & the longer your locked staking period, the higher your probability to win the raffle."
+				"desc": "Lock as much $PARAS as possible, set locked-staking duration to the longest, and <Span>complete all weekly missions</Span> to get a higher probability of winning the raffle!"
 			},
 			"cycle_4": {
 				"title": "Each raffle pool will have different rewards.",
@@ -72,7 +101,7 @@
 			}
 		},
 		"please_check": "Please check the <Link>Terms & Conditions of Paras Loyalty</Link>.",
-		"join_paras_loyalty": "Join Paras Loyalty & Get Excellent Reward!"
+		"join_paras_loyalty": "Join Paras Loyalty & Win Weekly Raffles!"
 	},
 	"faq": {
 		"title": "FAQs",
@@ -86,21 +115,37 @@
 				"title": "Is there any benefit of locking for 90 days instead of 30 days?",
 				"desc": "Yes. You will get additional raffle points of 25% of your total staking amount."
 			},
-			"3": {
+      "3": {
+        "title": "<Span>[NEW]</Span> How do I get the reward points?",
+        "desc_1": "To get reward points, you have to complete the weekly missions. There are two types of weekly missions, Regular & Premium, and each mission consists of 3 sub-missions. After completing one sub-mission, the next one will be automatically unlocked.",
+        "desc_2": "Once the weekly mission period ends, your total reward points will be calculated based on the biggest reward points percentage from each mission you have completed.",
+        "desc_3": "For example:",
+        "desc_4": "Total locked-staking: 15,000 $PARAS<br/>Locked staking period: 90 days",
+        "desc_5": "Week 1<br/><b>Regular mission</b><br/>Sub-missions:<br/>1. Like 5 NFTs, reward point 3% <green>(completed)</green><br />2. Like 25 NFTs, reward point 7% <green>(completed)</green><br/>3. Like 50 NFTs, reward point 10% <red>(incomplete)</red>",
+        "desc_6": "<b>Premium mission</b><br/>Sub-missions:<br/>1. Buy 1 NFT, reward point 5% <green>(completed)</green><br/>2. Buy 5 NFTs, reward point 10% <green>(completed)</green><br/>3. Buy 10 NFTs, reward point 15% <green>(completed)</green>",
+        "desc_7": "<b>Reward points</b><br/>Regular mission: 15,000 x 7%= 1,050<br/>Premium mission: 15,000 x 15%= 2,250<br/>Total reward points: 3,300",
+        "desc_8": "<b>Duration Points</b><br/>15,000 x 25%= 3,750",
+        "desc_9": "Total Raffle Points<br/>15,000 + 3,300 + 3,750= 22,050"
+      },
+      "4": {
+        "title": "<Span>[NEW]</Span> How long are the additional points valid?",
+        "desc": "The duration points will be valid until the end of each Paras Loyalty campaign period, while the reward points from weekly missions will be refreshed (back to 0) every Tuesday at 00:00 UTC+0."
+      },
+			"5": {
 				"title": "What does it mean to have a Bronze member badge?",
 				"desc": "Bronze level is for users who lock less than 500 $PARAS."
 			},
-			"4": {
+			"6": {
 				"title": "I am a platinum member. How do I sign up for the raffles?",
 				"desc_1": "You can check the raffle registration mechanism & period <Link>above.</Link>",
-				"desc_2": "During each loyalty progra period, you will be able to sign up on a predetermined date.",
+				"desc_2": "During each loyalty program period, you will be able to sign up on a predetermined date.",
 				"desc_3": "Silver, Gold, and Platinum members will receive a pop-up message or notification to sign up for the raffle during the registration period."
 			},
-			"5": {
+			"7": {
 				"title": "Do I have to do the flexible staking before locking my $PARAS?",
 				"desc": "No, you can directly put the existing $PARAS in your wallet into locked staking without joining the flexible staking."
 			},
-			"6": {
+			"8": {
 				"title": "How do I claim the locked staking rewards?",
 				"desc": "The amount of 'Claimable Rewards' on the staking page is an accumulation of your flexible staking and locked staking rewards. You can claim the rewards without unstaking your $PARAS."
 			}
@@ -118,51 +163,56 @@
 	"terms": {
 		"title": "Terms & Conditions",
 		"1": {
-			"title": "Loyalty level will be determined based on the amount of $PARAS locked staking & the locked staking duration.",
-			"desc": "Users who lock $PARAS for 90 days will get additional raffle points of 25% of the user’s total staking amount."
+			"title": "Loyalty level will be determined based on the amount of $PARAS locked staking & the locked staking duration."
 		},
 		"2": {
 			"title": "Users who stake $PARAS without locking it will be considered Bronze level."
 		},
 		"3": {
-			"title": "During the determined raffle registration period, Silver, Gold, and Platinum members will have a chance to sign up and enter an exclusive raffle."
+			"title": "During the determined raffle registration period (every Tuesday - Sunday), Silver, Gold, and Platinum members will have a chance to sign up and enter weekly raffles."
 		},
 		"4": {
-			"title": "Silver, Gold, and Platinum members can log in to Paras Marketplace, and sign up for the exclusive raffle through a pop-up banner on Paras homepage or a raffle registration notification."
+			"title": "The duration points will be valid until the end of each Paras Loyalty campaign period."
 		},
 		"5": {
-			"title": "Silver, Gold, and Platinum members have to click ‘Sign Up’ on the pop-up banner or the notification box to join the exclusive raffle."
+			"title": "The reward points from weekly missions will be refreshed (back to 0) on every Tuesday at 00:00 UTC+0."
 		},
 		"6": {
-			"title": "Silver, Gold, and Platinum members who are eligible to join the raffle but do not click the ‘Sign Up’ button on the pop-up banner or the notification box will not be included in the raffle."
+			"title": "Silver, Gold, and Platinum members can log in to Paras Marketplace, and sign up for the exclusive raffle through the pop-up banner on Paras homepage, raffle registration notification, Paras Loyalty landing page."
 		},
 		"7": {
-			"title": "Users whose loyalty membership level drop after signing up for a raffle will be automatically enrolled in the raffle for their current level. However, if the users' membership level drops to Bronze, they will not be included in any raffle."
+			"title": "Silver, Gold, and Platinum members have to click ‘Sign Up’ on the pop-up banner, the notification box, or Paras Loyalty landing page to join the exclusive raffle."
 		},
 		"8": {
-			"title": "Silver and Gold members who top up their locked staking and level up during the raffle registration period are eligible to re-register for the higher level raffle. If they do not sign up for the new level, they will be automatically enrolled in the previous level (Silver or Gold)."
+			"title": "Silver, Gold, and Platinum members who are eligible to join the raffle but do not click the ‘Sign Up’ button on the pop-up banner or the notification box will not be included in the raffle."
 		},
 		"9": {
-			"title": "1 (one) user can only win 1 (one) raffle prize per month."
+			"title": "Users whose loyalty membership level drop after signing up for a raffle will be automatically enrolled in the raffle for their current level. However, if the users' membership level drops to Bronze, they will not be included in any raffle."
 		},
-		"10": {
-			"title": "More details about locked staking:",
-			"sub": {
-				"1": "Locked staking does not allow users to unlock before the end date of the locked staking period.",
-				"2": "When users top up the locked staking amount, the period will be reset.",
-				"3": "When users do not unstake their $PARAS after the locked staking period ends, the $PARAS will automatically move into flexible staking within 1x24 hours after the locked staking period ends.",
-				"4": "Users can do locked staking without reducing their $PARAS on the flexible staking by using the remaining $PARAS in their wallet.",
-				"5": "Users can directly put the existing $PARAS in their wallet into locked staking without joining the flexible staking.",
-				"6": "The amount of 'Claimable Rewards' on the staking page is an accumulation of flexible staking and locked staking rewards. Users can claim the rewards without unlocking $PARAS."
-			}
-		},
-		"11": {
-			"title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
-		},
+    "10": {
+      "title": "Silver and Gold members who top up their locked staking and level up during the raffle registration period are eligible to re-register for the higher level raffle. If they do not sign up for the new level, they will be automatically enrolled in the previous level (Silver or Gold)."
+    },
+    "11": {
+      "title": "1 (one) user can only win 1 (one) raffle prize throughout the whole campaign period."
+    },
     "12": {
-      "title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+      "title": "More details about locked staking:",
+      "sub": {
+        "1": "Locked staking does not allow users to unlock before the end date of the locked staking period.",
+        "2": "When users top up the locked staking amount, the period will be reset.",
+        "3": "When users do not un-stake their $PARAS after the locked staking period ends, the $PARAS will automatically move into flexible staking within 1x24 hours after the locked staking period ends.",
+        "4": "Users can do locked staking without reducing their $PARAS on the flexible staking by using the remaining $PARAS in their wallet.",
+        "5": "Users can directly put the existing $PARAS in their wallet into locked staking without joining the flexible staking.",
+        "6": "The amount of 'Claimable Rewards' on the staking page is an <Bold>accumulation</Bold> of flexible staking and locked staking rewards. Users can claim the rewards without unlocking $PARAS."
+      }
     },
     "13": {
+      "title": "By participating in this program, you agree to the <Link>Terms & Conditions</Link> of Paras Loyalty."
+    },
+    "14": {
+      "title": "The terms and conditions of this program are subject to changes at any time without prior notice."
+    },
+    "15": {
       "title": "Paras’ decision regarding the raffle and the winner list is considered final and cannot be appealed nor contested."
     }
 	},

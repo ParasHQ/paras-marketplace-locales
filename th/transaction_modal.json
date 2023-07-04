@@ -139,7 +139,8 @@
 			"max_reduce_error": "จำนวนที่ลดลงต้องน้อยกว่าหรือเท่ากับเหรียญกษาปณ์ทั้งหมด",
 			"min_reduce_error": "จำนวนลดต้องมากกว่าหรือเท่ากับ 0",
 			"reduce_copies": "ลดสำเนา",
-			"remaining_copies": "สำเนาที่เหลืออยู่: {{remainingCopies}}"
+			"remaining_copies": "สำเนาที่เหลืออยู่: {{remainingCopies}}",
+      "reduce_copies_explain": "This will reduce the copy of your cards. Cards with the remaining 0 copies will be deleted."
 		},
 		"put_marketplace": {
 			"put_marketplace": "ใส่ใน Marketplace?",
