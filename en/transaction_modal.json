@@ -2,11 +2,13 @@
 	"edition_of": "Edition of {{copies}}, Rank {{rarityScore}}",
 	"you_will_redirected": "You will be redirected to your wallet to confirm your transaction.",
 	"cancel": "Cancel",
+  "confirm": "Confirm",
 	"trade": "Trade",
 	"edition_text_internal_token": "NFT | {{edition}} of {{copies}}",
 	"edition_text_external_token": "NFT | {{edition}}",
 	"edition_text_multiple_token_series": "SERIES | Edition of {{edition}}",
 	"edition_text_1of1_token_series": "Open Edition",
+  "edition_of_no_rank": "Edition of {{copies}}",
 	"no_price": "No Price",
 	"free": "Free",
 	"transfer": {
@@ -203,6 +205,7 @@
 			"accept_bid": "Bid accepted",
 			"remove_bid": "Bid removed",
 			"create_card": "Card successfully created",
+      "create_collection": "Collection successfully created",
 			"default": "Transaction success"
 		},
 		"transaction_sub_text": {
@@ -229,5 +232,12 @@
 			"multiple_card_2_collections": "Check out all NFTs from {{collection1}} & {{collection2}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n",
 			"multiple_card_3_collections": "Check out all NFTs from {{collection1}}, {{collection2}}, and {{collection3}} collections on {{account}}!\n\n#parasnft #nftcollectibles #nft\n\n"
 		}
-	}
+	},
+  "fee_modal": {
+    "storage_deposit": "Storage Deposit",
+    "gas_fee": "Gas Fee",
+    "create_collection": "Create Collection",
+    "create_card": "Create Card",
+    "on_chain": "On-chain"
+  }
 }
