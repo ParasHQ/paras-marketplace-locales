@@ -24,9 +24,9 @@
 		"total_volume": "Tổng khối lượng",
 		"floor_price": "Giá sàn",
 		"average_price": "Giá trung bình",
-		"listed_items": "Đang niêm yết",
-		"total_items": "Tổng số item",
-		"total_owners": "Tổng chủ sở hữu"
+		"listed_items": "Item được liệt kê",
+		"total_items": "Tổng số mặt hàng",
+		"total_owners": "Tổng số chủ sở hữu"
 	},
 	"bio": {
 		"created": "Tạo",

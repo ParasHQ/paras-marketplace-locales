@@ -16,7 +16,10 @@
 		"token": "Token",
 		"loyalty": "Loyalty",
 		"dyor": "DYOR",
-		"search_placeholder": "Tìm kiếm bộ sưu tập, NFT và hơn thế nữa..."
+		"search_placeholder": "Tìm kiếm bộ sưu tập, NFT và hơn thế nữa...",
+            "dapp_staking": "dApp Staking",
+    "login": "Login",
+        "no_results": "No Results Found"
 	},
 	"menu": {
 		"display": "Hiển thị",
@@ -172,6 +175,10 @@
 		"share_collection_text": "Xem ngay {{collection}} của {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards",
 		"share_publication_text": "Xem ngay {{publication}} bởi {{creator}} trên @ParasHQ #paras #cryptoart #digitalart #tradingcards"
 	},
+  "launchpad": {
+    "title": "Launchpad",
+    "total_supply": "Tổng cung"
+  },
 	"collection": {
 		"total_number_nft": "{{total}} NFT",
 		"total_volume": "Tổng khối lượng",
@@ -188,15 +195,15 @@
 		"button_add_card": "Thêm vào giỏ",
 		"button_edit_collection": "Chỉnh sửa bộ sưu tập",
 		"last_7_days_volume": "Khối lượng 7 ngày qua",
-		"created": "Đã tạo",
-    "delete_modal": {
-      "title": "Bạn muốn xóa bộ sưu tập?",
-      "description": "Sau khi bị xóa, bạn không thể hoàn tác quá trình này.",
-      "button_delete": "Xác nhận",
-      "button_cancel": "Hủy bỏ",
-      "success_toast": "{{count}} bộ sưu tập đã xóa"
-    },
-    "burn_all_cards": "Burn all cards within the collection first"
+		"created": "Tạo",
+		"delete_modal": {
+			"title": "Bạn muốn xóa bộ sưu tập?",
+			"description": "Sau khi bị xóa, bạn không thể hoàn tác quá trình này.",
+			"button_delete": "Xác nhận",
+			"button_cancel": "Hủy bỏ",
+			"success_toast": "{{count}} bộ sưu tập đã xóa"
+		  },
+		  "burn_all_cards": "Burn tất cả các thẻ trong bộ sưu tập trước"
 	},
 	"card": {
 		"open_offer": "Mở offer",
@@ -215,7 +222,7 @@
 			"start_from": "Bắt đầu từ"
 		},
 		"rarity": "Độ hiếm {{rarity}}",
-		"floor": "Tầng {{floor}}",
+		"floor": "Sàn {{floor}}",
 		"time_left_auction": "Thẻ này để đấu giá kết thúc sau {{days}} ngày {{hours}}:{{mins}}:{{secs}}",
 		"time_left_auction_short": "Phiên đấu giá kết thúc sau \n{{days}}D {{hours}}:{{mins}}:{{secs}}",
 		"some_card_auction": "Một số ấn bản đang được bán đấu giá",
@@ -247,22 +254,22 @@
 		"rank": "Xếp hạng {{rank}}",
 		"transaction-type": {
 			"accept": "Chấp nhận",
-			"minted": "đúc",
-			"burned": "đốt cháy",
-			"transfer": "Chuyển khoản",
+			"minted": "Đúc",
+			"burned": "Đã burn",
+			"transfer": "Chuyển",
 			"set_price": "Đặt giá",
-			"offer": "Lời đề nghị",
-			"delete_offer": "Xóa phiếu mua hàng",
+			"offer": "Offer",
+			"delete_offer": "Xóa offer",
 			"submission": "Nộp hồ sơ",
-			"creation": "Sự sáng tạo",
-			"listing": "niêm yết",
+			"creation": "Creation",
+			"listing": "Niêm yết",
 			"remove_sale": "Xóa giảm giá",
 			"add_trade": "Thêm giao dịch",
 			"delete_trade": "Xóa giao dịch",
 			"accept_trade": "Chấp nhận giao dịch",
-			"decrease_copy": "giảm Sao chép",
+			"decrease_copy": "Giảm sao chép",
 			"auction": "Bán đấu giá",
-			"bid": "offer",
+			"bid": "Đấu thầu",
 			"cancel_bid": "Hủy thầu",
 			"sold": "Đã bán"
 		},
@@ -274,9 +281,9 @@
 		"top_sellers": "Bán chạy nhất",
 		"following_activity": "Hoạt động sau",
 		"following": "Tiếp theo",
-		"floor": "Tầng {{floor}}",
-		"by": "qua",
-		"to": "ĐẾN",
+		"floor": "Sàn {{floor}}",
+		"by": "Qua",
+		"to": "Đến",
 		"from": "Từ",
 		"type": "Kiểu",
 		"title": "Tiêu đề",
@@ -285,9 +292,9 @@
 		"empty_activity": "Không có hoạt động tại thời điểm này",
 		"today": "Hôm nay",
 		"tooltip": {
-			"average_price": "Trung bình Giá",
-			"sales": "Việc bán hàng",
-			"volume": "Âm lượng"
+			"average_price": "Giá trung bình",
+			"sales": "Đã bán",
+			"volume": "Khối lượng"
 		}
 	},
 	"apex_collector": {
@@ -306,21 +313,21 @@
 	"setting": {
 		"title": "Cài đặt",
 		"cancel": "Hủy bỏ",
-		"email_notification": "thông báo có email",
+		"email_notification": "Thông báo qua email",
 		"email_notification_option": {
 			"newsletter": "Bản tin Paras",
 			"drops": "NFT mới",
 			"activity": "Hoạt động giao dịch"
 		},
 		"input_email_label": "Địa chỉ email",
-		"input_email_placeholder": "nhập địa chỉ email của bạn",
+		"input_email_placeholder": "Nhập địa chỉ email của bạn",
 		"input_email_error": "Vui lòng nhập email hợp lệ",
 		"minimum_offer_price_label": "Giá offer tối thiểu",
 		"minimum_offer_price_description": "Đặt mức tối thiểu bạn muốn cho bộ sưu tập của mình",
 		"rpc_label": "URL RPC",
 		"rpc_option": {
-			"official": "rpc chính thức",
-			"blockpi": "blockpi rpc"
+			"official": "RPC chính thức",
+			"blockpi": "Blockpi RPC"
 		},
 		"button_update": "Cập nhật",
 		"email_verification": {
@@ -335,11 +342,11 @@
 		"report_category_label": "Tại sao bạn muốn báo cáo mục này?",
 		"report_category_placeholder": "Chọn lý do",
 		"report_category_option": {
-			"art_theft": "Ăn cắp",
+			"art_theft": "Ăn cắp ảnh",
 			"double_minting": "Mint 2 lần",
 			"inappropriate_content": "Nội dung không phù hợp",
-			"harmful_content": "nội dung có hại",
-			"rights_violation": "vi phạm quyền",
+			"harmful_content": "Nội dung có hại",
+			"rights_violation": "Vi phạm quyền",
 			"others": "Lý do khác"
 		},
 		"report_description_label": "Chi tiết bổ sung",
@@ -364,8 +371,8 @@
 		"total_purchase": "Tổng Mua",
 		"your_balance": "Số dư của bạn",
 		"not_enough_balance": "Không đủ số dư",
-		"top_up_balance": "Số dư Nạp tiền",
-		"top_up": "nạp tiền",
+		"top_up_balance": "Số dư",
+		"top_up": "Nạp tiền",
 		"you_will_redirect": "Bạn sẽ được chuyển hướng đến ví của mình để xác nhận giao dịch.",
 		"your_card_empty": "Giỏ của bạn trống trơn",
 		"buy_faster_by_adding": "Mua nhanh hơn bằng cách thêm tối đa 10 thẻ vào giỏ hàng của bạn.",
@@ -378,8 +385,8 @@
 		"all_item_section_deleted": "Tất cả các mục trong phần này sẽ bị xóa.",
 		"cannot_be_processed": "Không thể xử lý ({{total}})",
 		"tooltip_you_cannot_add": "Bạn không thể mua thẻ từ thẻ bên dưới",
-		"item_changed": "Trạng thái đã thay đổi.",
-		"refresh": "Làm mới",
+		"item_changed": "Trạng thái mục đã thay đổi.",
+		"refresh": "Làm cho khỏe lại",
 		"price_changes": "thay đổi giá",
 		"unavailabe": "Không có sẵn",
 		"item_removed": "Đã xóa {{total}} mục",
@@ -392,7 +399,7 @@
 		"connect_wallet": "Kết nối ví",
 		"cancel": "Hủy bỏ",
 		"yes": "Đúng",
-		"confirm_buy": "xác nhận mua"
+		"confirm_buy": "Xác nhận mua"
 	},
 	"edition_text_internal_token": "NFT | {{edition}} của {{copies}}",
 	"edition_text_external_token": "NFT | {{edition}}",
@@ -468,5 +475,58 @@
 			"team": "Đội ngũ"
 		}
 	},
-	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để có phản hồi và tiền thưởng, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord."
+	"experimental_language": "Đây là ngôn ngữ thử nghiệm. Để phản hồi lỗi, vui lòng tạo pull request <Link>tại đây</Link> hoặc liên hệ với chúng tôi trên nhóm Discord để phản hồi và nhận tiền thưởng.",
+	"first_time_user": {
+		"next": "Tiếp",
+		"back": "Trở lại",
+		"got_it": "Okay",
+		"show_me": "Cho tôi xem",
+		"give_feedback": "Để lại góp ý",
+		"feature_update": "Cập nhật tính năng",
+		"feature_update_desc": "Bạn có thể đọc <GuideLink>hướng dẫn này</GuideLink> để tìm hiểu thêm.",
+		"feature": {
+			"dark_mode": {
+				"name": "Chế độ tối",
+				"desc": "Chế độ tối giảm mỏi mắt và lóa từ màn hình sáng, đặc biệt là trong điều kiện ánh sáng yếu.",
+				"steps": {
+					"1": {
+						"title": "Các tính năng của chế độ tối đã được cập nhật, hãy tìm hiểu trong menu này",
+						"content": "Bây giờ bạn sẽ có thể chuyển từ chủ đề sáng truyền thống sang chủ đề tối hơn."
+					},
+					"2": {
+						"title": "Chuyển sang bật",
+						"content": "Bạn có thể quay lại màn hình chế độ sáng bằng cách tắt nút này."
+					}
+				}
+			},
+			"language": {
+				"name": "Ngôn ngữ",
+				"desc": "Điều chỉnh tùy chọn ngôn ngữ để nâng cao trải nghiệm người dùng của bạn và giúp tương tác với nền tảng dễ dàng hơn.",
+				"steps": {
+					"1": {
+						"title": "Các tính năng ngôn ngữ đã được cập nhật, hãy tìm hiểu trong menu này",
+						"content": "Bây giờ bạn có thể điều chỉnh tùy chọn ngôn ngữ của mình dựa trên ngôn ngữ bạn muốn."
+					},
+					"2": {
+						"title": "Nhấn nút thả xuống",
+						"content": "Xem các tùy chọn ngôn ngữ khác nhau trong menu \"Ngôn ngữ\"."
+					},
+					"3": {
+						"title": "Chọn tùy chọn ngôn ngữ",
+						"content": "Chúng tôi sẽ liên tục cập nhật các tùy chọn ngôn ngữ theo nhu cầu của bạn."
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "Chia sẻ phản hồi của bạn",
+			"input_placeholder": "Bạn đang nghĩ gì?",
+			"input_email_label": "Email của bạn",
+			"input_email_placeholder": "Paras có thể liên hệ với tôi thông qua",
+			"checkbox_label": "Tôi muốn tham gia vào quá trình nghiên cứu sản phẩm",
+			"button_submit": "Gửi feedback",
+			"button_cancel": "Hủy"
+		}
+	},
+  "slow_indexer_info": "Hệ thống đang cập nhật các hoạt động mới nhất. Những giao dịch gần đây có thể hiển thị chậm trễ. Vui lòng <Link>tải lại</Link> trang để xem những cập nhật mới"
 }
