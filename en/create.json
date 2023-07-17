@@ -66,7 +66,7 @@
 		"title_placeholder": "Card title",
 		"royalty": "Royalty",
 		"royalty_add_account": "Add Account",
-		"royalty_account_label": "Account ID on NEAR",
+		"royalty_account_label": "Account ID on ASTAR",
 		"royalty_account_placeholder": "Account ID",
 		"royalty_amount_label": "Amount of royalty",
 		"royalty_amount_placeholder": "10% 20% 30$",
