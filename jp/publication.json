@@ -1,75 +1,75 @@
 {
-  "publications": "출판물",
+  "publications": "出版物",
   "breadcrumbs": {
-    "first": "출판물",
+    "first": "出版物",
     "second": "{{breadcrumb}}",
     "third": "{{pubTitle}}"
   },
   "title": "{{pubTitle}}",
   "description": "{{pubDesc}}",
   "authorId": "{{authorId}}",
-  "verified": "검증된 제작자",
-  "view_profile": "프로필 보기",
-  "image": "이미지",
-  "video": "동영상",
-  "card": "카드",
-  "collection": "컬렉션",
-  "pub_type": { "community": "커뮤니티", "editorial": "설명" },
-  "comic_type": "만화",
-  "title_page": { "create": "출판물 만들기", "edit": "출판물 편집" },
-  "cancel": "취소",
-  "embedded_collectibles": "출판물의 다른 컬렉션들",
+  "verified": "認証された制作者",
+  "view_profile": "プロフィールを見る",
+  "image": "イメージ",
+  "video": "動画",
+  "card": "カード",
+  "collection": "コレクション",
+  "pub_type": { "community": "コミュニティー", "editorial": "説明" },
+  "comic_type": "漫画",
+  "title_page": { "create": "出版物を作る", "edit": "出版物の編集" },
+  "cancel": "取り消し",
+  "embedded_collectibles": "出版物の他のコレクション",
   "form": {
     "cover": {
-      "title": "썸네일 업로드",
-      "description": "지원되는 파일: PNG, JPG. 최대 파일 크기: 30MB"
+      "title": "サムネイルのアップロード",
+      "description": "ファイル: PNG, JPG. 最大ファイルのサイズ: 30MB"
     },
     "teaser": {
-      "title": "요약본",
-      "placeholder": "독자를 끌기 위해 짧고 흥미롭게 유지하십시오 ..."
+      "title": "要約本",
+      "placeholder": "読者から興味をそそるために短くて面白く作成してみましょう。"
     },
-    "publish": "게시"
+    "publish": "掲示"
   },
   "modal": {
     "add_video": {
-      "label": "동영상 추가하기",
-      "placeholder": "동영상 URL",
-      "description": "유튜브 영상 링크를 입력해주세요",
-      "button": "동영상 추가"
+      "label": "動画を追加する",
+      "placeholder": "動画のURL",
+      "description": "ユーチューブの動画リンクを入力してください。",
+      "button": "動画を追加する"
     },
     "add_card": {
-      "label": "출판물에 NFT 추가하기",
-      "placeholder": "토큰의 URL",
-      "description": "https://paras.id/token/x.paras.near::1 토큰 링크를 입력하세요.",
-      "button": "NFT 추가"
+      "label": "出版物にNFTを追加する",
+      "placeholder": "トークンのURL",
+      "description": "https://paras.id/token/x.paras.near::1 トークンのリンクを入力してください。",
+      "button": "NFTを追加する"
     },
     "add_collection": {
-      "label": "간행물에 컬렉션 추가하기",
-      "placeholder": "컬렉션의 URL",
-      "description": "컬렉션 링크를 입력하세요 https://paras.id/collection/paradigm",
-      "button": "컬렉션 추가"
+      "label": "出版物にコレクションを追加する",
+      "placeholder": "コレクションのURL",
+      "description": "コレクションのリンクを入力してください。 https://paras.id/collection/paradigm",
+      "button": "コレクションを追加する"
     },
     "leaving_confirmation": {
-      "label": "이 페이지에서 나가시겠습니까? 업데이트하지 않은 변경사항은 잃게 됩니다.",
-      "button_ok": "네",
-      "button_cancel": "취소"
+      "label": "このページで出ますか？アップデートしない変更事項は保存できません。",
+      "button_ok": "はい",
+      "button_cancel": "いいえ"
     },
     "delete_publication": {
-      "label": "잠깐만요!",
-      "description": "정말로 {{publication}}의 삭제를 원하십니까?",
-      "button": "삭제하기"
+      "label": "あっ!",
+      "description": "本当に{{publication}}の削除をしますか?",
+      "button": "削除する"
     }
   },
   "error": {
-    "maximum_cards": "최대 {{num}}장의 카드만 추가할 수 있습니다.",
-    "maximum_collections": "최대 {{num}}개의 컬렉션을 추가할 수 있습니다.",
-    "wrong_url": "올바른 URL을 입력하세요.",
-    "already_added_collection": "이 컬렉션은 이미 추가되었습니다.",
-    "maximum_file_size": "최대 파일 크기는 {{num}}MB입니다.",
-    "title_required": "제목을 입력해주세요.",
-    "cover_required": "썸네일을 추가해주세요",
-    "teaser_required": "요약본을 입력해주세요."
+    "maximum_cards": "最大{{num}}枚のカードを追加できます。",
+    "maximum_collections": "最大{{num}}個のコレクションを追加できます。",
+    "wrong_url": "正しいURLを入力してください。",
+    "already_added_collection": "このコレクションはもう追加されました。",
+    "maximum_file_size": "最大のファイルのサイズは{{num}}MBです。",
+    "title_required": "タイトルを入力してください。",
+    "cover_required": "サムネイルを追加してください。",
+    "teaser_required": "要約本を入力してください。"
   },
-  "delete": "삭제",
-  "text_editor": { "title": "제목", "placeholder": "내용을 입력해주세요..." }
+  "delete": "削除",
+  "text_editor": { "title": "タイトル", "placeholder": "内容を入力してください。。。" }
 }

@@ -1,13 +1,13 @@
 {
   "hero": {
-    "title": "최고의 마켓플레이스",
-    "subtitle": "디지털 수집 가능한 NFT",
-    "description": "<text>NFT를 구매, 판매 및 생성할 수 있는 올인원 소셜 플랫폼에 오신 것을 환영합니다.</text><NearLink> 니어 프로토콜</NearLink>",
-    "primary_button": "탐색하기",
-    "secondary_button": "더 알아보기"
+    "title": "最高のマーケットプレース",
+    "subtitle": "デジタルのコレクションのNFT",
+    "description": "<text>NFTを購買、販売及び作られる完璧なソシアルのプラットホームにようこそ。</text><NearLink> 니어 프로토콜</NearLink>",
+    "primary_button": "探索",
+    "secondary_button": "もっと見る"
   },
-  "featured_collection": "추천 컬렉션",
-  "activity_you_follow": "팔로우 활동",
+  "featured_collection": "おすすめのコレクション",
+  "activity_you_follow": "フォロー",
   "top_collection": {
     "title": "인기 컬렉션",
     "last_7_d": "지난 일주일",
