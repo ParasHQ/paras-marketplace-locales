@@ -76,7 +76,7 @@
     "price_placeholder": "10",
     "price_dollar": "${{price}}と同じです。",
     "copies": "コピーの数",
-    "error_copies_card4card": "에디션은 100부 이상이어야 합니다.",
+    "error_copies_card4card": "エディションは100個以上が必要です。",
     "put_on_market": "マーケットの載せますか?",
     "put_on_market_option": { "no": "いいえ", "for_sale": "はい" },
     "attributes": "プロパティ",
@@ -98,9 +98,9 @@
     "you_cant_change_category": "カテゴリを変更できません。"
   },
   "form_thumbnail": {
-    "title": "카드 만들기 썸네일",
-    "description": "카드에 오디오, 3D 모델 또는 재생 가능한 Iframe 유형이 있는 경우 NFT 카드의 썸네일 이미지를 업로드해야 합니다.",
-    "thumbnail": "카드 썸네일:",
+    "title": "カードのサムネイル",
+    "description": "カードに音声、3Dモデル又は再生可能なIframe有形がある場合にはNFTカードのサムネイルイメージをアップロードする必要があります。",
+    "thumbnail": "カードのサムネイル:",
     "button_submit": "提出",
     "button_cancel": "取り消し"
   },

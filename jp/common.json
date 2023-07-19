@@ -16,30 +16,35 @@
     "token": "トークン",
     "loyalty": "ロイヤルティー",
     "dyor": "dyor",
-    "search_placeholder": "NFT、コレクションを検索"
+    "dapp_staking": "dAppステーキング",
+    "login": "ログイン",
+    "search_placeholder": "NFT、コレクションを検索",
+    "no_results": "検索結果がありません。"
   },
   "menu": {
+    "display": "ディスプレー",
+		"dark_mode": "ダークモード",
     "language": "言語",
     "product": "メニュー",
     "product_list": {
       "explore": "探索",
       "explore_modal": {
-        "top_collection": "인기 컬렉션",
-        "featured": "추천 컬렉션",
-        "fresh_on_market": "최근에 올라온 NFT",
-        "live_auction": "실시간 경매"
+        "top_collection": "人気なコレクション",
+        "featured": "おすすめのコレクション",
+        "fresh_on_market": "最近アップロードしたNFT",
+        "live_auction": "実時間オークション"
       },
-      "activity": "활동",
-      "token": "토큰",
-      "loyalty": "로열티",
+      "activity": "活動",
+      "token": "トークン",
+      "loyalty": "ロイヤルティー",
       "dyor": "dyor",
-      "staking": "스테이킹"
+      "staking": "ステーキング"
     },
     "community": "コミュニティー",
     "commounity_list": {
       "partnership": "パートナーシップ",
       "contribute": "寄与する",
-      "guide": "가이드",
+      "guide": "ガイド",
       "feature_request": "機能改善問い合わせ",
       "ask_on_discort": "ディスコード問い合わせ",
       "tia": "採用公告",
@@ -66,6 +71,8 @@
     "open": "プロフィールを開く",
     "paras_citizen": "parasの市民",
     "near_balance": "NEARの残高",
+    "locked_balance": "ステーキングしている残高",
+    "transferable_balance": "使用できる残高",
     "paras_balance": "PARASの残高",
     "create_collection": "コレクションを作る",
     "create_publication": "出版物を作る",
@@ -74,10 +81,13 @@
     "setting": "設定",
     "my_ramper_wallet": "My Ramper Walletにコネクト",
     "switch_wallet": "ウォレット転換",
+    "switch_account": "アカウント転換",
     "logout": "ログアウト",
     "top_up_near": "+ Fiatでnearをチャージする",
+    "top_up_astar": "+ Astarをチャージする",
     "get_verified": "認証する",
     "create_card": "カードを作る",
+    "explore_launchpad": "Launchpadについて",
     "dark_mode": "ダークモード"
   },
   "notification": {
@@ -149,323 +159,377 @@
       "notification_offer_reminder_buyer_with_time_condition": "상대가 <semibold> {{sellerCard}}</semibold>에 대한 귀하의 구매 제안 - {{offeredPrice}} Ⓝ에 대한 응답이 없습니다.<semibold> {{timeCondition}}</semibold> . 구매 제안을 업데이트하거나 취소하십시오.",
       "notification_trade_reminder_buyer_with_time_condition": "상대가 <semibold> {{sellerCard}}</semibold>에 대한 귀하의 구매 제안에 응답하지 않았습니다.<semibold> {{timeCondition}}</semibold> . 구매 제안을 업데이트하거나 취소하십시오."
     },
-    "a_week": "일주일",
-    "a_few_weeks": "몇 주",
-    "a_month": "한 달",
-    "a_few_months": "몇 달",
-    "signup": "회원가입"
+    "a_week": "一週間",
+    "a_few_weeks": "数週間",
+    "a_month": "一ヶ月",
+    "a_few_months": "数ヶ月",
+    "signup": "サインアップ"
   },
   "footer": {
-    "tagline": "디지털 수집품을 만들고 거래하고 수집합니다. 창작자와 수집가를 위한 올인원 소셜 NFT 마켓플레이스.",
-    "legal": "© 2022 Paras Digital. near.org + ipfs 제공"
+    "tagline": "デジタルコレクションを作ってトレードします。制作者とコレクターをためのAll-in-oneソシアルNFTマケットプレース",
+    "legal": "© 2022 Paras Digital. near.org + ipfs　提供"
   },
   "error": {
-    "400": "잘못된 요청",
-    "404": "페이지를 찾을 수 없음",
-    "405": "비 허가 된 방식",
-    "500": "인터넷 서버 오류",
-    "404_button": "둘러보기로 돌아가기",
-    "button": "돌아가기"
+    "400": "Bad Request",
+		"404": "Page not found",
+		"405": "Method Not Allowed",
+		"500": "Internal Server Error",
+    "404_button": "探索に戻る",
+    "button": "戻る"
   },
   "share": {
-    "share_text": "공유하기",
-    "facebook": "페이스북",
-    "twitter": "트위터",
-    "telegram": "텔레그램",
-    "copy_link": "링크 복사",
-    "discord": "디스코드",
-    "links": "연결",
-    "website": "웹사이트",
-    "share_nft_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcards에서 {{collection}} 컬렉션의 {{title}}을(를) 확인하세요.",
-    "share_collection_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcards에서 {{creator}}의 {{collection}}을 확인하세요",
-    "share_publication_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcards에서 {{creator}}의 {{publication}}을 확인하세요."
+    "share_text": "共有",
+    "facebook": "フェースブック",
+    "twitter": "ツイッタ",
+    "telegram": "テレグラム",
+    "copy_link": "リンクコピー",
+    "discord": "ディスコード",
+    "links": "リンク",
+    "website": "サイト",
+    "share_nft_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{collection}}の{{title}}を確認してください。",
+    "share_collection_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{creator}}の{{collection}}を確認してください。",
+    "share_publication_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{creator}}の{{publication}}を確認してください。"
   },
   "collection": {
     "total_number_nft": "{{total}} NFT",
-    "total_volume": "총 거래량",
-    "last_week_volume": "지난 주 거래량",
-    "floor": "최저 가격",
-    "owners": "소유자",
-    "collection": "컬렉션",
-    "listed_collection": "리스팅된 컬렉션",
-    "creator": "제작자",
-    "verified_creator": "인증된 제작자",
-    "collection_volume_change": "주간 거래량 변경:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
-    "button_share": "공유하기",
-    "button_report": "신고하기",
-    "button_add_card": "카드 추가",
-    "button_edit_collection": "컬렉션 편집",
-    "last_7_days_volume": "지난 7일 거래량",
-    "created": "생성됨",
+    "total_volume": "総取引量",
+    "last_week_volume": "先週の取引量",
+    "floor": "最低価格",
+    "owners": "所有者",
+    "collection": "コレクション",
+    "listed_collection": "リスティングされたコレクション",
+    "creator": "制作者",
+    "verified_creator": "認証された制作者",
+    "collection_volume_change": "週間取引量の変更:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
+    "button_share": "共有",
+    "button_report": "報告",
+    "button_add_card": "カード追加",
+    "button_edit_collection": "コレクション編集",
+    "last_7_days_volume": "先週の取引量",
+    "created": "生成されました",
     "delete_modal": {
-      "title": "Are you sure you want to delete this collection?",
-      "description": "Once deleted, you cannot undo this process.",
-      "button_delete": "Yes",
-      "button_cancel": "Cancel",
-      "success_toast": "{{count}} collection removed"
+      "title": "該当コレクションを削除しますか？",
+      "description": "一度削除されたコレクションは戻しません。",
+      "button_delete": "削除",
+      "button_cancel": "取り消す",
+      "success_toast": "{{count}}コレクションが削除されました。"
     },
-    "burn_all_cards": "Burn all cards within the collection first"
+    "burn_all_cards": "とりあえず、全てのカードを焼却してください。"
   },
   "card": {
-    "open_offer": "구매 제안하기",
-    "open_edition": "에디션 열기",
-    "collection_volume_change": "주간 거래량 변경:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
-    "creator": "제작자",
-    "collection": "컬렉션",
-    "verified_creator": "인증된 제작자",
-    "listed_collection": "리스팅된 컬렉션",
+    "open_offer": "購買提案する",
+    "open_edition": "エディションを開く",
+    "collection_volume_change": "週間取引量の変更:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
+    "creator": "制作者",
+    "collection": "コレクション",
+    "verified_creator": "認証された制作者",
+    "listed_collection": "リスティングされたコレクション",
     "card_text": {
-      "price": "가격",
-      "place_an_offer": "구매 제안하기",
-      "edit_listing": "목록 수정",
-      "lowest_price": "최저 가격",
-      "min_bid": "최소 입찰가",
-      "start_from": "에서 시작하기"
+      "price": "価格",
+      "place_an_offer": "購買提案する",
+      "edit_listing": "リスティング編集する",
+      "lowest_price": "最低価格",
+      "min_bid": "最小入札価格",
+      "start_from": "から始める"
     },
-    "rarity": "희소성 {{rarity}}",
-    "floor": "최저 {{floor}}",
-    "time_left_auction": "이 카드는 {{days}}일 {{hours}}:{{mins}}:{{secs}} 후에 종료되는 경매용입니다.",
-    "time_left_auction_short": "경매 종료 {{days}}D {{hours}}:{{mins}}:{{secs}}",
-    "some_card_auction": "일부 에디션 경매 중",
-    "staked_by_owner": "이 NFT는 현재 {{owner}}님이 스테이킹하고 있습니다.",
-    "staked_by_owner_short": "{{owner}}님이 스테이킹함",
-    "button_share": "공유하기",
-    "button_report": "신고하기",
-    "button_buy": "지금 구매하기",
-    "button_place_an_offer": "구매 제안하기",
-    "button_edit_listing": "목록 수정",
-    "button_bid": "입찰하기",
-    "button_mint": "민팅하기",
-    "button_buy_short": "구입하기",
-    "button_place_an_offer_short": "구매 제안하기",
-    "button_bid_short": "입찰",
-    "button_see_owners": "소유자 보기",
-    "no_price": "가격 없음",
-    "free": "무료"
+    "rarity": "レアリティー {{rarity}}",
+    "floor": "最低 {{floor}}",
+    "time_left_auction": "このカードは {{days}}日 {{hours}}:{{mins}}:{{secs}}後に終了されます。",
+    "time_left_auction_short": "終了まで {{days}}D {{hours}}:{{mins}}:{{secs}}",
+    "some_card_auction": "一部エディションオークション中",
+    "staked_by_owner": "このNFTは現在{{owner}}様がステーキングされています。",
+    "staked_by_owner_short": "{{owner}}様がステーキングしています。",
+    "button_share": "共有",
+    "button_report": "報告",
+    "button_buy": "今購入する",
+    "button_place_an_offer": "購買提案する",
+    "button_edit_listing": "リスティング編集する",
+    "button_bid": "入札する",
+    "button_mint": "ミンティングする",
+    "button_buy_short": "購入する",
+    "button_place_an_offer_short": "購買提案する",
+    "button_bid_short": "入札する",
+    "button_see_owners": "所有者見る",
+    "no_price": "価格無し",
+    "free": "無料"
   },
   "profile": {
-    "total_purchase": "총 구매",
-    "card_bought": "구매한 카드",
-    "edit_profile": "프로필 수정",
-    "follow_activity": "팔로우 활동"
+    "total_purchase": "総購買",
+    "card_bought": "購買したカード",
+    "edit_profile": "プロフィール編集",
+    "follow_activity": "フォロー活動"
   },
   "activity": {
-    "last_7_days": "지난 7일",
-    "rarity": "희소성 {{rarity}}",
-    "rank": "순위 {{rank}}",
+    "last_7_days": "先週",
+    "rarity": "レアリティー {{rarity}}",
+    "rank": "ランク {{rank}}",
     "transaction-type": {
-      "accept": "수락하기",
-      "minted": "민팅하기",
-      "burned": "소각하기",
-      "transfer": "옮기다",
-      "set_price": "가격 설정",
-      "offer": "권하기",
-      "delete_offer": "제안 삭제",
-      "submission": "제출",
-      "creation": "제작물",
-      "listing": "리스팅",
-      "remove_sale": "판매 제거",
-      "add_trade": "거래 추가",
-      "delete_trade": "거래 삭제",
-      "accept_trade": "거래 수락",
-      "decrease_copy": "복사품 줄이기",
-      "auction": "경매",
-      "bid": "입찰",
-      "cancel_bid": "입찰 취소",
-      "sold": "판매된"
+      "accept": "承諾する",
+      "minted": "ミンティングする",
+      "burned": "焼却する",
+      "transfer": "移る",
+      "set_price": "価格設定",
+      "offer": "誘われる",
+      "delete_offer": "提案削除",
+      "submission": "提出",
+      "creation": "制作物",
+      "listing": "リスティング",
+      "remove_sale": "販売リスティングで削除する",
+      "add_trade": "トレードする",
+      "delete_trade": "トレード削除",
+      "accept_trade": "トレード承諾",
+      "decrease_copy": "コピー本を減らす",
+      "auction": "オークション",
+      "bid": "入札",
+      "cancel_bid": "入札を取り消す",
+      "sold": "販売されました。"
     },
-    "all_users_activity": "모든 사용자 활동",
-    "all_users": "모든 사용자들",
-    "apex_collectors_activity": "Apex 수집가 활동",
-    "apex_collectors": "Apex 수집가",
-    "top_sellers_activity": "베스트 셀러 활동",
-    "top_sellers": "제일 잘 팔리는 물품들",
-    "following_activity": "팔로우 유저들 활동",
-    "following": "팔로잉",
-    "floor": "최저 {{floor}}",
-    "by": "~에 의해",
-    "to": "에게",
-    "from": "에서",
-    "type": "유형",
-    "title": "제목",
-    "price": "가격",
-    "time": "시간",
-    "empty_activity": "현재 활동 없음",
-    "today": "오늘",
+    "all_users_activity": "全ユーザーの活動",
+    "all_users": "全ユーザー",
+    "apex_collectors_activity": "Apexコレクターの活動",
+    "apex_collectors": "Apexのコレクター",
+    "top_sellers_activity": "トップセラーの活動",
+    "top_sellers": "トップセラー",
+    "following_activity": "フォローユーザーの活動",
+    "following": "フォローイング",
+    "floor": "最低 {{floor}}",
+    "collection": "コレクション",
+    "by": "~に",
+    "to": "に",
+    "from": "に",
+    "type": "有形",
+    "title": "タイトル",
+    "price": "価格",
+    "time": "時間",
+    "empty_activity": "現在活動無し",
+    "today": "今日",
     "tooltip": {
-      "average_price": "평균 가격",
-      "sales": "판매",
-      "volume": "거래량"
+      "average_price": "平均価格",
+      "sales": "販売",
+      "volume": "取引量"
     }
   },
-  "apex_collector": { "title": "에이펙스 수집가" },
+  "apex_collector": { "title": "Apexコレクター" },
   "top_seller": {
-    "title": "제일 잘 팔리는 물품들",
-    "total_sales": "총 매출",
-    "card_sold": "판매된 카드"
+    "title": "一番よく売っているアイテム",
+    "total_sales": "総売り出し",
+    "card_sold": "販売されたカード"
   },
   "cropper": {
-    "title": "타이틀",
-    "button_save": "저장하기",
-    "button_cancel": "취소"
+    "title": "イメージ編集",
+    "button_save": "保存",
+    "button_cancel": "取り消す"
   },
   "setting": {
-    "title": "설정",
-    "cancel": "취소",
-    "email_notification": "이메일 알림",
+    "title": "設定",
+    "cancel": "取り消す",
+    "email_notification": "メールお知らせ",
     "email_notification_option": {
-      "newsletter": "파라스 뉴스레터",
-      "drops": "새로운 NFT 상품",
-      "activity": "거래 활동"
+      "newsletter": "Paras newsletter",
+      "drops": "新しいNFT抽選",
+      "activity": "取引活動"
     },
-    "input_email_label": "이메일 주소",
-    "input_email_placeholder": "당신의 이메일 주소를 입력 해주세요",
-    "input_email_error": "유효한 이메일을 입력하세요",
-    "minimum_offer_price_label": "최소 구매 제안 가격",
-    "minimum_offer_price_description": "수집품에 대해 원하는 최소 구매 제안을 설정하십시오.",
+    "input_email_label": "メールアドレス",
+    "input_email_placeholder": "貴方のメールアドレスを入力してください。",
+    "input_email_error": "有効なメールを入力してください。",
+    "minimum_offer_price_label": "最小購買の提案価格",
+    "minimum_offer_price_description": "コレクションについて希望する最小購買提案を設定してください。",
     "rpc_label": "RPC URL",
-    "rpc_option": { "official": "공식 rpc", "blockpi": "블록파이 rpc" },
-    "button_update": "업데이트",
+    "rpc_option": { "official": "公式 rpc", "blockpi": "blockpi rpc" },
+    "button_update": "アップデート",
     "email_verification": {
-      "success": "귀하의 이메일이 확인되었습니다",
-      "error": "오류",
-      "button": "둘러보기로 돌아가기"
+      "success": "貴方のメールが確認されました。",
+      "error": "Error",
+      "button": "探索に戻る"
     },
-    "toast_success_general": "설정 업데이트가 성공하였습니다",
-    "toast_success_email": "이메일 추가 성공, 이메일 주소를 확인하여 확인하십시오."
+    "toast_success_general": "設定アップデートが成功しました。",
+    "toast_success_email": "メール追加成功、メールのアドレスを確認してください。"
   },
   "report": {
-    "report_category_label": "이 항목을 신고하려는 이유는 무엇입니까?",
-    "report_category_placeholder": "이유를 선택하세요",
+    "report_category_label": "この項目を報告する理由は何ですか？",
+    "report_category_placeholder": "理由を選んでください。",
     "report_category_option": {
-      "art_theft": "미술품 절도",
-      "double_minting": "이중 발행",
-      "inappropriate_content": "부적절한 콘텐츠",
-      "harmful_content": "유해 콘텐츠",
-      "rights_violation": "권리 침해",
-      "others": "기타"
+      "art_theft": "美術品窃盗",
+      "double_minting": "二重発行",
+      "inappropriate_content": "不適切なカード",
+      "harmful_content": "有害なカード",
+      "rights_violation": "権利侵害",
+      "others": "他"
     },
-    "report_description_label": "추가 세부 사항",
-    "report_description_placeholder": "자세한 내용을 입력하십시오",
-    "report_button_submit": "제출",
-    "report_button_cancel": "취소",
-    "report_toast_success": "이 항목은 신고되었습니다.",
-    "report_toast_error": "문제가 발생했습니다."
+    "report_description_label": "追加説明",
+    "report_description_placeholder": "詳しい内容を入力してください。",
+    "report_button_submit": "提出",
+    "report_button_cancel": "取り消す",
+    "report_toast_success": "この項目は報告されました。",
+    "report_toast_error": "問題が発生しました。後でまたご利用になってください。"
   },
   "tooltip": {
-    "verified": "이 아티스트는 확인되었습니다.",
-    "one_of_one": "하나의 카드 중 하나입니다.",
-    "top_collection": "이 아티스트의 컬렉션이 상위 컬렉션에 도달했습니다.",
-    "top_30": "지난 7일 동안 상위 30개 수집가."
+    "verified": "この制作者は認証されました。",
+    "one_of_one": "1/1　カードです。",
+    "top_collection": "この制作者のコレクションが上位コレクションに到達しました。",
+    "top_30": "先週の上位３０コレクター"
   },
   "cart": {
-    "cart": "장바구니({{total}})",
-    "delete_all": "모두 삭제",
-    "delete": "삭제",
-    "subtotal": "모든 ({{total}} 항목)",
-    "fee": "수수료",
-    "total_purchase": "총 구매",
-    "your_balance": "귀하의 잔액",
-    "not_enough_balance": "잔액이 충분하지 않음",
-    "top_up_balance": "충전 잔액",
-    "top_up": "충전",
-    "you_will_redirect": "거래를 확인하기 위해 지갑으로 리디렉션됩니다.",
-    "your_card_empty": "장바구니가 비어 있습니다.",
-    "buy_faster_by_adding": "장바구니에 최대 10개의 항목을 추가하여 더 빠르게 구매하세요.",
-    "go_to_market": "마켓으로 가기",
-    "tooltip_you_can_add": "가스 수수료 제한으로 인해 카트에 10개 이상의 항목을 추가할 수 없습니다.",
-    "want_to_delete": "{{total}} 항목을 삭제하시겠습니까?",
-    "want_to_delete_non_eligible": "구매할 수 없는 항목을 삭제하고 싶습니까?",
-    "all_item_cart_deleted": "장바구니에 담긴 모든 상품이 삭제됩니다.",
-    "all_item_collection_deleted": "이 컬렉션의 모든 항목이 삭제됩니다.",
-    "all_item_section_deleted": "이 섹션의 모든 항목이 삭제됩니다.",
-    "cannot_be_processed": "처리할 수 없음({{total}})",
-    "tooltip_you_cannot_add": "아래 카드에서 카드를 구매할 수 없습니다.",
-    "item_changed": "항목 상태가 변경되었습니다.",
-    "refresh": "새로고침",
-    "price_changes": "가격 바꾸기",
-    "unavailabe": "없는",
-    "item_removed": "{{total}} 항목이 제거됨",
-    "success_add": "1개의 항목이 장바구니에 성공적으로 추가되었습니다.",
-    "success_delete": "{{total}} 항목이 성공적으로 삭제되었습니다.",
-    "error_add_more_10": "장바구니에 10개 이상의 항목을 추가할 수 없습니다.",
-    "you_need_login": "로그인이 필요합니다",
-    "you_only_add_10": "장바구니에 10개 이상의 항목을 추가할 수 없습니다.",
-    "connect_to_wallet": "장바구니에 항목을 추가하려면 지갑을 연결하세요.",
-    "connect_wallet": "지갑 연결",
-    "cancel": "취소",
-    "yes": "네",
-    "confirm_buy": "구매 확인"
+    "cart": "カート({{total}})",
+    "delete_all": "全部削除",
+    "delete": "削除",
+    "subtotal": "全 ({{total}} 項目)",
+    "fee": "手数料",
+    "total_purchase": "総購買",
+    "your_balance": "貴方の残高",
+    "not_enough_balance": "残高が十分ではありません。",
+    "top_up_balance": "チャージの金額",
+    "top_up": "チャージ",
+    "you_will_redirect": "取引を確認するためにウォレットに移ります。",
+    "your_card_empty": "カートが空いています。",
+    "buy_faster_by_adding": "カートに最大10個の項目を追加してもっと早く購買しなさい。",
+    "go_to_market": "マケットに行く",
+    "tooltip_you_can_add": "ガス手数料の制限のため、カートに10個以上の項目を追加することができません。",
+    "want_to_delete": "{{total}}項目を削除しますか？",
+    "want_to_delete_non_eligible": "購買できない項目を削除しますか？",
+    "all_item_cart_deleted": "カートに入れた全商品が削除されます。",
+    "all_item_collection_deleted": "このコレクションの全項目が削除されます。",
+    "all_item_section_deleted": "このセクションの全項目が削除されます。",
+    "cannot_be_processed": "問題が発生しました。({{total}})",
+    "tooltip_you_cannot_add": "下のカードは購買ができません。",
+    "item_changed": "項目のステータスが変更されました。",
+    "refresh": "リロード",
+    "price_changes": "価格変更",
+    "unavailabe": "使用不可",
+    "item_removed": "{{total}}項目が削除されました。",
+    "success_add": "1個の項目がカートに成功的に追加されました。",
+    "success_delete": "{{total}}項目が成功的に削除されました。",
+    "error_add_more_10": "カートに10個以上の項目を追加できません。",
+    "you_need_login": "サインインが必要です。",
+    "you_only_add_10": "カートに10個以上の項目を追加できません。",
+    "connect_to_wallet": "カートに項目を追加すれば、ウォレットを連結してください。",
+    "connect_wallet": "ウォレットコネクト",
+    "cancel": "取り消す",
+    "yes": "はい",
+    "confirm_buy": "購買確認"
   },
-  "edition_text_internal_token": "NFT | {{edition}} 중 {{copies}}",
+  "edition_text_internal_token": "NFT | {{edition}} 中 {{copies}}",
   "edition_text_external_token": "NFT | {{edition}}",
-  "edition_text_multiple_token_series": "시리즈 | {{edition}} 에디션",
-  "edition_text_1of1_token_series": "오픈 에디션",
+  "edition_text_multiple_token_series": "シリーズ | {{edition}} エディション",
+  "edition_text_1of1_token_series": "オープンエディション",
   "likes": {
-    "success_like": " {{title}}  좋아요!",
-    "success_unlike": "{{title}}  좋아요 실패 ㅜ.ㅜ"
+    "success_like": " {{title}} いいね！",
+    "success_unlike": "{{title}} よくないね！"
   },
   "popup": {
     "loyalty": {
-      "signup_for_raffle": "지금 {{currLevel}} 추첨에 등록하세요!",
-      "signup_for_raffle_detail": "'가입'을 클릭하고 {{currLevel}} 회원 전용 보상을 받을 수 있는 기회를 얻으세요.",
-      "registered_signup_for_raffle": "추첨 응모 확인",
-      "registered_signup_for_raffle_detail": "추첨에 등록되었습니다. 감사합니다! 행운을 빕니다! ✨",
-      "won_raffle": "축하합니다, {{account}}님!",
-      "won_token_raffle_detail": "Paras Loyalty 추첨에서 {{amountToken}} $PARAS에 당첨되셨습니다!<br/> 보상에 대해 자세히 알아보기<linkLoyalty> 여기</linkLoyalty> .",
-      "won_nft_raffle_detail": "Paras Loyalty에서 {{cardName}}을(를) 획득했습니다!<br/> 24시간 내 귀하의 계정으로 보내드립니다.",
-      "read_more_rewards": "보상에 대해 자세히 알아보기<linkLoyalty> 여기</linkLoyalty> .",
-      "dont_show_again": "이 메시지를 다시 표시하지 않음",
-      "next_time": "다음에",
-      "sign_up": "가입하기",
-      "close": "닫다",
-      "share": "공유하기"
+      "signup_for_raffle": "今 {{currLevel}} 抽選に登録しましょう！",
+      "signup_for_raffle_detail": "'加入'をクリックして{{currLevel}}会員専用リワードをもらう機会を獲得しなさい。",
+      "registered_signup_for_raffle": "抽選応募の確認完了",
+      "registered_signup_for_raffle_detail": "抽選に登録されました。ありがとうございます！幸運を祈ります！ ✨",
+      "won_raffle": "おめでとうございます, {{account}}様!",
+      "won_token_raffle_detail": "Paras Loyalty抽選で{{amountToken}}$PARASに当たりました。<br/> リワードについてもっと見る<linkLoyalty>リンク</linkLoyalty> .",
+      "won_nft_raffle_detail": "Paras Loyaltyで{{cardName}}を獲得しました！<br/> 24時間内貴方のアカウントに送ります。",
+      "read_more_rewards": "リワードについてもっと見る<linkLoyalty>リンク</linkLoyalty> .",
+      "dont_show_again": "このメッセージを二度と見たくない",
+      "next_time": "次の機会",
+      "sign_up": "サインアップ",
+      "close": "閉じる",
+      "share": "共有"
     }
   },
   "badge_profile": {
-    "star_creator": "이 아티스트의 컬렉션 중 하나가 상위 컬렉션에 포함되었습니다.",
-    "apex_collector": "지난 7일 동안 상위 30개 수집가.",
-    "verified": "이 아티스트는 확인되었습니다."
+    "star_creator": "この制作者のコレクションの中の一つが上位コレクションに含めています。",
+    "apex_collector": "先週の上位30コレクター",
+    "verified": "この制作者は認証されました。"
   },
   "badge_collection": {
-    "top_collection": "지난 7일 동안 상위 30개 컬렉션입니다."
+    "top_collection": "先週の上位30個のコレクションです。"
   },
   "event_category": {
-    "has_already_c4c": "이 카드의 C4C용 다른 버전이 이미 있습니다."
+    "has_already_c4c": "このカードのC4C用の他のバージョンがもうあります。"
   },
   "login_modal": {
-    "connect_wallet_login": "지갑 연결",
-    "you_need_connect": "로그인하려면 다음 지갑 중 하나를 연결해야 합니다.",
-    "login_with_wallet": "지갑으로 로그인",
-    "login_email": "이메일로 로그인",
-    "need_guide": "가이드가 필요하세요?"
+    "connect_wallet_login": "ウォレットコネクト",
+    "you_need_connect": "サインインしたら次のウォレットの中で一つを連結してください。",
+    "login_with_wallet": "ウォレットでサインイン",
+    "login_email": "メールでサインイン",
+    "need_guide": "ガイドが必要ですか？"
   },
   "flag_modal": {
-    "this_creator_flagged": "크리에이터가 {{flag}}(으)로 표시되었습니다."
+    "this_creator_flagged": "制作者が{{flag}}で表示されています。"
   },
   "sign_modal": {
-    "sign_button": "로그인",
-    "sign_description": "로그인하여 계정을 확인해야 합니다. 아래의 \"서명\"을 클릭하고 팝업에서 \"보내기\"를 클릭하십시오. 이 웹사이트에 대한 팝업이 표시되지 않으면 수락하십시오."
+    "sign_button": "サインイン",
+    "sign_description": "サインインしてアカウントを確認します。下の\"サイン\"をクリックしてポップアップで\"提出\"をクリックしてください。このサイトについたポップアップが表示してない場合はポップアップアクセスを承諾に変わってください。"
   },
   "meta_default": {
-    "title": "Paras - NEAR의 디지털 수집품을 위한 NFT 마켓플레이스",
-    "description": "디지털 수집품을 만들고 거래하고 수집합니다. 창작자와 수집가를 위한 올인원 소셜 NFT 마켓플레이스. NEAR에서 최고의 최신 NFT 수집품을 찾아보세요."
+    "title": "Paras - NEARのデジタルコレクションをためのNFTマケットプレース",
+    "description": "デジタルコレクションを作ってトレードして収集します。制作者とコレクターのためのAll-in-oneソシアルNFTマケットプレース。 NEARで最高の最新NFTコレクションを会いましょう。"
   },
   "mint_calendar": {
-    "dyor": "이 프로젝트는 Paras의 보증이나 Paras 포스트 민트 상장을 보장하지 않습니다. 날짜는 변경될 수 있습니다. '직접 조사하세요(DYOR)'.<DYORLink> DYOR 방법<DYORLink>",
-    "button_remind_me": "이메일로 알림",
-    "button_share": "공유하기",
-    "button_mint": "민팅하기",
-    "email_not_added": "알림을 받으려면 \"설정\"에서 이메일을 추가해야 합니다.",
-    "go_to_setting": "설정으로 바로 가기",
+    "dyor": "このプロジェクトはParasの保証やParasの優先ミント登録を保証しません。日付は変更する可能性があります。'直接調べてください。(DYOR)'<DYORLink> DYOR方法<DYORLink>",
+    "button_remind_me": "メールでお知らせ",
+    "button_share": "共有",
+    "button_mint": "ミンティングする",
+    "email_not_added": "お知らせは \"設定\"でメールを入力してください。",
+    "go_to_setting": "設定に移動",
     "status": {
-      "soon": "{{date}} UTC에 발행",
-      "live": "실시간 발행은 {{days}}d {{hours}}h {{mins}}m {{secs}}s 후에 종료됩니다.",
-      "end": "발행 종료"
+      "soon": "発行予定",
+      "live": "実時間の発行は {{days}}日 {{hours}}時 {{mins}}分 {{secs}}秒の後に終了されます。",
+      "end": "終了しました。"
     },
-    "total_supply": "{{count}} 아이템",
-    "starting_price": "시작 가격 {{price}}",
-    "content": { "story": "이야기", "roadmap": "로드맵", "team": "팀" }
+    "total_supply": "{{count}}アイテム",
+    "starting_price": "最初価格 {{price}}",
+    "content": { "story": "話", "roadmap": "ロードマップ", "team": "チーム" }
   },
-  "experimental_language": "이것은 실험적인 언어입니다. 피드백 및 바운티를 받으려면 풀 요청을 작성하십시오.<Link> 여기</Link> 또는 불화로 저희에게 연락하십시오."
+  "experimental_language": "これは実験的な言語です。報告及びリワードについてはここで作成してください。<Link>リンク</Link>又はディスコードで私たちに連絡してください。",
+  "first_time_user": {
+		"next": "次",
+		"back": "戻る",
+		"got_it": "確認しました。",
+		"show_me": "見る",
+		"give_feedback": "フィードバック報告",
+		"feature_update": "Parasのアップデート",
+		"feature_update_desc": "詳しい情報はここで調べてください。 <GuideLink>ガイド</GuideLink>.",
+		"feature": {
+			"dark_mode": {
+				"name": "ダークモード",
+				"desc": "ダークモードは画面を見る私たちの目をより快適にし、疲れを軽減してくれます。",
+				"steps": {
+					"1": {
+						"title": "今からダークモードが使えます。",
+						"content": "気に入るモードをご自由にどうぞ。"
+					},
+					"2": {
+						"title": "ボタンをクリックしてモードを変更することができます。",
+						"content": "ボタンをまたクリックしたらライトモードに戻ることができます。"
+					}
+				}
+			},
+			"language": {
+				"name": "言語",
+				"desc": "貴方の国に該当する言語を準備しました。皆様はParasにもっと近づくことができます。",
+				"steps": {
+					"1": {
+						"title": "言語がアップデートされました。",
+						"content": "自分の国の言語を選んでください。"
+					},
+					"2": {
+						"title": "矢印のボタンをクリックしてください。",
+						"content": "貴方は様々な言語を\"言語\"メニューで見られます。"
+					},
+					"3": {
+						"title": "貴方の言語を選んでください。",
+						"content": "私たちはもっと多い言語を追加する予定です。"
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "フィードバックお願いします！",
+			"input_placeholder": "どうされましたか？",
+			"input_email_label": "メールアドレス",
+			"input_email_placeholder": "Parasはいつもユーザーとのコミュニケーションが開いています！",
+			"checkbox_label": "私はParasのリサーチに関心があります。",
+			"button_submit": "送る",
+			"button_cancel": "取り消す"
+		}
+	},
+  "slow_indexer_info": "私たちのサーバーはまだ最新のアクティビティに追いついています。 最近の取引は遅れる恐れがあります。更新されたトランザクションを表示するには、<Link>refresh</Link>ここで確認してください。"
 }

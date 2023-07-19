@@ -73,7 +73,7 @@
       }
     },
     "success_update_toast": "成功的にアップデートされました。",
-    "error_update_toast": "問題が発生しました。後でまたご利用してください。",
+    "error_update_toast": "問題が発生しました。後でまたご利用になってください。",
     "button_update": "保存"
   },
   "cover_image_minimum": "カバーのイメージは最小、width 800px height 200pxを以上でアップロードしてください。"

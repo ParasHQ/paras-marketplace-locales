@@ -1,57 +1,57 @@
 {
-  "get_verified": "인증받기",
-  "verification_form": "인증 신청 양식",
-  "verification_status": "인증 상태",
-  "cancel": "취소",
-  "continue": "계속하기",
-  "profile": "프로필",
-  "success_message": "성공적으로 제출되었습니다.",
-  "error_message": "문제가 발생했습니다. 나중에 다시 시도해 주세요.",
+  "get_verified": "認証者申し込み",
+  "verification_form": "認証申し込みフォーム",
+  "verification_status": "認証のステータス",
+  "cancel": "取り消す",
+  "continue": "続く",
+  "profile": "プロフィール",
+  "success_message": "成功的に提出されます。",
+  "error_message": "問題が発生しました。後でまたご利用になってください。",
   "requirement": {
-    "introduction": "Paras 아티스트로서 Paras의 전체 기능에 액세스하려면 인증을 받아야 합니다. 인증된 아티스트는 시장에서 추가로 인증 마크를 부여합니다. 현재 검증되지 않은 아티스트의 NFT는 \"마켓\" 피드에 표시되지 않습니다. 전체 과정은 3~4일이 소요됩니다.",
-    "steps": "인증을 받으려면 다음 단계만 수행하면 됩니다.",
-    "step_1": "프로필 사진 사용",
-    "step_2": "약력을 입력하세요.",
-    "step_3": "Paras 프로필의 소셜 미디어 링크(Twitter 및 Instagram)",
-    "step_4": "웹사이트 링크(필수는 아니지만 확인 가능성이 높아짐)",
-    "step_5": "진정한 예술을 위해 당신은 도용하지 않았으며, 다른 플랫폼에 자신의 같은 작품을 올리지 않았습니다.",
-    "step_6": "Paras에서 최소 3개의 NFT를 생성해야 합니다.",
-    "introduction_2": "검증된 아티스트가 되는 것이 즉각적인 성공을 가져다주지 않는다는 점을 기억하는 것도 매우 중요합니다.",
-    "introduction_3": "큰 규모의 Paras 커뮤니티에 자신을 소개하는 방법입니다."
+    "introduction": "Parasの制作者としてParasの全機能にアクセスしたら認証が必要です。認証されたアーティストはマケットプレースで認証マークを与えます。現在認証されなかった制作者のNFTは\"マケット\"の表示されません。認証の期間は3~4日がかかります。",
+    "steps": "認証について簡略に手続きを説明します。",
+    "step_1": "プロフィールにイメージを登録してください。",
+    "step_2": "制作者皆さんの略歴を入力してください。",
+    "step_3": "Parasプロフィールのソシアルメディアリンクを入力してください。(Twitter又はInstagram)",
+    "step_4": "サイトリンク(必修ではありません。しかし、検査する時に役に立てます。)",
+    "step_5": "真の芸術のために、あなたは盗用しておらず、他のプラットフォームに自分の同じ作品をアップロードしていません。",
+    "step_6": "Parasで最小3個の以上のNFTを発行する必要があります.",
+    "introduction_2": "認証された制作者になっても直ちに成功を与えられません。",
+    "introduction_3": "認証はParasコミュニティーに貴方を紹介する方法です。"
   },
   "form": {
-    "paras_profile_url": "paras profile URL",
-    "your_name": "이름",
-    "your_name_placehoder": "실명을 입력해주세요...",
-    "your_name_error": "당신의 이름을 입력 해주세요",
-    "email": "이메일",
-    "email_placeholder": "유효한 주소를 입력하세요...",
-    "email_error": "이메일을 입력하세요",
-    "twitter_account": "트위터 계정",
-    "twitter_account_placeholder": "https://twitter.com/사용자 이름",
-    "telegram_discord": "텔레그램 / 디스코드 계정",
-    "telegram_discord_placeholder": "텔레그램 / 디스코드 계정",
-    "instagram": "인스타그램",
-    "instagram_placeholder": "https://instagram.com/사용자 이름",
-    "link_error": "유효한 링크를 입력하십시오",
-    "recaptcha_error": "captcha 인증이 필요합니다",
-    "quota": "인증 가능한 유저 수"
+    "paras_profile_url": "parasプロフィールURL",
+    "your_name": "名前",
+    "your_name_placehoder": "本名を入力してください。",
+    "your_name_error": "貴方の名前を入力してください。",
+    "email": "電子メール",
+    "email_placeholder": "有効なアドレスを入力してください。",
+    "email_error": "電子メールを入力してください。",
+    "twitter_account": "ツイッタのアカウント",
+    "twitter_account_placeholder": "https://twitter.com/ユーザーネーム",
+    "telegram_discord": "テレグラム / ディスコードアカウント",
+    "telegram_discord_placeholder": "テレグラム / ディスコードアカウント",
+    "instagram": "インスタ",
+    "instagram_placeholder": "https://instagram.com/ユーザーネーム",
+    "link_error": "有効なリンクを入力してください。",
+    "recaptcha_error": "captcha認証が必要です。",
+    "quota": "認証できるユーザーの数"
   },
   "status": {
-    "description_status": "전체 확인 절차는 3-4일이 소요될 수 있으며 매주 수요일과 토요일에 공지됩니다. 인증에 실패하면 다음 배치에서 인증 상태를 다시 제출할 수 있습니다.",
-    "description_status_2": "추가 질문은 Discord에서 저희 팀에 문의해주시길 부탁드립니다.",
+    "description_status": "全体の確認手続きは3-4日がかかります。毎週の水曜日と土曜日にお知らせします。認証に失敗したら次のラウンドでまた申し込みができます。",
+    "description_status_2": "追加質問はDiscordで私たちのチームに問い合わせてください。",
     "step_1": {
-      "submitted": "제출되었습니다.",
-      "desc": "인증 유저 요청을 제출했습니다."
+      "submitted": "提出されました。",
+      "desc": "認証ユーザー要請を提出しました。"
     },
     "step_2": {
-      "in_review": "검토 중",
-      "desc": "귀하의 프로필은 저희 팀에서 검토 중입니다."
+      "in_review": "検討中",
+      "desc": "貴方のプロフィールは私たちチームで検討しています。"
     },
     "step_3": {
-      "result": "결과",
-      "desc": "확인 요청의 결과입니다. 자세한 내용은 이메일을 확인하세요."
+      "result": "結果",
+      "desc": "認証要請の結果です。詳しい内容は電子メールを確認してください。"
     }
   },
-  "verified": { "title": "확인되었습니다!", "share_now": "지금 공유하기" }
+  "verified": { "title": "認証されました!", "share_now": "共有する" }
 }

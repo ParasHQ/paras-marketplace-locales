@@ -2,42 +2,82 @@
   "hero": {
     "title": "最高のマーケットプレース",
     "subtitle": "デジタルのコレクションのNFT",
-    "description": "<text>NFTを購買、販売及び作られる完璧なソシアルのプラットホームにようこそ。</text><NearLink> 니어 프로토콜</NearLink>",
+    "description": "<text>NFTを購買、販売及び作られる完璧なソシアルのプラットホームにようこそ。</text><NearLink>Near Protocol</NearLink>",
     "primary_button": "探索",
     "secondary_button": "もっと見る"
   },
   "featured_collection": "おすすめのコレクション",
+  "new_collection": "新しいコレクション",
   "activity_you_follow": "フォロー",
+  "view_on_market": "マケットを見る",
+  "collection_page": "コレクションページ",
+  "whats_happerning": "最新ニュース",
   "top_collection": {
-    "title": "인기 컬렉션",
-    "last_7_d": "지난 일주일",
-    "more": "더보기"
+    "title": "人気なコレクション",
+    "last_7_d": "先週",
+    "more": "もっと見る"
   },
-  "mint_calendar": "민트 캘린더",
-  "whats_new": "새로운 기능",
-  "highest_sale": { "title": "최고 매출", "last_24_h": "지난 24시간" },
-  "apex_collectior": { "title": "에이펙스 수집가", "more": "더보기" },
+  "mint_calendar": "ミントカレンダ",
+  "whats_new": "新しい機能",
+  "highest_sale": { "title": "最高取り出し", "last_24_h": "ラスト24時間" },
+  "apex_collectior": { "title": "Apexコレクター", "more": "もっと見る" },
+  "new_in_paras": "Parasが初めですか？簡単な情報を通して簡単に使ってみましょう。",
   "guide": {
     "1": {
-      "title": "파라스의 새로운 기능은 무엇인가요?",
-      "description": "Paras는 <DescLink> NEAR Wallet </DescLink>를 사용하는 제작자 및 수집가를 위한 올인원 소셜 NFT 마켓플레이스입니다.",
-      "button": "회사 소개"
+      "title": "Parasの新しい機能は何ですか？",
+      "description": "Parasは<DescLink> NEAR Wallet </DescLink>を使う制作者及びコレクターのためのAll-in-oneソシアルNFTマケットプレースです。",
+      "button": "会社紹介"
     },
     "2": {
-      "title": "작품활동을 하고 있습니까?",
-      "description": "작품이나 프로젝트를 NFT로 공유하고 판매 및 향후 로열티 수수료로 이익을 얻습니다.",
-      "button": "지금 시작"
+      "title": "芸術活動をしていますか？",
+      "description": "作品やプロジェクトをNFTに共有して販売及びロイヤルティーの手数料で利益を創出します。",
+      "button": "スタート"
     },
     "3": {
-      "title": "수익을 얻고 싶습니까?",
-      "description": "가장 희귀하고 가장 원하는 NFT 컬렉션을 구하고 <DescLink> 에이펙스 컬렉터</DescLink> 가 되세요.",
-      "button": "니어 지갑 연결"
+      "title": "NFT活動で利益を作りたいですか？",
+      "description": "一番珍しくてコレクターが欲しいがるNFTコレクションを作って<DescLink>Apexコレクター</DescLink>になりましょう。",
+      "button": "NEARウォレットコネクト"
     },
     "4": {
-      "title": "당신도 참여할 수 있습니다!",
-      "description": "Paras에서 페이지를 공유하여 좋아하는 아티스트를 지원하세요. 더 많이 볼수록 아티스트는 명성을 얻게 됩니다.",
-      "button": "파라스 둘러보기"
+      "title": "NFTの世界を経験しなさい！",
+      "description": "Parasでページを共有しながら好きな制作者を応援してください。見れば見るほど制作者は成長します。",
+      "button": "Paras探索する"
     }
   },
-  "live_auction": { "title": "실시간 경매", "more": "더보기" }
+  "live_auction": { "title": "実時間オークション", "more": "もっと見る" },
+  "join": {
+    "title": "応援する制作者、コレクター、Parasチームとの連絡が必要ですか？",
+    "join_discord": "ディスコード"
+  },
+  "discover": {
+    "title": "私たちのプロジェクトを探索してみましょう。",
+    "token": {
+      "title": "$PARAS トークン",
+      "description": "PARASはParasエコシステムと所有者にもっと多いリワードを貰えるように設計したトークンです。",
+      "tagline_one": "10.58% APRの年利",
+      "tagline_two": "ロイヤルティープログラム",
+      "tagline_three": "ステーキング Paras",
+      "current_price": "現在価格",
+      "market_cap": "時価総額",
+      "circulating_supply": "現在供給量",
+      "total_supply": "総供給量"
+    },
+    "staking": {
+      "title": "$PARASステーキング",
+      "description": "Parasロイヤルティーはステーキング利用者に特典や限定アイテムの機会を提供するプログラムです。",
+      "tagline": "Parasロイヤルティー & 素晴らしいリワードの機会に参加しましょう！"
+
+    },
+    "sweep_floor": {
+      "title": "スイープフロア",
+      "description": "最低価格のカードを一気に最大10個を購買することができます。",
+      "tagline": "速い, スイープフロア! 🧹"
+    },
+    "card4card": {
+      "title": "Card4Card",
+      "description": "貴方の友達をイベントに招いてください。このイベントを通して新しい友達を作るし魅力的なコレクションを獲得することができます。",
+      "tagline_one": "貴方のNFTと制作者のNFTと交換したり、安い値段に買うことができます。",
+      "tagline_two": "賞金が貴方を待っています！"
+    }
+  }
 }

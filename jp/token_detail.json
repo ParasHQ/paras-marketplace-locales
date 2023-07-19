@@ -44,7 +44,7 @@
     },
     "offer_list": {
       "active_offering": "提示可能",
-      "regular": "정기적인",
+      "regular": "レギュラー",
       "trade_with_card": "私のカードと交換",
       "active_offers": "購買のオファー",
       "no_offer": "オファーがありません。",
@@ -68,7 +68,7 @@
     "collection": "コレクション",
     "top_collection": "人気なコレクション",
     "make_own_offer": "購買の提案を作る",
-    "no_price": "No price",
+    "no_price": "価格無し",
     "free": "無料"
   },
   "price_history": {
@@ -162,7 +162,7 @@
     "smart_contract": "スマートコントラクト",
     "image_link": "イメージのリンク",
     "locked_fee": "手数料",
-    "tooltip_locked_fee": "현재 잠긴 거래 수수료입니다. NFT 가격을 업데이트할 때마다 글로벌 거래 수수료에 따라 값도 업데이트됩니다.",
+    "tooltip_locked_fee": "現在ロックした手数料です。NFTの価格を変更するたびにグローバル手数料と共に値もアップデートされます。",
     "token_id": "トークンID",
     "token_series_id": "トークンのシリーズID"
   },
