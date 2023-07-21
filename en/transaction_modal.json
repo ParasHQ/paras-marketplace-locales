@@ -206,6 +206,7 @@
 			"remove_bid": "Bid removed",
 			"create_card": "Card successfully created",
       "create_collection": "Collection successfully created",
+      "decrease_copies": "Copies of series decreased",
 			"default": "Transaction success"
 		},
 		"transaction_sub_text": {
@@ -215,7 +216,9 @@
 			"bid": "You have successfully bid the price at {{price}}",
 			"offer": "You have successfully offered the price at {{price}}",
 			"buy": "You have successfully purchased at {{price}}",
-			"buy_bulk": "You have successfully purchased new cards"
+			"buy_bulk": "You have successfully purchased new cards",
+      "decrease_copies": "You have successfully decreased {{reduced}} copies"
+
 		},
 		"h2_text": {
 			"create_card": "{{total}} new cards added",
