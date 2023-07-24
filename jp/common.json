@@ -1,0 +1,535 @@
+{
+  "navigation": {
+    "explore": "探索",
+    "explore_modal": {
+      "top_collection": "人気なコレクション",
+      "featured_collection": "おすすめのコレクション",
+      "fresh_on_market": "最近にアップロードしたNFT",
+      "fresh_on_market_modal": {
+        "collections": "コレクション",
+        "cards": "カード",
+        "publication": "出版物"
+      },
+      "live_auction": "リアルタイム競売"
+    },
+    "activity": "活動",
+    "token": "トークン",
+    "loyalty": "ロイヤルティー",
+    "dyor": "dyor",
+    "dapp_staking": "dAppステーキング",
+    "login": "ログイン",
+    "search_placeholder": "NFT、コレクションを検索",
+    "no_results": "検索結果がありません。"
+  },
+  "menu": {
+    "display": "ディスプレー",
+		"dark_mode": "ダークモード",
+    "language": "言語",
+    "product": "メニュー",
+    "product_list": {
+      "explore": "探索",
+      "explore_modal": {
+        "top_collection": "人気なコレクション",
+        "featured": "おすすめのコレクション",
+        "fresh_on_market": "最近アップロードしたNFT",
+        "live_auction": "実時間オークション"
+      },
+      "activity": "活動",
+      "token": "トークン",
+      "loyalty": "ロイヤルティー",
+      "dyor": "dyor",
+      "staking": "ステーキング"
+    },
+    "community": "コミュニティー",
+    "commounity_list": {
+      "partnership": "パートナーシップ",
+      "contribute": "寄与する",
+      "guide": "ガイド",
+      "feature_request": "機能改善問い合わせ",
+      "ask_on_discort": "ディスコード問い合わせ",
+      "tia": "採用公告",
+      "listing": "リスティング申し込み"
+    },
+    "about": "paras",
+    "about_list": {
+      "vision_team": "ビジョンとチーム",
+      "careers": "採用",
+      "whitepaper": "ホワイトペーパー",
+      "license": "ライセンス",
+      "stats": "統計",
+      "privacy": "個人情報 政策",
+      "terms": "サービスの約款"
+    },
+    "developers": "開発者",
+    "developers_list": {
+      "gitbook": "Gitbook",
+      "github": "Github",
+      "documentation": "文書"
+    }
+  },
+  "profile_modal": {
+    "open": "プロフィールを開く",
+    "paras_citizen": "parasの市民",
+    "near_balance": "NEARの残高",
+    "locked_balance": "ステーキングしている残高",
+    "transferable_balance": "使用できる残高",
+    "paras_balance": "PARASの残高",
+    "create_collection": "コレクションを作る",
+    "create_publication": "出版物を作る",
+    "apply_launchpad": "ランチパッドを登録する",
+    "my_offer": "私のオファー",
+    "setting": "設定",
+    "my_ramper_wallet": "My Ramper Walletにコネクト",
+    "switch_wallet": "ウォレット転換",
+    "switch_account": "アカウント転換",
+    "logout": "ログアウト",
+    "top_up_near": "+ Fiatでnearをチャージする",
+    "top_up_astar": "+ Astarをチャージする",
+    "get_verified": "認証する",
+    "create_card": "カードを作る",
+    "explore_launchpad": "Launchpadについて",
+    "dark_mode": "ダークモード"
+  },
+  "notification": {
+    "title-popup": "お知らせ",
+    "title-page": "全てのお知らせ",
+    "show_all": "全体を見る",
+    "see_more": "もっと見る",
+    "action": "移動",
+    "link": "リンク",
+    "notification_level_up": "<semibold>おめでとうございます。 {{currLevel}}会員になりました！</semibold>",
+    "notification_level_up_detail": "{{timePeriod}}で抽選に登録することができます。 ここから詳細に見る👉<linkLoyalty> Loyalty</linkLoyalty>",
+    "notification_raffle_program_launch": "<semibold>今Paras Loyaltyに加入してください！</semibold>",
+    "notification_raffle_program_launch_detail": "独占抽選に参加してリワードを貰いましょう！ 詳しい内容は 👉<linkLoyalty> Loyalty</linkLoyalty>",
+    "notification_raffle_new_cycle": "<semibold>独点的なリワードが貴方を待っています！</semibold>",
+    "notification_raffle_new_cycle_detail": "今月のParas Loyaltyのリワード見る<linkLoyalty>リンク</linkLoyalty> .",
+    "notification_level_down": "<semibold>レベルがブロンズに落ちました!</semibold>",
+    "notification_level_down_detail": "抽選に登録された状態を維持すれば<linkLoyalty>固定ステーキング</linkLoyalty>を再度始めましょう!",
+    "notification_level_going_expire": "<semibold>メンバーシップが間もなく満了します！</semibold>",
+    "notification_level_going_expire_detail": "{{currLevel}}を維持すれば<linkStaking>固定ステーキング</linkStaking>を維持してください!",
+    "notification_raffle_type_drop_bronze_and_active": "<semibold>レベルがブロンズに落ちました!</semibold>",
+    "notification_raffle_type_drop_bronze_and_active_detail": "抽選の登録を維持すれば<linkStaking>固定ステーキング</linkStaking>を再度始めましょう!",
+    "notification_raffle_type_drop_not_bronze_and_active": "<semibold>会員等級が下落しました！</semibold>",
+    "notification_raffle_type_drop_not_bronze_and_active_detail": "{{currRaffleType}}の抽選に自動に加入されます。",
+    "notification_raffle_type_drop_bronze_and_deactive": "<semibold>のレベルがブロンズに落ちました！</semibold>",
+    "notification_raffle_type_drop_bronze_and_deactive_detail": "貴方は今{{currRaffleType}}の会員です。<Link>固定ステーキング</Link> {{prevRaffleType}}を通して維持してください。",
+    "notification_raffle_type_drop_not_bronze_and_deactive": "<semibold>のレベルがブロンズに落ちました!</semibold>",
+    "notification_raffle_type_drop_not_bronze_and_deactive_detail": "貴方は今{{currRaffleType}}の会員です。<Link>固定ステーキング</Link> {{prevRaffleType}}を通して維持してください。",
+    "notification_sign_up": "今{{currLevel}}です。 抽選に登録してください！",
+    "notification_sign_up_detail": "'加入'をクリックして{{currLevel}}の会員専用の補償を貰える機会を取ってください。",
+    "notification_endsoon_sign_up": "抽選の登録がすぐ終了します！",
+    "notification_endsoon_sign_up_detail": "今'登録'をクリックして抽選に参加して補償を貰える機会を取ってください。",
+    "notification_raffle_registered": "抽選の応募確認",
+    "notification_raffle_registered_detail": "抽選に登録されました。ありがとうございます。　幸運を祈ります! ✨",
+    "notification_content": "{{content}}",
+    "notification_raffle_over": "<semibold>Paras Loyaltyの抽選の当選者のリスト</semibold>",
+    "notification_raffle_over_detail": "抽選が終了しました!{{raffleTitle}}の当選者を確認してください。<linkLoyalty>リンク</linkLoyalty> 🏆",
+    "notification_raffle_won_wl_spot": "<semibold>おめでとうございます！<linkTo> {{to}}</linkTo> ,</semibold>",
+    "notification_raffle_won_wl_spot_detail": "Paras Loyaltyから1個の{{collName}}WL Spotを獲得しました! リワードについて詳細に見る<linkLoyalty>リンク</linkLoyalty>",
+    "notification_raffle_won_paras_token": "<semibold>お祝いです！<linkTo> {{to}}</linkTo> ,</semibold>",
+    "notification_raffle_won_paras_token_detail": "Paras Loyaltyから{{amountToken}}$PARASを獲得しました! リワードについて詳細に見る<linkLoyalty>リンク</linkLoyalty>",
+    "notification_raffle_won_nft": "<semibold>お祝いです！<linkTo> {{to}}</linkTo> ,</semibold>",
+    "notification_raffle_won_nft_detail": "Paras Loyaltyから{{cardName}}を獲得しました! 24時間内に貴方のアカウントにお送りします。",
+    "nft_transfer_from": "<semibold><linkToken> {{title}}</linkToken></semibold>を制作者から貰いました!<semibold><linkTo> {{to}}</linkTo></semibold>",
+    "nft_transfer_to_null": "<semibold><linkToken> {{title}}</linkToken></semibold>が焼却されました。",
+    "nft_transfer_price_from": "<semibold><linkToken> {{title}}</linkToken></semibold>が<semibold><linkTo> {{to}}</linkTo></semibold> {{price}} Ⓝに販売されました。",
+    "nft_transfer_price": "<semibold><linkToken> {{title}}</linkToken></semibold>を<semibold><linkFrom> {{from}}</linkFrom></semibold> {{price}} Ⓝに購入しました。",
+    "nft_transfer_to": "<semibold><linkToken> {{title}}</linkToken></semibold>を<semibold><linkFrom> {{from}}</linkFrom></semibold>にもらいました。",
+    "resolve_purchase_to": "<semibold><linkToken> {{title}}</linkToken></semibold>を<semibold><linkFrom> {{from}}</linkFrom></semibold> {{price}} Ⓝに購買しました。",
+    "resolve_purchase": "<semibold><linkToken> {{title}}</linkToken></semibold>を<semibold><linkTo> {{to}}</linkTo></semibold> {{price}} Ⓝに販売されました。",
+    "notification_royalty": "<semibold><linkToken> {{title}}</linkToken></semibold>に {{royalty}} Ⓝ をロイヤルティーでもらいました。",
+    "notification_add_offer": "<semibold><linkFrom>{{from}}</linkFrom></semibold>の<semibold><linkToken> {{title}}</linkToken></semibold>を {{price}} Ⓝに購入することを提案しました。",
+    "notification_add_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold>に<semibold><linkToken> {{title}}</linkToken></semibold> - {{amount}} Ⓝ　入札価格を載りました。",
+    "cancel_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold>の<semibold><linkToken> {{title}}</linkToken></semibold> - {{amount}} Ⓝに入札を取り消しました。",
+    "notification_category_accepted": "貴方の<semibold><linkCategory> {{categoryName}}</linkCategory></semibold> - <semibold><linkToken> {{title}}</linkToken></semibold>のカテゴリーの要請が承諾されました。",
+    "notification_category_rejected": "貴方の <semibold><linkCategory> {{categoryName}}</linkCategory></semibold> - <semibold><linkToken> {{title}}</linkToken></semibold>のカテゴリーの要請が拒否されました。",
+    "notification_add_trade": "貴方の <semibold><linkToken> {{title}}</linkToken></semibold>と<semibold> {{tradeTitle}}</semibold>のトレードの提案が<semibold><linkFrom>{{from}}</linkFrom></semibold>から承諾されました。",
+    "accept_trade": "<semibold><linkProfile>{{senderId}}</linkProfile></semibold>の<semibold><linkToken> {{title}}</linkToken></semibold>トレードの提案を承諾しました。",
+    "notification_offer_confirm_rejection": "<semibold> {{sellerCard}}</semibold> - <linkFrom><semibold> {{buyer}}の</semibold></linkFrom> {{offeredPrice}} Ⓝの購買提案を拒否しました。",
+    "notification_trade_confirm_rejection": "<semibold> {{sellerCard}}</semibold> - <linkFrom><semibold> {{buyer}}の</semibold></linkFrom>トレードを拒否しました。",
+    "notification_offer_rejected": "貴方の <linkTo><semibold> {{seller}}</semibold></linkTo> - <semibold>{{sellerCard}}</semibold>の購買の提案が拒否されました。",
+    "notification_trade_rejected": "貴方の <linkTo><semibold> {{seller}}</semibold></linkTo> - <semibold>{{buyerCard}}</semibold>のトレードの提案が拒否されました。",
+    "notification_out_bid": "<semibold><linkFrom>{{from}}</linkFrom></semibold> - <semibold><linkToken> {{title}}</linkToken></semibold> {{_amount}} Ⓝの入札に失敗しました。",
+    "notification_nft_sold_for_offer": "貴方が購買の提案した<semibold><linkToken>{{title}}</linkToken></semibold>を<semibold><linkProfile> {{ownerId}}</linkProfile></semibold>が承諾しました。",
+    "notification_nft_delist": "<semibold><linkToken>{{title}}</linkToken></semibold>が登録に解除されました。",
+    "notification_card4card_user_disqualified": "<semibold>すみません。 C4Cの大会で失格されました。</semibold><br><sm>同一なNFTを再度以上収集しました。</sm>",
+    "reminder": {
+      "notification_offer_reminder_seller_with_time_condition": "<semibold> {{buyer}}</semibold>の{{offeredPrice}} Ⓝの購買提案に<semibold> {{timeCondition}}</semibold>内に応答しませんでした。",
+      "notification_trade_reminder_seller_with_time_condition": "<semibold> {{buyer}}</semibold>のトレード提案に<semibold> {{timeCondition}}</semibold>内に応答しませんでした。",
+      "notification_offer_reminder_buyer_with_time_condition": "相手が <semibold> {{sellerCard}}</semibold>に関する貴方の購買提案 - {{offeredPrice}} Ⓝに<semibold> {{timeCondition}}</semibold>内に応答がありません。購買提案をアップデート又は取り消してください。",
+      "notification_trade_reminder_buyer_with_time_condition": "相手が <semibold> {{sellerCard}}</semibold>に関する貴方のトレード提案に<semibold> {{timeCondition}}</semibold>応答がありません。トレード提案をアップデート又は取り消してください。"
+    },
+    "a_week": "一週間",
+    "a_few_weeks": "数週間",
+    "a_month": "一ヶ月",
+    "a_few_months": "数ヶ月",
+    "signup": "サインアップ"
+  },
+  "footer": {
+    "tagline": "デジタルコレクションを作ってトレードします。制作者とコレクターをためのAll-in-oneソシアルNFTマケットプレース",
+    "legal": "© 2022 Paras Digital. near.org + ipfs　提供"
+  },
+  "error": {
+    "400": "Bad Request",
+		"404": "Page not found",
+		"405": "Method Not Allowed",
+		"500": "Internal Server Error",
+    "404_button": "探索に戻る",
+    "button": "戻る"
+  },
+  "share": {
+    "share_text": "共有",
+    "facebook": "フェースブック",
+    "twitter": "ツイッター",
+    "telegram": "テレグラム",
+    "copy_link": "リンクコピー",
+    "discord": "ディスコード",
+    "links": "リンク",
+    "website": "サイト",
+    "share_nft_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{collection}}の{{title}}を確認してください。",
+    "share_collection_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{creator}}の{{collection}}を確認してください。",
+    "share_publication_text": "@ParasHQ #paras #cryptoart #digitalart #tradingcardsで{{creator}}の{{publication}}を確認してください。"
+  },
+  "collection": {
+    "total_number_nft": "{{total}} NFT",
+    "total_volume": "総取引量",
+    "last_week_volume": "先週の取引量",
+    "floor": "最低価格",
+    "owners": "所有者",
+    "collection": "コレクション",
+    "listed_collection": "リスティングされたコレクション",
+    "creator": "制作者",
+    "verified_creator": "認証された制作者",
+    "collection_volume_change": "週間取引量の変更:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
+    "button_share": "共有",
+    "button_report": "報告",
+    "button_add_card": "カード追加",
+    "button_edit_collection": "コレクション編集",
+    "last_7_days_volume": "先週の取引量",
+    "created": "生成されました",
+    "delete_modal": {
+      "title": "該当コレクションを削除しますか？",
+      "description": "一度削除されたコレクションは戻しません。",
+      "button_delete": "削除",
+      "button_cancel": "取り消す",
+      "success_toast": "{{count}}コレクションが削除されました。"
+    },
+    "burn_all_cards": "とりあえず、全てのカードを焼却してください。"
+  },
+  "card": {
+    "open_offer": "購買提案する",
+    "open_edition": "エディションを開く",
+    "collection_volume_change": "週間取引量の変更:<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
+    "creator": "制作者",
+    "collection": "コレクション",
+    "verified_creator": "認証された制作者",
+    "listed_collection": "リスティングされたコレクション",
+    "card_text": {
+      "price": "価格",
+      "place_an_offer": "購買提案する",
+      "edit_listing": "リスティング編集する",
+      "lowest_price": "最低価格",
+      "min_bid": "最小入札価格",
+      "start_from": "から始める"
+    },
+    "rarity": "レアリティー {{rarity}}",
+    "floor": "最低 {{floor}}",
+    "time_left_auction": "このカードは {{days}}日 {{hours}}:{{mins}}:{{secs}}後に終了されます。",
+    "time_left_auction_short": "終了まで {{days}}D {{hours}}:{{mins}}:{{secs}}",
+    "some_card_auction": "一部エディションオークション中",
+    "staked_by_owner": "このNFTは現在{{owner}}様がステーキングされています。",
+    "staked_by_owner_short": "{{owner}}様がステーキングしています。",
+    "button_share": "共有",
+    "button_report": "報告",
+    "button_buy": "今購入する",
+    "button_place_an_offer": "購買提案する",
+    "button_edit_listing": "リスティング編集する",
+    "button_bid": "入札する",
+    "button_mint": "ミンティングする",
+    "button_buy_short": "購入する",
+    "button_place_an_offer_short": "購買提案する",
+    "button_bid_short": "入札する",
+    "button_see_owners": "所有者見る",
+    "no_price": "価格無し",
+    "free": "無料"
+  },
+  "profile": {
+    "total_purchase": "総購買",
+    "card_bought": "購買したカード",
+    "edit_profile": "プロフィール編集",
+    "follow_activity": "フォロー活動"
+  },
+  "activity": {
+    "last_7_days": "先週",
+    "rarity": "レアリティー {{rarity}}",
+    "rank": "ランク {{rank}}",
+    "transaction-type": {
+      "accept": "承諾する",
+      "minted": "ミンティングする",
+      "burned": "焼却する",
+      "transfer": "移る",
+      "set_price": "価格設定",
+      "offer": "誘われる",
+      "delete_offer": "提案削除",
+      "submission": "提出",
+      "creation": "制作物",
+      "listing": "リスティング",
+      "remove_sale": "販売リスティングで削除する",
+      "add_trade": "トレードする",
+      "delete_trade": "トレード削除",
+      "accept_trade": "トレード承諾",
+      "decrease_copy": "コピー本を減らす",
+      "auction": "オークション",
+      "bid": "入札",
+      "cancel_bid": "入札を取り消す",
+      "sold": "販売されました。"
+    },
+    "all_users_activity": "全ユーザーの活動",
+    "all_users": "全ユーザー",
+    "apex_collectors_activity": "Apexコレクターの活動",
+    "apex_collectors": "Apexのコレクター",
+    "top_sellers_activity": "トップセラーの活動",
+    "top_sellers": "トップセラー",
+    "following_activity": "フォローユーザーの活動",
+    "following": "フォローイング",
+    "floor": "最低 {{floor}}",
+    "collection": "コレクション",
+    "by": "~に",
+    "to": "に",
+    "from": "に",
+    "type": "有形",
+    "title": "タイトル",
+    "price": "価格",
+    "time": "時間",
+    "empty_activity": "現在活動無し",
+    "today": "今日",
+    "tooltip": {
+      "average_price": "平均価格",
+      "sales": "販売",
+      "volume": "取引量"
+    }
+  },
+  "apex_collector": { "title": "Apexコレクター" },
+  "top_seller": {
+    "title": "一番よく売っているアイテム",
+    "total_sales": "総売り出し",
+    "card_sold": "販売されたカード"
+  },
+  "cropper": {
+    "title": "イメージ編集",
+    "button_save": "保存",
+    "button_cancel": "取り消す"
+  },
+  "setting": {
+    "title": "設定",
+    "cancel": "取り消す",
+    "email_notification": "メールお知らせ",
+    "email_notification_option": {
+      "newsletter": "Paras newsletter",
+      "drops": "新しいNFT抽選",
+      "activity": "取引活動"
+    },
+    "input_email_label": "メールアドレス",
+    "input_email_placeholder": "貴方のメールアドレスを入力してください。",
+    "input_email_error": "有効なメールを入力してください。",
+    "minimum_offer_price_label": "最小購買の提案価格",
+    "minimum_offer_price_description": "コレクションについて希望する最小購買提案を設定してください。",
+    "rpc_label": "RPC URL",
+    "rpc_option": { "official": "公式 rpc", "blockpi": "blockpi rpc" },
+    "button_update": "アップデート",
+    "email_verification": {
+      "success": "貴方のメールが確認されました。",
+      "error": "Error",
+      "button": "探索に戻る"
+    },
+    "toast_success_general": "設定アップデートが成功しました。",
+    "toast_success_email": "メール追加成功、メールのアドレスを確認してください。"
+  },
+  "report": {
+    "report_category_label": "この項目を報告する理由は何ですか？",
+    "report_category_placeholder": "理由を選んでください。",
+    "report_category_option": {
+      "art_theft": "美術品窃盗",
+      "double_minting": "二重発行",
+      "inappropriate_content": "不適切なカード",
+      "harmful_content": "有害なカード",
+      "rights_violation": "権利侵害",
+      "others": "他"
+    },
+    "report_description_label": "追加説明",
+    "report_description_placeholder": "詳しい内容を入力してください。",
+    "report_button_submit": "提出",
+    "report_button_cancel": "取り消す",
+    "report_toast_success": "この項目は報告されました。",
+    "report_toast_error": "問題が発生しました。後でまたご利用になってください。"
+  },
+  "tooltip": {
+    "verified": "この制作者は認証されました。",
+    "one_of_one": "1/1　カードです。",
+    "top_collection": "この制作者のコレクションが上位コレクションに到達しました。",
+    "top_30": "先週の上位３０コレクター"
+  },
+  "cart": {
+    "cart": "カート({{total}})",
+    "delete_all": "全部削除",
+    "delete": "削除",
+    "subtotal": "全 ({{total}} 項目)",
+    "fee": "手数料",
+    "total_purchase": "総購買",
+    "your_balance": "貴方の残高",
+    "not_enough_balance": "残高が十分ではありません。",
+    "top_up_balance": "チャージの金額",
+    "top_up": "チャージ",
+    "you_will_redirect": "取引を確認するためにウォレットに移ります。",
+    "your_card_empty": "カートが空いています。",
+    "buy_faster_by_adding": "カートに最大10個の項目を追加してもっと早く購買しなさい。",
+    "go_to_market": "マケットに行く",
+    "tooltip_you_can_add": "ガス手数料の制限のため、カートに10個以上の項目を追加することができません。",
+    "want_to_delete": "{{total}}項目を削除しますか？",
+    "want_to_delete_non_eligible": "購買できない項目を削除しますか？",
+    "all_item_cart_deleted": "カートに入れた全商品が削除されます。",
+    "all_item_collection_deleted": "このコレクションの全項目が削除されます。",
+    "all_item_section_deleted": "このセクションの全項目が削除されます。",
+    "cannot_be_processed": "問題が発生しました。({{total}})",
+    "tooltip_you_cannot_add": "下のカードは購買ができません。",
+    "item_changed": "項目のステータスが変更されました。",
+    "refresh": "リロード",
+    "price_changes": "価格変更",
+    "unavailabe": "使用不可",
+    "item_removed": "{{total}}項目が削除されました。",
+    "success_add": "1個の項目がカートに成功的に追加されました。",
+    "success_delete": "{{total}}項目が成功的に削除されました。",
+    "error_add_more_10": "カートに10個以上の項目を追加できません。",
+    "you_need_login": "サインインが必要です。",
+    "you_only_add_10": "カートに10個以上の項目を追加できません。",
+    "connect_to_wallet": "カートに項目を追加すれば、ウォレットを連結してください。",
+    "connect_wallet": "ウォレットコネクト",
+    "cancel": "取り消す",
+    "yes": "はい",
+    "confirm_buy": "購買確認"
+  },
+  "edition_text_internal_token": "NFT | {{edition}} 中 {{copies}}",
+  "edition_text_external_token": "NFT | {{edition}}",
+  "edition_text_multiple_token_series": "シリーズ | {{edition}} エディション",
+  "edition_text_1of1_token_series": "オープンエディション",
+  "likes": {
+    "success_like": " {{title}} いいね！",
+    "success_unlike": "{{title}} よくないね！"
+  },
+  "popup": {
+    "loyalty": {
+      "signup_for_raffle": "今 {{currLevel}} 抽選に登録しましょう！",
+      "signup_for_raffle_detail": "'加入'をクリックして{{currLevel}}会員専用リワードをもらう機会を獲得しなさい。",
+      "registered_signup_for_raffle": "抽選応募の確認完了",
+      "registered_signup_for_raffle_detail": "抽選に登録されました。ありがとうございます！幸運を祈ります！ ✨",
+      "won_raffle": "おめでとうございます, {{account}}様!",
+      "won_token_raffle_detail": "Paras Loyalty抽選で{{amountToken}}$PARASに当たりました。<br/> リワードについてもっと見る<linkLoyalty>リンク</linkLoyalty> .",
+      "won_nft_raffle_detail": "Paras Loyaltyで{{cardName}}を獲得しました！<br/> 24時間内貴方のアカウントに送ります。",
+      "read_more_rewards": "リワードについてもっと見る<linkLoyalty>リンク</linkLoyalty> .",
+      "dont_show_again": "このメッセージを二度と見たくない",
+      "next_time": "次の機会",
+      "sign_up": "サインアップ",
+      "close": "閉じる",
+      "share": "共有"
+    }
+  },
+  "badge_profile": {
+    "star_creator": "この制作者のコレクションの中の一つが上位コレクションに含めています。",
+    "apex_collector": "先週の上位30コレクター",
+    "verified": "この制作者は認証されました。"
+  },
+  "badge_collection": {
+    "top_collection": "先週の上位30個のコレクションです。"
+  },
+  "event_category": {
+    "has_already_c4c": "このカードのC4C用の他のバージョンがもうあります。"
+  },
+  "login_modal": {
+    "connect_wallet_login": "ウォレットコネクト",
+    "you_need_connect": "サインインしたら次のウォレットの中で一つを連結してください。",
+    "login_with_wallet": "ウォレットでサインイン",
+    "login_email": "メールでサインイン",
+    "need_guide": "ガイドが必要ですか？"
+  },
+  "flag_modal": {
+    "this_creator_flagged": "制作者が{{flag}}で表示されています。"
+  },
+  "sign_modal": {
+    "sign_button": "サインイン",
+    "sign_description": "サインインしてアカウントを確認します。下の\"サイン\"をクリックしてポップアップで\"提出\"をクリックしてください。このサイトについたポップアップが表示してない場合はポップアップアクセスを承諾に変わってください。"
+  },
+  "meta_default": {
+    "title": "Paras - NEARのデジタルコレクションをためのNFTマケットプレース",
+    "description": "デジタルコレクションを作ってトレードして収集します。制作者とコレクターのためのAll-in-oneソシアルNFTマケットプレース。 NEARで最高の最新NFTコレクションを会いましょう。"
+  },
+  "mint_calendar": {
+    "dyor": "このプロジェクトはParasの保証やParasの優先ミント登録を保証しません。日付は変更する可能性があります。'直接調べてください。(DYOR)'<DYORLink> DYOR方法<DYORLink>",
+    "button_remind_me": "メールでお知らせ",
+    "button_share": "共有",
+    "button_mint": "ミンティングする",
+    "email_not_added": "お知らせは \"設定\"でメールを入力してください。",
+    "go_to_setting": "設定に移動",
+    "status": {
+      "soon": "発行予定",
+      "live": "実時間の発行は {{days}}日 {{hours}}時 {{mins}}分 {{secs}}秒の後に終了されます。",
+      "end": "終了しました。"
+    },
+    "total_supply": "{{count}}アイテム",
+    "starting_price": "最初価格 {{price}}",
+    "content": { "story": "話", "roadmap": "ロードマップ", "team": "チーム" }
+  },
+  "experimental_language": "これは実験的な言語です。報告及びリワードについてはここで作成してください。<Link>リンク</Link>又はディスコードで私たちに連絡してください。",
+  "first_time_user": {
+		"next": "次",
+		"back": "戻る",
+		"got_it": "確認しました。",
+		"show_me": "見る",
+		"give_feedback": "フィードバック報告",
+		"feature_update": "Parasのアップデート",
+		"feature_update_desc": "詳しい情報はここで調べてください。 <GuideLink>ガイド</GuideLink>.",
+		"feature": {
+			"dark_mode": {
+				"name": "ダークモード",
+				"desc": "ダークモードは画面を見る私たちの目をより快適にし、疲れを軽減してくれます。",
+				"steps": {
+					"1": {
+						"title": "今からダークモードが使えます。",
+						"content": "気に入るモードをご自由にどうぞ。"
+					},
+					"2": {
+						"title": "ボタンをクリックしてモードを変更することができます。",
+						"content": "ボタンをまたクリックしたらライトモードに戻ることができます。"
+					}
+				}
+			},
+			"language": {
+				"name": "言語",
+				"desc": "貴方の国に該当する言語を準備しました。皆様はParasにもっと近づくことができます。",
+				"steps": {
+					"1": {
+						"title": "言語がアップデートされました。",
+						"content": "自分の国の言語を選んでください。"
+					},
+					"2": {
+						"title": "矢印のボタンをクリックしてください。",
+						"content": "貴方は様々な言語を\"言語\"メニューで見られます。"
+					},
+					"3": {
+						"title": "貴方の言語を選んでください。",
+						"content": "私たちはもっと多い言語を追加する予定です。"
+					}
+				}
+			}
+		},
+		"feedback": {
+			"title": "フィードバックお願いします！",
+			"input_placeholder": "どうされましたか？",
+			"input_email_label": "メールアドレス",
+			"input_email_placeholder": "Parasはいつもユーザーとのコミュニケーションが開いています！",
+			"checkbox_label": "私はParasのリサーチに関心があります。",
+			"button_submit": "送る",
+			"button_cancel": "取り消す"
+		}
+	},
+  "slow_indexer_info": "私たちのサーバーはまだ最新のアクティビティに追いついています。 最近の取引は遅れる恐れがあります。更新されたトランザクションを表示するには、<Link>refresh</Link>ここで確認してください。"
+}

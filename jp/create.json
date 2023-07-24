@@ -1,0 +1,149 @@
+{
+  "create_collection": "コレクションを作る",
+  "create_cards": "カードを作る",
+  "create_card": "カードを作る",
+  "back": "パック",
+  "cancel": "取り消し",
+  "form_collection": {
+    "upload_logo": "ロゴをアップロード",
+    "upload_logo_info": "150px x 150pxが可能なファイルの種類: PNG, GIF, JPG, JPEG",
+    "upload_logo_error": "ロゴが必要です。",
+    "name": "コレクション名",
+    "name_placeholder": "作品について紹介してください。",
+    "name_error": "コレクションの名前が必要です。",
+    "description": "説明",
+    "description_placeholder": "コレクションに関する面白い話を書いてください！",
+    "description_error": "コレクションの説明が必要です。",
+    "twitter": "ツイッターのアカウント",
+    "twitter_placeholder": "https://twitter.com/使用者のアカウント",
+    "discord": "ディスコードのアカウント",
+    "discord_placeholder": "https://discord.gg/invite",
+    "website": "Website",
+    "website_placeholder": "サイトのURL。。。",
+    "button": "続く",
+    "button_edit": "保存",
+    "link_error": "有効なリンクを記入してください。"
+  },
+  "guide": {
+    "1": {
+      "title": "最高の名前を選択しなさい。永久的です。",
+      "description": "コレクションの名は永久的です。尚、コレクションを削除することができません。しかし、コレクションの情報は編集することはできます。<DescLink>Artistガイド</DescLink>"
+    },
+    "2": {
+      "title": "ファイルを正しく設定してください。",
+      "description": "貴方の名を基本タイトルに設定しました。載せる前に編集することができます。後のカードのタイトルとファイルは永久的です。"
+    },
+    "3": {
+      "title": "カードに割り当てられたプロパティを比較しましょう。",
+      "description": "プロパティはカードが持っている特性です。希少性の点数とランクを生成するために計算されます。 プロパティはカードに永久的です。"
+    },
+    "4": {
+      "title": "カードの情報を詳しく説明してください。",
+      "description": "カードが販売用に登録されたら　コレクターがカードを買うことができます。 載せる前にカードの詳細情報を確認してください。"
+    }
+  },
+  "set_cover": "カーバ設定",
+  "add_card": "カード追加({{total}})",
+  "form_attribute": {
+    "attributes": "プロパティ",
+    "close": "閉じる",
+    "new_attribute": "新しいプロパティ",
+    "edit": "編集",
+    "button_save": "保存",
+    "button_value": "内容",
+    "value": "内容",
+    "value_placeholder": "内容を入力してください。",
+    "value_error": "内容が必要です。",
+    "label": "商標",
+    "label_placeholder": "例： 背景色",
+    "label_error": "商標が必要です。",
+    "informative_create_attribute": "保存したプロパティは同じコレクションの次のカードに使えます。カードが載せた後には該当プロパティを編集、削除することができません。"
+  },
+  "form_card_details": {
+    "card_details": "カード詳細",
+    "cancel": "取り消し",
+    "title": "タイトル",
+    "title_placeholder": "カードのタイトル",
+    "royalty": "手数料",
+    "royalty_add_account": "アカウント追加",
+    "royalty_account_label": "NEARのアカウントのID",
+    "royalty_account_placeholder": "アカウントのID",
+    "royalty_amount_label": "手数料の価格",
+    "royalty_amount_placeholder": "10% 20% 30$",
+    "royalty_total": "合計: {{total}}%",
+    "listed": "載せる",
+    "price": "値段",
+    "price_placeholder": "10",
+    "price_dollar": "${{price}}と同じです。",
+    "copies": "コピーの数",
+    "error_copies_card4card": "エディションは100個以上が必要です。",
+    "put_on_market": "マーケットの載せますか?",
+    "put_on_market_option": { "no": "いいえ", "for_sale": "はい" },
+    "attributes": "プロパティ",
+    "new_attribute": "新しいプロパティ",
+    "attributes_unset": "プロパティ削除",
+    "description": "説明",
+    "description_placeholder": "コレクターが興味を持ってるように面白く自分の話を作りましょう。",
+    "button": "詳細の情報保存",
+    "error_accountid_not_found": "アカウントのIDが存在しません。",
+    "error_max_royalty": "総手数料は90%を超過できません。",
+    "error_input": {
+      "price_required": "価格を入力してください。",
+      "minimum_0": "最小 0<iconnear/>",
+      "maximum_card4card_01": "最大の価格は 0.1以上にしてください。<iconnear/>"
+    },
+    "category": "範疇",
+    "category_tooltip": "カテゴリを追加したらマーケットでカードをすぐ探すことができます。カテゴリは後で変更することができないので、もう一度考えてください。",
+    "unset": "設定の解除",
+    "you_cant_change_category": "カテゴリを変更できません。"
+  },
+  "form_thumbnail": {
+    "title": "カードのサムネイル",
+    "description": "カードに音声、3Dモデル又は再生可能なIframe有形がある場合にはNFTカードのサムネイルイメージをアップロードする必要があります。",
+    "thumbnail": "カードのサムネイル:",
+    "button_submit": "提出",
+    "button_cancel": "取り消し"
+  },
+  "fill": "詰める",
+  "edit": "編集",
+  "sale": "販売用 {{price}}",
+  "not_filled": "詳細情報を入力してください。",
+  "attributes_count": "プロパティ({{count}})",
+  "upload_cover": "表紙アップロード",
+  "upload_cover_info": "Size 1152px × 288px. Supported file : PNG, JPG. Max file Size: 30MB",
+  "upload_cards": "カードアップロード",
+  "upload_cards_info": "Supported files: PNG, JPG, GIF, MPX, MP4, GLB. アップロード等に10個, 格30mbを支援。",
+  "need_bulk_upload": "一括アップロードが必要ですか？",
+  "publish": "掲載",
+  "informative_create_card": "時間を節約するよう、ファイルの名を基本タイトルに使います。後でタイトルを編集できます。",
+  "got_it": "はい！",
+  "see_detail": "もっと見る",
+  "create_new_card": {
+    "step_1": {
+      "where_do_you_want": "新しいカードをどこに追加されますか？",
+      "create": "作る",
+      "new_collection": "新しいコレクション",
+      "exist_collection": "既存のコレクション",
+      "you_will_create_new_collection": "新しいカードを追加する前に新しいコレクションを作ります。",
+      "you_will_select_one_of_collection": "新しいカードを追加する前に既存のコレクションの中で一つを選択します。"
+    },
+    "step_2": {
+      "choose_your_existing_collection": "既存のコレクション選択する",
+      "your_card_will_be_added": "選択したコレクションにカードが追加されます。",
+      "search_collection_name": "コレクションの名を検索する",
+      "sort_by": "整列基準",
+      "sort_recently_created": "最近に追加されたアイテム",
+      "sort_alphabetic_az": "アルファベット順(AZ)",
+      "sort_alphabetic_za": "アルファベット逆順(ZA)",
+      "sort_highest_volume": "最高取引量",
+      "sort_most_owner": "主要所有者",
+      "sort_highest_floor_price": "最高の価格順",
+      "sort_lowest_floor_price": "最低価格順",
+      "collection_name": "コレクションの名",
+      "continue": "続く",
+      "select_collection_first": "取り敢えず、コレクションを選択してください",
+      "you_dont_have_collection": "まだコレクションがありません。",
+      "want_to_create_collection": "コレクションを作るのはいかがですか？"
+    }
+  }
+}

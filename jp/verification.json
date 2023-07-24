@@ -1,0 +1,57 @@
+{
+  "get_verified": "認証者申し込み",
+  "verification_form": "認証申し込みフォーム",
+  "verification_status": "認証のステータス",
+  "cancel": "取り消す",
+  "continue": "続く",
+  "profile": "プロフィール",
+  "success_message": "成功的に提出されます。",
+  "error_message": "問題が発生しました。後でまたご利用になってください。",
+  "requirement": {
+    "introduction": "Parasの制作者としてParasの全機能にアクセスしたら認証が必要です。認証されたアーティストはマケットプレースで認証マークを与えます。現在認証されなかった制作者のNFTは\"マケット\"の表示されません。認証の期間は3~4日がかかります。",
+    "steps": "認証について簡略に手続きを説明します。",
+    "step_1": "プロフィールにイメージを登録してください。",
+    "step_2": "制作者皆さんの略歴を入力してください。",
+    "step_3": "Parasプロフィールのソシアルメディアリンクを入力してください。(Twitter又はInstagram)",
+    "step_4": "サイトリンク(必修ではありません。しかし、検査する時に役に立てます。)",
+    "step_5": "真の芸術のために、あなたは盗用しておらず、他のプラットフォームに自分の同じ作品をアップロードしていません。",
+    "step_6": "Parasで最小3個の以上のNFTを発行する必要があります.",
+    "introduction_2": "認証された制作者になっても直ちに成功を与えられません。",
+    "introduction_3": "認証はParasコミュニティーに貴方を紹介する方法です。"
+  },
+  "form": {
+    "paras_profile_url": "parasプロフィールURL",
+    "your_name": "名前",
+    "your_name_placehoder": "本名を入力してください。",
+    "your_name_error": "貴方の名前を入力してください。",
+    "email": "電子メール",
+    "email_placeholder": "有効なアドレスを入力してください。",
+    "email_error": "電子メールを入力してください。",
+    "twitter_account": "ツイッタのアカウント",
+    "twitter_account_placeholder": "https://twitter.com/ユーザーネーム",
+    "telegram_discord": "テレグラム / ディスコードアカウント",
+    "telegram_discord_placeholder": "テレグラム / ディスコードアカウント",
+    "instagram": "インスタ",
+    "instagram_placeholder": "https://instagram.com/ユーザーネーム",
+    "link_error": "有効なリンクを入力してください。",
+    "recaptcha_error": "captcha認証が必要です。",
+    "quota": "認証できるユーザーの数"
+  },
+  "status": {
+    "description_status": "全体の確認手続きは3-4日がかかります。毎週の水曜日と土曜日にお知らせします。認証に失敗したら次のラウンドでまた申し込みができます。",
+    "description_status_2": "追加質問はDiscordで私たちのチームに問い合わせてください。",
+    "step_1": {
+      "submitted": "提出されました。",
+      "desc": "認証ユーザー要請を提出しました。"
+    },
+    "step_2": {
+      "in_review": "検討中",
+      "desc": "貴方のプロフィールは私たちチームで検討しています。"
+    },
+    "step_3": {
+      "result": "結果",
+      "desc": "認証要請の結果です。詳しい内容は電子メールを確認してください。"
+    }
+  },
+  "verified": { "title": "認証されました!", "share_now": "共有する" }
+}

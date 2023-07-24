@@ -1,0 +1,47 @@
+{
+  "button": {
+    "join_event": "イベントに参加する",
+    "submit_category": "カテゴリーに提出する",
+    "learn more": "もっと見る"
+  },
+  "tooltip": {
+    "submit_new_card": "新しいカードで提出する",
+    "submit_existing_card": "既存のカードで提出する"
+  },
+  "stats": {
+    "event_period": "イベントの期間",
+    "curated_by": "キュレーター",
+    "status": {
+      "upcoming": "{{date}}にオープンする予定です。",
+      "open": "{{date}}まで行われます。",
+      "closed": "終了しました。"
+    }
+  },
+  "existingCard": {
+    "titleModal": "{{title}}",
+    "descModal": "{{desc}}",
+    "c4c_desc": "管理者がカードの提出を検討します。Card4Card要求事項を満たすカードのみ以下に表示されます。"
+  },
+  "common": {
+    "no_eligible_cards": "該当のコレクションに適したカードではありません。",
+    "card_must_meet": "貴方のカードは<Span>Card4Cardの要件を満たす必要があります。</span>　",
+    "no_cards_basic": "このコレクションにカードがありません。",
+    "want_create": "<Span>カードを作りますか？</span>",
+    "aggree_card_sumbission": "私は<Span>Card4Cardの規則</span>に同意します。",
+    "submit": "提出する",
+    "cancel": "取り消し",
+    "all_categories": "全カテゴリー",
+    "select_cards": "選択したカード",
+    "select_all": "全部選択する"
+  },
+  "messages": {
+    "success": "提出して下さってありがとうございます。カードの提出を完了しました。",
+    "error": "問題が発生されました。後でまた試して下さい。",
+    "maxSubmit": "30個以上のカードを提出することはできません。",
+    "limitQuota": "すみません。{{type}}のカテゴリーの一日提出限度の100個に到達しました。"
+  },
+  "login_category": {
+    "need_login": "サービスを利用になる方はログインしてください。",
+    "connect_wallet": "ウォレットを接続してください。又はカテゴリを提出してください。"
+  }
+}
