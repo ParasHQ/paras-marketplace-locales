@@ -13,6 +13,20 @@
 		"last_7_d": "最近 7 天",
 		"more": "查看更多"
 	},
+  "collection_leaderboard" :{
+    "trending": "趋势",
+    "top":"顶部",
+    "collections": "收藏",
+    "floor_price": "底价",
+    "1d_volume": "一维体积",
+    "7d_volume": "7D 体积",
+    "volume_change": "音量变化",
+    "items": "项目",
+    "owners": "业主",
+    "show": "显示",
+    "more":"更多",
+    "top_7_days": "7 天内的热门收藏"
+  },
 	"mint_calendar": "薄荷日历",
 	"whats_new": "什么是新的",
 	"highest_sale": { "title": "最高销售额", "last_24_h": "最近 24 小时" },

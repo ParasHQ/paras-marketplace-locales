@@ -13,6 +13,20 @@
 		"last_7_d": "Les 7 derniers jours",
 		"more": "Voir plus"
 	},
+  "collection_leaderboard": {
+    "trending": "Trending",
+    "top": "Haut",
+    "collections": "Collections",
+    "floor_price": "Prix plancher",
+    "1d_volume": "Volume 1D",
+    "7d_volume": "Volume 7D",
+    "volume_change": "Changement de volume",
+    "items": "Articles",
+    "owners": "Propriétaires",
+    "show" :"montre",
+    "more":"plus",
+    "top_7_days": "Meilleures collections en 7 jours"
+  },
 	"mint_calendar": "Calendrier NFTs Mint",
 	"whats_new": "Quoi de neuf ?",
 	"highest_sale": {

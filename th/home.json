@@ -13,6 +13,20 @@
 		"last_7_d": "7 วันที่ผ่านมา",
 		"more": "ดูเพิ่มเติม"
 	},
+  "collection_leaderboard": {
+    "trending": "มาแรง",
+    "top": "ด้านบน",
+    "collections": "คอลเลกชัน",
+    "floor_price": "ราคาพื้น",
+    "1d_volume": "เล่ม 1D",
+    "7d_volume": "ปริมาณ 7D",
+    "volume_change": "เปลี่ยนระดับเสียง",
+    "items": "รายการ",
+    "owners": "เจ้าของ",
+    "show": "แสดง",
+    "more": "เพิ่มเติม",
+    "top_7_days": "คอลเลกชันยอดนิยมใน 7 วัน"
+  },
 	"mint_calendar": "ปฏิทินมิ้นท์",
 	"whats_new": "มีอะไรใหม่",
 	"highest_sale": {

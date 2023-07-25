@@ -13,6 +13,20 @@
 		"last_7_d": "7 Hari Terakhir",
 		"more": "Lihat lebih banyak"
 	},
+  "collection_leaderboard": {
+    "trending": "Tren",
+    "top": "Top",
+    "collections": "Koleksi",
+    "floor_price": "Harga terendah",
+    "1d_volume": "Volume 1D",
+    "7d_volume": "Volume 7D",
+    "volume_change": "Perubahan Volume",
+    "items": "buah",
+    "owners": "pemilik",
+    "show": "Buka",
+    "more": "lagi",
+    "top_7_days": "Top koleksi dalam 7 hari"
+  },
 	"mint_calendar": "Kalender Mint",
 	"whats_new": "Baru di Paras",
 	"highest_sale": {

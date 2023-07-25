@@ -17,6 +17,20 @@
 		"last_7_d": "Last 7 Days",
 		"more": "View more"
 	},
+  "collection_leaderboard": {
+    "trending": "Trending",
+    "top": "Top",
+    "collections": "Collections",
+    "floor_price": "Floor Price",
+    "1d_volume": "1D Volume",
+    "7d_volume": "7D Volume",
+    "volume_change": "Volume Change",
+    "items": "Items",
+    "owners": "Owners",
+    "show": "Show",
+    "more": "more",
+    "top_7_days": "Top Collections in 7 Days"
+  },
 	"mint_calendar": "Mint Calendar",
 	"whats_new": "What's New",
 	"highest_sale": {

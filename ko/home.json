@@ -13,6 +13,20 @@
     "last_7_d": "지난 일주일",
     "more": "더보기"
   },
+  "collection_leaderboard": {
+    "trending": "트렌드",
+    "top": "상단",
+    "collections": "컬렉션",
+    "floor_price": "가격 하한선",
+    "1d_volume": "1D 볼륨",
+    "7d_volume": "7D 볼륨",
+    "volume_change": "볼륨 변경",
+    "items": "항목",
+    "owners": "소유자",
+    "show": "보여주기",
+    "more": "더",
+    "top_7_days": "7일 동안의 인기 컬렉션"
+  },
   "mint_calendar": "민트 캘린더",
   "whats_new": "새로운 기능",
   "highest_sale": { "title": "최고 매출", "last_24_h": "지난 24시간" },

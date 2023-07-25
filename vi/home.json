@@ -13,6 +13,20 @@
 		"last_7_d": "7 ngày qua",
 		"more": "Xem thêm"
 	},
+  "collection_leadboard": {
+    "trending": "Xu hướng",
+    "top": "top",
+    "collections": "Bộ sưu tập",
+    "floor_price": "Giá sàn",
+    "1d_volume": "Âm lượng 1D",
+    "7d_volume": "Tập 7D",
+    "volume_change": "Thay đổi âm lượng",
+    "items": "mặt hàng",
+    "owners": "Chủ sở hữu",
+    "show": "Hiển thị",
+    "more": "nữa",
+    "top_7_days": "Bộ sưu tập hàng đầu trong 7 ngày"
+  },
 	"mint_calendar": "Lịch mint",
 	"whats_new": "Có gì mới",
 	"highest_sale": {
