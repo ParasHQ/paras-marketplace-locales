@@ -1,0 +1,173 @@
+{
+  "tabs": {
+    "overview": "概要",
+    "attributes": "プロパティー",
+    "owners": "所有者",
+    "history": "トークンの歴史",
+    "description": "説明",
+    "token_info": "トークンの情報",
+    "publications": "出版物"
+  },
+  "banner_image": {
+    "share": "共有する",
+    "copy_link": "リンクコピー",
+    "play": "再生"
+  },
+  "top_info": {
+    "three_dots": {
+      "burn_nft": "NFTを焼却",
+      "transfer_nft": "NFTを伝送",
+      "offer_nft": "私のNFTと交換をオファーする",
+      "see_token_series": "トークンのシリーズを見る",
+      "report_card": "このカードを報告する"
+    },
+    "sale_type": {
+      "on_auction": "競売中",
+      "start_from": "最初のオファー価格",
+      "on_sale": "販売中"
+    },
+    "bidding_price_type": {
+      "high_bid": "最高の提示価",
+      "start_bid": "入札開始"
+    },
+    "bidding_list": {
+      "auction_history": "競売の内訳",
+      "auction_ends_in_token": "競売価 {{days}}日, {{hours}}時間 {{mins}}分 {{secs}}秒の後に終了されます。",
+      "auction_ends_in_token_series": "一部のエディションが競売中です。",
+      "summary_bid": "競売の情報",
+      "since": "競売の登録価格",
+      "place_recent_bid": "最近の提示価",
+      "bid": "提示",
+      "start_bid": "入札開始",
+      "place_bid": "提示する",
+      "no_bid": "現在入札者がいません"
+    },
+    "offer_list": {
+      "active_offering": "提示可能",
+      "regular": "レギュラー",
+      "trade_with_card": "私のカードと交換",
+      "active_offers": "購買のオファー",
+      "no_offer": "オファーがありません。",
+      "highest_offer": "一番高い購買のオファー",
+      "offer_higher": "もっと高い購買が欲しい！",
+      "lowest_offer": "最低価の購買オファー",
+      "all_offers": "全購買オファーを見る",
+      "send_offer": "購買オファーを送る",
+      "accept": "承諾",
+      "delete": "削除",
+      "no_trade": "取引不可",
+      "highest": "一番高い",
+      "volume": "取引量",
+      "by": "が",
+      "lowest": "最低",
+      "cancel": "取り消し"
+    },
+    "mint_nft": "NFT発行",
+    "creator": "制作者",
+    "verified_creator": "認証された制作者",
+    "collection": "コレクション",
+    "top_collection": "人気なコレクション",
+    "make_own_offer": "購買の提案を作る",
+    "no_price": "価格無し",
+    "free": "無料"
+  },
+  "price_history": {
+    "avg_price": "平均価格",
+    "no_price": "価格無し",
+    "all_time": "全時間",
+    "1day": "1日",
+    "7days": "7日",
+    "1month": "1ヶ月",
+    "3months": "3ヶ月",
+    "6months": "6ヶ月",
+    "1year": "1年",
+    "price": "価格",
+    "lowest_price": "最低価格",
+    "avg._price": "平均価格",
+    "highest_price": "最高価格"
+  },
+  "dashed_info": {
+    "own_by": "所有",
+    "owners": "所有者",
+    "nft_edition_copies": "NFTエディション/コピー",
+    "tooltip_nft_edition_copies": "このカードのコピー本の数",
+    "rarity_score": "希少性の点数",
+    "rank": "ランク",
+    "rarity_score_rank": "ランク / 希少性の点数",
+    "creator_royalty": "制作者のロイヤルティー",
+    "tootlip_creator_royalty": "制作者の積極的な参加をためのロイヤルティーです。"
+  },
+  "other_card": {
+    "same_collection": "同じコレクション",
+    "see_collection": "コレクションを見る",
+    "other_creator": "制作者の他のコレクション",
+    "creators_profile": "制作者のプロフィール"
+  },
+  "attributes": {
+    "attributes": "プロパティー",
+    "rarity_score": "希少性の点数",
+    "rank": "ランク",
+    "rank_rarity_score": "ランク{{rank}}, 希少性の点数{{rarityScore}}",
+    "no_attributes": "プロパティーがありません。",
+    "rarity": "希少"
+  },
+  "owners": {
+    "sort_by": "整列の基準",
+    "sort_lowest_price": "最低価格",
+    "sort_highest_price": "最高価",
+    "sort_lowest_edition": "最低価のエディション",
+    "sort_highest_edition": "最高価のエディション",
+    "sort_az": "ユーザーの名前 AーZ順",
+    "sort_za": "ユーザーの名前 ZーA順",
+    "owners": "所有者",
+    "no_owners": "所有者がいません。最初の所有者になってください。",
+    "on_auction": "オークション中",
+    "on_sale": "販売中",
+    "staked": "ステーキング",
+    "not_for_sale": "販売中ではありません。",
+    "update": "アップデート",
+    "buy": "購入"
+  },
+  "histories": {
+    "history": "取引の記録",
+    "no_history": "記録がありません。",
+    "put_on_auction": "入札提案",
+    "add_bid_for": "オファーする",
+    "cancel_bid_from_auction": "オークションにオファーを取り消す",
+    "put_on_sale": "販売する",
+    "added_offer_nft_trade": "NFT購買オファー",
+    "deleted_offer_nft_trade": "削除したNFTオファー",
+    "accept_nft_trade": "承諾したNFTのオファー",
+    "remove_from_sale": "販売登録を取り消す",
+    "staked_to": "にステーキングを始めました。",
+    "bought_from": "から購入しました。",
+    "for": "に購入",
+    "minted": "発行されました。",
+    "minted_by": "から発行されました。",
+    "burned": "焼却されました。",
+    "accept_offer": "から承諾されました。",
+    "with_auction_for": "オークションで購入",
+    "transferred_to": "に送りました。",
+    "series_created_by": "シリーズの制作者",
+    "creator_put_series_not_sale": "制作者が該当のシリーズを販売されません。",
+    "creator_put_series_sale_for": "制作者が該当のシリーズを販売されました。",
+    "creator_put_series_nonmintable": "制作者が該当のシリーズを発行不可に設定されました。",
+    "creator_decrease_series": "制作者はシリーズのコピーの数を減らしました。数：",
+    "add_offer_for": "についてオファーが来ました。",
+    "removed_for": "削除されたオファー"
+  },
+  "description": { "description": "説明", "no_description": "説明がありません" },
+  "token_info": {
+    "token_info": "トークンの情報",
+    "smart_contract": "スマートコントラクト",
+    "image_link": "イメージのリンク",
+    "locked_fee": "手数料",
+    "tooltip_locked_fee": "現在ロックした手数料です。NFTの価格を変更するたびにグローバル手数料と共に値もアップデートされます。",
+    "token_id": "トークンID",
+    "token_series_id": "トークンのシリーズID"
+  },
+  "publications": {
+    "publications": "発行物",
+    "no_publication": "現在掲示されていません。"
+  }
+}

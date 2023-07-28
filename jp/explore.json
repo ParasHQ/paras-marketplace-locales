@@ -1,0 +1,50 @@
+{
+  "fresh_on_market": "最近に登録したNFT",
+  "search": "検索: '{{query}}'",
+  "explore_top_collections": "人気なコレクション",
+  "explore_featured_collections": "コレクションのオススメ",
+  "explore_cards": "カード探索",
+  "explore_collections": "コレクション探索",
+  "explore_profiles": "プロフィールを見る",
+  "explore_publication": "出版物を見る",
+  "last_week": "先週",
+  "tab": {
+    "collections": "コレクション",
+    "cards": "カード",
+    "publications": "出版物",
+    "profiles": "プロフィール"
+  },
+  "submission": {
+    "nft_title": "NFTの題目",
+    "collection": "コレクション",
+    "creator": "制作者",
+    "floor": "最低価格",
+    "price": "価格",
+    "no_price": "価格無し",
+    "edition_of": "エディション",
+    "button_accept": "承知",
+    "button_reject": "拒絶",
+    "search_placeholder": "NFTを検索。。。",
+    "total": "合計: {{total}} NFT",
+    "learn_more": "もっと見る",
+    "verified": "認証された制作者",
+    "modal_accept": {
+      "title_one": "{{count}} 項目を購買しますか？",
+      "title_other": "{{count}} 項目を購買しますか？",
+      "description_single": "今{{category_name}}のカテゴリに{{card_name}}のカードを購買しようとします。",
+      "description_multiple": "今{{category_name}}のカテゴリに{{count}}枚のカードを購買しようとします。",
+      "button_accept": "はい",
+      "button_reject": "いいえ"
+    },
+    "modal_reject": {
+      "title_one": "{{count}}の項目を取り消しますか？",
+      "title_other": "{{count}}の項目を取り消しますか？",
+      "description_single": "{{category_name}}のカテゴリで{{card_name}}のカードを取り消ししようとします。",
+      "description_multiple": "{{category_name}}のカテゴリで{{count}}枚のカードを取り消ししようとします。",
+      "button_accept": "はい",
+      "button_reject": "いいえ"
+    },
+    "button_manage_curation": "キュレーション管理",
+    "button_exit_manage_curation": "キュレーションの管理終了"
+  }
+}

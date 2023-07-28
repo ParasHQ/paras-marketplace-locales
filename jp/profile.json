@@ -1,0 +1,80 @@
+{
+  "header": {
+    "edit_profile": "プロフィル修正",
+    "follow_activity": "通知する",
+    "following": "フォロー中"
+  },
+  "tabs": {
+    "cards": "カード",
+    "collections": "コレクション",
+    "bio": "自己紹介",
+    "followers": "フォロワー",
+    "following": "フォロー中",
+    "liked": "いいね",
+    "publication": "出版"
+  },
+  "cards": {
+    "search_placeholder": "NFTを検索。。。",
+    "search_placeholder_collection": "コレクションを検索。。。",
+    "filter_reset": "リセット",
+    "filter_apply": "適用",
+    "filter_no_collection": "コレクションがありません。",
+    "filter_by_collection": "コレクションフィルター"
+  },
+  "bio": {
+    "joined": "加入日",
+    "account_id": "アカウントID",
+    "about_me": "自己紹介",
+    "more": "もっと見る",
+    "less": "隠す",
+    "links": "他のサイト",
+    "edit_bio": "自己紹介を編集",
+    "cancel": "取り消す",
+    "placeholder": "自己紹介を書いてください。",
+    "edit": "編集"
+  },
+  "action_logo_cover": {
+    "profile_cover": "プロフィールのカバー",
+    "zoom": "拡大",
+    "straighten": "回転",
+    "upload": "アップロード",
+    "edit": "編集",
+    "save_cover": "カバー保存",
+    "not_allowed_edit": "カバーがなかったら編集のアクセスができません。"
+  },
+  "followers": "{{count}}フォロワー",
+  "following": "{{count}}フォロー中",
+  "edit": {
+    "edit_profile": "プロフィール",
+    "cancel_edit": "取り消し",
+    "form": {
+      "display_status_label": "会員情報",
+      "bio_label": "自己紹介",
+      "bio_placeholder": "自己紹介してください。。。",
+      "twitter_label": "ツイッタープロフィール",
+      "twitter_placeholder": "https://twitter.com/ユーザーネーム",
+      "twitter_error": "ツイッターのIDのみを入力してください。",
+      "instagram_label": "インスタのプロフィール",
+      "instagram_placeholder": "https://instagram.com/ユーザーネーム",
+      "instagram_error": "インスタのIDのみを入力してください。",
+      "weibo_label": "Weibo",
+      "weibo_placeholder": "WeiboのURLを入力してください。。。",
+      "weibo_error": "有効のWeiboのURLを入力してください。",
+      "website_label": "貴方のサイト",
+      "website_placeholder": "サイトのURLを入力してください。",
+      "website_error": "有効のサイトのURLを入力してください。"
+    },
+    "privacy": {
+      "label": "個人情報の設定",
+      "option": {
+        "private_likes": "私のいいねを非公開に設定",
+        "private_following": "私のフォローを非公開に設定",
+        "show_loyalty_frame": "私のプロフィールに等級を表示"
+      }
+    },
+    "success_update_toast": "成功的にアップデートされました。",
+    "error_update_toast": "問題が発生しました。後でまたご利用になってください。",
+    "button_update": "保存"
+  },
+  "cover_image_minimum": "カバーのイメージは最小、width 800px height 200pxを以上でアップロードしてください。"
+}

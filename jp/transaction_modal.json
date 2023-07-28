@@ -1,0 +1,242 @@
+{
+  "edition_of": "{{copies}}エディション, ランク{{rarityScore}}",
+  "you_will_redirected": "取引を確認するためにウォレットに移動されます。",
+  "cancel": "取り消す",
+  "confirm": "確認",
+  "trade": "取引",
+  "edition_text_1of1_token": "エディション #{{edition}} | 1/1",
+  "edition_text_multiple_token": "エディション #{{edition}} | 1 個の {{copies}}",
+  "edition_text_token_series": "シリーズ | {{copies}} のエディション",
+  "edition_of_no_rank": "エディションの{{copies}}",
+  "no_price": "価格無し",
+  "free": "無料",
+  "transfer": {
+    "no_token_owned": "所有したトークンがありません。",
+    "select": "選択する",
+    "input_label_transfer": "アカウントのIDに伝送",
+    "input_error": "有効なNEARアカウントIDを入力してください。",
+    "input_placeholder_transfer": "アカウントID",
+    "transfer": "移る",
+    "rarity": "レアリティー {{score}}",
+    "choose_your_token": "貴方のトークンを選んでください。",
+    "want_buy_it": "まず、購買したいですか？"
+  },
+  "burn": {
+    "youre_about_burn": "{{title}}を焼却します。",
+    "burn": "焼却する"
+  },
+  "buy": {
+    "rarity": "レアリティー {{score}}",
+    "price": "価格",
+    "your_balance": "貴方の残高",
+    "buy": "購買する"
+  },
+  "place_bid": {
+    "min_bid_error": "最小価格は min.Bidです。",
+    "max_bid_error": "最大価格は貴方の残高までできます。",
+    "min_bid": "最低の入札価格",
+    "your_balance": "貴方の残高",
+    "auction_token": "オークション終了<time> {{days}}日, {{hours}}:{{mins}}:{{secs}}</time>",
+    "auction_token_series": "一部エディションオークション中",
+    "place_bid": "入札する",
+    "input_label": "入札価格"
+  },
+  "place_offer": {
+    "rarity": "レアリティー {{score}}",
+    "min_offer_error": "最小 0.01",
+    "max_offer_error": "最大価格は貴方の残高までできます。",
+    "current_price": "現在価格",
+    "your_offer": "貴方の購買提案",
+    "your_balance": "貴方の残高",
+    "currently_staked": "このNFTは現在所有者がステーキングしています。",
+    "place_offer": "購買の提案する",
+    "update_offer": "購買の提案アップデート"
+  },
+  "trading": {
+    "title": "カードトレード",
+    "desc": "認証された制作者のカードのみが下に表示されています。",
+    "rarity": "レアリティー {{score}}",
+    "no_card": "このコレクションには認証された制作者のカードがありません。",
+    "selected_card": "選択したカード",
+    "desc_empty": "カードを選択してください。",
+    "all_collections": "全コレクション",
+    "submit": "提出",
+    "cancel": "取り消す",
+    "add_card": "{{type}}カード追加"
+  },
+  "mint": {
+    "rarity": "レアリティー {{score}}",
+    "mint_to_self": "自己自身にミントする",
+    "input_label_mint": "アカウントID",
+    "storage_fee": "ストレージの手数料",
+    "mint": "ミントする"
+  },
+  "accept_offer": {
+    "offer_from": "<semibold> {{buyerId}}</semibold>から <semibold>取引の提案されました。</semibold>",
+    "for_card": "カード : <spanSemibold><linkToken> {{collection}}</linkToken></spanSemibold>の<spanSemibold><linkToken> {{title}}</linkToken></spanSemibold>",
+    "received_offer": "貰った価格の提案",
+    "royalty_artist": "制作者ロイヤルティー",
+    "fee": "手数料",
+    "storage_fee": "ストレージ手数料",
+    "total_received": "貴方が貰う総金額",
+    "accept_offer": "承諾"
+  },
+  "reject_offer": {
+    "reject_offer": "提案拒絶",
+		"warning_rejected_sent": "貴方の提案が制作者に断れました。提案を取り消して支払った費用が払い戻すことができます。",
+		"success_toast": "成功的に提案を拒絶しました。",
+    "offer_from": "<semibold>{{buyerId}}</semibold>から<semibold>提案が届きました。</semibold>",
+		"for_card": "<spanSemibold><linkToken>{{collection}}</linkToken></spanSemibold>の<spanSemibold><linkToken>{{title}}</linkToken></spanSemibold>",
+		"received_offer": "提案承諾",
+		"royalty_artist": "制作者ロイヤルティー",
+		"fee": "手数料",
+		"storage_fee": "ストレージ手数料",
+		"total_received": "貴方が貰う総金額",
+    "you_cant_request_reofferer": "再提案ができません。拒否要請は取り消しません。",
+    "cancel": "取り消す",
+    "confirm": "確認されました。"
+  },
+  "accept_trade": {
+    "card_trade_from": "<semibold> {{buyerId}}</semibold>から<semibold>トレード提案が届きました。<semibold/> ",
+    "in": "から",
+    "this_card_flagged": "このカードは{{flag}}で表示されています。",
+    "with_your_card": "貴方のカードと",
+    "volume_gap": "取引量の差",
+    "your_card_volume": "カードの取引量",
+    "received_card_volume": "貰ったカードの取引量",
+    "accept_trade": "承諾",
+    "reject_trade": "拒否"
+  },
+  "reject_trade": {
+    "card_trade_from": "<semibold> {{buyerId}}</semibold>から<semibold>カードトレードが拒否されました。<semibold/> ",
+    "in": "から",
+    "this_card_flagged": "このカードは{{flag}}で表示されています。",
+    "with_your_card": "貴方のカードと",
+    "volume_gap": "取引量の差",
+    "your_card_volume": "カードの取引量",
+    "received_card_volume": "貰ったカードの取引量",
+    "reject_trade": "拒否",
+    "i_understand": "私はリスクを理解して承諾します。",
+    "success_toast": "取引の拒否が成功的にされました。",
+    "you_cant_request_reofferer": "再提案ができません。拒否要請は取り消しません。",
+    "cancel": "取り消す",
+    "confirm": "確認されました。"
+  },
+  "reject_confirm": {
+    "want_to_reject_offer": "{{accountId}}の提案を拒絶しますか?",
+    "want_to_reject_trade": "{{accountId}}のトレードの提案を拒絶しますか?",
+    "you_are_going_to_reject_offer": "<semibold>{{cardName}}</semibold>に<semibold>{{amount}} <iconnear/></semibold>の提案を拒絶します。",
+    "you_are_going_to_reject_trade": "<semibold>{{sellerCard}}</semibold>と<semibold>{{buyerCard}}</semibold>のトレード提案を拒絶します。",
+    "offerer_receive_notif": "<semibold>{{accountId}}</semibold>にその提案が拒否されたことを知らせるメッセージがを送ります。",
+    "you_cant_request_reofferer": "再提案ができません。拒否要請は取り消しません。",
+    "cancel": "取り消す",
+    "confirm": "確認されました。",
+    "success_toast": "{{type}}：成功的に拒絶しました。"
+  },
+  "accept_bid": {
+    "bid_from": "<semibold> {{currentBidder}}</semibold>から<semibold>入札の提案が届きました。<semibold/>",
+    "for_card": "カード : <linkToken><spanSemibold>{{collection}}</spanSemibold></linkToken>の<linkToken><spanSemibold> {{title}}</spanSemibold></linkToken>",
+    "received_bid": "貰った入札の提案",
+    "royalty_artist": "制作者ロイヤルティー",
+    "fee": "手数料",
+    "storage_fee": "ストレージ手数料",
+    "total_received": "貴方が貰う総金額",
+    "accept_bid": "承諾"
+  },
+  "cancel_offer": {
+    "are_you_sure": "購買提案を取り消しますか？",
+    "your_balance_will_be_returned": "この購買提案を取り消したらすぐ保証金が返金されます。",
+    "cancel_offer": "取り消す"
+  },
+  "cancel_bid": {
+    "are_you_sure": "入札を取り消しますか？",
+    "cancel_bid": "取り消す"
+  },
+  "edit_listing": {
+    "min_duration_auction": "オークションは5日未満ではなければなりません。",
+    "must_future_auction": "オークションは未来時で設定してください。",
+    "edit_listing": "リスティング修正",
+    "listed": "登録されました。",
+    "reduce_copies": {
+      "max_reduce_error": "減らす数は総ミント量より小さいか同じではなければなりません。",
+      "min_reduce_error": "減らす数は０より大きいか同じではなければなりません。",
+      "reduce_copies": "コピー本を減らす",
+      "remaining_copies": "残るコピー本: {{remainingCopies}}",
+      "reduce_copies_explain": "コピー本の数が減りました。総合の量が０になったらカードは自動的に削除されます。"
+ },
+    "put_marketplace": {
+      "put_marketplace": "マケットプレースにアップロードしますか？",
+      "no": "いいえ",
+      "for_sale": "販売",
+      "for_auction": "オークション",
+      "update_price": "価格アップデート",
+      "starting_bid": "入札開始",
+      "auction_ends": "オークション終了まで:",
+      "equal_to": "同一",
+      "receive": "もらう",
+      "royalty": "ロイヤルティー",
+      "fee": "手数料"
+    },
+    "update": "アップデート"
+  },
+  "success_tx_modal": {
+    "button_close": "閉じる",
+    "button_see_other_cards": "他のカード見る",
+    "button_see_profile": "私のプロフィールに移動",
+    "transaction_hash": "트랜잭션 해시",
+    "share_to": "共有",
+    "share": "共有",
+    "thank_you_submission": "貴方の意見に感謝します！カード提出に成功しました。",
+    "transaction_text": {
+      "buy": "購買成功",
+      "offer": "提出された購買の提案",
+      "bid": "提出された入札",
+      "edit_listing_auction": "カードオークション開始",
+      "edit_listing_sale": "カードの価格が変更されました。",
+      "mint": "カードが成功的にミンティングされました。",
+      "trade": "NFTトレード提案が提出されました。",
+      "transfer": "{{accountId}}にカード伝送",
+      "remove_auction": "オークションで削除されました。",
+      "remove_listing": "リスティングに削除れました。",
+      "accept_trade": "貴方のNFTトレードの承諾しました。",
+      "add_trade": "貴方のトレードの提案の追加が成功的に提出されました、",
+      "accept_offer": "貴方の購買の提案が承諾されました。",
+      "accept_bid": "貴方の入札の提案が承諾されました。",
+      "remove_bid": "貴方の入札の提案が削除されました。",
+      "create_card": "カードが成功的に作られました。",
+      "create_collection": "コレクションが成功的に作られました。",
+      "default": "取引成功"
+    },
+    "transaction_sub_text": {
+      "mint": "カードをミントしました。",
+      "edit_listing_sale": "価格を{{price}}にアップデートしました。",
+      "edit_listing_auction": "{{price}}で始まるオークションを生成しました。",
+      "bid": "価格：{{price}}に入札しました。",
+      "offer": "価格：{{price}}に購買の提案しました。",
+      "buy": "{{price}}に購買しました。",
+      "buy_bulk": "新しいカードを購買しました。"
+    },
+    "h2_text": {
+      "create_card": "{{total}}個の新しいカードが追加されました。",
+      "buy_bulk": "購買したカード{{total}}枚"
+    },
+    "cart": {
+      "you_successfully": "新しいカードを成功的に購買しました。",
+      "you_failed": "選択したカードはもう使用できません。そのカードの料金は除外されます。"
+    },
+    "nft_still_catching_up": "NFTを現在処理中です。。 このポップアップを閉じても大丈夫です。",
+    "share_text": {
+      "one_card": "{{account}}から{{creator}}の{{collection1}}コレクションで{{title}}を確認しなさい！　#parasnft #nftcollectibles #nft",
+      "multiple_card_one_collection": "{{account}}から{{creator}}が集めた{{collection1}}の全NFTを確認しなさい！　#parasnft #nftcollectibles #nft",
+      "multiple_card_2_collections": "{{account}}から{{collection1}}及び{{collection2}}のコレクションの全NFTを確認しなさい！　#parasnft #nftcollectibles #nft",
+      "multiple_card_3_collections": "{{account}}から{{collection1}}, {{collection2}}及び{{collection3}}のコレクションの全NFTを確認しなさい！ #parasnft #nftcollectibles #nft"
+    }
+  },
+  "fee_modal": {
+    "storage_deposit": "ストレージ手数料",
+    "gas_fee": "ガス手数料",
+    "create_collection": "コレクションを作る",
+    "create_card": "カードを作る",
+    "on_chain": "オンチェーン"
+  }
+}
