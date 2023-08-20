@@ -192,7 +192,7 @@
 		"collection_volume_change": "Khối lượng hàng tuần thay đổi bởi<change> {{change}}</change> (<Volume> {{volume}}</Volume><NearIcon></NearIcon> ).",
 		"button_share": "Share",
 		"button_report": "Báo cáp",
-		"button_add_card": "Thêm vào giỏ",
+		"button_add_card": "Thêm thẻ",
 		"button_edit_collection": "Chỉnh sửa bộ sưu tập",
 		"last_7_days_volume": "Khối lượng 7 ngày qua",
 		"created": "Tạo",
