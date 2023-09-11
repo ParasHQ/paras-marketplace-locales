@@ -177,7 +177,7 @@
 	},
 	"footer": {
 		"tagline": "Create, Trade, and Collect Digital Collectibles. All-in-one \n social NFT marketplace for creators and collectors.",
-		"legal": "© 2022 Paras Digital.\nPowered by near.org + ipfs"
+		"legal": "© 2023 Paras Digital.\nPowered by near.org + ipfs"
 	},
 	"error": {
 		"400": "Bad Request",
